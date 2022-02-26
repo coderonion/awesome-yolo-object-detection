@@ -33,7 +33,7 @@ YOLO is a great real-time one-stage object detection framework. This repo lists 
         - [Face Detection (人脸检测)](#face-detection)
         - [Face Mask Detection (口罩检测)](#face-mask-detection)
         - [Social Distance Detection (社交距离检测)](#social-distance-detection)
-        - [Intelligent Transportation Field Detection (智能交通领域检测)](#intelligent-transportation-field-detection)
+        - [Intelligent Transportation Field Detection (智慧交通领域检测)](#intelligent-transportation-field-detection)
         - [Helmet Detection (头盔/安全帽检测)](#helmet-detection)
         - [Hand Detection (手部检测)](#hand-detection)
         - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
@@ -42,6 +42,7 @@ YOLO is a great real-time one-stage object detection framework. This repo lists 
         - [3D Object Detection (三维目标检测)](#3d-object-detection)
         - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
         - [Medical Field Detection (医学领域检测)](#medical-field-detection)
+        - [Adverse Weather Conditions (恶劣天气条件)](#adverse-weather-conditions)
         - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
         - [Semantic Segmentation (语义分割)](#semantic-segmentation)
         - [Game Field Detection (游戏领域检测)](#game-field-detection)
@@ -274,7 +275,7 @@ YOLO is a great real-time one-stage object detection framework. This repo lists 
 
       - [reu2018DL/YOLO-LITE](https://github.com/reu2018DL/YOLO-LITE) <img src="https://img.shields.io/github/stars/reu2018DL/YOLO-LITE?style=social"/> : YOLO-LITE is a web implementation of YOLOv2-tiny.
 
-      - [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) <img src="https://img.shields.io/github/stars/obimeo/node-yolo?style=social"/> : Node bindings for YOLO/Darknet image recognition library.
+      - [mobimeo/node-yolo](https://github.com/mobimeo/node-yolo) <img src="https://img.shields.io/github/stars/mobimeo/node-yolo?style=social"/> : Node bindings for YOLO/Darknet image recognition library.
 
       - [Sharpiless/Yolov5-Flask-VUE](https://github.com/Sharpiless/Yolov5-Flask-VUE) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-Flask-VUE?style=social"/> : 基于Flask开发后端、VUE开发前端框架，在WEB端部署YOLOv5目标检测模型。
 
@@ -314,15 +315,13 @@ YOLO is a great real-time one-stage object detection framework. This repo lists 
 
   - [YOLOS](https://github.com/hustvl/YOLOS) <img src="https://img.shields.io/github/stars/hustvl/YOLOS?style=social"/> : "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/dc912a253d1e9ba40e2c597ed2376640-Abstract.html)**)
 
+  - [YOLACT & YOLACT++](https://github.com/dbolya/yolact) <img src="https://img.shields.io/github/stars/dbolya/yolact?style=social"/> : You Only Look At CoefficienTs. (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html), [IEEE TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/9159935)**)
+
   - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) <img src="https://img.shields.io/github/stars/jinfagang/yolov7?style=social"/> : 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
 
   - [Alpha-IoU](https://github.com/Jacobi93/Alpha-IoU) <img src="https://img.shields.io/github/stars/Jacobi93/Alpha-IoU?style=social"/> : "Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/a8f15eda80c50adb0e71943adc8015cf-Abstract.html)**)
 
-  - [YOLACT & YOLACT++](https://github.com/dbolya/yolact) <img src="https://img.shields.io/github/stars/dbolya/yolact?style=social"/> : You Only Look At CoefficienTs. (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html), [IEEE TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/9159935)**)
-
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
-
-  - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**)
 
 ## Applications
 
@@ -790,6 +789,12 @@ YOLO is a great real-time one-stage object detection framework. This repo lists 
     - [shchiang0708/YOLOv2_skinCancer](https://github.com/shchiang0708/YOLOv2_skinCancer) <img src="https://img.shields.io/github/stars/shchiang0708/YOLOv2_skinCancer?style=social"/> : YOLOv2_skinCancer.
 
     - [avral1810/parkinsongait](https://github.com/avral1810/parkinsongait) <img src="https://img.shields.io/github/stars/avral1810/parkinsongait?style=social"/> : Parkinson’s Disease.
+
+
+  - ### Adverse Weather Conditions
+    #### 恶劣天气条件
+
+    - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**)
 
   - ### Adversarial Attack and Defense
     #### 对抗攻击与防御 
