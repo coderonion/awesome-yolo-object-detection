@@ -253,6 +253,8 @@
 
       - [zhang8043/YoloWrapper](https://github.com/zhang8043/YoloWrapper) <img src="https://img.shields.io/github/stars/zhang8043/YoloWrapper?style=social"/> : C#封装YOLOv4算法进行目标检测。
 
+      - [maalik0786/FastYolo](https://github.com/maalik0786/FastYolo) <img src="https://img.shields.io/github/stars/maalik0786/FastYolo?style=social"/> : Fast Yolo for fast initializing, object detection and tracking.
+
       - [Uehwan/CSharp-Yolo-Video](https://github.com/Uehwan/CSharp-Yolo-Video) <img src="https://img.shields.io/github/stars/Uehwan/CSharp-Yolo-Video?style=social"/> : C# Yolo for Video.
 
     - #### Rust Implementation
@@ -769,6 +771,8 @@
     - [CVUsers/Smoke-Detect-by-YoloV5](https://github.com/CVUsers/Smoke-Detect-by-YoloV5) <img src="https://img.shields.io/github/stars/CVUsers/Smoke-Detect-by-YoloV5?style=social"/> : Yolov5 real time smoke detection system.
 
     - [CVUsers/Fire-Detect-by-YoloV5](https://github.com/CVUsers/Fire-Detect-by-YoloV5) <img src="https://img.shields.io/github/stars/CVUsers/Fire-Detect-by-YoloV5?style=social"/> : 火灾检测，浓烟检测，吸烟检测。
+
+    - [spacewalk01/Yolov5-Fire-Detection](https://github.com/spacewalk01/Yolov5-Fire-Detection) <img src="https://img.shields.io/github/stars/spacewalk01/Yolov5-Fire-Detection?style=social"/> : Train yolov5 to detect fire in an image or video.
 
     - [roflcoopter/viseron](https://github.com/roflcoopter/viseron) <img src="https://img.shields.io/github/stars/roflcoopter/viseron?style=social"/> : Viseron - Self-hosted NVR with object detection.
 
