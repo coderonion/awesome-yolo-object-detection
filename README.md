@@ -42,6 +42,7 @@
           - [Traffic Light Detection (交通灯检测)](#traffic-light-detection)
           - [Crosswalk Detection (人行横道/斑马线检测)](#crosswalk-detection)
           - [Traffic Accidents Detection (交通事故检测)](#traffic-accidents-detection)
+          - [Road Damage Detection (道路损伤检测)](#road-damage-detection)
         - [Helmet Detection (头盔/安全帽检测)](#helmet-detection)
         - [Hand Detection (手部检测)](#hand-detection)
         - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
@@ -49,6 +50,7 @@
         - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
         - [3D Object Detection (三维目标检测)](#3d-object-detection)
         - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
+        - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
         - [Medical Field Detection (医学领域检测)](#medical-field-detection)
         - [Adverse Weather Conditions (恶劣天气环境)](#adverse-weather-conditions)
         - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
@@ -511,6 +513,8 @@
 
       - [himewel/yolowell](https://github.com/himewel/yolowell) <img src="https://img.shields.io/github/stars/himewel/yolowell?style=social"/> : A set of hardware architectures to build a co-design of convolutional neural networks inference at FPGA devices.
 
+      - [AramisOposich/tiny_YOLO_Zedboard](https://github.com/AramisOposich/tiny_YOLO_Zedboard) <img src="https://img.shields.io/github/stars/AramisOposich/tiny_YOLO_Zedboard?style=social"/> : tiny_YOLO_Zedboard.
+
   - #### Spiking Neural Network
     #### 脉冲神经网络
 
@@ -713,6 +717,9 @@
 
       - [visualbuffer/copilot](https://github.com/visualbuffer/copilot) <img src="https://img.shields.io/github/stars/visualbuffer/copilot?style=social"/> : Lane and obstacle detection for active assistance during driving.
 
+      - [hpc203/YOLOP-opencv-dnn](https://github.com/hpc203/YOLOP-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/YOLOP-opencv-dnn?style=social"/> : 使用OpenCV部署全景驾驶感知网络YOLOP，可同时处理交通目标检测、可驾驶区域分割、车道线检测，三项视觉感知任务。
+
+
     - ####  Driving Behavior Detection
       #####  驾驶行为检测
    
@@ -740,6 +747,10 @@
     - ####  Traffic Accidents Detection
       #####  交通事故检测
       - [khaledsabry97/Argus](https://github.com/khaledsabry97/Argus) <img src="https://img.shields.io/github/stars/khaledsabry97/Argus?style=social"/> : "Road Traffic Accidents Detection Based On Crash Estimation". (**[IEEE ICENCO 2021](https://ieeexplore.ieee.org/document/9698968)**)
+
+    - ####  Road Damage Detection
+      #####  道路损伤检测
+      - [adnanmushtaq1996/Yolov4_Road_Damage_Detection](https://github.com/adnanmushtaq1996/Yolov4_Road_Damage_Detection) <img src="https://img.shields.io/github/stars/adnanmushtaq1996/Yolov4_Road_Damage_Detection?style=social"/> : A Repository to Train a Custom Yolov4 based object detector for road damage detection using the RDD2020 dataset. 
 
   - ### Helmet Detection
     #### 头盔/安全帽检测
@@ -800,6 +811,8 @@
 
     - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) <img src="https://img.shields.io/github/stars/Yuanchu/YOLO3D?style=social"/> : Implementation of a basic YOLO model for object detection in 3D.
 
+    - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) <img src="https://img.shields.io/github/stars/ruhyadi/YOLO3D?style=social"/> : YOLO 3D Object Detection for Autonomous Driving Vehicle.
+
   - ### Safety Monitoring Field Detection
     #### 安防监控领域检测
 
@@ -816,6 +829,11 @@
     - [dcmartin/motion-ai](https://github.com/dcmartin/motion-ai) <img src="https://img.shields.io/github/stars/dcmartin/motion-ai?style=social"/> : AI assisted motion detection for Home Assistant.
 
     - [Nico31415/Drowning-Detector](https://github.com/Nico31415/Drowning-Detector) <img src="https://img.shields.io/github/stars/Nico31415/Drowning-Detector?style=social"/> : Using YOLO object detection, this program will detect if a person is drowning.
+
+  - ### Industrial Defect Detection
+    #### 工业缺陷检测
+
+    - [annsonic/Steel_defect](https://github.com/annsonic/Steel_defect) <img src="https://img.shields.io/github/stars/annsonic/Steel_defect?style=social"/> : Exercise: Use YOLO to detect hot-rolled steel strip surface defects (NEU-DET dataset).
 
   - ### Medical Field Detection
     #### 医学领域检测
