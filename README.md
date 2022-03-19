@@ -14,6 +14,7 @@
           - [Caffe Implementation](#caffe-implementation)
           - [MXNet Implementation](#mxnet-implementation)
           - [LibTorch Implementation](#libtorch-implementation)
+          - [OpenCV Implementation](#opencv-implementation)
           - [ROS Implementation](#ros-implementation)
           - [CSharp Implementation](#csharp-implementation)
           - [Rust Implementation](#rust-implementation)
@@ -25,7 +26,7 @@
           - [Lightweight Backbones (轻量级骨干网络)](#lightweight-backbones)
           - [Pruning Distillation Quantization (剪枝 蒸馏 量化)](#pruning-distillation-quantization)
           - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
-          - [FPGA RISC-V TPU Accelerator Deployment (FPGA RISC-V TPU部署)](#fpga-risc-v-tpu-accelerator-deployment)
+          - [FPGA RISC-V TPU Accelerator Deployment (FPGA RISC-V TPU加速器部署)](#fpga-risc-v-tpu-accelerator-deployment)
         - [Object Tracking (目标跟踪)](#object-tracking)
         - [Spiking Neural Network (脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
@@ -227,6 +228,14 @@
       - [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5) <img src="https://img.shields.io/github/stars/yasenh/libtorch-yolov5?style=social"/> : A LibTorch inference implementation of the yolov5.
 
       - [Nebula4869/YOLOv5-LibTorch](https://github.com/Nebula4869/YOLOv5-LibTorch) <img src="https://img.shields.io/github/stars/Nebula4869/YOLOv5-LibTorch?style=social"/> : Real time object detection with deployment of YOLOv5 through LibTorch C++ API.
+
+    - #### OpenCV Implementation
+
+      - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
+
+      - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
+
+      - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
 
     - #### ROS Implementation
 
@@ -745,7 +754,6 @@
       - [visualbuffer/copilot](https://github.com/visualbuffer/copilot) <img src="https://img.shields.io/github/stars/visualbuffer/copilot?style=social"/> : Lane and obstacle detection for active assistance during driving.
 
       - [hpc203/YOLOP-opencv-dnn](https://github.com/hpc203/YOLOP-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/YOLOP-opencv-dnn?style=social"/> : 使用OpenCV部署全景驾驶感知网络YOLOP，可同时处理交通目标检测、可驾驶区域分割、车道线检测，三项视觉感知任务。
-
 
     - ####  Driving Behavior Detection
       #####  驾驶行为检测
