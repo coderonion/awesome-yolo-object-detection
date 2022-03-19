@@ -430,9 +430,9 @@
 
       - [MNN](https://github.com/alibaba/MNN) <img src="https://img.shields.io/github/stars/alibaba/MNN?style=social"/> : MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. (**[MLSys 2020](https://proceedings.mlsys.org/paper/2020/hash/8f14e45fceea167a5a36dedd4bea2543-Abstract.html)**)
 
-      - [Paddle Lite](https://github.com/paddlepaddle/paddle-lite) <img src="https://img.shields.io/github/stars/paddlepaddle/paddle-lite?style=social"/> : Multi-platform high performance deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）。
+      - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX . MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.  
 
-      - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX . MNN, NCNN, TNN, ONNXRuntime, CPU/GPU. 
+      - [Paddle Lite](https://github.com/paddlepaddle/paddle-lite) <img src="https://img.shields.io/github/stars/paddlepaddle/paddle-lite?style=social"/> : Multi-platform high performance deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）。
 
       - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.0 configuration for YOLO models.
 
@@ -754,6 +754,8 @@
       - [visualbuffer/copilot](https://github.com/visualbuffer/copilot) <img src="https://img.shields.io/github/stars/visualbuffer/copilot?style=social"/> : Lane and obstacle detection for active assistance during driving.
 
       - [hpc203/YOLOP-opencv-dnn](https://github.com/hpc203/YOLOP-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/YOLOP-opencv-dnn?style=social"/> : 使用OpenCV部署全景驾驶感知网络YOLOP，可同时处理交通目标检测、可驾驶区域分割、车道线检测，三项视觉感知任务。
+
+      - [EdVince/YOLOP-NCNN](https://github.com/EdVince/YOLOP-NCNN) <img src="https://img.shields.io/github/stars/EdVince/YOLOP-NCNN?style=social"/> : YOLOP running in Android by ncnn.
 
     - ####  Driving Behavior Detection
       #####  驾驶行为检测
