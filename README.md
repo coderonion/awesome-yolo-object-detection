@@ -26,9 +26,10 @@
           - [Lightweight Backbones (轻量级骨干网络)](#lightweight-backbones)
           - [Pruning Distillation Quantization (剪枝 蒸馏 量化)](#pruning-distillation-quantization)
           - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
-          - [FPGA RISC-V TPU Accelerator Deployment (FPGA RISC-V TPU加速器部署)](#fpga-risc-v-tpu-accelerator-deployment)
+          - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
         - [Object Tracking (目标跟踪)](#object-tracking)
-        - [Spiking Neural Network (脉冲神经网络)](#spiking-neural-network)
+        - [Motion Control (运动控制)](#motion-control)
+        - [Spiking Neural Network(SNN) (脉冲神经网络)](#spiking-neural-network(snn))
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
         - [Small Object Detection (小目标检测)](#small-object-detection)
         - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
@@ -61,6 +62,7 @@
         - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
         - [GUI (图形界面)](#gui)
         - [Other Applications](#other-applications)
+
 
 ## YOLO Family
 
@@ -279,6 +281,9 @@
 
       - [Uehwan/CSharp-Yolo-Video](https://github.com/Uehwan/CSharp-Yolo-Video) <img src="https://img.shields.io/github/stars/Uehwan/CSharp-Yolo-Video?style=social"/> : C# Yolo for Video.
 
+      - [HTTP123-A/HumanDetection_Yolov5NET](https://github.com/https://github.com/HTTP123-A/HumanDetection_Yolov5NET) <img src="https://img.shields.io/github/stars/HTTP123-A/HumanDetection_Yolov5NET?style=social"/> : YOLOv5 object detection with ML.NET, ONNX.
+
+
     - #### Rust Implementation
 
       - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is Darknet compatible neural nets inference engine implemented in Rust.
@@ -329,6 +334,9 @@
 
       - [fcakyon/yolov5-pip](https://github.com/fcakyon/yolov5-pip) <img src="https://img.shields.io/github/stars/fcakyon/yolov5-pip?style=social"/> : Packaged version of ultralytics/yolov5.
 
+      - [Laughing-q/YOLO-Q](https://github.com/Laughing-q/YOLO-Q) <img src="https://img.shields.io/github/stars/Laughing-q/YOLO-Q?style=social"/> : A inference framework that support multi models of yolo5(torch and tensorrt), yolox(torch and tensorrt), nanodet(tensorrt), yolo-fastestV2(tensorrt) and yolov5-lite(tensorrt).
+
+
 ## Extensional Frameworks
 
   - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
@@ -374,14 +382,17 @@
 
       - [bubbliiiing/efficientnet-yolo3-pytorch](https://github.com/bubbliiiing/efficientnet-yolo3-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/efficientnet-yolo3-pytorch?style=social"/> : 这是一个efficientnet-yolo3-pytorch的源码，将yolov3的主干特征提取网络修改成了efficientnet。
 
+
     - #### Pruning Distillation Quantization
       #### 剪枝 蒸馏 量化
+
+      - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : YOLOv5-Lite：Lighter, faster and easier to deploy.
+
+      - [Bigtuo/YOLOX-Lite](https://github.com/Bigtuo/YOLOX-Lite) <img src="https://img.shields.io/github/stars/Bigtuo/YOLOX-Lite?style=social"/> : 将YOLOv5-Lite代码中的head更换为YOLOX head。
 
       - [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) <img src="https://img.shields.io/github/stars/PengyiZhang/SlimYOLOv3?style=social"/> : "SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications". (**[arXiv 2019](https://arxiv.org/abs/1907.11093)**)
 
       - [YOLObile](https://github.com/nightsnack/YOLObile) <img src="https://img.shields.io/github/stars/nightsnack/YOLObile?style=social"/> : "YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-7561.CaiY.pdf)**)
-
-      - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : YOLOv5-Lite：Lighter, faster and easier to deploy.
 
       - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-Fastest?style=social"/> : Yolo-Fastest：超超超快的开源ARM实时目标检测算法。 (**[Zenodo 2021](http://doi.org/10.5281/zenodo.5131532), [知乎 2020](https://zhuanlan.zhihu.com/p/234506503)**)
 
@@ -410,6 +421,7 @@
       - [j-marple-dev/AYolov2](https://github.com/j-marple-dev/AYolov2) <img src="https://img.shields.io/github/stars/j-marple-dev/AYolov2?style=social"/> : AYolov2.
 
       - [Sharpiless/Yolov5-distillation-train-inference](https://github.com/Sharpiless/Yolov5-distillation-train-inference) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-distillation-train-inference?style=social"/> : Yolov5 distillation training | Yolov5知识蒸馏训练，支持训练自己的数据。
+
 
     - #### High-performance Inference Engine
       #### 高性能推理引擎
@@ -488,8 +500,11 @@
 
       - [r4ghu/iOS-CoreML-Yolo](https://github.com/r4ghu/iOS-CoreML-Yolo) <img src="https://img.shields.io/github/stars/r4ghu/iOS-CoreML-Yolo?style=social"/> : This is the implementation of Object Detection using Tiny YOLO v1 model on Apple's CoreML Framework.
 
-    - #### FPGA RISC-V TPU Accelerator Deployment
-      #### FPGA RISC-V TPU加速器部署
+      - [KoheiKanagu/ncnn_yolox_flutter](https://github.com/KoheiKanagu/ncnn_yolox_flutter) <img src="https://img.shields.io/github/stars/KoheiKanagu/ncnn_yolox_flutter?style=social"/> : This is a plugin to run YOLOX on ncnn.
+
+
+    - #### FPGA TPU RISC-V MCU Hardware Deployment
+      #### FPGA TPU RISC-V MCU 硬件部署
 
       - [dhm2013724/yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga) <img src="https://img.shields.io/github/stars/dhm2013724/yolov2_xilinx_fpga?style=social"/> : YOLOv2 Accelerator in Xilinx's Zynq-7000 Soc(PYNQ-z2, Zedboard and ZCU102). (**[硕士论文 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019228234.nh&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjE5NTN5dmdXN3JBVkYyNkY3RzZGdFBQcTVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWnVkdUY=), [电子技术应用 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=DZJY201908009&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDU0NDJDVVJMT2VadWR1Rnl2Z1c3ck1JVGZCZDdHNEg5ak1wNDlGYllSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=), [计算机科学与探索 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=KXTS201910005&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjkwNzdXTTFGckNVUkxPZVp1ZHVGeXZnVzdyT0xqWGZmYkc0SDlqTnI0OUZZWVI4ZVgxTHV4WVM3RGgxVDNxVHI=)**)
 
@@ -527,6 +542,11 @@
 
       - [mcedrdiego/Kria_yolov3_ppe](https://github.com/mcedrdiego/Kria_yolov3_ppe) <img src="https://img.shields.io/github/stars/mcedrdiego/Kria_yolov3_ppe?style=social"/> : Kria KV260 Real-Time Personal Protective Equipment Detection. "Deep Learning for Site Safety: Real-Time Detection of Personal Protective Equipment". (**[Automation in Construction 2020](https://www.sciencedirect.com/science/article/abs/pii/S0926580519308325)**)
 
+      - [Charlie839242/-Trash-Classification-Car](https://github.com/Charlie839242/-Trash-Classification-Car) <img src="https://img.shields.io/github/stars/Charlie839242/-Trash-Classification-Car?style=social"/> : 这是一个基于yolo-fastest模型的小车，主控是art-pi开发板，使用了rt thread操作系统。
+
+      - [Charlie839242/Deploy-yolo-fastest-tflite-on-raspberry](https://github.com/Charlie839242/Deploy-yolo-fastest-tflite-on-raspberry) <img src="https://img.shields.io/github/stars/Charlie839242/Deploy-yolo-fastest-tflite-on-raspberry?style=social"/> : This project deploys a yolo fastest model in the form of tflite on raspberry 3b+. 
+
+      - [mahxn0/Hisi3559A_Yolov5](https://github.com/mahxn0/Hisi3559A_Yolov5) <img src="https://img.shields.io/github/stars/mahxn0/Hisi3559A_Yolov5?style=social"/> : 基于hisi3559a的yolov5训练部署全流程。
 
 
   - ### Object Tracking
@@ -588,7 +608,18 @@
 
     - [supperted825/FairMOT-X](https://github.com/supperted825/FairMOT-X) <img src="https://img.shields.io/github/stars/supperted825/FairMOT-X?style=social"/> : FairMOT for Multi-Class MOT using YOLOX as Detector.
 
-  - #### Spiking Neural Network
+
+  - #### Motion Control
+    #### 运动控制
+
+    - [icns-distributed-cloud/adaptive-cruise-control](https://github.com/icns-distributed-cloud/adaptive-cruise-control) <img src="https://img.shields.io/github/stars/icns-distributed-cloud/adaptive-cruise-control?style=social"/> : YOLO-v5 기반 "단안 카메라"의 영상을 활용해 차간 거리를 일정하게 유지하며 주행하는 Adaptive Cruise Control 기능 구현.
+
+    - [LeBronLiHD/ZJU2021_MotionControl_PID_YOLOv5](https://github.com/LeBronLiHD/ZJU2021_MotionControl_PID_YOLOv5) <img src="https://img.shields.io/github/stars/LeBronLiHD/ZJU2021_MotionControl_PID_YOLOv5?style=social"/> : ZJU2021_MotionControl_PID_YOLOv5.
+
+    - [SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking](https://github.com/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking) <img src="https://img.shields.io/github/stars/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking?style=social"/> : PID_YOLOv5s_ROS_Diver_Tracking.
+
+
+  - #### Spiking Neural Network(SNN)
     #### 脉冲神经网络
 
     - [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
@@ -638,6 +669,9 @@
     - [muyuuuu/Self-Supervise-Object-Detection](https://github.com/muyuuuu/Self-Supervise-Object-Detection) <img src="https://img.shields.io/github/stars/muyuuuu/Self-Supervise-Object-Detection?style=social"/> : Self-Supervised Object Detection. 水面漂浮垃圾目标检测，分析源码改善 yolox 检测小目标的缺陷，提出自监督算法预训练无标签数据，提升检测性能。
 
     - [swricci/small-boat-detector](https://github.com/swricci/small-boat-detector) <img src="https://img.shields.io/github/stars/swricci/small-boat-detector?style=social"/> : Trained yolo v3 model weights and configuration file to detect small boats in satellite imagery.
+
+    - [Resham-Sundar/sahi-yolox](https://github.com/Resham-Sundar/sahi-yolox) <img src="https://img.shields.io/github/stars/Resham-Sundar/sahi-yolox?style=social"/> : YoloX with SAHI Implementation.
+
 
   - ### Oriented Object Detection
     #### 旋转目标检测
@@ -974,6 +1008,9 @@
     - [AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
     - [MrZander/YoloMarkNet](https://github.com/MrZander/YoloMarkNet) <img src="https://img.shields.io/github/stars/MrZander/YoloMarkNet?style=social"/> : Darknet YOLOv2/3 annotation tool written in C#/WPF.
+
+    - [mahxn0/Yolov3_ForTextLabel](https://github.com/mahxn0/Yolov3_ForTextLabel) <img src="https://img.shields.io/github/stars/mahxn0/Yolov3_ForTextLabel?style=social"/> : 基于yolov3的目标/自然场景文字自动标注工具.
+
 
   - ### GUI
     #### 图形界面
