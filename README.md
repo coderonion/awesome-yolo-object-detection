@@ -29,7 +29,7 @@
           - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
         - [Object Tracking (目标跟踪)](#object-tracking)
         - [Motion Control (运动控制)](#motion-control)
-        - [Spiking Neural Network(SNN) (脉冲神经网络)](#spiking-neural-network(snn))
+        - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
         - [Small Object Detection (小目标检测)](#small-object-detection)
         - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
@@ -619,8 +619,8 @@
     - [SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking](https://github.com/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking) <img src="https://img.shields.io/github/stars/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking?style=social"/> : PID_YOLOv5s_ROS_Diver_Tracking.
 
 
-  - #### Spiking Neural Network(SNN)
-    #### 脉冲神经网络
+  - #### Spiking Neural Network
+    #### SNN, 脉冲神经网络
 
     - [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
 
