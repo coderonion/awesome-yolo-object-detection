@@ -971,7 +971,7 @@
 
     - [sowgali/ObjCAM](https://github.com/sowgali/ObjCAM) <img src="https://img.shields.io/github/stars/sowgali/ObjCAM?style=social"/> : Visualizations for adversarial attacks in object detectors like YOLO.
 
-    - [andrewpatrickdu/adversarial-yolov3-cowc](https://github.com/andrewpatrickdu/adversarial-yolov3-cowc) <img src="https://img.shields.io/github/stars/sowgali/ObjCAM?style=social"/> : "Physical Adversarial Attacks on an Aerial Imagery Object Detector".  (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Du_Physical_Adversarial_Attacks_on_an_Aerial_Imagery_Object_Detector_WACV_2022_paper.html)**)
+    - [andrewpatrickdu/adversarial-yolov3-cowc](https://github.com/andrewpatrickdu/adversarial-yolov3-cowc) <img src="https://img.shields.io/github/stars/andrewpatrickdu/adversarial-yolov3-cowc?style=social"/> : "Physical Adversarial Attacks on an Aerial Imagery Object Detector".  (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Du_Physical_Adversarial_Attacks_on_an_Aerial_Imagery_Object_Detector_WACV_2022_paper.html)**)
 
 
   - ### Semantic Segmentation
