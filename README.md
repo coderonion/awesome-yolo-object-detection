@@ -563,7 +563,8 @@
 
       - [mahxn0/Hisi3559A_Yolov5](https://github.com/mahxn0/Hisi3559A_Yolov5) <img src="https://img.shields.io/github/stars/mahxn0/Hisi3559A_Yolov5?style=social"/> : 基于hisi3559a的yolov5训练部署全流程。
 
-
+      - [ZhenxinYUAN/YOLO_hi3516Deploy](https://github.com/ZhenxinYUAN/YOLO_hi3516Deploy) <img src="https://img.shields.io/github/stars/ZhenxinYUAN/YOLO_hi3516Deploy?style=social"/> : Deploy Yolo series algorithms on Hisilicon platform hi3516, including yolov3, yolov5, yolox, etc.
+      
 
   - ### Object Tracking
     #### 目标跟踪
@@ -1019,6 +1020,9 @@
     - [c925777075/yolov5-dnf](https://github.com/c925777075/yolov5-dnf) <img src="https://img.shields.io/github/stars/c925777075/yolov5-dnf?style=social"/> : yolov5-DNF.
 
     - [davidhoung2/APEX-yolov5-aim-assist](https://github.com/davidhoung2/APEX-yolov5-aim-assist) <img src="https://img.shields.io/github/stars/davidhoung2/APEX-yolov5-aim-assist?style=social"/> : using yolov5 to help you aim enemies.
+
+     - [Brednan/CSGO-Aimbot](https://github.com/Brednan/CSGO-Aimbot) <img src="https://img.shields.io/github/stars/Brednan/CSGO-Aimbot?style=social"/> : Aimbot for the FPS game CSGO. It uses YOLOv5 to detect enemy players on my screen, then moves my cursor to the location. 
+
 
   - ### Automatic Annotation Tool
     #### 自动标注工具
