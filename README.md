@@ -51,6 +51,7 @@
         - [Hand Detection (手部检测)](#hand-detection)
         - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
         - [Action Detection (动作检测)](#action-detection)
+        - [Emotion Recognition (情感识别)](#emotion-recognition)
         - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
         - [3D Object Detection (三维目标检测)](#3d-object-detection)
         - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
@@ -697,6 +698,8 @@
 
     - [Resham-Sundar/sahi-yolox](https://github.com/Resham-Sundar/sahi-yolox) <img src="https://img.shields.io/github/stars/Resham-Sundar/sahi-yolox?style=social"/> : YoloX with SAHI Implementation.
 
+    - [YOLO-Z] : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "计算机视觉研究院：《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
+
 
   - ### Oriented Object Detection
     #### 旋转目标检测
@@ -891,6 +894,13 @@
     #### 动作检测
 
     - [wufan-tb/yolo_slowfast](https://github.com/wufan-tb/yolo_slowfast) <img src="https://img.shields.io/github/stars/wufan-tb/yolo_slowfast?style=social"/> : A realtime action detection frame work based on PytorchVideo.
+
+
+  - ### Emotion Recognition
+    #### 情感识别
+
+    - [Tandon-A/emotic](https://github.com/Tandon-A/emotic) <img src="https://img.shields.io/github/stars/Tandon-A/emotic?style=social"/> : "Context based emotion recognition using emotic dataset". (**[arXiv 2020](https://arxiv.org/abs/2003.13401)**)
+
 
   - ### Human Pose Estimation
     #### 人体姿态估计
