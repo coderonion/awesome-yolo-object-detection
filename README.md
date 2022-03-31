@@ -1,7 +1,7 @@
 # Awesome-YOLO
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome open-source YOLO series object detection projects.
+🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO series object detection projects.
 
 ## Contents
 - [Awesome-YOLO](#awesome-yolo)
@@ -698,7 +698,7 @@
 
     - [Resham-Sundar/sahi-yolox](https://github.com/Resham-Sundar/sahi-yolox) <img src="https://img.shields.io/github/stars/Resham-Sundar/sahi-yolox?style=social"/> : YoloX with SAHI Implementation.
 
-    - [YOLO-Z] : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "计算机视觉研究院：《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
+    - YOLO-Z : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "计算机视觉研究院：《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
 
 
   - ### Oriented Object Detection
