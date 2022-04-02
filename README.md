@@ -1,4 +1,4 @@
-# Awesome-YOLO
+# Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO series object detection projects.
@@ -44,6 +44,7 @@
           - [Driving Behavior Detection (驾驶行为检测)](#driving-behavior-detection)
           - [Parking Slot Detection (停车位检测)](#parking-slot-detection)
           - [Traffic Light Detection (交通灯检测)](#traffic-light-detection)
+          - [Traffic Sign Detection (交通标志检测)](#traffic-sign-detection)
           - [Crosswalk Detection (人行横道/斑马线检测)](#crosswalk-detection)
           - [Traffic Accidents Detection (交通事故检测)](#traffic-accidents-detection)
           - [Road Damage Detection (道路损伤检测)](#road-damage-detection)
@@ -710,6 +711,8 @@
 
     - [BossZard/rotation-yolov5](https://github.com/BossZard/rotation-yolov5) <img src="https://img.shields.io/github/stars/BossZard/rotation-yolov5?style=social"/> : rotation detection based on yolov5.
 
+    - [acai66/yolov5_rotation](https://github.com/acai66/yolov5_rotation) <img src="https://img.shields.io/github/stars/acai66/yolov5_rotation?style=social"/> : rotated bbox detection. inspired by [hukaixuan19970627/yolov5_obb](https://github.com/hukaixuan19970627/yolov5_obb), thanks hukaixuan19970627.
+
     - [ming71/rotate-yolov3](https://github.com/ming71/rotate-yolov3) <img src="https://img.shields.io/github/stars/ming71/rotate-yolov3?style=social"/> : Arbitrary oriented object detection implemented with yolov3 (attached with some tricks).
 
     - [ming71/yolov3-polygon](https://github.com/ming71/yolov3-polygon) <img src="https://img.shields.io/github/stars/ming71/yolov3-polygon?style=social"/> : Arbitrary-oriented object detection based on yolov3.
@@ -843,6 +846,18 @@
       - [berktepebag/Traffic-light-detection-with-YOLOv3-BOSCH-traffic-light-dataset](https://github.com/berktepebag/Traffic-light-detection-with-YOLOv3-BOSCH-traffic-light-dataset) <img src="https://img.shields.io/github/stars/berktepebag/Traffic-light-detection-with-YOLOv3-BOSCH-traffic-light-dataset?style=social"/> : Detecting Traffic Lights in Real-time with YOLOv3.
 
       - [mihir-m-gandhi/Adaptive-Traffic-Signal-Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) <img src="https://img.shields.io/github/stars/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?style=social"/> : This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for real-time traffic density calculation using YOLO object detection and sets the signal timers accordingly.
+
+    - ####  Traffic Sign Detection
+      #####  交通标志检测
+
+      - [halftop/TT100K_YOLO_Label](https://github.com/halftop/TT100K_YOLO_Label) <img src="https://img.shields.io/github/stars/halftop/TT100K_YOLO_Label?style=social"/> : Tsinghua-Tencent 100K dataset XML and TXT Label.
+
+      - [amazingcodeLYL/Traffic_signs_detection_darket](https://github.com/amazingcodeLYL/Traffic_signs_detection_darket) <img src="https://img.shields.io/github/stars/amazingcodeLYL/Traffic_signs_detection_darket?style=social"/> : darknet交通标志检测&TT100K数据集。
+
+      - [TalkUHulk/yolov3-TT100k](https://github.com/TalkUHulk/yolov3-TT100k) <img src="https://img.shields.io/github/stars/TalkUHulk/yolov3-TT100k?style=social"/> : 使用yolov3训练的TT100k(交通标志)模型。     
+
+      - [TalkUHulk/yolov4-TT100k](https://github.com/TalkUHulk/yolov4-TT100k) <img src="https://img.shields.io/github/stars/TalkUHulk/yolov4-TT100k?style=social"/> : 使用yolov4训练的TT100k(交通标志)模型。     
+
 
     - ####  Crosswalk Detection
       #####  人行横道/斑马线检测
