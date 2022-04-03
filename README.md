@@ -771,6 +771,9 @@
 
     - [BogdanMarghescu/Face-Mask-Detection-Using-YOLOv4](https://github.com/BogdanMarghescu/Face-Mask-Detection-Using-YOLOv4) <img src="https://img.shields.io/github/stars/BogdanMarghescu/Face-Mask-Detection-Using-YOLOv4?style=social"/> : Face Mask Detector using YOLOv4.
 
+    - [xinghanliuying/yolov5_bus](https://github.com/xinghanliuying/yolov5_bus) <img src="https://img.shields.io/github/stars/xinghanliuying/yolov5_bus?style=social"/> : 手把手教你使用YOLOV5训练自己的目标检测模型。
+
+
   - ### Social Distance Detection
     #### 社交距离检测
 
@@ -978,6 +981,8 @@
 
     - [avral1810/parkinsongait](https://github.com/avral1810/parkinsongait) <img src="https://img.shields.io/github/stars/avral1810/parkinsongait?style=social"/> : Parkinson’s Disease.
 
+    - [sierprinsky/YoloV5_blood_cells](https://github.com/sierprinsky/YoloV5_blood_cells) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : The main idea of this project is to detect blood cells using YOLOV5 over a public roboflow dataset.
+
 
   - ### Adverse Weather Conditions
     #### 恶劣天气环境
@@ -1050,6 +1055,8 @@
 
      - [Brednan/CSGO-Aimbot](https://github.com/Brednan/CSGO-Aimbot) <img src="https://img.shields.io/github/stars/Brednan/CSGO-Aimbot?style=social"/> : Aimbot for the FPS game CSGO. It uses YOLOv5 to detect enemy players on my screen, then moves my cursor to the location. 
 
+     - [2319590263/yolov5-csgo](https://github.com/2319590263/yolov5-csgo) <img src="https://img.shields.io/github/stars/2319590263/yolov5-csgo?style=social"/> : 基于yolov5实现的csgo自瞄。
+
 
   - ### Automatic Annotation Tool
     #### 自动标注工具
@@ -1062,7 +1069,9 @@
 
     - [MrZander/YoloMarkNet](https://github.com/MrZander/YoloMarkNet) <img src="https://img.shields.io/github/stars/MrZander/YoloMarkNet?style=social"/> : Darknet YOLOv2/3 annotation tool written in C#/WPF.
 
-    - [mahxn0/Yolov3_ForTextLabel](https://github.com/mahxn0/Yolov3_ForTextLabel) <img src="https://img.shields.io/github/stars/mahxn0/Yolov3_ForTextLabel?style=social"/> : 基于yolov3的目标/自然场景文字自动标注工具.
+    - [mahxn0/Yolov3_ForTextLabel](https://github.com/mahxn0/Yolov3_ForTextLabel) <img src="https://img.shields.io/github/stars/mahxn0/Yolov3_ForTextLabel?style=social"/> : 基于yolov3的目标/自然场景文字自动标注工具。
+
+    - [WangRongsheng/KDAT](https://github.com/WangRongsheng/KDAT) <img src="https://img.shields.io/github/stars/WangRongsheng/KDAT?style=social"/> : 一个专为视觉方向目标检测全流程的标注工具集，全称：Kill Object Detection Annotation Tools。 
 
 
   - ### GUI
