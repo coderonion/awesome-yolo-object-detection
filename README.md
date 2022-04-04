@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO-based projects.
+🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO series projects.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
@@ -28,6 +28,7 @@
           - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
           - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
         - [Object Tracking (目标跟踪)](#object-tracking)
+          - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
         - [Reinforcement Learning (强化学习)](#reinforcement-learning)
         - [Motion Control (运动控制)](#motion-control)
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
@@ -573,61 +574,64 @@
   - ### Object Tracking
     #### 目标跟踪
 
-    - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_Pytorch?style=social"/> : Real-time multi-object tracker using YOLO v5 and deep sort.
+    - ####  Multi-Object Tracking
+      #####  多目标跟踪
 
-    - [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) <img src="https://img.shields.io/github/stars/ZQPei/deep_sort_pytorch?style=social"/> : MOT using deepsort and yolov3 with pytorch.
+      - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_Pytorch?style=social"/> : Real-time multi-object tracker using YOLO v5 and deep sort.
 
-    - [Qidian213/deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) <img src="https://img.shields.io/github/stars/Qidian213/deep_sort_yolov3?style=social"/> : Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow.
+      - [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) <img src="https://img.shields.io/github/stars/ZQPei/deep_sort_pytorch?style=social"/> : MOT using deepsort and yolov3 with pytorch.
 
-    - [CSTrack](https://github.com/JudasDie/SOTS) <img src="https://img.shields.io/github/stars/JudasDie/SOTS?style=social"/> : "Rethinking the competition between detection and ReID in Multi-Object Tracking". (**[arXiv 2020](https://arxiv.org/abs/2010.12138)**)
+      - [Qidian213/deep_sort_yolov3](https://github.com/Qidian213/deep_sort_yolov3) <img src="https://img.shields.io/github/stars/Qidian213/deep_sort_yolov3?style=social"/> : Real-time Multi-person tracker using YOLO v3 and deep_sort with tensorflow.
 
-    - [ROLO](https://github.com/Guanghan/ROLO) <img src="https://img.shields.io/github/stars/Guanghan/ROLO?style=social"/> : ROLO is short for Recurrent YOLO, aimed at simultaneous object detection and tracking.
+      - [CSTrack](https://github.com/JudasDie/SOTS) <img src="https://img.shields.io/github/stars/JudasDie/SOTS?style=social"/> : "Rethinking the competition between detection and ReID in Multi-Object Tracking". (**[arXiv 2020](https://arxiv.org/abs/2010.12138)**)
 
-    - [FastMOT](https://github.com/GeekAlexis/FastMOT) <img src="https://img.shields.io/github/stars/GeekAlexis/FastMOT?style=social"/> : "FastMOT: High-Performance Multiple Object Tracking Based on Deep SORT and KLT". (**[Zenodo 2020](https://doi.org/10.5281/zenodo.4294717)**)
+      - [ROLO](https://github.com/Guanghan/ROLO) <img src="https://img.shields.io/github/stars/Guanghan/ROLO?style=social"/> : ROLO is short for Recurrent YOLO, aimed at simultaneous object detection and tracking.
 
-    - [Sharpiless/Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-deepsort-inference?style=social"/> : 使用YOLOv5+Deepsort实现车辆行人追踪和计数，代码封装成一个Detector类，更容易嵌入到自己的项目中。
+      - [FastMOT](https://github.com/GeekAlexis/FastMOT) <img src="https://img.shields.io/github/stars/GeekAlexis/FastMOT?style=social"/> : "FastMOT: High-Performance Multiple Object Tracking Based on Deep SORT and KLT". (**[Zenodo 2020](https://doi.org/10.5281/zenodo.4294717)**)
 
-    - [Sharpiless/Yolov5-Deepsort](https://github.com/Sharpiless/Yolov5-Deepsort) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-Deepsort?style=social"/> : 最新版本yolov5+deepsort目标检测和追踪，能够显示目标类别，支持5.0版本可训练自己数据集。
+      - [Sharpiless/Yolov5-deepsort-inference](https://github.com/Sharpiless/Yolov5-deepsort-inference) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-deepsort-inference?style=social"/> : 使用YOLOv5+Deepsort实现车辆行人追踪和计数，代码封装成一个Detector类，更容易嵌入到自己的项目中。
 
-    - [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) <img src="https://img.shields.io/github/stars/LeonLok/Multi-Camera-Live-Object-Tracking?style=social"/> : Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.
+      - [Sharpiless/Yolov5-Deepsort](https://github.com/Sharpiless/Yolov5-Deepsort) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-Deepsort?style=social"/> : 最新版本yolov5+deepsort目标检测和追踪，能够显示目标类别，支持5.0版本可训练自己数据集。
 
-    - [LeonLok/Deep-SORT-YOLOv4](https://github.com/LeonLok/Deep-SORT-YOLOv4) <img src="https://img.shields.io/github/stars/LeonLok/Deep-SORT-YOLOv4?style=social"/> : People detection and optional tracking with Tensorflow backend.
+      - [LeonLok/Multi-Camera-Live-Object-Tracking](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking) <img src="https://img.shields.io/github/stars/LeonLok/Multi-Camera-Live-Object-Tracking?style=social"/> : Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.
 
-    - [obendidi/Tracking-with-darkflow](https://github.com/obendidi/Tracking-with-darkflow) <img src="https://img.shields.io/github/stars/obendidi/Tracking-with-darkflow?style=social"/> : Real-time people Multitracker using YOLO v2 and deep_sort with tensorflow.
+      - [LeonLok/Deep-SORT-YOLOv4](https://github.com/LeonLok/Deep-SORT-YOLOv4) <img src="https://img.shields.io/github/stars/LeonLok/Deep-SORT-YOLOv4?style=social"/> : People detection and optional tracking with Tensorflow backend.
 
-    - [DrewNF/Tensorflow_Object_Tracking_Video](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video) <img src="https://img.shields.io/github/stars/DrewNF/Tensorflow_Object_Tracking_Video?style=social"/> : Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition.
+      - [obendidi/Tracking-with-darkflow](https://github.com/obendidi/Tracking-with-darkflow) <img src="https://img.shields.io/github/stars/obendidi/Tracking-with-darkflow?style=social"/> : Real-time people Multitracker using YOLO v2 and deep_sort with tensorflow.
 
-    - [dyh/unbox_yolov5_deepsort_counting](https://github.com/dyh/unbox_yolov5_deepsort_counting) <img src="https://img.shields.io/github/stars/dyh/unbox_yolov5_deepsort_counting?style=social"/> : yolov5 deepsort 行人 车辆 跟踪 检测 计数。
+      - [DrewNF/Tensorflow_Object_Tracking_Video](https://github.com/DrewNF/Tensorflow_Object_Tracking_Video) <img src="https://img.shields.io/github/stars/DrewNF/Tensorflow_Object_Tracking_Video?style=social"/> : Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition.
 
-    - [theAIGuysCode/yolov3_deepsort](https://github.com/theAIGuysCode/yolov3_deepsort) <img src="https://img.shields.io/github/stars/theAIGuysCode/yolov3_deepsort?style=social"/> : Object tracking implemented with YOLOv3, Deep Sort and Tensorflow.
+      - [dyh/unbox_yolov5_deepsort_counting](https://github.com/dyh/unbox_yolov5_deepsort_counting) <img src="https://img.shields.io/github/stars/dyh/unbox_yolov5_deepsort_counting?style=social"/> : yolov5 deepsort 行人 车辆 跟踪 检测 计数。
 
-    - [weixu000/libtorch-yolov3-deepsort](https://github.com/weixu000/libtorch-yolov3-deepsort) <img src="https://img.shields.io/github/stars/weixu000/libtorch-yolov3-deepsort?style=social"/> : libtorch-yolov3-deepsort.
+      - [theAIGuysCode/yolov3_deepsort](https://github.com/theAIGuysCode/yolov3_deepsort) <img src="https://img.shields.io/github/stars/theAIGuysCode/yolov3_deepsort?style=social"/> : Object tracking implemented with YOLOv3, Deep Sort and Tensorflow.
 
-    - [pmj110119/YOLOX_deepsort_tracker](https://github.com/pmj110119/YOLOX_deepsort_tracker) <img src="https://img.shields.io/github/stars/pmj110119/YOLOX_deepsort_tracker?style=social"/> : using yolox+deepsort for object-tracking.
+      - [weixu000/libtorch-yolov3-deepsort](https://github.com/weixu000/libtorch-yolov3-deepsort) <img src="https://img.shields.io/github/stars/weixu000/libtorch-yolov3-deepsort?style=social"/> : libtorch-yolov3-deepsort.
 
-    - [abhyantrika/nanonets_object_tracking](https://github.com/abhyantrika/nanonets_object_tracking) <img src="https://img.shields.io/github/stars/abhyantrika/nanonets_object_tracking?style=social"/> : nanonets_object_tracking.
+      - [pmj110119/YOLOX_deepsort_tracker](https://github.com/pmj110119/YOLOX_deepsort_tracker) <img src="https://img.shields.io/github/stars/pmj110119/YOLOX_deepsort_tracker?style=social"/> : using yolox+deepsort for object-tracking.
 
-    - [mattzheng/keras-yolov3-KF-objectTracking](https://github.com/mattzheng/keras-yolov3-KF-objectTracking) <img src="https://img.shields.io/github/stars/mattzheng/keras-yolov3-KF-objectTracking?style=social"/> : 以kears-yolov3做detector，以Kalman-Filter算法做tracker，进行多人物目标追踪。
+      - [abhyantrika/nanonets_object_tracking](https://github.com/abhyantrika/nanonets_object_tracking) <img src="https://img.shields.io/github/stars/abhyantrika/nanonets_object_tracking?style=social"/> : nanonets_object_tracking.
 
-    - [rohanchandra30/TrackNPred](https://github.com/rohanchandra30/TrackNPred) <img src="https://img.shields.io/github/stars/rohanchandra30/TrackNPred?style=social"/> : A Software Framework for End-to-End Trajectory Prediction.
+      - [mattzheng/keras-yolov3-KF-objectTracking](https://github.com/mattzheng/keras-yolov3-KF-objectTracking) <img src="https://img.shields.io/github/stars/mattzheng/keras-yolov3-KF-objectTracking?style=social"/> : 以kears-yolov3做detector，以Kalman-Filter算法做tracker，进行多人物目标追踪。
 
-    - [RichardoMrMu/yolov5-deepsort-tensorrt](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt) <img src="https://img.shields.io/github/stars/RichardoMrMu/yolov5-deepsort-tensorrt?style=social"/> : A c++ implementation of yolov5 and deepsort.
+      - [rohanchandra30/TrackNPred](https://github.com/rohanchandra30/TrackNPred) <img src="https://img.shields.io/github/stars/rohanchandra30/TrackNPred?style=social"/> : A Software Framework for End-to-End Trajectory Prediction.
 
-    - [bamwani/car-counting-and-speed-estimation-yolo-sort-python](https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python) <img src="https://img.shields.io/github/stars/bamwani/car-counting-and-speed-estimation-yolo-sort-python?style=social"/> : This project imlements the following tasks in the project: 1. Vehicle counting, 2. Lane detection. 3.Lane change detection and 4.speed estimation.
+      - [RichardoMrMu/yolov5-deepsort-tensorrt](https://github.com/RichardoMrMu/yolov5-deepsort-tensorrt) <img src="https://img.shields.io/github/stars/RichardoMrMu/yolov5-deepsort-tensorrt?style=social"/> : A c++ implementation of yolov5 and deepsort.
 
-    - [ArtLabss/tennis-tracking](https://github.com/ArtLabss/tennis-tracking) <img src="https://img.shields.io/github/stars/ArtLabss/tennis-tracking?style=social"/> : Open-source Monocular Python HawkEye for Tennis.
+      - [bamwani/car-counting-and-speed-estimation-yolo-sort-python](https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python) <img src="https://img.shields.io/github/stars/bamwani/car-counting-and-speed-estimation-yolo-sort-python?style=social"/> : This project imlements the following tasks in the project: 1. Vehicle counting, 2. Lane detection. 3.Lane change detection and 4.speed estimation.
 
-    - [CaptainEven/YOLOV4_MCMOT](https://github.com/CaptainEven/YOLOV4_MCMOT) <img src="https://img.shields.io/github/stars/CaptainEven/YOLOV4_MCMOT?style=social"/> : Using YOLOV4 as detector for MCMOT.
+      - [ArtLabss/tennis-tracking](https://github.com/ArtLabss/tennis-tracking) <img src="https://img.shields.io/github/stars/ArtLabss/tennis-tracking?style=social"/> : Open-source Monocular Python HawkEye for Tennis.
 
-    - [opendatacam/node-moving-things-tracker](https://github.com/opendatacam/node-moving-things-tracker) <img src="https://img.shields.io/github/stars/opendatacam/node-moving-things-tracker?style=social"/> : javascript implementation of "tracker by detections" for realtime multiple object tracking (MOT).
+      - [CaptainEven/YOLOV4_MCMOT](https://github.com/CaptainEven/YOLOV4_MCMOT) <img src="https://img.shields.io/github/stars/CaptainEven/YOLOV4_MCMOT?style=social"/> : Using YOLOV4 as detector for MCMOT.
 
-    - [lanmengyiyu/yolov5-deepmar](https://github.com/lanmengyiyu/yolov5-deepmar) <img src="https://img.shields.io/github/stars/lanmengyiyu/yolov5-deepmar?style=social"/> : 行人轨迹和属性分析。
+      - [opendatacam/node-moving-things-tracker](https://github.com/opendatacam/node-moving-things-tracker) <img src="https://img.shields.io/github/stars/opendatacam/node-moving-things-tracker?style=social"/> : javascript implementation of "tracker by detections" for realtime multiple object tracking (MOT).
 
-    - [zengwb-lx/Yolov5-Deepsort-Fastreid](https://github.com/zengwb-lx/Yolov5-Deepsort-Fastreid) <img src="https://img.shields.io/github/stars/zengwb-lx/Yolov5-Deepsort-Fastreid?style=social"/> : YoloV5 + deepsort + Fast-ReID 完整行人重识别系统。
+      - [lanmengyiyu/yolov5-deepmar](https://github.com/lanmengyiyu/yolov5-deepmar) <img src="https://img.shields.io/github/stars/lanmengyiyu/yolov5-deepmar?style=social"/> : 行人轨迹和属性分析。
 
-    - [tensorturtle/classy-sort-yolov5](https://github.com/tensorturtle/classy-sort-yolov5) <img src="https://img.shields.io/github/stars/tensorturtle/classy-sort-yolov5?style=social"/> : Ready-to-use realtime multi-object tracker that works for any object category. YOLOv5 + SORT implementation.
+      - [zengwb-lx/Yolov5-Deepsort-Fastreid](https://github.com/zengwb-lx/Yolov5-Deepsort-Fastreid) <img src="https://img.shields.io/github/stars/zengwb-lx/Yolov5-Deepsort-Fastreid?style=social"/> : YoloV5 + deepsort + Fast-ReID 完整行人重识别系统。
 
-    - [supperted825/FairMOT-X](https://github.com/supperted825/FairMOT-X) <img src="https://img.shields.io/github/stars/supperted825/FairMOT-X?style=social"/> : FairMOT for Multi-Class MOT using YOLOX as Detector.
+      - [tensorturtle/classy-sort-yolov5](https://github.com/tensorturtle/classy-sort-yolov5) <img src="https://img.shields.io/github/stars/tensorturtle/classy-sort-yolov5?style=social"/> : Ready-to-use realtime multi-object tracker that works for any object category. YOLOv5 + SORT implementation.
+
+      - [supperted825/FairMOT-X](https://github.com/supperted825/FairMOT-X) <img src="https://img.shields.io/github/stars/supperted825/FairMOT-X?style=social"/> : FairMOT for Multi-Class MOT using YOLOX as Detector.
 
 
   - #### Reinforcement Learning
