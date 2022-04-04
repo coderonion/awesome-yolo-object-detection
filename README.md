@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO series object detection projects.
+🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO-based projects.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
