@@ -30,6 +30,7 @@
         - [Object Tracking (目标跟踪)](#object-tracking)
           - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
         - [Reinforcement Learning (强化学习)](#reinforcement-learning)
+        - [Sensor Fusion (传感器融合)](#sensor-fusion)
         - [Motion Control (运动控制)](#motion-control)
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
@@ -640,6 +641,12 @@
     - [uzkent/EfficientObjectDetection](https://github.com/uzkent/EfficientObjectDetection) <img src="https://img.shields.io/github/stars/uzkent/EfficientObjectDetection?style=social"/> : "Efficient Object Detection in Large Images with Deep Reinforcement Learning". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.html)**)
 
 
+  - #### Sensor Fusion
+    #### 传感器融合
+
+      - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
+
+
   - #### Motion Control
     #### 运动控制
 
@@ -993,6 +1000,9 @@
 
     - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**). "计算机视觉研究院：《[图像自适应YOLO：模糊环境下的目标检测（附源代码）](https://mp.weixin.qq.com/s/QdM6Dx990VhN97MRIP74XA)》"
 
+    - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.
+
+
   - ### Adversarial Attack and Defense
     #### 对抗攻击与防御 
 
@@ -1076,6 +1086,8 @@
     - [mahxn0/Yolov3_ForTextLabel](https://github.com/mahxn0/Yolov3_ForTextLabel) <img src="https://img.shields.io/github/stars/mahxn0/Yolov3_ForTextLabel?style=social"/> : 基于yolov3的目标/自然场景文字自动标注工具。
 
     - [WangRongsheng/KDAT](https://github.com/WangRongsheng/KDAT) <img src="https://img.shields.io/github/stars/WangRongsheng/KDAT?style=social"/> : 一个专为视觉方向目标检测全流程的标注工具集，全称：Kill Object Detection Annotation Tools。 
+
+    - [MNConnor/YoloV5-AI-Label](https://github.com/MNConnor/YoloV5-AI-Label) <img src="https://img.shields.io/github/stars/MNConnor/YoloV5-AI-Label?style=social"/> : YoloV5 AI Assisted Labeling. 
 
 
   - ### GUI
