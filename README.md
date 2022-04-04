@@ -4,7 +4,7 @@
 🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repo lists some awesome YOLO series object detection projects.
 
 ## Contents
-- [Awesome-YOLO](#awesome-yolo)
+- [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
     - [YOLO Family](#yolo-family)
         - [Master Versions](#master-versions)
         - [Other Versions](#Other-Versions)
