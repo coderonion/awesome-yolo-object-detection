@@ -30,7 +30,7 @@
         - [Object Tracking (目标跟踪)](#object-tracking)
           - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
         - [Reinforcement Learning (强化学习)](#reinforcement-learning)
-        - [Sensor Fusion (传感器融合)](#sensor-fusion)
+        - [Multi-Sensor Data (多传感器数据)](#multi-sensor-data)
         - [Motion Control (运动控制)](#motion-control)
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
@@ -262,6 +262,9 @@
 
       - [ailllist/yolov5_ROS](https://github.com/ailllist/yolov5_ROS) <img src="https://img.shields.io/github/stars/ailllist/yolov5_ROS?style=social"/> : yolov5 for ros, not webcam.
 
+      - [Shua-Kang/ros_pytorch_yolov5](https://github.com/Shua-Kang/ros_pytorch_yolov5) <img src="https://img.shields.io/github/stars/Shua-Kang/ros_pytorch_yolov5?style=social"/> : A ROS wrapper for yolov5. (master branch is v5.0 of yolov5; for v6.1, see branch v6.1).
+
+
     - #### CSharp Implementation
 
       - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
@@ -429,6 +432,8 @@
 
       - [Sharpiless/Yolov5-distillation-train-inference](https://github.com/Sharpiless/Yolov5-distillation-train-inference) <img src="https://img.shields.io/github/stars/Sharpiless/Yolov5-distillation-train-inference?style=social"/> : Yolov5 distillation training | Yolov5知识蒸馏训练，支持训练自己的数据。
 
+      - [Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0) <img src="https://img.shields.io/github/stars/Sharpiless/yolov5-distillation-5.0?style=social"/> : yolov5 5.0 version distillation || yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s。
+
 
     - #### High-performance Inference Engine
       #### 高性能推理引擎
@@ -549,6 +554,8 @@
 
       - [ZLkanyo009/Yolo-compression-and-deployment-in-FPGA](https://github.com/ZLkanyo009/Yolo-compression-and-deployment-in-FPGA) <img src="https://img.shields.io/github/stars/ZLkanyo009/Yolo-compression-and-deployment-in-FPGA?style=social"/> : 基于FPGA量化的人脸口罩检测。
 
+      - [xiying-boy/yolov3-AX7350](https://github.com/xiying-boy/yolov3-AX7350) <img src="https://img.shields.io/github/stars/xiying-boy/yolov3-AX7350?style=social"/> : 基于HLS_YOLOV3的驱动文件。
+
       - [himewel/yolowell](https://github.com/himewel/yolowell) <img src="https://img.shields.io/github/stars/himewel/yolowell?style=social"/> : A set of hardware architectures to build a co-design of convolutional neural networks inference at FPGA devices.
 
       - [embedeep/Free-TPU](https://github.com/embedeep/Free-TPU) <img src="https://img.shields.io/github/stars/embedeep/Free-TPU?style=social"/> : Free TPU for FPGA with Lenet, MobileNet, Squeezenet, Resnet, Inception V3, YOLO V3, and ICNet. Deep learning acceleration using Xilinx zynq (Zedboard or ZC702 ) or kintex-7 to solve image classification, detection, and segmentation problem.
@@ -571,6 +578,8 @@
 
       - [ZhenxinYUAN/YOLO_hi3516Deploy](https://github.com/ZhenxinYUAN/YOLO_hi3516Deploy) <img src="https://img.shields.io/github/stars/ZhenxinYUAN/YOLO_hi3516Deploy?style=social"/> : Deploy Yolo series algorithms on Hisilicon platform hi3516, including yolov3, yolov5, yolox, etc.
       
+
+
 
   - ### Object Tracking
     #### 目标跟踪
@@ -641,10 +650,14 @@
     - [uzkent/EfficientObjectDetection](https://github.com/uzkent/EfficientObjectDetection) <img src="https://img.shields.io/github/stars/uzkent/EfficientObjectDetection?style=social"/> : "Efficient Object Detection in Large Images with Deep Reinforcement Learning". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.html)**)
 
 
-  - #### Sensor Fusion
-    #### 传感器融合
+  - #### Multi-Sensor Data
+    #### 多传感器数据
 
       - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
+
+      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
+
+      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.    
 
 
   - #### Motion Control
@@ -712,6 +725,12 @@
 
     - YOLO-Z : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "计算机视觉研究院：《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
 
+    - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) <img src="https://img.shields.io/github/stars/ultralytics/xview-yolov3?style=social"/> : xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
+
+   - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
+
+
+
 
   - ### Oriented Object Detection
     #### 旋转目标检测
@@ -731,6 +750,11 @@
     - [kunnnnethan/R-YOLOv4](https://github.com/kunnnnethan/R-YOLOv4) <img src="https://img.shields.io/github/stars/kunnnnethan/R-YOLOv4?style=social"/> : This is a PyTorch-based R-YOLOv4 implementation which combines YOLOv4 model and loss function from R3Det for arbitrary oriented object detection.
 
     - [XinzeLee/PolygonObjectDetection](https://github.com/XinzeLee/PolygonObjectDetection) <img src="https://img.shields.io/github/stars/XinzeLee/PolygonObjectDetection?style=social"/> : This repository is based on Ultralytics/yolov5, with adjustments to enable polygon prediction boxes.
+
+    - [hukaixuan19970627/DOTA_devkit_YOLO](https://github.com/hukaixuan19970627/DOTA_devkit_YOLO) <img src="https://img.shields.io/github/stars/hukaixuan19970627/DOTA_devkit_YOLO?style=social"/> : Trans DOTA OBB format(poly format) to YOLO format.
+
+
+
 
   - ### Face Detection
     #### 人脸检测
@@ -938,6 +962,8 @@
 
     - [jinfagang/VIBE_yolov5](https://github.com/jinfagang/VIBE_yolov5) <img src="https://img.shields.io/github/stars/jinfagang/VIBE_yolov5?style=social"/> : Using YOLOv5 as detection on VIBE. "VIBE: Video Inference for Human Body Pose and Shape Estimation". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Kocabas_VIBE_Video_Inference_for_Human_Body_Pose_and_Shape_Estimation_CVPR_2020_paper.html)**)
 
+    - [zhuoxiangpang/ism_person_openpose](https://github.com/zhuoxiangpang/ism_person_openpose) <img src="https://img.shields.io/github/stars/zhuoxiangpang/ism_person_openpose?style=social"/> : yolov5人体检测+openpose姿态检测 实现摔倒检测。
+
 
   - ### 3D Object Detection
     #### 三维目标检测
@@ -1000,7 +1026,7 @@
 
     - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**). "计算机视觉研究院：《[图像自适应YOLO：模糊环境下的目标检测（附源代码）](https://mp.weixin.qq.com/s/QdM6Dx990VhN97MRIP74XA)》"
 
-    - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.
+
 
 
   - ### Adversarial Attack and Defense
@@ -1070,6 +1096,8 @@
      - [Brednan/CSGO-Aimbot](https://github.com/Brednan/CSGO-Aimbot) <img src="https://img.shields.io/github/stars/Brednan/CSGO-Aimbot?style=social"/> : Aimbot for the FPS game CSGO. It uses YOLOv5 to detect enemy players on my screen, then moves my cursor to the location. 
 
      - [2319590263/yolov5-csgo](https://github.com/2319590263/yolov5-csgo) <img src="https://img.shields.io/github/stars/2319590263/yolov5-csgo?style=social"/> : 基于yolov5实现的csgo自瞄。
+
+     - [SCRN-VRC/YOLOv4-Tiny-in-UnityCG-HLSL](https://github.com/SCRN-VRC/YOLOv4-Tiny-in-UnityCG-HLSL) <img src="https://img.shields.io/github/stars/SCRN-VRC/YOLOv4-Tiny-in-UnityCG-HLSL?style=social"/> : A modern object detector inside fragment shaders.
 
 
   - ### Automatic Annotation Tool
@@ -1170,3 +1198,6 @@
 
     - [lannguyen0910/food-detection-yolov5](https://github.com/lannguyen0910/food-detection-yolov5) <img src="https://img.shields.io/github/stars/lannguyen0910/food-detection-yolov5?style=social"/> : YOLOv5 meal analysis.
 
+    - [killnice/yolov5-D435i](https://github.com/killnice/yolov5-D435i) <img src="https://img.shields.io/github/stars/killnice/yolov5-D435i?style=social"/> : using yolov5 and realsense D435i.
+
+    - [SahilChachra/Video-Analytics-Dashboard](https://github.com/SahilChachra/Video-Analytics-Dashboard) <img src="https://img.shields.io/github/stars/SahilChachra/Video-Analytics-Dashboard?style=social"/> : Video Analytics dashboard built using YoloV5 and Streamlit.
