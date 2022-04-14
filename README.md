@@ -30,7 +30,7 @@
           - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
         - [Object Tracking (目标跟踪)](#object-tracking)
           - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
-        - [Reinforcement Learning (强化学习)](#reinforcement-learning)
+        - [Deep Reinforcement Learning (深度强化学习)](#deep-reinforcement-learning)
         - [Multi-Sensor Data (多传感器数据)](#multi-sensor-data)
         - [Motion Control Field (运动控制领域)](#motion-control-field)
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
