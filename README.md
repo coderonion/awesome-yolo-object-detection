@@ -32,7 +32,7 @@
           - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
         - [Reinforcement Learning (强化学习)](#reinforcement-learning)
         - [Multi-Sensor Data (多传感器数据)](#multi-sensor-data)
-        - [Motion Control (运动控制)](#motion-control)
+        - [Motion Control Field (运动控制领域)](#motion-control-field)
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
         - [Small Object Detection (小目标检测)](#small-object-detection)
@@ -57,18 +57,19 @@
         - [Action Detection (动作检测)](#action-detection)
         - [Emotion Recognition (情感识别)](#emotion-recognition)
         - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
-        - [Distance Detection (距离检测)](#distance-detection)
+        - [Distance Measurement (距离测量)](#distance-measurement)
         - [3D Object Detection (三维目标检测)](#3d-object-detection)
         - [SLAM Field Detection (SLAM领域检测)](#slam-field-detection)
         - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
         - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
         - [Medical Field Detection (医学领域检测)](#medical-field-detection)
-        - [Adverse Weather Conditions (恶劣天气环境)](#adverse-weather-conditions)
+        - [Chemistry Field Detection (化学领域检测)](#chemistry-field-detection)
+        - [Adverse Weather Conditions (恶劣天气条件)](#adverse-weather-conditions)
         - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
         - [Semantic Segmentation (语义分割)](#semantic-segmentation)
         - [Game Field Detection (游戏领域检测)](#game-field-detection)
         - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
-        - [GUI (图形界面)](#gui)
+        - [GUI (图形用户界面)](#gui)
         - [Other Applications](#other-applications)
 
 
@@ -135,6 +136,7 @@
       - [misads/easy_detection](https://github.com/misads/easy_detection) <img src="https://img.shields.io/github/stars/misads/easy_detection?style=social"/> : 一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Yolo系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等经典网络。
 
       - [miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch implementation of YOLOX、PPYOLO、PPYOLOv2、FCOS an so on.
+
 
     - #### Tensorflow and Keras Implementation
 
@@ -204,6 +206,7 @@
 
       - [geekjr/quickai](https://github.com/geekjr/quickai) <img src="https://img.shields.io/github/stars/geekjr/quickai?style=social"/> : QuickAI is a Python library that makes it extremely easy to experiment with state-of-the-art Machine Learning models.
 
+
     - #### PaddlePaddle Implementation
  
       - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleDetection?style=social"/> : Object Detection toolkit based on PaddlePaddle. "PP-YOLO: An Effective and Efficient Implementation of Object Detector". (**[arXiv 2020](https://arxiv.org/abs/2007.12099)**)
@@ -211,6 +214,7 @@
       - [miemie2013/Paddle-YOLOv4](https://github.com/miemie2013/Paddle-YOLOv4) <img src="https://img.shields.io/github/stars/miemie2013/Paddle-YOLOv4?style=social"/> : Paddle-YOLOv4.
 
       - [Sharpiless/PaddleDetection-Yolov5](https://github.com/Sharpiless/PaddleDetection-Yolov5) <img src="https://img.shields.io/github/stars/Sharpiless/PaddleDetection-Yolov5?style=social"/> : 基于Paddlepaddle复现yolov5，支持PaddleDetection接口。
+
 
     - #### Caffe Implementation
 
@@ -226,10 +230,12 @@
 
       - [gklz1982/caffe-yolov2](https://github.com/gklz1982/caffe-yolov2) <img src="https://img.shields.io/github/stars/gklz1982/caffe-yolov2?style=social"/> : caffe-yolov2.
 
+
     - #### MXNet Implementation
       - [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv) <img src="https://img.shields.io/github/stars/dmlc/gluon-cv?style=social"/> : GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
 
       - [zhreshold/mxnet-yolo](https://github.com/zhreshold/mxnet-yolo) <img src="https://img.shields.io/github/stars/zhreshold/mxnet-yolo?style=social"/> : YOLO: You only look once real-time object detector.
+
 
     - #### LibTorch Implementation
 
@@ -239,6 +245,7 @@
 
       - [Nebula4869/YOLOv5-LibTorch](https://github.com/Nebula4869/YOLOv5-LibTorch) <img src="https://img.shields.io/github/stars/Nebula4869/YOLOv5-LibTorch?style=social"/> : Real time object detection with deployment of YOLOv5 through LibTorch C++ API.
 
+
     - #### OpenCV Implementation
 
       - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
@@ -246,6 +253,7 @@
       - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
 
       - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
+
 
     - #### ROS Implementation
 
@@ -339,6 +347,7 @@
 
       - [muhk01/Yolov5-on-Flask](https://github.com/muhk01/Yolov5-on-Flask) <img src="https://img.shields.io/github/stars/muhk01/Yolov5-on-Flask?style=social"/> : Running YOLOv5 through web browser using Flask microframework.
 
+
     - #### Others
 
       - [BMW-InnovationLab/BMW-YOLOv4-Training-Automation](https://github.com/BMW-InnovationLab/BMW-YOLOv4-Training-Automation) <img src="https://img.shields.io/github/stars/BMW-InnovationLab/BMW-YOLOv4-Training-Automation?style=social"/> : YOLOv4-v3 Training Automation API for Linux.
@@ -377,6 +386,7 @@
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
   - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
+
 
 ## Applications
 
@@ -673,8 +683,8 @@
       - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.    
 
 
-  - #### Motion Control
-    #### 运动控制
+  - #### Motion Control Field
+    #### 运动控制领域
 
     - [icns-distributed-cloud/adaptive-cruise-control](https://github.com/icns-distributed-cloud/adaptive-cruise-control) <img src="https://img.shields.io/github/stars/icns-distributed-cloud/adaptive-cruise-control?style=social"/> : YOLO-v5 기반 "단안 카메라"의 영상을 활용해 차간 거리를 일정하게 유지하며 주행하는 Adaptive Cruise Control 기능 구현.
 
@@ -714,8 +724,6 @@
   - ### Small Object Detection
     #### 小目标检测
 
-    - [TPH-YOLOv5](https://github.com/cv516Buaa/tph-yolov5) <img src="https://img.shields.io/github/stars/cv516Buaa/tph-yolov5?style=social"/> : "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)**)
-
     - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : A lightweight vision library for performing large scale object detection/ instance segmentation. "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**). "计算机视觉研究院：《[小目标Trick | Detectron2、MMDetection、YOLOv5都通用的小目标检测解决方案](https://mp.weixin.qq.com/s/MKtvEg0DQgAw3LAvfn3FdA)》"
 
     - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "江大白：《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s/qbbd5FdyKKk7UI3mmGBt4Q)》"
@@ -723,6 +731,8 @@
     - [SIMRDWN](https://github.com/avanetten/simrdwn) <img src="https://img.shields.io/github/stars/avanetten/simrdwn?style=social"/> : "Satellite Imagery Multiscale Rapid Detection with Windowed Networks". (**[arXiv 2018](https://arxiv.org/abs/1809.09978), [WACV 2019](https://ieeexplore.ieee.org/abstract/document/8659155)**)
 
     - [YOLTv5](https://github.com/avanetten/yoltv5) <img src="https://img.shields.io/github/stars/avanetten/yoltv5?style=social"/> : YOLTv5 builds upon [YOLT](https://github.com/avanetten/yolt) and [SIMRDWN](https://github.com/avanetten/simrdwn), and updates these frameworks to use the [ultralytics/yolov5](https://github.com/ultralytics/yolov5) version of the YOLO object detection family.
+
+    - [TPH-YOLOv5](https://github.com/cv516Buaa/tph-yolov5) <img src="https://img.shields.io/github/stars/cv516Buaa/tph-yolov5?style=social"/> : "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)**)
 
     - [mwaseema/Drone-Detection](https://github.com/mwaseema/Drone-Detection) <img src="https://img.shields.io/github/stars/mwaseema/Drone-Detection?style=social"/> : "Dogfight: Detecting Drones from Drones Videos". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.html)**)
 
@@ -740,7 +750,7 @@
 
     - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) <img src="https://img.shields.io/github/stars/ultralytics/xview-yolov3?style=social"/> : xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
 
-   - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
+    - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
 
 
 
@@ -978,8 +988,8 @@
     - [zhuoxiangpang/ism_person_openpose](https://github.com/zhuoxiangpang/ism_person_openpose) <img src="https://img.shields.io/github/stars/zhuoxiangpang/ism_person_openpose?style=social"/> : yolov5人体检测+openpose姿态检测 实现摔倒检测。
 
 
-  - ### Distance Detection
-    #### 距离检测
+  - ### Distance Measurement
+    #### 距离测量
 
     - [davidfrz/yolov5_distance_count](https://github.com/davidfrz/yolov5_distance_count) <img src="https://img.shields.io/github/stars/davidfrz/yolov5_distance_count?style=social"/> : 通过yolov5实现目标检测+双目摄像头实现距离测量。
 
@@ -1051,12 +1061,16 @@
     - [sierprinsky/YoloV5_blood_cells](https://github.com/sierprinsky/YoloV5_blood_cells) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : The main idea of this project is to detect blood cells using YOLOV5 over a public roboflow dataset.
 
 
+  - ### Chemistry Field Detection
+    #### 化学领域检测
+
+    - [xuguodong1999/COCR](https://github.com/xuguodong1999/COCR) <img src="https://img.shields.io/github/stars/xuguodong1999/COCR?style=social"/> : COCR is designed to convert an image of hand-writing chemical structure to graph of that molecule.
+
+
   - ### Adverse Weather Conditions
-    #### 恶劣天气环境
+    #### 恶劣天气条件
 
     - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**). "计算机视觉研究院：《[图像自适应YOLO：模糊环境下的目标检测（附源代码）](https://mp.weixin.qq.com/s/QdM6Dx990VhN97MRIP74XA)》"
-
-
 
 
   - ### Adversarial Attack and Defense
@@ -1149,7 +1163,7 @@
 
 
   - ### GUI
-    #### 图形界面
+    #### 图形用户界面
 
     - [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) <img src="https://img.shields.io/github/stars/Javacr/PyQt5-YOLOv5?style=social"/> : YOLOv5检测界面-PyQt5实现。
 
