@@ -541,6 +541,8 @@
     - #### FPGA TPU RISC-V MCU Hardware Deployment
       #### FPGA TPU RISC-V MCU 硬件部署
 
+      - [dhm2013724/yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga) <img src="https://img.shields.io/github/stars/dhm2013724/yolov2_xilinx_fpga?style=social"/> : YOLOv2 Accelerator in Xilinx's Zynq-7000 Soc(PYNQ-z2, Zedboard and ZCU102). (**[硕士论文 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019228234.nh&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjE5NTN5dmdXN3JBVkYyNkY3RzZGdFBQcTVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWnVkdUY=), [电子技术应用 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=DZJY201908009&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDU0NDJDVVJMT2VadWR1Rnl2Z1c3ck1JVGZCZDdHNEg5ak1wNDlGYllSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=), [计算机科学与探索 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=KXTS201910005&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjkwNzdXTTFGckNVUkxPZVp1ZHVGeXZnVzdyT0xqWGZmYkc0SDlqTnI0OUZZWVI4ZVgxTHV4WVM3RGgxVDNxVHI=)**)
+
       - [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI/tree/master/demo) <img src="https://img.shields.io/github/stars/Xilinx/Vitis-AI?style=social"/> : Vitis AI offers a unified set of high-level C++/Python programming APIs to run AI applications across edge-to-cloud platforms, including DPU for Alveo, and DPU for Zynq Ultrascale+ MPSoC and Zynq-7000. It brings the benefits to easily port AI applications from cloud to edge and vice versa. 10 samples in [VART Samples](https://github.com/Xilinx/Vitis-AI/tree/master/demo/VART) are available to help you get familiar with the unfied programming APIs. [Vitis-AI-Library](https://github.com/Xilinx/Vitis-AI/tree/master/demo/Vitis-AI-Library) provides an easy-to-use and unified interface by encapsulating many efficient and high-quality neural networks.
 
       - [HSqure/ultralytics-pt-yolov3-vitis-ai-edge](https://github.com/HSqure/ultralytics-pt-yolov3-vitis-ai-edge) <img src="https://img.shields.io/github/stars/HSqure/ultralytics-pt-yolov3-vitis-ai-edge?style=social"/> : This demo is only used for inference testing of Vitis AI v1.4 and quantitative compilation of DPU. It is compatible with the training results of [ultralytics/yolov3](https://github.com/ultralytics/yolov3) v9.5.0 (it needs to use the model saving method of Pytorch V1.4).
@@ -554,8 +556,6 @@
       - [puffdrum/v4tiny_pt_quant](https://github.com/puffdrum/v4tiny_pt_quant) <img src="https://img.shields.io/github/stars/puffdrum/v4tiny_pt_quant?style=social"/> : quantization for yolo with xilinx/vitis-ai-pytorch.     
 
       - [chanshann/LITE_YOLOV3_TINY_VITISAI](https://github.com/chanshann/LITE_YOLOV3_TINY_VITISAI) <img src="https://img.shields.io/github/stars/chanshann/LITE_YOLOV3_TINY_VITISAI?style=social"/> : LITE_YOLOV3_TINY_VITISAI. 
-
-      - [dhm2013724/yolov2_xilinx_fpga](https://github.com/dhm2013724/yolov2_xilinx_fpga) <img src="https://img.shields.io/github/stars/dhm2013724/yolov2_xilinx_fpga?style=social"/> : YOLOv2 Accelerator in Xilinx's Zynq-7000 Soc(PYNQ-z2, Zedboard and ZCU102). (**[硕士论文 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFDTEMP&filename=1019228234.nh&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjE5NTN5dmdXN3JBVkYyNkY3RzZGdFBQcTVFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTE9lWnVkdUY=), [电子技术应用 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=DZJY201908009&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MDU0NDJDVVJMT2VadWR1Rnl2Z1c3ck1JVGZCZDdHNEg5ak1wNDlGYllSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnI=), [计算机科学与探索 2019](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDTEMP&filename=KXTS201910005&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoOGhUTzA5T0tESzdFZ2pyR1NJR1ZBaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjkwNzdXTTFGckNVUkxPZVp1ZHVGeXZnVzdyT0xqWGZmYkc0SDlqTnI0OUZZWVI4ZVgxTHV4WVM3RGgxVDNxVHI=)**)
 
       - [19801201/SpinalHDL_CNN_Accelerator](https://github.com/19801201/SpinalHDL_CNN_Accelerator) <img src="https://img.shields.io/github/stars/19801201/SpinalHDL_CNN_Accelerator?style=social"/> : CNN accelerator implemented with Spinal HDL.
 
@@ -601,8 +601,6 @@
 
       - [ZhenxinYUAN/YOLO_hi3516Deploy](https://github.com/ZhenxinYUAN/YOLO_hi3516Deploy) <img src="https://img.shields.io/github/stars/ZhenxinYUAN/YOLO_hi3516Deploy?style=social"/> : Deploy Yolo series algorithms on Hisilicon platform hi3516, including yolov3, yolov5, yolox, etc.
       
-
-
 
   - ### Object Tracking
     #### 目标跟踪
@@ -667,8 +665,8 @@
       - [supperted825/FairMOT-X](https://github.com/supperted825/FairMOT-X) <img src="https://img.shields.io/github/stars/supperted825/FairMOT-X?style=social"/> : FairMOT for Multi-Class MOT using YOLOX as Detector.
 
 
-  - #### Reinforcement Learning
-    #### 强化学习
+  - #### Deep Reinforcement Learning
+    #### 深度强化学习
 
     - [uzkent/EfficientObjectDetection](https://github.com/uzkent/EfficientObjectDetection) <img src="https://img.shields.io/github/stars/uzkent/EfficientObjectDetection?style=social"/> : "Efficient Object Detection in Large Images with Deep Reinforcement Learning". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.html)**)
 
@@ -753,8 +751,6 @@
     - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
 
 
-
-
   - ### Oriented Object Detection
     #### 旋转目标检测
 
@@ -775,8 +771,6 @@
     - [XinzeLee/PolygonObjectDetection](https://github.com/XinzeLee/PolygonObjectDetection) <img src="https://img.shields.io/github/stars/XinzeLee/PolygonObjectDetection?style=social"/> : This repository is based on Ultralytics/yolov5, with adjustments to enable polygon prediction boxes.
 
     - [hukaixuan19970627/DOTA_devkit_YOLO](https://github.com/hukaixuan19970627/DOTA_devkit_YOLO) <img src="https://img.shields.io/github/stars/hukaixuan19970627/DOTA_devkit_YOLO?style=social"/> : Trans DOTA OBB format(poly format) to YOLO format.
-
-
 
 
   - ### Face Detection
@@ -805,6 +799,7 @@
     - [hpc203/10kinds-light-face-detector-align-recognition](https://github.com/hpc203/10kinds-light-face-detector-align-recognition) <img src="https://img.shields.io/github/stars/hpc203/10kinds-light-face-detector-align-recognition?style=social"/> : 10种轻量级人脸检测算法的比拼。
 
     - [Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking](https://github.com/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking) <img src="https://img.shields.io/github/stars/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking?style=social"/> : This is a robot project for television live. System will tracking the host's face, making the face in the middle of the screen.
+
 
   - ### Face Mask Detection
     #### 口罩检测
@@ -842,6 +837,7 @@
     - [ChargedMonk/Social-Distancing-using-YOLOv5](https://github.com/ChargedMonk/Social-Distancing-using-YOLOv5) <img src="https://img.shields.io/github/stars/ChargedMonk/Social-Distancing-using-YOLOv5?style=social"/> : Classifying people as high risk and low risk based on their distance to other people.
 
     - [JohnBetaCode/Social-Distancing-Analyser](https://github.com/JohnBetaCode/Social-Distancing-Analyser) <img src="https://img.shields.io/github/stars/JohnBetaCode/Social-Distancing-Analyser?style=social"/> : Social Distancing Analyzer.
+
 
   - ### Intelligent Transportation Field Detection
     #### 智能交通领域检测
@@ -1037,10 +1033,12 @@
 
     - [Nico31415/Drowning-Detector](https://github.com/Nico31415/Drowning-Detector) <img src="https://img.shields.io/github/stars/Nico31415/Drowning-Detector?style=social"/> : Using YOLO object detection, this program will detect if a person is drowning.
 
+
   - ### Industrial Defect Detection
     #### 工业缺陷检测
 
     - [annsonic/Steel_defect](https://github.com/annsonic/Steel_defect) <img src="https://img.shields.io/github/stars/annsonic/Steel_defect?style=social"/> : Exercise: Use YOLO to detect hot-rolled steel strip surface defects (NEU-DET dataset).
+
 
   - ### Medical Field Detection
     #### 医学领域检测
