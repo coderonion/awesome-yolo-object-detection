@@ -36,6 +36,7 @@
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
         - [Small Object Detection (小目标检测)](#small-object-detection)
+        - [Few-shot Object Detection (小样本目标检测)](#few-shot-object-detection)
         - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
         - [Face Detection (人脸检测)](#face-detection)
         - [Face Mask Detection (口罩检测)](#face-mask-detection)
@@ -749,6 +750,12 @@
     - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) <img src="https://img.shields.io/github/stars/ultralytics/xview-yolov3?style=social"/> : xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
 
     - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
+
+
+  - ### Few-shot Object Detection
+    #### 小样本目标检测
+
+    - [bingykang/Fewshot_Detection](https://github.com/bingykang/Fewshot_Detection) <img src="https://img.shields.io/github/stars/bingykang/Fewshot_Detection?style=social"/> : "Few-shot Object Detection via Feature Reweighting". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)**). 
 
 
   - ### Oriented Object Detection
