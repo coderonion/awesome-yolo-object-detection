@@ -993,6 +993,8 @@
 
     - [zhuoxiangpang/ism_person_openpose](https://github.com/zhuoxiangpang/ism_person_openpose) <img src="https://img.shields.io/github/stars/zhuoxiangpang/ism_person_openpose?style=social"/> : yolov5人体检测+openpose姿态检测 实现摔倒检测。
 
+    - [pengyang1225/yolov5_person_pose](https://github.com/pengyang1225/yolov5_person_pose) <img src="https://img.shields.io/github/stars/pengyang1225/yolov5_person_pose?style=social"/> : 基于yolov5的person—pose。
+
 
   - ### Distance Measurement
     #### 距离测量
