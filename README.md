@@ -65,7 +65,8 @@
         - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
         - [Medical Field Detection (医学领域检测)](#medical-field-detection)
         - [Chemistry Field Detection (化学领域检测)](#chemistry-field-detection)
-        - [Adverse Weather Conditions (恶劣天气条件)](#adverse-weather-conditions)
+        - [Agricultural Field Detection (农业领域检测)](#agricultural-field-detection)
+        - [Adverse Weather Conditions (恶劣天气情况)](#adverse-weather-conditions)
         - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
         - [Semantic Segmentation (语义分割)](#semantic-segmentation)
         - [Game Field Detection (游戏领域检测)](#game-field-detection)
@@ -302,6 +303,8 @@
       - [Uehwan/CSharp-Yolo-Video](https://github.com/Uehwan/CSharp-Yolo-Video) <img src="https://img.shields.io/github/stars/Uehwan/CSharp-Yolo-Video?style=social"/> : C# Yolo for Video.
 
       - [HTTP123-A/HumanDetection_Yolov5NET](https://github.com/https://github.com/HTTP123-A/HumanDetection_Yolov5NET) <img src="https://img.shields.io/github/stars/HTTP123-A/HumanDetection_Yolov5NET?style=social"/> : YOLOv5 object detection with ML.NET, ONNX.
+
+      - [Celine-Hsieh/Hand_Gesture_Training--yolov4](https://github.com/Celine-Hsieh/Hand_Gesture_Training--yolov4) <img src="https://img.shields.io/github/stars/Celine-Hsieh/Hand_Gesture_Training--yolov4?style=social"/> : Recognize the gestures' features using the YOLOv4 algorithm.
 
 
     - #### Rust Implementation
@@ -1014,6 +1017,8 @@
 
     - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) <img src="https://img.shields.io/github/stars/ruhyadi/YOLO3D?style=social"/> : YOLO 3D Object Detection for Autonomous Driving Vehicle.
 
+    - [EmiyaNing/3D-YOLO](https://github.com/EmiyaNing/3D-YOLO) <img src="https://img.shields.io/github/stars/EmiyaNing/3D-YOLO?style=social"/> : YOLO v5 for Lidar-based 3D BEV Detection.
+
 
   - ### SLAM Field Detection
     #### SLAM领域检测
@@ -1072,8 +1077,14 @@
     - [xuguodong1999/COCR](https://github.com/xuguodong1999/COCR) <img src="https://img.shields.io/github/stars/xuguodong1999/COCR?style=social"/> : COCR is designed to convert an image of hand-writing chemical structure to graph of that molecule.
 
 
+  - ### Agricultural Field Detection
+    #### 农业领域检测
+
+    - [liao1fan/MGA-YOLO-for-apple-leaf-disease-detection](https://github.com/liao1fan/MGA-YOLO-for-apple-leaf-disease-detection) <img src="https://img.shields.io/github/stars/liao1fan/MGA-YOLO-for-apple-leaf-disease-detection?style=social"/> : MGA-YOLO: A Lightweight One-Stage Network for Apple Leaf Disease Detection. 
+
+
   - ### Adverse Weather Conditions
-    #### 恶劣天气条件
+    #### 恶劣天气情况
 
     - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**). "计算机视觉研究院：《[图像自适应YOLO：模糊环境下的目标检测（附源代码）](https://mp.weixin.qq.com/s/QdM6Dx990VhN97MRIP74XA)》"
 
@@ -1147,6 +1158,8 @@
      - [2319590263/yolov5-csgo](https://github.com/2319590263/yolov5-csgo) <img src="https://img.shields.io/github/stars/2319590263/yolov5-csgo?style=social"/> : 基于yolov5实现的csgo自瞄。
 
      - [SCRN-VRC/YOLOv4-Tiny-in-UnityCG-HLSL](https://github.com/SCRN-VRC/YOLOv4-Tiny-in-UnityCG-HLSL) <img src="https://img.shields.io/github/stars/SCRN-VRC/YOLOv4-Tiny-in-UnityCG-HLSL?style=social"/> : A modern object detector inside fragment shaders.
+
+     - [qcjxs-hn/yolov5-csgo](https://github.com/qcjxs-hn/yolov5-csgo) <img src="https://img.shields.io/github/stars/qcjxs-hn/yolov5-csgo?style=social"/> : 这是一个根据教程写的csgo-ai和我自己训练的模型，还有数据集。
 
 
   - ### Automatic Annotation Tool
