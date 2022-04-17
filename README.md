@@ -989,6 +989,10 @@
 
     - [wmcnally/kapao](https://github.com/wmcnally/kapao) <img src="https://img.shields.io/github/stars/wmcnally/kapao?style=social"/> : KAPAO is a state-of-the-art single-stage human pose estimation model that detects keypoints and poses as objects and fuses the detections to predict human poses. "Rethinking Keypoint Representations: Modeling Keypoints and Poses as Objects for Multi-Person Human Pose Estimation". (**[arXiv 2021](https://arxiv.org/abs/2111.08557)**)
 
+    - [TexasInstruments/edgeai-yolov5](https://github.com/TexasInstruments/edgeai-yolov5) <img src="https://img.shields.io/github/stars/TexasInstruments/edgeai-yolov5?style=social"/> : "YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss". (**[arXiv 2022](https://arxiv.org/abs/2204.06806)**)
+
+    - [TexasInstruments/edgeai-yolox](https://github.com/TexasInstruments/edgeai-yolox) <img src="https://img.shields.io/github/stars/TexasInstruments/edgeai-yolox?style=social"/> : "YOLO-Pose: Enhancing YOLO for Multi Person Pose Estimation Using Object Keypoint Similarity Loss". (**[arXiv 2022](https://arxiv.org/abs/2204.06806)**)
+
     - [jinfagang/VIBE_yolov5](https://github.com/jinfagang/VIBE_yolov5) <img src="https://img.shields.io/github/stars/jinfagang/VIBE_yolov5?style=social"/> : Using YOLOv5 as detection on VIBE. "VIBE: Video Inference for Human Body Pose and Shape Estimation". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Kocabas_VIBE_Video_Inference_for_Human_Body_Pose_and_Shape_Estimation_CVPR_2020_paper.html)**)
 
     - [zhuoxiangpang/ism_person_openpose](https://github.com/zhuoxiangpang/ism_person_openpose) <img src="https://img.shields.io/github/stars/zhuoxiangpang/ism_person_openpose?style=social"/> : yolov5人体检测+openpose姿态检测 实现摔倒检测。
