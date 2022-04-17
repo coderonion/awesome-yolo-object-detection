@@ -33,6 +33,7 @@
         - [Deep Reinforcement Learning (深度强化学习)](#deep-reinforcement-learning)
         - [Multi-Sensor Data (多传感器数据)](#multi-sensor-data)
         - [Motion Control Field (运动控制领域)](#motion-control-field)
+        - [Super-Resolution Field (超分辨率领域)](#super-resolution-field)
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
         - [Small Object Detection (小目标检测)](#small-object-detection)
@@ -693,6 +694,12 @@
     - [LeBronLiHD/ZJU2021_MotionControl_PID_YOLOv5](https://github.com/LeBronLiHD/ZJU2021_MotionControl_PID_YOLOv5) <img src="https://img.shields.io/github/stars/LeBronLiHD/ZJU2021_MotionControl_PID_YOLOv5?style=social"/> : ZJU2021_MotionControl_PID_YOLOv5.
 
     - [SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking](https://github.com/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking) <img src="https://img.shields.io/github/stars/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking?style=social"/> : PID_YOLOv5s_ROS_Diver_Tracking.
+
+
+  - #### Super-Resolution Field
+    #### 超分辨率领域
+
+    - [Fireboltz/Psychic-CCTV](https://github.com/Fireboltz/Psychic-CCTV) <img src="https://img.shields.io/github/stars/Fireboltz/Psychic-CCTV?style=social"/> : A video analysis tool built completely in python. 
 
 
   - #### Spiking Neural Network
