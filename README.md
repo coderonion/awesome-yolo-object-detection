@@ -551,6 +551,8 @@
 
       - [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI/tree/master/demo) <img src="https://img.shields.io/github/stars/Xilinx/Vitis-AI?style=social"/> : Vitis AI offers a unified set of high-level C++/Python programming APIs to run AI applications across edge-to-cloud platforms, including DPU for Alveo, and DPU for Zynq Ultrascale+ MPSoC and Zynq-7000. It brings the benefits to easily port AI applications from cloud to edge and vice versa. 10 samples in [VART Samples](https://github.com/Xilinx/Vitis-AI/tree/master/demo/VART) are available to help you get familiar with the unfied programming APIs. [Vitis-AI-Library](https://github.com/Xilinx/Vitis-AI/tree/master/demo/Vitis-AI-Library) provides an easy-to-use and unified interface by encapsulating many efficient and high-quality neural networks.
 
+      - [tensil-ai/tensil](https://github.com/tensil-ai/tensil) <img src="https://img.shields.io/github/stars/tensil-ai/tensil?style=social"/> : Open source machine learning accelerators.
+
       - [HSqure/ultralytics-pt-yolov3-vitis-ai-edge](https://github.com/HSqure/ultralytics-pt-yolov3-vitis-ai-edge) <img src="https://img.shields.io/github/stars/HSqure/ultralytics-pt-yolov3-vitis-ai-edge?style=social"/> : This demo is only used for inference testing of Vitis AI v1.4 and quantitative compilation of DPU. It is compatible with the training results of [ultralytics/yolov3](https://github.com/ultralytics/yolov3) v9.5.0 (it needs to use the model saving method of Pytorch V1.4).
 
       - [mcedrdiego/Kria_yolov3_ppe](https://github.com/mcedrdiego/Kria_yolov3_ppe) <img src="https://img.shields.io/github/stars/mcedrdiego/Kria_yolov3_ppe?style=social"/> : Kria KV260 Real-Time Personal Protective Equipment Detection. "Deep Learning for Site Safety: Real-Time Detection of Personal Protective Equipment". (**[Automation in Construction 2020](https://www.sciencedirect.com/science/article/abs/pii/S0926580519308325)**)
@@ -1016,6 +1018,8 @@
     - [davidfrz/yolov5_distance_count](https://github.com/davidfrz/yolov5_distance_count) <img src="https://img.shields.io/github/stars/davidfrz/yolov5_distance_count?style=social"/> : 通过yolov5实现目标检测+双目摄像头实现距离测量。
 
     - [wenyishengkingkong/realsense-D455-YOLOV5](https://github.com/wenyishengkingkong/realsense-D455-YOLOV5) <img src="https://img.shields.io/github/stars/wenyishengkingkong/realsense-D455-YOLOV5?style=social"/> : 利用realsense深度相机实现yolov5目标检测的同时测出距离。
+
+    - [Thinkin99/yolov5_d435i_detection](https://github.com/Thinkin99/yolov5_d435i_detection) <img src="https://img.shields.io/github/stars/Thinkin99/yolov5_d435i_detection?style=social"/> : 使用realsense d435i相机，基于pytorch实现yolov5目标检测，返回检测目标相机坐标系下的位置信息。 
 
 
   - ### 3D Object Detection
