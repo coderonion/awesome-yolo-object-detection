@@ -463,6 +463,8 @@
 
       - [Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0) <img src="https://img.shields.io/github/stars/Sharpiless/yolov5-distillation-5.0?style=social"/> : yolov5 5.0 version distillation || yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s。
 
+      - [Eddiespade/yolov5-kd](https://github.com/Eddiespade/yolov5-kd) <img src="https://img.shields.io/github/stars/Eddiespade/yolov5-kd?style=social"/> : YOLOV5 V6.0知识蒸馏。
+
 
     - #### High-performance Inference Engine
       #### 高性能推理引擎
@@ -1106,6 +1108,9 @@
     - [avral1810/parkinsongait](https://github.com/avral1810/parkinsongait) <img src="https://img.shields.io/github/stars/avral1810/parkinsongait?style=social"/> : Parkinson’s Disease.
 
     - [sierprinsky/YoloV5_blood_cells](https://github.com/sierprinsky/YoloV5_blood_cells) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : The main idea of this project is to detect blood cells using YOLOV5 over a public roboflow dataset.
+
+    - [LuozyCS/skin_disease_detection_yolov5](https://github.com/LuozyCS/skin_disease_detection_yolov5) <img src="https://img.shields.io/github/stars/LuozyCS/skin_disease_detection_yolov5?style=social"/> : skin_disease_detection_yolov5.
+
 
 
   - ### Chemistry Field Detection
