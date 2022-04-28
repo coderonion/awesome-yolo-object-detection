@@ -28,6 +28,7 @@
           - [Pruning Distillation Quantization (剪枝 蒸馏 量化)](#pruning-distillation-quantization)
           - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
           - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
+        - [Video Object Detection (视频目标检测)](#video-object-detection)
         - [Object Tracking (目标跟踪)](#object-tracking)
           - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
         - [Deep Reinforcement Learning (深度强化学习)](#deep-reinforcement-learning)
@@ -37,7 +38,7 @@
         - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
         - [Attention and Transformer (注意力机制)](#attention-and-transformer)
         - [Small Object Detection (小目标检测)](#small-object-detection)
-        - [Few-shot Object Detection (小样本目标检测)](#few-shot-object-detection)
+        - [Few-shot Object Detection (少样本目标检测)](#few-shot-object-detection)
         - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
         - [Face Detection (人脸检测)](#face-detection)
         - [Face Mask Detection (口罩检测)](#face-mask-detection)
@@ -62,9 +63,9 @@
         - [Distance Measurement (距离测量)](#distance-measurement)
         - [3D Object Detection (三维目标检测)](#3d-object-detection)
         - [SLAM Field Detection (SLAM领域检测)](#slam-field-detection)
-        - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
         - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
         - [SAR Image Detection (合成孔径雷达图像检测)](#sar-image-detection)
+        - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
         - [Medical Field Detection (医学领域检测)](#medical-field-detection)
         - [Chemistry Field Detection (化学领域检测)](#chemistry-field-detection)
         - [Agricultural Field Detection (农业领域检测)](#agricultural-field-detection)
@@ -279,6 +280,8 @@
 
       - [Shua-Kang/ros_pytorch_yolov5](https://github.com/Shua-Kang/ros_pytorch_yolov5) <img src="https://img.shields.io/github/stars/Shua-Kang/ros_pytorch_yolov5?style=social"/> : A ROS wrapper for yolov5. (master branch is v5.0 of yolov5; for v6.1, see branch v6.1).
 
+      - [ziyan0302/Yolov5_DeepSort_Pytorch_ros](https://github.com/ziyan0302/Yolov5_DeepSort_Pytorch_ros) <img src="https://img.shields.io/github/stars/ziyan0302/Yolov5_DeepSort_Pytorch_ros?style=social"/> : Connect Yolov5 detection module and DeepSort tracking module via ROS.
+
 
     - #### CSharp Implementation
 
@@ -391,8 +394,6 @@
 
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
-  - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
-
 
 ## Applications
 
@@ -463,7 +464,6 @@
 
       - [Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0) <img src="https://img.shields.io/github/stars/Sharpiless/yolov5-distillation-5.0?style=social"/> : yolov5 5.0 version distillation || yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s。
 
-      - [Eddiespade/yolov5-kd](https://github.com/Eddiespade/yolov5-kd) <img src="https://img.shields.io/github/stars/Eddiespade/yolov5-kd?style=social"/> : YOLOV5 V6.0知识蒸馏。
 
 
     - #### High-performance Inference Engine
@@ -616,11 +616,19 @@
       - [jveitchmichaelis/edgetpu-yolo](https://github.com/jveitchmichaelis/edgetpu-yolo) <img src="https://img.shields.io/github/stars/jveitchmichaelis/edgetpu-yolo?style=social"/> : Minimal-dependency Yolov5 export and inference demonstration for the Google Coral EdgeTPU.
 
 
+  - ### Video Object Detection
+    #### 视频目标检测
+
+      - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
+
+
   - ### Object Tracking
     #### 目标跟踪
 
     - ####  Multi-Object Tracking
       #####  多目标跟踪
+
+      - [mikel-brostrom/Yolov5_DeepSort_OSNet](https://github.com/mikel-brostrom/Yolov5_DeepSort_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLO v5 and Deep SORT with OSNet.
 
       - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_Pytorch?style=social"/> : Real-time multi-object tracker using YOLO v5 and deep sort.
 
@@ -742,6 +750,8 @@
 
     - [anonymoussss/YOLOX-SwinTransformer](https://github.com/anonymoussss/YOLOX-SwinTransformer) <img src="https://img.shields.io/github/stars/anonymoussss/YOLOX-SwinTransformer?style=social"/> : YOLOX with Swin-Transformer backbone.
 
+    - [leonyufeng/YOLO_SwinT](https://github.com/leonyufeng/YOLO_SwinT) <img src="https://img.shields.io/github/stars/leonyufeng/YOLO_SwinT?style=social"/> : A miminal implementation of YOLOR P6, YOLOv4 and YOLO with Swin-Transformer as Backbone. This project is for personal study.
+
 
   - ### Small Object Detection
     #### 小目标检测
@@ -777,9 +787,8 @@
     - [AllenSquirrel/YOLOv3_ReSAM](https://github.com/AllenSquirrel/YOLOv3_ReSAM) <img src="https://img.shields.io/github/stars/AllenSquirrel/YOLOv3_ReSAM?style=social"/> : YOLOv3_ReSAM:A Small Target Detection Method With Spatial Attention Module.
 
 
-
   - ### Few-shot Object Detection
-    #### 小样本目标检测
+    #### 少样本目标检测
 
     - [bingykang/Fewshot_Detection](https://github.com/bingykang/Fewshot_Detection) <img src="https://img.shields.io/github/stars/bingykang/Fewshot_Detection?style=social"/> : "Few-shot Object Detection via Feature Reweighting". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)**). 
 
@@ -1034,6 +1043,8 @@
 
     - [Thinkin99/yolov5_d435i_detection](https://github.com/Thinkin99/yolov5_d435i_detection) <img src="https://img.shields.io/github/stars/Thinkin99/yolov5_d435i_detection?style=social"/> : 使用realsense d435i相机，基于pytorch实现yolov5目标检测，返回检测目标相机坐标系下的位置信息。 
 
+    - [MUCHWAY/detect_distance_gazebo](https://github.com/MUCHWAY/detect_distance_gazebo) <img src="https://img.shields.io/github/stars/MUCHWAY/detect_distance_gazebo?style=social"/> : yolov5+camera_distance+gazebo.
+
 
   - ### 3D Object Detection
     #### 三维目标检测
@@ -1061,6 +1072,18 @@
     - [BzdTaisa/YoloPlanarSLAM](https://github.com/BzdTaisa/YoloPlanarSLAM) <img src="https://img.shields.io/github/stars/BzdTaisa/YoloPlanarSLAM?style=social"/> : YOLO-Planar-SLAM. 
 
 
+  - ### Industrial Defect Detection
+    #### 工业缺陷检测
+
+    - [annsonic/Steel_defect](https://github.com/annsonic/Steel_defect) <img src="https://img.shields.io/github/stars/annsonic/Steel_defect?style=social"/> : Exercise: Use YOLO to detect hot-rolled steel strip surface defects (NEU-DET dataset).
+
+
+  - ### SAR Image Detection
+    #### 合成孔径雷达图像检测
+
+    - [humblecoder612/SAR_yolov3](https://github.com/humblecoder612/SAR_yolov3) <img src="https://img.shields.io/github/stars/humblecoder612/SAR_yolov3?style=social"/> : Best Accruacy:speed ratio SAR Ship detection in the world.
+
+
   - ### Safety Monitoring Field Detection
     #### 安防监控领域检测
 
@@ -1077,18 +1100,6 @@
     - [dcmartin/motion-ai](https://github.com/dcmartin/motion-ai) <img src="https://img.shields.io/github/stars/dcmartin/motion-ai?style=social"/> : AI assisted motion detection for Home Assistant.
 
     - [Nico31415/Drowning-Detector](https://github.com/Nico31415/Drowning-Detector) <img src="https://img.shields.io/github/stars/Nico31415/Drowning-Detector?style=social"/> : Using YOLO object detection, this program will detect if a person is drowning.
-
-
-  - ### Industrial Defect Detection
-    #### 工业缺陷检测
-
-    - [annsonic/Steel_defect](https://github.com/annsonic/Steel_defect) <img src="https://img.shields.io/github/stars/annsonic/Steel_defect?style=social"/> : Exercise: Use YOLO to detect hot-rolled steel strip surface defects (NEU-DET dataset).
-
-
-  - ### SAR Image Detection
-    #### 合成孔径雷达图像检测
-
-    - [humblecoder612/SAR_yolov3](https://github.com/humblecoder612/SAR_yolov3) <img src="https://img.shields.io/github/stars/humblecoder612/SAR_yolov3?style=social"/> : Best Accruacy:speed ratio SAR Ship detection in the world.
 
 
   - ### Medical Field Detection
@@ -1237,6 +1248,8 @@
 
     - [BonesCat/YoloV5_PyQt5](https://github.com/BonesCat/YoloV5_PyQt5) <img src="https://img.shields.io/github/stars/BonesCat/YoloV5_PyQt5?style=social"/> : Add gui for YoloV5 using PyQt5.
 
+    - [LuckyBoy1798/yolov5-pyqt](https://github.com/LuckyBoy1798/yolov5-pyqt) <img src="https://img.shields.io/github/stars/LuckyBoy1798/yolov5-pyqt?style=social"/> : 基于yolov5+pyqt的图形化检测工具。
+
     - [PySimpleGUI/PySimpleGUI-YOLO](https://github.com/PySimpleGUI/PySimpleGUI-YOLO) <img src="https://img.shields.io/github/stars/PySimpleGUI/PySimpleGUI-YOLO?style=social"/> : A YOLO Artificial Intelligence algorithm demonstration using PySimpleGUI.
 
     - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) <img src="https://img.shields.io/github/stars/prabindh/qt5-opencv3-darknet?style=social"/> : Qt5 + Darknet/Yolo + OpenCV3.
@@ -1302,3 +1315,9 @@
     - [SahilChachra/Video-Analytics-Dashboard](https://github.com/SahilChachra/Video-Analytics-Dashboard) <img src="https://img.shields.io/github/stars/SahilChachra/Video-Analytics-Dashboard?style=social"/> : Video Analytics dashboard built using YoloV5 and Streamlit.
 
     - [isLinXu/YOLOv5_Efficient](https://github.com/isLinXu/YOLOv5_Efficient) <img src="https://img.shields.io/github/stars/isLinXu/YOLOv5_Efficient?style=social"/> : Use yolov5 efficiently(高效地使用Yolo v5).
+
+    - [HRan2004/Yolo-ArbV2](https://github.com/HRan2004/Yolo-ArbV2) <img src="https://img.shields.io/github/stars/HRan2004/Yolo-ArbV2?style=social"/> : Yolo-ArbV2 在完全保持YOLOv5功能情况下，实现可选多边形信息输出。
+
+    - [Badw0lf613/wmreading_system](https://github.com/Badw0lf613/wmreading_system) <img src="https://img.shields.io/github/stars/Badw0lf613/wmreading_system?style=social"/> : 基于YOLOv5的水表读数系统。
+
+    - [pooya-mohammadi/yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam) <img src="https://img.shields.io/github/stars/pooya-mohammadi/yolov5-gradcam?style=social"/> : Visualizing Yolov5's layers using GradCam.
