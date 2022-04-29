@@ -57,7 +57,7 @@
         - [Helmet Detection (头盔/安全帽检测)](#helmet-detection)
         - [Hand Detection (手部检测)](#hand-detection)
         - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
-        - [Action Detection (动作检测)](#action-detection)
+        - [Action Detection (行为检测)](#action-detection)
         - [Emotion Recognition (情感识别)](#emotion-recognition)
         - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
         - [Distance Measurement (距离测量)](#distance-measurement)
@@ -1007,7 +1007,7 @@
     - [insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5](https://github.com/insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5) Interactive ABC's with American Sign Language.
 
   - ### Action Detection
-    #### 动作检测
+    #### 行为检测
 
     - [wufan-tb/yolo_slowfast](https://github.com/wufan-tb/yolo_slowfast) <img src="https://img.shields.io/github/stars/wufan-tb/yolo_slowfast?style=social"/> : A realtime action detection frame work based on PytorchVideo.
 
@@ -1248,7 +1248,7 @@
 
     - [BonesCat/YoloV5_PyQt5](https://github.com/BonesCat/YoloV5_PyQt5) <img src="https://img.shields.io/github/stars/BonesCat/YoloV5_PyQt5?style=social"/> : Add gui for YoloV5 using PyQt5.
 
-    - [LuckyBoy1798/yolov5-pyqt](https://github.com/LuckyBoy1798/yolov5-pyqt) <img src="https://img.shields.io/github/stars/LuckyBoy1798/yolov5-pyqt?style=social"/> : 基于yolov5+pyqt的图形化检测工具。
+    - [LuckyBoy1798/yolov5-pyqt](https://github.com/LuckyBoy1798/yolov5-pyqt) <img src="https://img.shields.io/github/stars/LuckyBoy1798/yolov5-pyqt?style=social"/> : 基于yolov5+pyqt的甲骨文图形化检测工具。
 
     - [PySimpleGUI/PySimpleGUI-YOLO](https://github.com/PySimpleGUI/PySimpleGUI-YOLO) <img src="https://img.shields.io/github/stars/PySimpleGUI/PySimpleGUI-YOLO?style=social"/> : A YOLO Artificial Intelligence algorithm demonstration using PySimpleGUI.
 
