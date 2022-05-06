@@ -1216,6 +1216,9 @@
 
      - [qcjxs-hn/yolov5-csgo](https://github.com/qcjxs-hn/yolov5-csgo) <img src="https://img.shields.io/github/stars/qcjxs-hn/yolov5-csgo?style=social"/> : 这是一个根据教程写的csgo-ai和我自己训练的模型，还有数据集。
 
+     - [Sequoia](https://github.com/IgaoGuru/Sequoia) <img src="https://img.shields.io/github/stars/IgaoGuru/Sequoia?style=social"/> : A neural network for CounterStrike:GlobalOffensive character detection and classification. Built on a custom-made dataset (csgo-data-collector).
+
+
 
   - ### Automatic Annotation Tool
     #### 自动标注工具
@@ -1233,6 +1236,9 @@
     - [WangRongsheng/KDAT](https://github.com/WangRongsheng/KDAT) <img src="https://img.shields.io/github/stars/WangRongsheng/KDAT?style=social"/> : 一个专为视觉方向目标检测全流程的标注工具集，全称：Kill Object Detection Annotation Tools。 
 
     - [MNConnor/YoloV5-AI-Label](https://github.com/MNConnor/YoloV5-AI-Label) <img src="https://img.shields.io/github/stars/MNConnor/YoloV5-AI-Label?style=social"/> : YoloV5 AI Assisted Labeling. 
+
+    - [LILINOpenGitHub/Labeling-Tool](https://github.com/LILINOpenGitHub/Labeling-Tool) <img src="https://img.shields.io/github/stars/LILINOpenGitHub/Labeling-Tool?style=social"/> :Free YOLO AI labeling tool. YOLO AI labeling tool is a Windows app for labeling YOLO dataset. 
+
 
 
   - ### GUI
