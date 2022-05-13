@@ -24,7 +24,7 @@
     - [Extensional Frameworks](#extensional-frameworks)
     - [Applications](#applications)
         - [Lighter and Faster](#lighter-and-faster)
-          - [Lightweight Backbones (轻量级骨干网络)](#lightweight-backbones)
+          - [Lightweight Backbones (轻量级骨干网络和特征金字塔网络)](#lightweight-backbones-and-fpn)
           - [Pruning Distillation Quantization (剪枝 蒸馏 量化)](#pruning-distillation-quantization)
           - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
           - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
@@ -74,8 +74,10 @@
         - [Semantic Segmentation (语义分割)](#semantic-segmentation)
         - [Game Field Detection (游戏领域检测)](#game-field-detection)
         - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
+        - [Feature Map Visualization (特征图可视化)](#feature-map-visualization)
         - [GUI (图形用户界面)](#gui)
         - [Other Applications](#other-applications)
+
 
 
 ## YOLO Family
@@ -250,6 +252,8 @@
 
       - [Nebula4869/YOLOv5-LibTorch](https://github.com/Nebula4869/YOLOv5-LibTorch) <img src="https://img.shields.io/github/stars/Nebula4869/YOLOv5-LibTorch?style=social"/> : Real time object detection with deployment of YOLOv5 through LibTorch C++ API.
 
+      - [ncdhz/YoloV5-LibTorch](https://github.com/ncdhz/YoloV5-LibTorch) <img src="https://img.shields.io/github/stars/ncdhz/YoloV5-LibTorch?style=social"/> : 一个 C++ 版本的 YoloV5 封装库.
+
 
     - #### OpenCV Implementation
 
@@ -281,6 +285,8 @@
       - [Shua-Kang/ros_pytorch_yolov5](https://github.com/Shua-Kang/ros_pytorch_yolov5) <img src="https://img.shields.io/github/stars/Shua-Kang/ros_pytorch_yolov5?style=social"/> : A ROS wrapper for yolov5. (master branch is v5.0 of yolov5; for v6.1, see branch v6.1).
 
       - [ziyan0302/Yolov5_DeepSort_Pytorch_ros](https://github.com/ziyan0302/Yolov5_DeepSort_Pytorch_ros) <img src="https://img.shields.io/github/stars/ziyan0302/Yolov5_DeepSort_Pytorch_ros?style=social"/> : Connect Yolov5 detection module and DeepSort tracking module via ROS.
+
+      - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) <img src="https://img.shields.io/github/stars/U07157135/ROS2-with-YOLOv5?style=social"/> : 在無人機上以ROS2技術實現YOLOv5物件偵測。
 
 
     - #### CSharp Implementation
@@ -399,8 +405,8 @@
 
   - ### Lighter and Faster
 
-    - #### Lightweight Backbones
-      #### 轻量级骨干网络
+    - #### Lightweight Backbones and FPN
+      #### 轻量级骨干网络和特征金字塔网络
 
       - [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) <img src="https://img.shields.io/github/stars/dog-qiuqiu/MobileNet-Yolo?style=social"/> : MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB🔥🔥🔥.
 
@@ -422,6 +428,8 @@
 
       - [bubbliiiing/efficientnet-yolo3-pytorch](https://github.com/bubbliiiing/efficientnet-yolo3-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/efficientnet-yolo3-pytorch?style=social"/> : 这是一个efficientnet-yolo3-pytorch的源码，将yolov3的主干特征提取网络修改成了efficientnet。
 
+      - [XingZeng307/YOLOv5_with_BiFPN](https://github.com/XingZeng307/YOLOv5_with_BiFPN) <img src="https://img.shields.io/github/stars/XingZeng307/YOLOv5_with_BiFPN?style=social"/> : This repo is mainly for replacing PANet with BiFPN in YOLOv5.
+
 
     - #### Pruning Distillation Quantization
       #### 剪枝 蒸馏 量化
@@ -438,13 +446,15 @@
 
       - [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-FastestV2?style=social"/> : Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k。  (**[知乎 2021](https://zhuanlan.zhihu.com/p/400474142)**)
 
+      - [Gumpest/YOLOv5-Multibackbone-Compression](https://github.com/Gumpest/YOLOv5-Multibackbone-Compression) <img src="https://img.shields.io/github/stars/Gumpest/YOLOv5-Multibackbone-Compression?style=social"/> : YOLOv5 Series Multi-backbone(TPH-YOLOv5, Ghostnet, ShuffleNetv2, Mobilenetv3Small, EfficientNetLite, PP-LCNet, SwinTransformer YOLO), Module(CBAM, DCN), Pruning (EagleEye, Network Slimming) and Quantization (MQBench) Compression Tool Box.
+      
+      - [Syencil/mobile-yolov5-pruning-distillation](https://github.com/Syencil/mobile-yolov5-pruning-distillation) <img src="https://img.shields.io/github/stars/Syencil/mobile-yolov5-pruning-distillation?style=social"/> : mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！
+
       - [Lam1360/YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) <img src="https://img.shields.io/github/stars/Lam1360/YOLOv3-model-pruning?style=social"/> : 在 oxford hand 数据集上对 YOLOv3 做模型剪枝（network slimming）。
 
       - [tanluren/yolov3-channel-and-layer-pruning](https://github.com/tanluren/yolov3-channel-and-layer-pruning) <img src="https://img.shields.io/github/stars/tanluren/yolov3-channel-and-layer-pruning?style=social"/> : yolov3 yolov4 channel and layer pruning, Knowledge Distillation 层剪枝，通道剪枝，知识蒸馏。
 
       - [coldlarry/YOLOv3-complete-pruning](https://github.com/coldlarry/YOLOv3-complete-pruning) <img src="https://img.shields.io/github/stars/coldlarry/YOLOv3-complete-pruning?style=social"/> : 提供对YOLOv3及Tiny的多种剪枝版本，以适应不同的需求。
-
-      - [Syencil/mobile-yolov5-pruning-distillation](https://github.com/Syencil/mobile-yolov5-pruning-distillation) <img src="https://img.shields.io/github/stars/Syencil/mobile-yolov5-pruning-distillation?style=social"/> : mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！
 
       - [SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone](https://github.com/SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone) <img src="https://img.shields.io/github/stars/SpursLipu/YOLOv3v4-ModelCompression-MultidatasetTraining-Multibackbone?style=social"/> : YOLO ModelCompression MultidatasetTraining.
 
@@ -453,8 +463,6 @@
       - [AlexeyAB/yolo2_light](https://github.com/AlexeyAB/yolo2_light) <img src="https://img.shields.io/github/stars/AlexeyAB/yolo2_light?style=social"/> : Light version of convolutional neural network Yolo v3 & v2 for objects detection with a minimum of dependencies (INT8-inference, BIT1-XNOR-inference).
 
       - [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) <img src="https://img.shields.io/github/stars/ZJU-lishuang/yolov5_prune?style=social"/> : yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5.
-
-      - [Gumpest/YOLOv5-Multibackbone-Compression](https://github.com/Gumpest/YOLOv5-Multibackbone-Compression) <img src="https://img.shields.io/github/stars/Gumpest/YOLOv5-Multibackbone-Compression?style=social"/> : YOLOv5 Series Multi-backbone(TPH-YOLOv5, Ghostnet, ShuffleNetv2, Mobilenetv3Small, EfficientNetLite, PP-LCNet, SwinTransformer YOLO), Module(CBAM, DCN), Pruning (EagleEye, Network Slimming) and Quantization (MQBench) Compression Tool Box.
 
       - [midasklr/yolov5prune](https://github.com/midasklr/yolov5prune) <img src="https://img.shields.io/github/stars/midasklr/yolov5prune?style=social"/> : yolov5模型剪枝。
 
@@ -545,6 +553,8 @@
 
       - [KoheiKanagu/ncnn_yolox_flutter](https://github.com/KoheiKanagu/ncnn_yolox_flutter) <img src="https://img.shields.io/github/stars/KoheiKanagu/ncnn_yolox_flutter?style=social"/> : This is a plugin to run YOLOX on ncnn.
 
+      - [SsisyphusTao/Object-Detection-Knowledge-Distillation](https://github.com/SsisyphusTao/Object-Detection-Knowledge-Distillation) <img src="https://img.shields.io/github/stars/SsisyphusTao/Object-Detection-Knowledge-Distillation?style=social"/> : An Object Detection Knowledge Distillation framework powered by pytorch, now having SSD and yolov5. 
+
 
     - #### FPGA TPU RISC-V MCU Hardware Deployment
       #### FPGA TPU RISC-V MCU 硬件部署
@@ -614,6 +624,8 @@
       - [ZhenxinYUAN/YOLO_hi3516Deploy](https://github.com/ZhenxinYUAN/YOLO_hi3516Deploy) <img src="https://img.shields.io/github/stars/ZhenxinYUAN/YOLO_hi3516Deploy?style=social"/> : Deploy Yolo series algorithms on Hisilicon platform hi3516, including yolov3, yolov5, yolox, etc.
       
       - [jveitchmichaelis/edgetpu-yolo](https://github.com/jveitchmichaelis/edgetpu-yolo) <img src="https://img.shields.io/github/stars/jveitchmichaelis/edgetpu-yolo?style=social"/> : Minimal-dependency Yolov5 export and inference demonstration for the Google Coral EdgeTPU.
+
+      - [xiaqing10/Hisi_YoLoV5](https://github.com/xiaqing10/Hisi_YoLoV5) <img src="https://img.shields.io/github/stars/xiaqing10/Hisi_YoLoV5?style=social"/> : 海思nnie跑yolov5。
 
 
   - ### Video Object Detection
@@ -1218,6 +1230,9 @@
 
      - [Sequoia](https://github.com/IgaoGuru/Sequoia) <img src="https://img.shields.io/github/stars/IgaoGuru/Sequoia?style=social"/> : A neural network for CounterStrike:GlobalOffensive character detection and classification. Built on a custom-made dataset (csgo-data-collector).
 
+     - [ItGarbager/aimcf_yolov5](https://github.com/ItGarbager/aimcf_yolov5) <img src="https://img.shields.io/github/stars/ItGarbager/aimcf_yolov5?style=social"/> : 使用yolov5算法实现cf角色头部预测。
+
+
 
 
   - ### Automatic Annotation Tool
@@ -1239,6 +1254,11 @@
 
     - [LILINOpenGitHub/Labeling-Tool](https://github.com/LILINOpenGitHub/Labeling-Tool) <img src="https://img.shields.io/github/stars/LILINOpenGitHub/Labeling-Tool?style=social"/> :Free YOLO AI labeling tool. YOLO AI labeling tool is a Windows app for labeling YOLO dataset. 
 
+
+  - ### Feature Map Visualization
+    #### 特征图可视化
+    
+    - [pooya-mohammadi/yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam) <img src="https://img.shields.io/github/stars/pooya-mohammadi/yolov5-gradcam?style=social"/> : Visualizing Yolov5's layers using GradCam.
 
 
   - ### GUI
@@ -1326,4 +1346,6 @@
 
     - [Badw0lf613/wmreading_system](https://github.com/Badw0lf613/wmreading_system) <img src="https://img.shields.io/github/stars/Badw0lf613/wmreading_system?style=social"/> : 基于YOLOv5的水表读数系统。
 
-    - [pooya-mohammadi/yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam) <img src="https://img.shields.io/github/stars/pooya-mohammadi/yolov5-gradcam?style=social"/> : Visualizing Yolov5's layers using GradCam.
+    - [zgcr/SimpleAICV-pytorch-ImageNet-COCO-training](https://github.com/zgcr/SimpleAICV-pytorch-ImageNet-COCO-training) <img src="https://img.shields.io/github/stars/zgcr/SimpleAICV-pytorch-ImageNet-COCO-training?style=social"/> : SimpleAICV:pytorch training example on ImageNet(ILSVRC2012)/COCO2017/VOC2007+2012 datasets.Include ResNet/DarkNet/RetinaNet/FCOS/CenterNet/TTFNet/YOLOv3/YOLOv4/YOLOv5/YOLOX. 
+
+
