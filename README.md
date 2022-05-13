@@ -24,7 +24,7 @@
     - [Extensional Frameworks](#extensional-frameworks)
     - [Applications](#applications)
         - [Lighter and Faster](#lighter-and-faster)
-          - [Lightweight Backbones (轻量级骨干网络和特征金字塔网络)](#lightweight-backbones-and-fpn)
+          - [Lightweight Backbones and FPN (轻量级骨干网络和特征金字塔网络)](#lightweight-backbones-and-fpn)
           - [Pruning Distillation Quantization (剪枝 蒸馏 量化)](#pruning-distillation-quantization)
           - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
           - [FPGA TPU RISC-V MCU Hardware Deployment (FPGA TPU RISC-V MCU硬件部署)](#fpga-tpu-risc-v-mcu-hardware-deployment)
