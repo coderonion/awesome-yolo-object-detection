@@ -627,6 +627,8 @@
 
       - [xiaqing10/Hisi_YoLoV5](https://github.com/xiaqing10/Hisi_YoLoV5) <img src="https://img.shields.io/github/stars/xiaqing10/Hisi_YoLoV5?style=social"/> : 海思nnie跑yolov5。
 
+      - [BaronLeeLZP/hi3516dv300_nnie-yolov3-demo](https://github.com/BaronLeeLZP/hi3516dv300_nnie-yolov3-demo) <img src="https://img.shields.io/github/stars/BaronLeeLZP/hi3516dv300_nnie-yolov3-demo?style=social"/> : 在海思Hisilicon的Hi3516dv300芯片上，利用nnie和opencv库，简洁了官方yolov3用例中各种复杂的嵌套调用/复杂编译，提供了交叉编译后可成功上板部署运行的demo。
+
 
   - ### Video Object Detection
     #### 视频目标检测
