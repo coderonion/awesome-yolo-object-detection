@@ -81,6 +81,9 @@
 
 
 ## Review
+
+  - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO series projects. 
+
   - [GreenTeaHua/YOLO-Review](https://github.com/GreenTeaHua/YOLO-Review) <img src="https://img.shields.io/github/stars/GreenTeaHua/YOLO-Review?style=social"/> : "基于深度学习的YOLO目标检测综述". (**[电子与信息学报 2022](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT210790)**)
 
   - "A Review of Yolo Algorithm Developments". (**[Procedia Computer Science 2022](https://www.sciencedirect.com/science/article/pii/S1877050922001363)**)
