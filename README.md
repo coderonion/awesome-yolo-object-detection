@@ -635,6 +635,8 @@
 
       - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
 
+      - [NoScope](https://github.com/stanford-futuredata/noscope) <img src="https://img.shields.io/github/stars/stanford-futuredata/noscope?style=social"/> : "Noscope: optimizing neural network queries over video at scale". (**[arXiv 2017](https://arxiv.org/abs/1703.02529)**)
+
 
   - ### Object Tracking
     #### 目标跟踪
