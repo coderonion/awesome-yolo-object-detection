@@ -1280,7 +1280,9 @@
 
     - [MNConnor/YoloV5-AI-Label](https://github.com/MNConnor/YoloV5-AI-Label) <img src="https://img.shields.io/github/stars/MNConnor/YoloV5-AI-Label?style=social"/> : YoloV5 AI Assisted Labeling. 
 
-    - [LILINOpenGitHub/Labeling-Tool](https://github.com/LILINOpenGitHub/Labeling-Tool) <img src="https://img.shields.io/github/stars/LILINOpenGitHub/Labeling-Tool?style=social"/> :Free YOLO AI labeling tool. YOLO AI labeling tool is a Windows app for labeling YOLO dataset. 
+    - [LILINOpenGitHub/Labeling-Tool](https://github.com/LILINOpenGitHub/Labeling-Tool) <img src="https://img.shields.io/github/stars/LILINOpenGitHub/Labeling-Tool?style=social"/> : Free YOLO AI labeling tool. YOLO AI labeling tool is a Windows app for labeling YOLO dataset. 
+
+    - [whs0523003/YOLOv5_6.1_autolabel](https://github.com/whs0523003/YOLOv5_6.1_autolabel) <img src="https://img.shields.io/github/stars/whs0523003/YOLOv5_6.1_autolabel?style=social"/> : YOLOv5_6.1 自动标记目标框。 
 
 
   - ### Feature Map Visualization
