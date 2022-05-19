@@ -409,7 +409,9 @@
 
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
+  - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
 
+  
 ## Applications
 
   - ### Lighter and Faster
@@ -439,9 +441,14 @@
 
       - [XingZeng307/YOLOv5_with_BiFPN](https://github.com/XingZeng307/YOLOv5_with_BiFPN) <img src="https://img.shields.io/github/stars/XingZeng307/YOLOv5_with_BiFPN?style=social"/> : This repo is mainly for replacing PANet with BiFPN in YOLOv5.
 
+      - [HuKai97/YOLOv5-ShuffleNetv2](https://github.com/HuKai97/YOLOv5-ShuffleNetv2) <img src="https://img.shields.io/github/stars/HuKai97/YOLOv5-ShuffleNetv2?style=social"/> : YOLOv5的轻量化改进(蜂巢检测项目)。
+
+       
 
     - #### Pruning Distillation Quantization
       #### 剪枝 蒸馏 量化
+
+      - [SparseML](https://github.com/neuralmagic/sparseml) <img src="https://img.shields.io/github/stars/neuralmagic/sparseml?style=social"/> : Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models. "Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks". (**[PMLR 2020](http://proceedings.mlr.press/v119/kurtz20a.html)**). "Woodfisher: Efficient second-order approximation for neural network compression". (**[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)**)
 
       - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : YOLOv5-Lite：Lighter, faster and easier to deploy.
 
@@ -1280,6 +1287,8 @@
     #### 特征图可视化
     
     - [pooya-mohammadi/yolov5-gradcam](https://github.com/pooya-mohammadi/yolov5-gradcam) <img src="https://img.shields.io/github/stars/pooya-mohammadi/yolov5-gradcam?style=social"/> : Visualizing Yolov5's layers using GradCam.
+
+    - [TorchCAM](https://github.com/frgfm/torch-cam) <img src="https://img.shields.io/github/stars/frgfm/torch-cam?style=social"/> : Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM).
 
 
   - ### GUI
