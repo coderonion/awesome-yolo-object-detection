@@ -499,6 +499,8 @@
 
       - [chengpanghu/Knowledge-Distillation-yolov5](https://github.com/chengpanghu/Knowledge-Distillation-yolov5) <img src="https://img.shields.io/github/stars/chengpanghu/Knowledge-Distillation-yolov5?style=social"/> : Knowledge-Distillation-yolov5 基于yolov5的知识蒸馏。
 
+      - [Wulingtian/yolov5_tensorrt_int8](https://github.com/Wulingtian/yolov5_tensorrt_int8) <img src="https://img.shields.io/github/stars/Wulingtian/yolov5_tensorrt_int8?style=social"/> : TensorRT int8 量化部署 yolov5s 模型，实测3.3ms一帧！ 
+
 
     - #### High-performance Inference Engine
       #### 高性能推理引擎
@@ -1152,6 +1154,8 @@
 
     - [Nico31415/Drowning-Detector](https://github.com/Nico31415/Drowning-Detector) <img src="https://img.shields.io/github/stars/Nico31415/Drowning-Detector?style=social"/> : Using YOLO object detection, this program will detect if a person is drowning.
 
+    - [mc-cat-tty/DoorbellCamDaemon](https://github.com/mc-cat-tty/DoorbellCamDaemon) <img src="https://img.shields.io/github/stars/mc-cat-tty/DoorbellCamDaemon?style=social"/> : Part of DoorbellCam project: daemon for people recognition with YOLO from a RTSP video stream. 
+
 
   - ### Medical Field Detection
     #### 医学领域检测
@@ -1187,6 +1191,8 @@
     - [liao1fan/MGA-YOLO-for-apple-leaf-disease-detection](https://github.com/liao1fan/MGA-YOLO-for-apple-leaf-disease-detection) <img src="https://img.shields.io/github/stars/liao1fan/MGA-YOLO-for-apple-leaf-disease-detection?style=social"/> : MGA-YOLO: A Lightweight One-Stage Network for Apple Leaf Disease Detection. 
 
     - [tanmaypandey7/wheat-detection](https://github.com/tanmaypandey7/wheat-detection) <img src="https://img.shields.io/github/stars/tanmaypandey7/wheat-detection?style=social"/> : Detecting wheat heads using YOLOv5. 
+
+    - [WoodratTradeCo/crop-rows-detection](https://github.com/WoodratTradeCo/crop-rows-detection) <img src="https://img.shields.io/github/stars/WoodratTradeCo/crop-rows-detection?style=social"/> : It is an real-time crop rows detection method using YOLOv5. 
 
 
   - ### Adverse Weather Conditions
@@ -1355,6 +1361,8 @@
     - [hanzhuang111/Yolov5Wpf](https://github.com/hanzhuang111/Yolov5Wpf) <img src="https://img.shields.io/github/stars/hanzhuang111/Yolov5Wpf?style=social"/> : 使用ML.NET部署YOLOV5 的ONNX模型。
 
     - [MaikoKingma/yolo-winforms-test](https://github.com/MaikoKingma/yolo-winforms-test) <img src="https://img.shields.io/github/stars/MaikoKingma/yolo-winforms-test?style=social"/> : A Windows forms application that can execute pre-trained object detection models via ML.NET. In this instance the You Only Look Once version 4 (yolov4) is used.
+
+    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
 
 
   - ### Other Applications
