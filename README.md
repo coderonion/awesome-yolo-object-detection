@@ -860,6 +860,8 @@
   - ### Face Detection
     #### 人脸检测
 
+    - [InsightFace](https://github.com/deepinsight/insightface) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : State-of-the-art 2D and 3D Face Analysis Project. 
+
     - [OAID/TengineKit](https://github.com/OAID/TengineKit) <img src="https://img.shields.io/github/stars/OAID/TengineKit?style=social"/> : TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks & Iris Landmarks & Yolov5 SDK On Mobile. 
 
     - [YOLO5Face](https://github.com/deepcam-cn/yolov5-face) <img src="https://img.shields.io/github/stars/deepcam-cn/yolov5-face?style=social"/> : "YOLO5Face: Why Reinventing a Face Detector". (**[arXiv 2021](https://arxiv.org/abs/2105.12931)**)
