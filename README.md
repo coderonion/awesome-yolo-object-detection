@@ -864,6 +864,8 @@
 
     - [YOLO5Face](https://github.com/deepcam-cn/yolov5-face) <img src="https://img.shields.io/github/stars/deepcam-cn/yolov5-face?style=social"/> : "YOLO5Face: Why Reinventing a Face Detector". (**[arXiv 2021](https://arxiv.org/abs/2105.12931)**)
 
+    - [xialuxi/yolov5_face_landmark](https://github.com/xialuxi/yolov5_face_landmark) <img src="https://img.shields.io/github/stars/xialuxi/yolov5_face_landmark?style=social"/> : 基于yolov5的人脸检测，带关键点检测。
+
     - [sthanhng/yoloface](https://github.com/sthanhng/yoloface) <img src="https://img.shields.io/github/stars/sthanhng/yoloface?style=social"/> : Deep learning-based Face detection using the YOLOv3 algorithm. 
 
     - [DayBreak-u/yolo-face-with-landmark](https://github.com/DayBreak-u/yolo-face-with-landmark) <img src="https://img.shields.io/github/stars/DayBreak-u/yolo-face-with-landmark?style=social"/> : yoloface大礼包 使用pytroch实现的基于yolov3的轻量级人脸检测（包含关键点）。
@@ -873,8 +875,6 @@
     - [dannyblueliu/YOLO-Face-detection](https://github.com/dannyblueliu/YOLO-Face-detection) <img src="https://img.shields.io/github/stars/dannyblueliu/YOLO-Face-detection?style=social"/> : Face detection based on YOLO darknet.
 
     - [wmylxmj/YOLO-V3-IOU](https://github.com/wmylxmj/YOLO-V3-IOU) <img src="https://img.shields.io/github/stars/wmylxmj/YOLO-V3-IOU?style=social"/> : YOLO3 动漫人脸检测 (Based on keras and tensorflow) 2019-1-19.
-
-    - [xialuxi/yolov5_face_landmark](https://github.com/xialuxi/yolov5_face_landmark) <img src="https://img.shields.io/github/stars/xialuxi/yolov5_face_landmark?style=social"/> : 基于yolov5的人脸检测，带关键点检测。
 
     - [pranoyr/head-detection-using-yolo](https://github.com/pranoyr/head-detection-using-yolo) <img src="https://img.shields.io/github/stars/pranoyr/head-detection-using-yolo?style=social"/> : Detection of head using YOLO.
 
