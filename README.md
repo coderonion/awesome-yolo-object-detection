@@ -371,6 +371,8 @@
 
       - [muhk01/Yolov5-on-Flask](https://github.com/muhk01/Yolov5-on-Flask) <img src="https://img.shields.io/github/stars/muhk01/Yolov5-on-Flask?style=social"/> : Running YOLOv5 through web browser using Flask microframework.
 
+      - [tcyfree/yolov5](https://github.com/tcyfree/yolov5) <img src="https://img.shields.io/github/stars/tcyfree/yolov5?style=social"/> : 基于Flask开发后端、VUE开发前端框架，在WEB端部署YOLOv5目标检测模型。
+
 
     - #### Others
 
@@ -390,6 +392,11 @@
 
       - [Laughing-q/YOLO-Q](https://github.com/Laughing-q/YOLO-Q) <img src="https://img.shields.io/github/stars/Laughing-q/YOLO-Q?style=social"/> : A inference framework that support multi models of yolo5(torch and tensorrt), yolox(torch and tensorrt), nanodet(tensorrt), yolo-fastestV2(tensorrt) and yolov5-lite(tensorrt).
 
+      - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
+
+      - [1579093407/Yolov5_Magic](https://github.com/1579093407/Yolov5_Magic) <img src="https://img.shields.io/github/stars/1579093407/Yolov5_Magic?style=social"/> : Share some tricks of improving Yolov5 and experiment results. 分享一些关于改进Yolov5的tricks以及实验结果。
+
+
 
 ## Extensional Frameworks
 
@@ -408,8 +415,6 @@
   - [Alpha-IoU](https://github.com/Jacobi93/Alpha-IoU) <img src="https://img.shields.io/github/stars/Jacobi93/Alpha-IoU?style=social"/> : "Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/a8f15eda80c50adb0e71943adc8015cf-Abstract.html)**)
 
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
-
-  - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
 
   
 ## Applications
@@ -924,6 +929,8 @@
 
     - [JohnBetaCode/Social-Distancing-Analyser](https://github.com/JohnBetaCode/Social-Distancing-Analyser) <img src="https://img.shields.io/github/stars/JohnBetaCode/Social-Distancing-Analyser?style=social"/> : Social Distancing Analyzer.
 
+    - [Ashamaria/Safe-distance-tracker-using-YOLOv3-v3](https://github.com/Ashamaria/Safe-distance-tracker-using-YOLOv3-v3) <img src="https://img.shields.io/github/stars/Ashamaria/Safe-distance-tracker-using-YOLOv3-v3?style=social"/> : Safe Distance Tracker.
+
 
   - ### Intelligent Transportation Field Detection
     #### 智能交通领域检测
@@ -1236,6 +1243,7 @@
     - [ArtyZe/yolo_segmentation](https://github.com/ArtyZe/yolo_segmentation) <img src="https://img.shields.io/github/stars/ArtyZe/yolo_segmentation?style=social"/> : image (semantic segmentation) instance segmentation by darknet or yolo.
 
     - [midasklr/yolov5ds](https://github.com/midasklr/yolov5ds) <img src="https://img.shields.io/github/stars/midasklr/yolov5ds?style=social"/> : multi-task yolov5 with detection and segmentation.
+
 
   - ### Game Field Detection
     #### 游戏领域检测
