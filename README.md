@@ -396,6 +396,7 @@
 
       - [1579093407/Yolov5_Magic](https://github.com/1579093407/Yolov5_Magic) <img src="https://img.shields.io/github/stars/1579093407/Yolov5_Magic?style=social"/> : Share some tricks of improving Yolov5 and experiment results. 分享一些关于改进Yolov5的tricks以及实验结果。
 
+      - [tiquasar/FLAITER](https://github.com/tiquasar/FLAITER) <img src="https://img.shields.io/github/stars/tiquasar/FLAITER?style=social"/> : Machine Learning and AI Mobile Application.
 
 
 ## Extensional Frameworks
@@ -1047,18 +1048,23 @@
 
     - [RUI-LIU7/Helmet_Detection](https://github.com/RUI-LIU7/Helmet_Detection)) <img src="https://img.shields.io/github/stars/RUI-LIU7/Helmet_Detection?style=social"/> : 使用yolov5算法实现安全帽以及危险区域的监测，同时接入海康摄像头实现实时监测。
 
+
   - ### Hand Detection
     #### 手部检测
 
     - [cansik/yolo-hand-detection](https://github.com/cansik/yolo-hand-detection) <img src="https://img.shields.io/github/stars/cansik/yolo-hand-detection?style=social"/> : A pre-trained YOLO based hand detection network.
+
 
   - ### Gesture Recognition
     #### 手势/手语识别
 
     - [MahmudulAlam/Unified-Gesture-and-Fingertip-Detection](https://github.com/MahmudulAlam/Unified-Gesture-and-Fingertip-Detection) <img src="https://img.shields.io/github/stars/MahmudulAlam/Unified-Gesture-and-Fingertip-Detection?style=social"/> : "Unified learning approach for egocentric hand gesture recognition and fingertip detection". (**[Elsevier 2022](https://www.sciencedirect.com/science/article/abs/pii/S0031320321003824)**)
 
-    - [insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5](https://github.com/insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5) Interactive ABC's with American Sign Language.
+    - [insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5](https://github.com/insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5) <img src="https://img.shields.io/github/stars/insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5?style=social"/> : Interactive ABC's with American Sign Language.
 
+    - [Dreaming-future/YOLO-Object-Detection](https://github.com/Dreaming-future/YOLO-Object-Detection) <img src="https://img.shields.io/github/stars/Dreaming-future/YOLO-Object-Detection?style=social"/> :  YOLO-Object-Detection 集成多种yolo模型，作为一个模板进行目标检测。
+
+    
   - ### Action Detection
     #### 行为检测
 
@@ -1156,6 +1162,8 @@
 
     - [mc-cat-tty/DoorbellCamDaemon](https://github.com/mc-cat-tty/DoorbellCamDaemon) <img src="https://img.shields.io/github/stars/mc-cat-tty/DoorbellCamDaemon?style=social"/> : Part of DoorbellCam project: daemon for people recognition with YOLO from a RTSP video stream. 
 
+    - [Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5](https://github.com/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5) <img src="https://img.shields.io/github/stars/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5?style=social"/> : 2022-1 Individual Research Assignment: Using YOLOv5 to simply recognize each type of fire. 
+
 
   - ### Medical Field Detection
     #### 医学领域检测
@@ -1197,6 +1205,8 @@
 
   - ### Adverse Weather Conditions
     #### 恶劣天气情况
+
+    - [LLVIP](https://github.com/bupt-ai-cz/LLVIP) <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-infrared Paired Dataset for Low-light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
 
     - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**). "计算机视觉研究院：《[图像自适应YOLO：模糊环境下的目标检测（附源代码）](https://mp.weixin.qq.com/s/QdM6Dx990VhN97MRIP74XA)》"
 
