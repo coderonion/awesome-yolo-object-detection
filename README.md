@@ -880,6 +880,10 @@
 
     - [hukaixuan19970627/DOTA_devkit_YOLO](https://github.com/hukaixuan19970627/DOTA_devkit_YOLO) <img src="https://img.shields.io/github/stars/hukaixuan19970627/DOTA_devkit_YOLO?style=social"/> : Trans DOTA OBB format(poly format) to YOLO format.
 
+    - [hpc203/rotate-yolov5-opencv-onnxrun](https://github.com/hpc203/rotate-yolov5-opencv-onnxrun) <img src="https://img.shields.io/github/stars/hpc203/rotate-yolov5-opencv-onnxrun?style=social"/> : 分别使用OpenCV、ONNXRuntime部署yolov5旋转目标检测，包含C++和Python两个版本的程序。
+
+    - [hpc203/rotateyolov5-opencv-onnxrun](https://github.com/hpc203/rotateyolov5-opencv-onnxrun) <img src="https://img.shields.io/github/stars/hpc203/rotateyolov5-opencv-onnxrun?style=social"/> : 分别使用OpenCV，ONNXRuntime部署yolov5旋转目标检测，包含C++和Python两个版本的程序。
+
 
   - ### Face Detection
     #### 人脸检测
@@ -1107,6 +1111,8 @@
     - [zhuoxiangpang/ism_person_openpose](https://github.com/zhuoxiangpang/ism_person_openpose) <img src="https://img.shields.io/github/stars/zhuoxiangpang/ism_person_openpose?style=social"/> : yolov5人体检测+openpose姿态检测 实现摔倒检测。
 
     - [pengyang1225/yolov5_person_pose](https://github.com/pengyang1225/yolov5_person_pose) <img src="https://img.shields.io/github/stars/pengyang1225/yolov5_person_pose?style=social"/> : 基于yolov5的person—pose。
+
+    - [hpc203/yolov5_pose_opencv](https://github.com/hpc203/yolov5_pose_opencv) <img src="https://img.shields.io/github/stars/hpc203/yolov5_pose_opencv?style=social"/> : 使用OpenCV部署yolov5-pose目标检测+人体姿态估计，包含C++和Python两个版本的程序。支持yolov5s，yolov5m，yolov5l。
 
 
   - ### Distance Measurement
