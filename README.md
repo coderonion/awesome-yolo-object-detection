@@ -222,6 +222,8 @@
 
       - [geekjr/quickai](https://github.com/geekjr/quickai) <img src="https://img.shields.io/github/stars/geekjr/quickai?style=social"/> : QuickAI is a Python library that makes it extremely easy to experiment with state-of-the-art Machine Learning models.
 
+      - [CV_Lab/yolov5_rt_tfjs](https://gitee.com/CV_Lab/yolov5_rt_tfjs) : 🚀 基于TensorFlow.js的YOLOv5实时目标检测项目。
+
 
     - #### PaddlePaddle Implementation
  
@@ -939,6 +941,8 @@
     - [BogdanMarghescu/Face-Mask-Detection-Using-YOLOv4](https://github.com/BogdanMarghescu/Face-Mask-Detection-Using-YOLOv4) <img src="https://img.shields.io/github/stars/BogdanMarghescu/Face-Mask-Detection-Using-YOLOv4?style=social"/> : Face Mask Detector using YOLOv4.
 
     - [xinghanliuying/yolov5_bus](https://github.com/xinghanliuying/yolov5_bus) <img src="https://img.shields.io/github/stars/xinghanliuying/yolov5_bus?style=social"/> : 手把手教你使用YOLOV5训练自己的目标检测模型。
+
+    - [song-laogou/yolov5-mask-42](https://gitee.com/song-laogou/yolov5-mask-42) : 基于YOLOV5的口罩检测系统-提供教学视频。
 
 
   - ### Social Distance Detection
