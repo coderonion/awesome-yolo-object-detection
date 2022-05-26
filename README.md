@@ -103,7 +103,7 @@
 
     - [Scaled-YOLOv4](https://github.com/AlexeyAB/darknet) <img src="https://img.shields.io/github/stars/AlexeyAB/darknet?style=social"/> ([PyTorch version](https://github.com/WongKinYiu/ScaledYOLOv4) <img src="https://img.shields.io/github/stars/WongKinYiu/ScaledYOLOv4?style=social"/>) : "Scaled-YOLOv4: Scaling Cross Stage Partial Network". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)**)
 
-    - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) <img src="https://img.shields.io/github/stars/ultralytics/yolov5?style=social"/> : YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite.
+    - [YOLOv5](https://github.com/ultralytics/yolov5) <img src="https://img.shields.io/github/stars/ultralytics/yolov5?style=social"/> : YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite.
 
   - ### Other Versions
 
