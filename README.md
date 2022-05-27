@@ -84,6 +84,8 @@
 
   - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO series projects. 
 
+  - [srebroa/awesome-yolo](https://github.com/srebroa/awesome-yolo) <img src="https://img.shields.io/github/stars/srebroa/awesome-yolo?style=social"/> : 🚀 ⭐ The list of the most popular YOLO algorithms - awesome YOLO. 
+
   - [GreenTeaHua/YOLO-Review](https://github.com/GreenTeaHua/YOLO-Review) <img src="https://img.shields.io/github/stars/GreenTeaHua/YOLO-Review?style=social"/> : "A Review of YOLO Object Detection Based on Deep Learning". "基于深度学习的YOLO目标检测综述". (**[Journal of Electronics & Information Technology 2022](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT210790)**)
 
   - "A Review of Yolo Algorithm Developments". (**[Procedia Computer Science 2022](https://www.sciencedirect.com/science/article/pii/S1877050922001363)**)
@@ -433,6 +435,10 @@
 
       - [murufeng/awesome_lightweight_networks](https://github.com/murufeng/awesome_lightweight_networks) <img src="https://img.shields.io/github/stars/murufeng/awesome_lightweight_networks?style=social"/> : The implementation of various lightweight networks by using PyTorch. such as：MobileNetV2，MobileNeXt，GhostNet，ParNet，MobileViT、AdderNet，ShuffleNetV1-V2，LCNet，ConvNeXt，etc. ⭐⭐⭐⭐⭐
 
+      - [yl305237731/flexible-yolov5](https://github.com/yl305237731/flexible-yolov5) <img src="https://img.shields.io/github/stars/yl305237731/flexible-yolov5?style=social"/> : More readable and flexible yolov5 with more backbone(resnet, shufflenet, moblienet, efficientnet, hrnet, swin-transformer) and (cbam，dcn and so on), and tensorrt.
+
+      - [XingZeng307/YOLOv5_with_BiFPN](https://github.com/XingZeng307/YOLOv5_with_BiFPN) <img src="https://img.shields.io/github/stars/XingZeng307/YOLOv5_with_BiFPN?style=social"/> : This repo is mainly for replacing PANet with BiFPN in YOLOv5.
+
       - [dog-qiuqiu/MobileNet-Yolo](https://github.com/dog-qiuqiu/MobileNet-Yolo) <img src="https://img.shields.io/github/stars/dog-qiuqiu/MobileNet-Yolo?style=social"/> : MobileNetV2-YoloV3-Nano: 0.5BFlops 3MB HUAWEI P40: 6ms/img, YoloFace-500k:0.1Bflops 420KB🔥🔥🔥.
 
       - [eric612/MobileNet-YOLO](https://github.com/eric612/MobileNet-YOLO) <img src="https://img.shields.io/github/stars/eric612/MobileNet-YOLO?style=social"/> : A caffe implementation of MobileNet-YOLO detection network.
@@ -443,8 +449,6 @@
 
       - [fsx950223/mobilenetv2-yolov3](https://github.com/fsx950223/mobilenetv2-yolov3) <img src="https://img.shields.io/github/stars/fsx950223/mobilenetv2-yolov3?style=social"/> : yolov3 with mobilenetv2 and efficientnet.
 
-      - [yl305237731/flexible-yolov5](https://github.com/yl305237731/flexible-yolov5) <img src="https://img.shields.io/github/stars/yl305237731/flexible-yolov5?style=social"/> : More readable and flexible yolov5 with more backbone(resnet, shufflenet, moblienet, efficientnet, hrnet, swin-transformer) and (cbam，dcn and so on), and tensorrt.
-
       - [liux0614/yolo_nano](https://github.com/liux0614/yolo_nano) <img src="https://img.shields.io/github/stars/liux0614/yolo_nano?style=social"/> : Unofficial implementation of yolo nano.
 
       - [lingtengqiu/Yolo_Nano](https://github.com/lingtengqiu/Yolo_Nano) <img src="https://img.shields.io/github/stars/lingtengqiu/Yolo_Nano?style=social"/> : Pytorch implementation of yolo_Nano for pedestrian detection.
@@ -453,11 +457,10 @@
 
       - [bubbliiiing/efficientnet-yolo3-pytorch](https://github.com/bubbliiiing/efficientnet-yolo3-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/efficientnet-yolo3-pytorch?style=social"/> : 这是一个efficientnet-yolo3-pytorch的源码，将yolov3的主干特征提取网络修改成了efficientnet。
 
-      - [XingZeng307/YOLOv5_with_BiFPN](https://github.com/XingZeng307/YOLOv5_with_BiFPN) <img src="https://img.shields.io/github/stars/XingZeng307/YOLOv5_with_BiFPN?style=social"/> : This repo is mainly for replacing PANet with BiFPN in YOLOv5.
-
       - [HuKai97/YOLOv5-ShuffleNetv2](https://github.com/HuKai97/YOLOv5-ShuffleNetv2) <img src="https://img.shields.io/github/stars/HuKai97/YOLOv5-ShuffleNetv2?style=social"/> : YOLOv5的轻量化改进(蜂巢检测项目)。
 
-       
+      - [YOLO-ReT](https://github.com/guotao0628/yoloret) <img src="https://img.shields.io/github/stars/guotao0628/yoloret?style=social"/> : "YOLO-ReT: Towards High Accuracy Real-time Object Detection on Edge GPUs". (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Ganesh_YOLO-ReT_Towards_High_Accuracy_Real-Time_Object_Detection_on_Edge_GPUs_WACV_2022_paper.html)**)
+
 
     - #### Pruning Knoweldge-Distillation Quantization
       #### 剪枝 知识蒸馏 量化
