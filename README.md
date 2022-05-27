@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome YOLO series projects.
+🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome YOLO object detection series projects.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
@@ -82,7 +82,7 @@
 
 ## Review
 
-  - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO series projects. 
+  - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
 
   - [srebroa/awesome-yolo](https://github.com/srebroa/awesome-yolo) <img src="https://img.shields.io/github/stars/srebroa/awesome-yolo?style=social"/> : 🚀 ⭐ The list of the most popular YOLO algorithms - awesome YOLO. 
 
