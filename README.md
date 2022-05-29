@@ -330,6 +330,8 @@
 
       - [Celine-Hsieh/Hand_Gesture_Training--yolov4](https://github.com/Celine-Hsieh/Hand_Gesture_Training--yolov4) <img src="https://img.shields.io/github/stars/Celine-Hsieh/Hand_Gesture_Training--yolov4?style=social"/> : Recognize the gestures' features using the YOLOv4 algorithm.
 
+      - [lin-tea/YOLOv5DetectionWithCSharp](https://github.com/lin-tea/YOLOv5DetectionWithCSharp) <img src="https://img.shields.io/github/stars/lin-tea/YOLOv5DetectionWithCSharp?style=social"/> : YOLOv5s inference In C# and Training In Python.
+
 
     - #### Rust Implementation
 
@@ -1137,17 +1139,17 @@
   - ### 3D Object Detection
     #### 三维目标检测
 
-    - [maudzung/YOLO3D-YOLOv4-PyTorch](https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch) <img src="https://img.shields.io/github/stars/maudzung/YOLO3D-YOLOv4-PyTorch?style=social"/> : The PyTorch Implementation based on YOLOv4 of the paper: YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud. (**[ECCV 2018](https://openaccess.thecvf.com/content_eccv_2018_workshops/w18/html/Ali_YOLO3D_End-to-end_real-time_3D_Oriented_Object_Bounding_Box_Detection_from_ECCVW_2018_paper.html)**)
+    - [maudzung/YOLO3D-YOLOv4-PyTorch](https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch) <img src="https://img.shields.io/github/stars/maudzung/YOLO3D-YOLOv4-PyTorch?style=social"/> : The PyTorch Implementation based on YOLOv4 of the paper: "YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud". (**[ECCV 2018](https://openaccess.thecvf.com/content_eccv_2018_workshops/w18/html/Ali_YOLO3D_End-to-end_real-time_3D_Oriented_Object_Bounding_Box_Detection_from_ECCVW_2018_paper.html)**)
 
     - [maudzung/Complex-YOLOv4-Pytorch](https://github.com/maudzung/Complex-YOLOv4-Pytorch) <img src="https://img.shields.io/github/stars/maudzung/Complex-YOLOv4-Pytorch?style=social"/> : The PyTorch Implementation based on YOLOv4 of the paper: "Complex-YOLO: Real-time 3D Object Detection on Point Clouds". (**[arXiv 2018](https://arxiv.org/abs/1803.06199)**)
 
-    - [AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) <img src="https://img.shields.io/github/stars/AI-liu/Complex-YOLO?style=social"/> : This is an unofficial implementation of Complex-YOLO: Real-time 3D Object Detection on Point Clouds in pytorch.
+    - [AI-liu/Complex-YOLO](https://github.com/AI-liu/Complex-YOLO) <img src="https://img.shields.io/github/stars/AI-liu/Complex-YOLO?style=social"/> : This is an unofficial implementation of "Complex-YOLO: Real-time 3D Object Detection on Point Clouds in pytorch". (**[arXiv 2018](https://arxiv.org/abs/1803.06199)**)
 
-    - [ghimiredhikura/Complex-YOLOv3](https://github.com/ghimiredhikura/Complex-YOLOv3) <img src="https://img.shields.io/github/stars/ghimiredhikura/Complex-YOLOv3?style=social"/> : Complete but Unofficial PyTorch Implementation of Complex-YOLO: Real-time 3D Object Detection on Point Clouds with YoloV3.
+    - [ghimiredhikura/Complex-YOLOv3](https://github.com/ghimiredhikura/Complex-YOLOv3) <img src="https://img.shields.io/github/stars/ghimiredhikura/Complex-YOLOv3?style=social"/> : Complete but Unofficial PyTorch Implementation of "Complex-YOLO: Real-time 3D Object Detection on Point Clouds with YoloV3". (**[arXiv 2018](https://arxiv.org/abs/1803.06199)**)
+
+    - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) <img src="https://img.shields.io/github/stars/ruhyadi/YOLO3D?style=social"/> : YOLO 3D Object Detection for Autonomous Driving Vehicle. Reference by [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox), "3D Bounding Box Estimation Using Deep Learning and Geometry". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Mousavian_3D_Bounding_Box_CVPR_2017_paper.html)**)
 
     - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) <img src="https://img.shields.io/github/stars/Yuanchu/YOLO3D?style=social"/> : Implementation of a basic YOLO model for object detection in 3D.
-
-    - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) <img src="https://img.shields.io/github/stars/ruhyadi/YOLO3D?style=social"/> : YOLO 3D Object Detection for Autonomous Driving Vehicle.
 
     - [EmiyaNing/3D-YOLO](https://github.com/EmiyaNing/3D-YOLO) <img src="https://img.shields.io/github/stars/EmiyaNing/3D-YOLO?style=social"/> : YOLO v5 for Lidar-based 3D BEV Detection.
 
