@@ -127,6 +127,8 @@
 
       - [longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch) <img src="https://img.shields.io/github/stars/longcw/yolo2-pytorch?style=social"/> : YOLOv2 in PyTorch.
 
+      - [bubbliiiing/yolov5-v6.1-pytorch](https://github.com/bubbliiiing/yolov5-v6.1-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov5-v6.1-pytorch?style=social"/> : 这是一个yolov5-v6.1-pytorch的源码，可以用于训练自己的模型。 
+
       - [bubbliiiing/yolov5-pytorch](https://github.com/bubbliiiing/yolov5-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov5-pytorch?style=social"/> : 这是一个YoloV5-pytorch的源码，可以用于训练自己的模型。
 
       - [bubbliiiing/yolov4-pytorch](https://github.com/bubbliiiing/yolov4-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov4-pytorch?style=social"/> : 这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。
@@ -410,6 +412,8 @@
 
       - [tiquasar/FLAITER](https://github.com/tiquasar/FLAITER) <img src="https://img.shields.io/github/stars/tiquasar/FLAITER?style=social"/> : Machine Learning and AI Mobile Application.
 
+      - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
+
 
 ## Extensional Frameworks
 
@@ -486,6 +490,8 @@
       - [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) <img src="https://img.shields.io/github/stars/ZJU-lishuang/yolov5_prune?style=social"/> : yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5.
 
       - [midasklr/yolov5prune](https://github.com/midasklr/yolov5prune) <img src="https://img.shields.io/github/stars/midasklr/yolov5prune?style=social"/> : yolov5模型剪枝。
+
+      - [uyzhang/yolov5_prune](https://github.com/uyzhang/yolov5_prune) <img src="https://img.shields.io/github/stars/uyzhang/yolov5_prune?style=social"/> : Yolov5 pruning on COCO Dataset.
 
       - [Syencil/mobile-yolov5-pruning-distillation](https://github.com/Syencil/mobile-yolov5-pruning-distillation) <img src="https://img.shields.io/github/stars/Syencil/mobile-yolov5-pruning-distillation?style=social"/> : mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！
 
@@ -813,6 +819,8 @@
 
     - [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) <img src="https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch?style=social"/> : 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐.
 
+    - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) <img src="https://img.shields.io/github/stars/MenghaoGuo/Awesome-Vision-Attentions?style=social"/> : Summary of related papers on visual attention. Related code will be released based on Jittor gradually. "Attention Mechanisms in Computer Vision: A Survey". (**[arXiv 2021](https://arxiv.org/abs/2111.07624)**)
+
     - [HaloTrouvaille/YOLO-Multi-Backbones-Attention](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention) <img src="https://img.shields.io/github/stars/HaloTrouvaille/YOLO-Multi-Backbones-Attention?style=social"/> : This Repository includes YOLOv3 with some lightweight backbones (ShuffleNetV2, GhostNet, VoVNet), some computer vision attention mechanism (SE Block, CBAM Block, ECA Block), pruning,quantization and distillation for GhostNet.
 
     - [kay-cottage/CoordAttention_YOLOX_Pytorch](https://github.com/kay-cottage/CoordAttention_YOLOX_Pytorch) <img src="https://img.shields.io/github/stars/kay-cottage/CoordAttention_YOLOX_Pytorch?style=social"/> : CoordAttention_YOLOX(基于CoordAttention坐标注意力机制的改进版YOLOX目标检测平台）。 "Coordinate Attention for Efficient Mobile Network Design". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.html), [ Andrew-Qibin/CoordAttention](https://github.com/Andrew-Qibin/CoordAttention)**)
@@ -998,6 +1006,9 @@
       - [TheophileBuy/LicensePlateRecognition](https://github.com/TheophileBuy/LicensePlateRecognition) <img src="https://img.shields.io/github/stars/TheophileBuy/LicensePlateRecognition?style=social"/> : License Plate Recognition.
 
       - [alitourani/yolo-license-plate-detection](https://github.com/alitourani/yolo-license-plate-detection) <img src="https://img.shields.io/github/stars/alitourani/yolo-license-plate-detection?style=social"/> : A License-Plate detecttion application based on YOLO.
+
+      - [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) <img src="https://img.shields.io/github/stars/HuKai97/YOLOv5-LPRNet-Licence-Recognition?style=social"/> : 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）。 
+
 
     - ####  Lane Detection
       #####  车道线检测
