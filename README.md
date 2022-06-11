@@ -41,7 +41,7 @@
         - [Small Object Detection (小目标检测)](#small-object-detection)
         - [Few-shot Object Detection (少样本目标检测)](#few-shot-object-detection)
         - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
-        - [Face Detection (人脸检测)](#face-detection)
+        - [Face Detection and Recognition (人脸检测与识别)](#face-detection-and-recognition)
         - [Face Mask Detection (口罩检测)](#face-mask-detection)
         - [Social Distance Detection (社交距离检测)](#social-distance-detection)
         - [Intelligent Transportation Field Detection (智能交通领域检测)](#intelligent-transportation-field-detection)
@@ -900,8 +900,8 @@
     - [hpc203/rotateyolov5-opencv-onnxrun](https://github.com/hpc203/rotateyolov5-opencv-onnxrun) <img src="https://img.shields.io/github/stars/hpc203/rotateyolov5-opencv-onnxrun?style=social"/> : 分别使用OpenCV，ONNXRuntime部署yolov5旋转目标检测，包含C++和Python两个版本的程序。
 
 
-  - ### Face Detection
-    #### 人脸检测
+  - ### Face Detection and Recognition
+    #### 人脸检测与识别
 
     - [InsightFace](https://github.com/deepinsight/insightface) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : State-of-the-art 2D and 3D Face Analysis Project. 
 
@@ -928,6 +928,8 @@
     - [hpc203/10kinds-light-face-detector-align-recognition](https://github.com/hpc203/10kinds-light-face-detector-align-recognition) <img src="https://img.shields.io/github/stars/hpc203/10kinds-light-face-detector-align-recognition?style=social"/> : 10种轻量级人脸检测算法的比拼。
 
     - [Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking](https://github.com/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking) <img src="https://img.shields.io/github/stars/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking?style=social"/> : This is a robot project for television live. System will tracking the host's face, making the face in the middle of the screen.
+
+    - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
 
 
   - ### Face Mask Detection
@@ -1008,6 +1010,8 @@
       - [alitourani/yolo-license-plate-detection](https://github.com/alitourani/yolo-license-plate-detection) <img src="https://img.shields.io/github/stars/alitourani/yolo-license-plate-detection?style=social"/> : A License-Plate detecttion application based on YOLO.
 
       - [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) <img src="https://img.shields.io/github/stars/HuKai97/YOLOv5-LPRNet-Licence-Recognition?style=social"/> : 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）。 
+
+      - [xialuxi/yolov5-car-plate](https://github.com/xialuxi/yolov5-car-plate) <img src="https://img.shields.io/github/stars/xialuxi/yolov5-car-plate?style=social"/> : 基于yolov5的车牌检测，包含车牌角点检测。 
 
 
     - ####  Lane Detection
@@ -1330,7 +1334,7 @@
 
      - [ItGarbager/aimcf_yolov5](https://github.com/ItGarbager/aimcf_yolov5) <img src="https://img.shields.io/github/stars/ItGarbager/aimcf_yolov5?style=social"/> : 使用yolov5算法实现cf角色头部预测。
 
-
+     - [jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5](https://github.com/jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5) <img src="https://img.shields.io/github/stars/jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5?style=social"/> :Target Detection for CSGO by YOLOv5.
 
 
   - ### Automatic Annotation Tool
