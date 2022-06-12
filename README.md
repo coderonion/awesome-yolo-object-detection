@@ -356,6 +356,8 @@
 
       - [wimspaargaren/yolov5](https://github.com/wimspaargaren/yolov5) <img src="https://img.shields.io/github/stars/wimspaargaren/yolov5?style=social"/> : Go implementation of the yolo v5 object detection system.    
 
+      - [genert/real_time_object_detection_go](https://github.com/genert/real_time_object_detection_go) <img src="https://img.shields.io/github/stars/genert/real_time_object_detection_go?style=social"/> : Real Time Object Detection with OpenCV, Go, and Yolo v4.    
+
 
     - #### Web Implementation
 
@@ -1229,6 +1231,7 @@
 
   - ### Medical Field Detection
     #### 医学领域检测
+
     - [DataXujing/YOLO-v5](https://github.com/DataXujing/YOLO-v5) <img src="https://img.shields.io/github/stars/DataXujing/YOLO-v5?style=social"/> : YOLO v5在医疗领域中消化内镜目标检测的应用。
 
     - [Jafar-Abdollahi/Automated-detection-of-COVID-19-cases-using-deep-neural-networks-with-CTS-images](https://github.com/Jafar-Abdollahi/Automated-detection-of-COVID-19-cases-using-deep-neural-networks-with-CTS-images) <img src="https://img.shields.io/github/stars/Jafar-Abdollahi/Automated-detection-of-COVID-19-cases-using-deep-neural-networks-with-CTS-images?style=social"/> : In this project, a new model for automatic detection of covid-19 using raw chest X-ray images is presented. 
@@ -1247,6 +1250,7 @@
 
     - [LuozyCS/skin_disease_detection_yolov5](https://github.com/LuozyCS/skin_disease_detection_yolov5) <img src="https://img.shields.io/github/stars/LuozyCS/skin_disease_detection_yolov5?style=social"/> : skin_disease_detection_yolov5.
 
+    - [Moqixis/object_detection_yolov5_deepsort](https://github.com/Moqixis/object_detection_yolov5_deepsort) <img src="https://img.shields.io/github/stars/Moqixis/object_detection_yolov5_deepsort?style=social"/> : 基于yolov5+deepsort的息肉目标检测。
 
 
   - ### Chemistry Field Detection
