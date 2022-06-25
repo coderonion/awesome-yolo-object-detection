@@ -1025,6 +1025,10 @@
 
       - [JeffWang0325/Image-Identification-for-Self-Driving-Cars](https://github.com/JeffWang0325/Image-Identification-for-Self-Driving-Cars) <img src="https://img.shields.io/github/stars/JeffWang0325/Image-Identification-for-Self-Driving-Cars?style=social"/> :  This project achieves some functions of image identification for Self-Driving Cars.
 
+      - [AnarbekovAlt/Traffic-analysis](https://github.com/AnarbekovAlt/Traffic-analysis) <img src="https://img.shields.io/github/stars/AnarbekovAlt/Traffic-analysis?style=social"/> : A traffic analysis system is built on the basis of the YOLO network.
+
+
+
     - ####  License Plate Detection
       #####  车牌检测
 
@@ -1068,6 +1072,9 @@
       - [berktepebag/Traffic-light-detection-with-YOLOv3-BOSCH-traffic-light-dataset](https://github.com/berktepebag/Traffic-light-detection-with-YOLOv3-BOSCH-traffic-light-dataset) <img src="https://img.shields.io/github/stars/berktepebag/Traffic-light-detection-with-YOLOv3-BOSCH-traffic-light-dataset?style=social"/> : Detecting Traffic Lights in Real-time with YOLOv3.
 
       - [mihir-m-gandhi/Adaptive-Traffic-Signal-Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) <img src="https://img.shields.io/github/stars/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?style=social"/> : This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for real-time traffic density calculation using YOLO object detection and sets the signal timers accordingly.
+
+      - [wade0125/Traffic_Light_Detection_Yolo](https://github.com/wade0125/Traffic_Light_Detection_Yolo) <img src="https://img.shields.io/github/stars/wade0125/Traffic_Light_Detection_Yolo?style=social"/> : Traffic Light Detection Yolo.
+
 
     - ####  Traffic Sign Detection
       #####  交通标志检测
@@ -1324,6 +1331,9 @@
     - [andrewpatrickdu/adversarial-yolov3-cowc](https://github.com/andrewpatrickdu/adversarial-yolov3-cowc) <img src="https://img.shields.io/github/stars/andrewpatrickdu/adversarial-yolov3-cowc?style=social"/> : "Physical Adversarial Attacks on an Aerial Imagery Object Detector".  (**[WACV 2022](https://openaccess.thecvf.com/content/WACV2022/html/Du_Physical_Adversarial_Attacks_on_an_Aerial_Imagery_Object_Detector_WACV_2022_paper.html)**)
 
     - [IQTLabs/camolo](https://github.com/IQTLabs/camolo) <img src="https://img.shields.io/github/stars/IQTLabs/camolo?style=social"/> : Camouflage YOLO - (CAMOLO) trains adversarial patches to confuse the YOLO family of object detectors.
+
+    - [tsm55555/adversarial-yolov5](https://github.com/tsm55555/adversarial-yolov5) <img src="https://img.shields.io/github/stars/tsm55555/adversarial-yolov5?style=social"/> : The code is modified from [Adversarial YOLO](https://gitlab.com/EAVISE/adversarial-yolo)   
+
 
     
   - ### Semantic Segmentation
