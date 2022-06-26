@@ -621,6 +621,8 @@
 
       - [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) <img src="https://img.shields.io/github/stars/airockchip/rknn_model_zoo?style=social"/> : Rockchip Neural Network(RKNN)是瑞芯微为了加速模型推理而基于自身NPU硬件架构定义的一套模型格式.使用该格式定义的模型在Rockchip NPU上可以获得远高于CPU/GPU的性能。
 
+      - [ibaiGorordo/ONNX-YOLOv6-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv6-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv6 model in ONNX. 
+
 
     - #### FPGA TPU NPU Hardware Deployment
       #### FPGA TPU NPU 硬件部署
