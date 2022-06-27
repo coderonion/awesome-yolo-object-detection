@@ -1414,7 +1414,7 @@
     
     - [rafaelpadilla/review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/review_object_detection_metrics?style=social"/> : Object Detection Metrics. 14 object detection metrics: mean Average Precision (mAP), Average Recall (AR), Spatio-Temporal Tube Average Precision (STT-AP). This project supports different bounding box formats as in COCO, PASCAL, Imagenet, etc. "A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit".  (**[Electronics 2021](https://www.mdpi.com/2079-9292/10/3/279)**)
 
-    - [rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/review_object_detection_metrics?style=social"/> : Most popular metrics used to evaluate object detection algorithms. "A Survey on Performance Metrics for Object-Detection Algorithms".  (**[IWSSIP 2020](https://ieeexplore.ieee.org/abstract/document/9145130)**)
+    - [rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/Object-Detection-Metrics?style=social"/> : Most popular metrics used to evaluate object detection algorithms. "A Survey on Performance Metrics for Object-Detection Algorithms".  (**[IWSSIP 2020](https://ieeexplore.ieee.org/abstract/document/9145130)**)
 
 
 
