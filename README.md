@@ -535,10 +535,6 @@
 
 
 
-
-
-
-
     - #### High-performance Inference Engine
       #### 高性能推理引擎
 
@@ -558,7 +554,7 @@
 
       - [Tengine](https://github.com/OAID/Tengine) <img src="https://img.shields.io/github/stars/OAID/Tengine?style=social"/> : Tengine is a lite, high performance, modular inference engine for embedded device.
 
-      - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX . MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.  
+      - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, SCRFD, YOLOX . MNN, NCNN, TNN, ONNXRuntime, CPU/GPU. “🛠Lite.Ai.ToolKit: 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。”
 
       - [Paddle Lite](https://github.com/paddlepaddle/paddle-lite) <img src="https://img.shields.io/github/stars/paddlepaddle/paddle-lite?style=social"/> : Multi-platform high performance deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）。
 
@@ -1509,4 +1505,5 @@
 
     - [zgcr/SimpleAICV-pytorch-ImageNet-COCO-training](https://github.com/zgcr/SimpleAICV-pytorch-ImageNet-COCO-training) <img src="https://img.shields.io/github/stars/zgcr/SimpleAICV-pytorch-ImageNet-COCO-training?style=social"/> : SimpleAICV:pytorch training example on ImageNet(ILSVRC2012)/COCO2017/VOC2007+2012 datasets.Include ResNet/DarkNet/RetinaNet/FCOS/CenterNet/TTFNet/YOLOv3/YOLOv4/YOLOv5/YOLOX. 
 
+    - [ErenKaymakci/Real-Time-QR-Detection-and-Decoding](https://github.com/ErenKaymakci/Real-Time-QR-Detection-and-Decoding) <img src="https://img.shields.io/github/stars/ErenKaymakci/Real-Time-QR-Detection-and-Decoding?style=social"/> : This repo explain how qr codes works, qr detection and decoding. 
 
