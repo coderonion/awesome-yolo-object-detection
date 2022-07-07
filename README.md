@@ -91,6 +91,8 @@
 
   - "A Review of Yolo Algorithm Developments". (**[Procedia Computer Science 2022](https://www.sciencedirect.com/science/article/pii/S1877050922001363)**)
 
+  - [Bubble-water/YOLO-Summary](https://github.com/Bubble-water/YOLO-Summary) <img src="https://img.shields.io/github/stars/Bubble-water/YOLO-Summary?style=social"/> : YOLO-Summary. 
+
 
 ## YOLO Family
 
@@ -104,11 +106,13 @@
 
     - [YOLOv4](https://github.com/AlexeyAB/darknet) <img src="https://img.shields.io/github/stars/AlexeyAB/darknet?style=social"/> : "YOLOv4: Optimal Speed and Accuracy of Object Detection". (**[arXiv 2020](https://arxiv.org/abs/2004.10934)**)
 
-    - [Scaled-YOLOv4](https://github.com/AlexeyAB/darknet) <img src="https://img.shields.io/github/stars/AlexeyAB/darknet?style=social"/> ([PyTorch version](https://github.com/WongKinYiu/ScaledYOLOv4) <img src="https://img.shields.io/github/stars/WongKinYiu/ScaledYOLOv4?style=social"/>) : "Scaled-YOLOv4: Scaling Cross Stage Partial Network". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)**)
+    - [Scaled-YOLOv4](https://github.com/AlexeyAB/darknet) <img src="https://img.shields.io/github/stars/AlexeyAB/darknet?style=social"/> ([WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) <img src="https://img.shields.io/github/stars/WongKinYiu/ScaledYOLOv4?style=social"/>) : "Scaled-YOLOv4: Scaling Cross Stage Partial Network". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)**)
 
     - [YOLOv5](https://github.com/ultralytics/yolov5) <img src="https://img.shields.io/github/stars/ultralytics/yolov5?style=social"/> : YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite.
 
     - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : YOLOv6: a single-stage object detection framework dedicated to industrial application. "美团技术团队：《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"
+
+    - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[arXiv 2022](https://arxiv.org/abs/2207.02696)**)
 
 
   - ### Other Versions
@@ -276,6 +280,8 @@
 
     - #### OpenCV Implementation
 
+      - [stephanecharette/DarkHelp](https://github.com/stephanecharette/DarkHelp) <img src="https://img.shields.io/github/stars/stephanecharette/DarkHelp?style=social"/> : The DarkHelp C++ API is a wrapper to make it easier to use the Darknet neural network framework within a C++ application.
+
       - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
 
       - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
@@ -338,6 +344,12 @@
 
       - [lin-tea/YOLOv5DetectionWithCSharp](https://github.com/lin-tea/YOLOv5DetectionWithCSharp) <img src="https://img.shields.io/github/stars/lin-tea/YOLOv5DetectionWithCSharp?style=social"/> : YOLOv5s inference In C# and Training In Python.
 
+      - [MirCore/Unity-Object-Detection-and-Localization-with-VR](https://github.com/MirCore/Unity-Object-Detection-and-Localization-with-VR) <img src="https://img.shields.io/github/stars/MirCore/Unity-Object-Detection-and-Localization-with-VR?style=social"/> : Detect and localize objects from the front-facing camera image of a VR Headset in a 3D Scene in Unity using Yolo and Barracuda.
+
+      - [CarlAreDHopen-eaton/YoloObjectDetection](https://github.com/CarlAreDHopen-eaton/YoloObjectDetection) <img src="https://img.shields.io/github/stars/CarlAreDHopen-eaton/YoloObjectDetection?style=social"/> : Yolo Object Detection Application for RTSP streams.
+
+      - [TimothyMeadows/Yolo6.NetCore](https://github.com/TimothyMeadows/Yolo6.NetCore) <img src="https://img.shields.io/github/stars/TimothyMeadows/Yolo6.NetCore?style=social"/> : You Only Look Once (v6) for .NET Core LTS.
+
 
     - #### Rust Implementation
 
@@ -387,6 +399,8 @@
 
       - [tcyfree/yolov5](https://github.com/tcyfree/yolov5) <img src="https://img.shields.io/github/stars/tcyfree/yolov5?style=social"/> : 基于Flask开发后端、VUE开发前端框架，在WEB端部署YOLOv5目标检测模型。
 
+      - [siffyy/YOLOv5-Web-App-for-Vehicle-Detection](https://github.com/siffyy/YOLOv5-Web-App-for-Vehicle-Detection) <img src="https://img.shields.io/github/stars/siffyy/YOLOv5-Web-App-for-Vehicle-Detection?style=social"/> : Repo for Web Application for Vehicle detection from Satellite Imagery using YOLOv5 model.
+
 
     - #### Others
 
@@ -421,6 +435,8 @@
       - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
       - [DataXujing/YOLOv6](https://github.com/DataXujing/YOLOv6) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv6?style=social"/> : 🌀 🌀 手摸手 美团 YOLOv6模型训练和TensorRT端到端部署方案教程。 
+
+      - [kadirnar/Minimal-Yolov6](https://github.com/kadirnar/Minimal-Yolov6) <img src="https://img.shields.io/github/stars/kadirnar/Minimal-Yolov6?style=social"/> : Minimal-Yolov6. 
 
 
 ## Extensional Frameworks
@@ -881,6 +897,9 @@
 
     - [AllenSquirrel/YOLOv3_ReSAM](https://github.com/AllenSquirrel/YOLOv3_ReSAM) <img src="https://img.shields.io/github/stars/AllenSquirrel/YOLOv3_ReSAM?style=social"/> : YOLOv3_ReSAM:A Small Target Detection Method With Spatial Attention Module.
 
+    - [kadirnar/Yolov6-SAHI](https://github.com/kadirnar/Yolov6-SAHI) <img src="https://img.shields.io/github/stars/kadirnar/Yolov6-SAHI?style=social"/> : Yolov6-SAHI.
+
+
 
   - ### Few-shot Object Detection
     #### 少样本目标检测
@@ -1197,6 +1216,8 @@
 
     - [ruhyadi/YOLO3D](https://github.com/ruhyadi/YOLO3D) <img src="https://img.shields.io/github/stars/ruhyadi/YOLO3D?style=social"/> : YOLO 3D Object Detection for Autonomous Driving Vehicle. Reference by [skhadem/3D-BoundingBox](https://github.com/skhadem/3D-BoundingBox), "3D Bounding Box Estimation Using Deep Learning and Geometry". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Mousavian_3D_Bounding_Box_CVPR_2017_paper.html)**)
 
+    - [ruhyadi/yolo3d-lightning](https://github.com/ruhyadi/yolo3d-lightning) <img src="https://img.shields.io/github/stars/ruhyadi/YOLO3D?style=social"/> : YOLO for 3D Object Detection.
+
     - [Yuanchu/YOLO3D](https://github.com/Yuanchu/YOLO3D) <img src="https://img.shields.io/github/stars/Yuanchu/YOLO3D?style=social"/> : Implementation of a basic YOLO model for object detection in 3D.
 
     - [EmiyaNing/3D-YOLO](https://github.com/EmiyaNing/3D-YOLO) <img src="https://img.shields.io/github/stars/EmiyaNing/3D-YOLO?style=social"/> : YOLO v5 for Lidar-based 3D BEV Detection.
@@ -1334,6 +1355,8 @@
     - [IQTLabs/camolo](https://github.com/IQTLabs/camolo) <img src="https://img.shields.io/github/stars/IQTLabs/camolo?style=social"/> : Camouflage YOLO - (CAMOLO) trains adversarial patches to confuse the YOLO family of object detectors.
 
     - [tsm55555/adversarial-yolov5](https://github.com/tsm55555/adversarial-yolov5) <img src="https://img.shields.io/github/stars/tsm55555/adversarial-yolov5?style=social"/> : The code is modified from [Adversarial YOLO](https://gitlab.com/EAVISE/adversarial-yolo)   
+
+    - [AdvTexture](https://github.com/WhoTHU/Adversarial_Texture) <img src="https://img.shields.io/github/stars/WhoTHU/Adversarial_Texture?style=social"/> : "Adversarial Texture for Fooling Person Detectors in the Physical World". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html)**). CVPR2022 Oral 物理对抗样本 如何做一件“隐形衣”。  (**[知乎 2022](https://zhuanlan.zhihu.com/p/499854846)**)
 
 
     
@@ -1507,3 +1530,6 @@
 
     - [ErenKaymakci/Real-Time-QR-Detection-and-Decoding](https://github.com/ErenKaymakci/Real-Time-QR-Detection-and-Decoding) <img src="https://img.shields.io/github/stars/ErenKaymakci/Real-Time-QR-Detection-and-Decoding?style=social"/> : This repo explain how qr codes works, qr detection and decoding. 
 
+    - [LUMAIS/AntDet_YOLOv5](https://github.com/LUMAIS/AntDet_YOLOv5) <img src="https://img.shields.io/github/stars/LUMAIS/AntDet_YOLOv5?style=social"/> : Ants and their Activiteis (Trophallaxis) Detection using YOLOv5 based on PyTorch. 
+
+    - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
