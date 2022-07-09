@@ -471,7 +471,7 @@
 
       - [murufeng/awesome_lightweight_networks](https://github.com/murufeng/awesome_lightweight_networks) <img src="https://img.shields.io/github/stars/murufeng/awesome_lightweight_networks?style=social"/> : The implementation of various lightweight networks by using PyTorch. such as：MobileNetV2，MobileNeXt，GhostNet，ParNet，MobileViT、AdderNet，ShuffleNetV1-V2，LCNet，ConvNeXt，etc. ⭐⭐⭐⭐⭐
 
-      - [yl305237731/flexible-yolov5](https://github.com/yl305237731/flexible-yolov5) <img src="https://img.shields.io/github/stars/yl305237731/flexible-yolov5?style=social"/> : More readable and flexible yolov5 with more backbone(resnet, shufflenet, moblienet, efficientnet, hrnet, swin-transformer) and (cbam，dcn and so on), and tensorrt.
+      - [Bobo-y/flexible-yolov5](https://github.com/Bobo-y/flexible-yolov5) <img src="https://img.shields.io/github/stars/Bobo-y/flexible-yolov5?style=social"/> : More readable and flexible yolov5 with more backbone(resnet, shufflenet, moblienet, efficientnet, hrnet, swin-transformer) and (cbam，dcn and so on), and tensorrt.
 
       - [XingZeng307/YOLOv5_with_BiFPN](https://github.com/XingZeng307/YOLOv5_with_BiFPN) <img src="https://img.shields.io/github/stars/XingZeng307/YOLOv5_with_BiFPN?style=social"/> : This repo is mainly for replacing PANet with BiFPN in YOLOv5.
 
@@ -648,6 +648,10 @@
       - [ibaiGorordo/ONNX-YOLOv6-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv6-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv6 model in ONNX. 
 
       - [Monday-Leo/YOLOv7_Tensorrt](https://github.com/Monday-Leo/YOLOv7_Tensorrt) <img src="https://img.shields.io/github/stars/Monday-Leo/YOLOv7_Tensorrt?style=social"/> : A simple implementation of Tensorrt YOLOv7. 
+
+      - [ibaiGorordo/ONNX-YOLOv6-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv6-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv6 model in ONNX. 
+
+      - [ibaiGorordo/ONNX-YOLOv7-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv7-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv7 model in ONNX. 
 
 
     - #### FPGA TPU NPU Hardware Deployment
@@ -1416,7 +1420,9 @@
 
      - [ItGarbager/aimcf_yolov5](https://github.com/ItGarbager/aimcf_yolov5) <img src="https://img.shields.io/github/stars/ItGarbager/aimcf_yolov5?style=social"/> : 使用yolov5算法实现cf角色头部预测。
 
-     - [jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5](https://github.com/jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5) <img src="https://img.shields.io/github/stars/jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5?style=social"/> :Target Detection for CSGO by YOLOv5.
+     - [jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5](https://github.com/jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5) <img src="https://img.shields.io/github/stars/jiaran-takeme/Target-Detection-for-CSGO-by-YOLOv5?style=social"/> : Target Detection for CSGO by YOLOv5.
+
+     - [Lucid1ty/Yolov5ForCSGO](https://github.com/Lucid1ty/Yolov5ForCSGO) <img src="https://img.shields.io/github/stars/Lucid1ty/Yolov5ForCSGO?style=social"/> : CSGO character detection and auto aim.
 
 
   - ### Automatic Annotation Tool
