@@ -317,6 +317,8 @@
 
       - [lukazso/yolov6-ros](https://github.com/lukazso/yolov6-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov6-ros?style=social"/> : ROS package for YOLOv6.
 
+      - [qq44642754a/Yolov5_ros](https://github.com/qq44642754a/Yolov5_ros) <img src="https://img.shields.io/github/stars/qq44642754a/Yolov5_ros?style=social"/> : Real-time object detection with ROS, based on YOLOv5 and PyTorch (基于 YOLOv5的ROS实时对象检测).
+
 
     - #### CSharp Implementation
 
@@ -870,6 +872,8 @@
 
     - [leonyufeng/YOLO_SwinT](https://github.com/leonyufeng/YOLO_SwinT) <img src="https://img.shields.io/github/stars/leonyufeng/YOLO_SwinT?style=social"/> : A miminal implementation of YOLOR P6, YOLOv4 and YOLO with Swin-Transformer as Backbone. This project is for personal study.
 
+    - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
+
 
   - ### Small Object Detection
     #### 小目标检测
@@ -984,6 +988,8 @@
     - [Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking](https://github.com/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking) <img src="https://img.shields.io/github/stars/Chenyang-ZHU/YOLOv3-Based-Face-Detection-Tracking?style=social"/> : This is a robot project for television live. System will tracking the host's face, making the face in the middle of the screen.
 
     - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
+
+    - [zhouyuchong/face-recognition-deepstream](https://github.com/zhouyuchong/face-recognition-deepstream) <img src="https://img.shields.io/github/stars/zhouyuchong/face-recognition-deepstream?style=social"/> : Deepstream app use YOLO, retinaface and arcface for face recognition. 
 
 
   - ### Face Mask Detection
