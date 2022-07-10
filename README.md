@@ -1593,3 +1593,5 @@
     - [LUMAIS/AntDet_YOLOv5](https://github.com/LUMAIS/AntDet_YOLOv5) <img src="https://img.shields.io/github/stars/LUMAIS/AntDet_YOLOv5?style=social"/> : Ants and their Activiteis (Trophallaxis) Detection using YOLOv5 based on PyTorch. 
 
     - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
+
+    - [Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR](https://github.com/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR) <img src="https://img.shields.io/github/stars/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR?style=social"/> : OCR(Korean).
