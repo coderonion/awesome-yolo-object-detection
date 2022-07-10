@@ -331,6 +331,12 @@
 
     - #### CSharp Implementation
 
+      - [ML.NET](https://github.com/dotnet/machinelearning) <img src="https://img.shields.io/github/stars/dotnet/machinelearning?style=social"/> : ML.NET is an open source and cross-platform machine learning framework for .NET. 
+
+      - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
+
+      - [harujoh/KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : Pure C# machine learning framework.
+
       - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
 
       - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
@@ -366,6 +372,8 @@
       - [TimothyMeadows/Yolo6.NetCore](https://github.com/TimothyMeadows/Yolo6.NetCore) <img src="https://img.shields.io/github/stars/TimothyMeadows/Yolo6.NetCore?style=social"/> : You Only Look Once (v6) for .NET Core LTS.
 
       - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : EasyYoloDarknet.
+
+
 
 
     - #### Rust Implementation
@@ -458,6 +466,10 @@
       - [DataXujing/YOLOv6](https://github.com/DataXujing/YOLOv6) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv6?style=social"/> : 🌀 🌀 手摸手 美团 YOLOv6模型训练和TensorRT端到端部署方案教程。
 
       - [DataXujing/YOLOv7](https://github.com/DataXujing/YOLOv7) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv7?style=social"/> : 🔥🔥🔥 Official YOLOv7训练自己的数据集并实现端到端的TensorRT模型加速推断。
+
+      - [Code-keys/yolov5-darknet](https://github.com/Code-keys/yolov5-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolov5-darknet?style=social"/> : yolov5-darknet support yaml && cfg.
+
+      - [Code-keys/yolo-darknet](https://github.com/Code-keys/yolo-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolo-darknet?style=social"/> : YOLO-family complemented by darknet. yolov5 yolov7 et al ... 
 
 
 ## Extensional Frameworks
@@ -659,8 +671,6 @@
       - [SsisyphusTao/Object-Detection-Knowledge-Distillation](https://github.com/SsisyphusTao/Object-Detection-Knowledge-Distillation) <img src="https://img.shields.io/github/stars/SsisyphusTao/Object-Detection-Knowledge-Distillation?style=social"/> : An Object Detection Knowledge Distillation framework powered by pytorch, now having SSD and yolov5. 
 
       - [airockchip/rknn_model_zoo](https://github.com/airockchip/rknn_model_zoo) <img src="https://img.shields.io/github/stars/airockchip/rknn_model_zoo?style=social"/> : Rockchip Neural Network(RKNN)是瑞芯微为了加速模型推理而基于自身NPU硬件架构定义的一套模型格式.使用该格式定义的模型在Rockchip NPU上可以获得远高于CPU/GPU的性能。
-
-      - [ibaiGorordo/ONNX-YOLOv6-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv6-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv6-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv6 model in ONNX. 
 
       - [Monday-Leo/YOLOv7_Tensorrt](https://github.com/Monday-Leo/YOLOv7_Tensorrt) <img src="https://img.shields.io/github/stars/Monday-Leo/YOLOv7_Tensorrt?style=social"/> : A simple implementation of Tensorrt YOLOv7. 
 
@@ -1081,6 +1091,7 @@
 
       - [AnarbekovAlt/Traffic-analysis](https://github.com/AnarbekovAlt/Traffic-analysis) <img src="https://img.shields.io/github/stars/AnarbekovAlt/Traffic-analysis?style=social"/> : A traffic analysis system is built on the basis of the YOLO network.
 
+      - [ruhyadi/yolov5-nodeflux](https://github.com/ruhyadi/yolov5-nodeflux) <img src="https://img.shields.io/github/stars/ruhyadi/yolov5-nodeflux?style=social"/> : YOLOv5 Nodeflux Vehicle Detection.
 
 
     - ####  License Plate Detection
@@ -1483,6 +1494,9 @@
     - [rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/Object-Detection-Metrics?style=social"/> : Most popular metrics used to evaluate object detection algorithms. "A Survey on Performance Metrics for Object-Detection Algorithms".  (**[IWSSIP 2020](https://ieeexplore.ieee.org/abstract/document/9145130)**)
 
     - [Cartucho/mAP](https://github.com/Cartucho/mAP) <img src="https://img.shields.io/github/stars/Cartucho/mAP?style=social"/> : mean Average Precision - This code evaluates the performance of your neural net for object recognition. 
+
+    - [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics) <img src="https://img.shields.io/github/stars/Lightning-AI/metrics?style=social"/> : Machine learning metrics for distributed, scalable PyTorch applications. 
+    
 
 
   - ### GUI
