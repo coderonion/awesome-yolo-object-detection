@@ -319,6 +319,8 @@
 
       - [qq44642754a/Yolov5_ros](https://github.com/qq44642754a/Yolov5_ros) <img src="https://img.shields.io/github/stars/qq44642754a/Yolov5_ros?style=social"/> : Real-time object detection with ROS, based on YOLOv5 and PyTorch (基于 YOLOv5的ROS实时对象检测).
 
+      - [lukazso/yolov7-ros](https://github.com/lukazso/yolov7-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov7-ros?style=social"/> : ROS package for official YOLOv7.
+
 
     - #### CSharp Implementation
 
@@ -355,6 +357,9 @@
       - [CarlAreDHopen-eaton/YoloObjectDetection](https://github.com/CarlAreDHopen-eaton/YoloObjectDetection) <img src="https://img.shields.io/github/stars/CarlAreDHopen-eaton/YoloObjectDetection?style=social"/> : Yolo Object Detection Application for RTSP streams.
 
       - [TimothyMeadows/Yolo6.NetCore](https://github.com/TimothyMeadows/Yolo6.NetCore) <img src="https://img.shields.io/github/stars/TimothyMeadows/Yolo6.NetCore?style=social"/> : You Only Look Once (v6) for .NET Core LTS.
+
+      - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : EasyYoloDarknet.
+
 
 
     - #### Rust Implementation
