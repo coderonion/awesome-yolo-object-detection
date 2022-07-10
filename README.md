@@ -93,6 +93,8 @@
 
   - [Bubble-water/YOLO-Summary](https://github.com/Bubble-water/YOLO-Summary) <img src="https://img.shields.io/github/stars/Bubble-water/YOLO-Summary?style=social"/> : YOLO-Summary. 
 
+  - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) <img src="https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social"/> : A paper list of object detection using deep learning.  
+  
 
 ## YOLO Family
 
