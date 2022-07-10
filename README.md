@@ -453,9 +453,11 @@
 
       - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
-      - [DataXujing/YOLOv6](https://github.com/DataXujing/YOLOv6) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv6?style=social"/> : 🌀 🌀 手摸手 美团 YOLOv6模型训练和TensorRT端到端部署方案教程。 
-
       - [kadirnar/Minimal-Yolov6](https://github.com/kadirnar/Minimal-Yolov6) <img src="https://img.shields.io/github/stars/kadirnar/Minimal-Yolov6?style=social"/> : Minimal-Yolov6. 
+
+      - [DataXujing/YOLOv6](https://github.com/DataXujing/YOLOv6) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv6?style=social"/> : 🌀 🌀 手摸手 美团 YOLOv6模型训练和TensorRT端到端部署方案教程。
+
+      - [DataXujing/YOLOv7](https://github.com/DataXujing/YOLOv7) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv7?style=social"/> : 🔥🔥🔥 Official YOLOv7训练自己的数据集并实现端到端的TensorRT模型加速推断。
 
 
 ## Extensional Frameworks
