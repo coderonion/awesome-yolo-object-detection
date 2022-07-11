@@ -81,6 +81,7 @@
         - [Other Applications](#other-applications)
 
 
+
 ## Review
 
   - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
@@ -589,6 +590,8 @@
 
     - #### High-performance Inference Engine
       #### 高性能推理引擎
+
+      - [ONNX](https://github.com/onnx/onnx) <img src="https://img.shields.io/github/stars/onnx/onnx?style=social"/> : Open standard for machine learning interoperability.
 
       - [ONNX Runtime](https://github.com/microsoft/onnxruntime) <img src="https://img.shields.io/github/stars/microsoft/onnxruntime?style=social"/> : ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator.
 
