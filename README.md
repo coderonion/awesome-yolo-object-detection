@@ -7,7 +7,7 @@
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
     - [Review](#review)
     - [YOLO Family](#yolo-family)
-        - [Master Versions](#master-versions)
+        - [Official Versions](#official-versions)
         - [Other Versions](#Other-Versions)
           - [PyTorch Implementation](#pytorch-implementation)
           - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
@@ -79,7 +79,7 @@
         - [Object Detection Metrics (目标检测性能指标)](#object-detection-metrics)
         - [GUI (图形用户界面)](#gui)
         - [Other Applications](#other-applications)
-
+    - [Blogs](#blogs)
 
 
 ## Review
@@ -104,7 +104,7 @@
 
 ## YOLO Family
 
-  - ### Master Versions
+  - ### Official Versions
 
     - [YOLO](https://pjreddie.com/darknet/yolov1) ([Darknet](https://github.com/pjreddie/darknet) <img src="https://img.shields.io/github/stars/pjreddie/darknet?style=social"/>) : "You Only Look Once: Unified, Real-Time Object Detection". (**[CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)**)
 
@@ -1614,3 +1614,14 @@
     - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
 
     - [Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR](https://github.com/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR) <img src="https://img.shields.io/github/stars/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR?style=social"/> : OCR(Korean).
+
+
+## Blogs
+
+  - [知乎「江大白」/ WeChat公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
+    - [深入浅出0基础入门AI及目标检测详细学习路径](https://zhuanlan.zhihu.com/p/463221190)
+    - [深入浅出Yolo系列之Yolov3&Yolov4&Yolov5&Yolox核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/143747206)    
+    - [深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380)   
+    - [深入浅出Yolov5之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/463176500)
+    - [深入浅出Yolo系列之Yolox核心基础完整讲解](https://zhuanlan.zhihu.com/p/397993315)
+    - [深入浅出Yolox之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/397499216)
