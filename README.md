@@ -255,6 +255,10 @@
 
       - [Sharpiless/PaddleDetection-Yolov5](https://github.com/Sharpiless/PaddleDetection-Yolov5) <img src="https://img.shields.io/github/stars/Sharpiless/PaddleDetection-Yolov5?style=social"/> : 基于Paddlepaddle复现yolov5，支持PaddleDetection接口。
 
+      - [nemonameless/PaddleDetection_YOLOv5](https://github.com/nemonameless/PaddleDetection_YOLOv5) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOv5?style=social"/> : YOLOv5 of PaddleDetection, Paddle implementation of YOLOv5.
+
+      - [nemonameless/PaddleDetection_YOLOX](https://github.com/nemonameless/PaddleDetection_YOLOX) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOX?style=social"/> : Paddle YOLOX, 51.8% on COCO val by YOLOX-x, 44.6% on YOLOX-ConvNeXt-s.
+      
 
     - #### Caffe Implementation
 
@@ -292,11 +296,13 @@
 
       - [stephanecharette/DarkHelp](https://github.com/stephanecharette/DarkHelp) <img src="https://img.shields.io/github/stars/stephanecharette/DarkHelp?style=social"/> : The DarkHelp C++ API is a wrapper to make it easier to use the Darknet neural network framework within a C++ application.
 
+      - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
+
       - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
 
       - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
 
-      - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
+      - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) <img src="https://img.shields.io/github/stars/hpc203/yolov7-opencv-onnxrun-cpp-py?style=social"/> : 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含12个onnx模型，依然是包含C++和Python两个版本的程序。
 
 
     - #### ROS Implementation
@@ -328,6 +334,8 @@
       - [qq44642754a/Yolov5_ros](https://github.com/qq44642754a/Yolov5_ros) <img src="https://img.shields.io/github/stars/qq44642754a/Yolov5_ros?style=social"/> : Real-time object detection with ROS, based on YOLOv5 and PyTorch (基于 YOLOv5的ROS实时对象检测).
 
       - [lukazso/yolov7-ros](https://github.com/lukazso/yolov7-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov7-ros?style=social"/> : ROS package for official YOLOv7.
+
+      - [ConfusionTechnologies/ros-yolov5-node](https://github.com/ConfusionTechnologies/ros-yolov5-node) <img src="https://img.shields.io/github/stars/ConfusionTechnologies/ros-yolov5-node?style=social"/> : For ROS2, uses ONNX GPU Runtime to inference YOLOv5.
 
 
     - #### CSharp Implementation
@@ -392,7 +400,7 @@
 
     - #### Go Implementation
 
-      - [LdDl/go-darknet](https://github.com/LdDl/go-darknet) <img src="https://img.shields.io/github/stars/LdDl/go-darknet?style=social"/> : Go bindings for Darknet (YOLO v4 / v3).
+      - [LdDl/go-darknet](https://github.com/LdDl/go-darknet) <img src="https://img.shields.io/github/stars/LdDl/go-darknet?style=social"/> : go-darknet: Go bindings for Darknet (Yolo V4, Yolo V7-tiny, Yolo V3).
 
       - [wimspaargaren/yolov3](https://github.com/wimspaargaren/yolov3) <img src="https://img.shields.io/github/stars/wimspaargaren/yolov3?style=social"/> : Go implementation of the yolo v3 object detection system.      
 
@@ -531,7 +539,11 @@
     - #### Pruning Knoweldge-Distillation Quantization
       #### 剪枝 知识蒸馏 量化
 
+      - [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSlim?style=social"/> : PaddleSlim is an open-source library for deep model compression and architecture search. PaddleSlim是一个专注于深度学习模型压缩的工具库，提供低比特量化、知识蒸馏、稀疏化和模型结构搜索等模型压缩策略，帮助用户快速实现模型的小型化。
+
       - [SparseML](https://github.com/neuralmagic/sparseml) <img src="https://img.shields.io/github/stars/neuralmagic/sparseml?style=social"/> : Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models. "Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks". (**[PMLR 2020](http://proceedings.mlr.press/v119/kurtz20a.html)**). "Woodfisher: Efficient second-order approximation for neural network compression". (**[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)**)
+
+      - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) <img src="https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill?style=social"/> : A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark. 
 
       - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~ 
 
@@ -546,12 +558,10 @@
       - [Gumpest/YOLOv5-Multibackbone-Compression](https://github.com/Gumpest/YOLOv5-Multibackbone-Compression) <img src="https://img.shields.io/github/stars/Gumpest/YOLOv5-Multibackbone-Compression?style=social"/> : YOLOv5 Series Multi-backbone(TPH-YOLOv5, Ghostnet, ShuffleNetv2, Mobilenetv3Small, EfficientNetLite, PP-LCNet, SwinTransformer YOLO), Module(CBAM, DCN), Pruning (EagleEye, Network Slimming) and Quantization (MQBench) Compression Tool Box. 
 
       - [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) <img src="https://img.shields.io/github/stars/PengyiZhang/SlimYOLOv3?style=social"/> : "SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications". (**[arXiv 2019](https://arxiv.org/abs/1907.11093)**)
-      
-      - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) <img src="https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill?style=social"/> : A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark. 
-
-      - [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) <img src="https://img.shields.io/github/stars/ZJU-lishuang/yolov5_prune?style=social"/> : yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5.
 
       - [midasklr/yolov5prune](https://github.com/midasklr/yolov5prune) <img src="https://img.shields.io/github/stars/midasklr/yolov5prune?style=social"/> : yolov5模型剪枝。
+
+      - [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) <img src="https://img.shields.io/github/stars/ZJU-lishuang/yolov5_prune?style=social"/> : yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5.
 
       - [uyzhang/yolov5_prune](https://github.com/uyzhang/yolov5_prune) <img src="https://img.shields.io/github/stars/uyzhang/yolov5_prune?style=social"/> : Yolov5 pruning on COCO Dataset.
 
@@ -1316,6 +1326,9 @@
     - [mc-cat-tty/DoorbellCamDaemon](https://github.com/mc-cat-tty/DoorbellCamDaemon) <img src="https://img.shields.io/github/stars/mc-cat-tty/DoorbellCamDaemon?style=social"/> : Part of DoorbellCam project: daemon for people recognition with YOLO from a RTSP video stream. 
 
     - [Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5](https://github.com/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5) <img src="https://img.shields.io/github/stars/Choe-Ji-Hwan/Fire_Detect_Custom_Yolov5?style=social"/> : 2022-1 Individual Research Assignment: Using YOLOv5 to simply recognize each type of fire. 
+
+    - [bishal116/FireDetection](https://github.com/bishal116/FireDetection) <img src="https://img.shields.io/github/stars/bishal116/FireDetection?style=social"/> : This project builds fire detecton using YOLO v3 model.
+
 
 
   - ### Medical Field Detection
