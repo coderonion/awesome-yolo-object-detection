@@ -1536,8 +1536,6 @@
 
     - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) <img src="https://img.shields.io/github/stars/prabindh/qt5-opencv3-darknet?style=social"/> : Qt5 + Darknet/Yolo + OpenCV3.
 
-    - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) <img src="https://img.shields.io/github/stars/prabindh/qt5-opencv3-darknet?style=social"/> : Qt5 + Darknet/Yolo + OpenCV3.
-
     - [GinkgoX/YOLOv3GUI_Pytorch_PyQt5](https://github.com/GinkgoX/YOLOv3GUI_Pytorch_PyQt5) <img src="https://img.shields.io/github/stars/GinkgoX/YOLOv3GUI_Pytorch_PyQt5?style=social"/> : This is a GUI project for Deep Learning Object Detection based on YOLOv3 model.
 
     - [xietx1995/YOLO-QT-Camera-Tool](https://github.com/xietx1995/YOLO-QT-Camera-Tool) <img src="https://img.shields.io/github/stars/xietx1995/YOLO-QT-Camera-Tool?style=social"/> : Detecting objects from camera or local video files vi qt and yolo.
