@@ -489,7 +489,9 @@
 
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
-  
+  - [AIRDet](https://github.com/tinyvision/AIRDet) <img src="https://img.shields.io/github/stars/tinyvision/AIRDet?style=social"/> : Welcome to AIRDet! AIRDet is an efficiency-oriented anchor-free object detector, aims to enable robust object detection in various industry scene.
+
+
 ## Applications
 
   - ### Lighter and Faster
