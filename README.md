@@ -695,6 +695,12 @@
 
       - [triple-Mu/yolov7](https://github.com/triple-Mu/yolov7) <img src="https://img.shields.io/github/stars/triple-Mu/yolov7?style=social"/> : End2end TensorRT YOLOv7.
 
+      - [Linaom1214/tensorrt-python](https://github.com/Linaom1214/tensorrt-python) <img src="https://img.shields.io/github/stars/Linaom1214/tensorrt-python?style=social"/> : tensorrt for yolov7,yolov6,yolov5,yolox.
+
+      - [cyrillkuettel/ncnn-android-yolov5](https://github.com/cyrillkuettel/ncnn-android-yolov5) <img src="https://img.shields.io/github/stars/cyrillkuettel/ncnn-android-yolov5?style=social"/> : This is a sample ncnn android project, it depends on ncnn library and opencv.
+
+      - [hewen0901/yolov7_trt](https://github.com/hewen0901/yolov7_trt) <img src="https://img.shields.io/github/stars/hewen0901/yolov7_trt?style=social"/> : yolov7目标检测算法的c++ tensorrt部署代码。
+
 
 
     - #### FPGA TPU NPU Hardware Deployment
@@ -850,6 +856,10 @@
       - [tensorturtle/classy-sort-yolov5](https://github.com/tensorturtle/classy-sort-yolov5) <img src="https://img.shields.io/github/stars/tensorturtle/classy-sort-yolov5?style=social"/> : Ready-to-use realtime multi-object tracker that works for any object category. YOLOv5 + SORT implementation.
 
       - [supperted825/FairMOT-X](https://github.com/supperted825/FairMOT-X) <img src="https://img.shields.io/github/stars/supperted825/FairMOT-X?style=social"/> : FairMOT for Multi-Class MOT using YOLOX as Detector.
+
+      - [deyiwang89/pytorch-yolov7-deepsort](https://github.com/deyiwang89/pytorch-yolov7-deepsort) <img src="https://img.shields.io/github/stars/deyiwang89/pytorch-yolov7-deepsort?style=social"/> : an implentation of yolov7-deepsort based on pytorch.
+
+      - [xuarehere/yolovx_deepsort_pytorch](https://github.com/xuarehere/yolovx_deepsort_pytorch) <img src="https://img.shields.io/github/stars/xuarehere/yolovx_deepsort_pytorch?style=social"/> : this project support the existing yolo detection model algorithm (YOLOv3, YOLOV4, YOLOV4Scaled, YOLOV5, YOLOV6, YOLOV7 ). 
 
 
   - #### Deep Reinforcement Learning
@@ -1570,6 +1580,9 @@
     - [MaikoKingma/yolo-winforms-test](https://github.com/MaikoKingma/yolo-winforms-test) <img src="https://img.shields.io/github/stars/MaikoKingma/yolo-winforms-test?style=social"/> : A Windows forms application that can execute pre-trained object detection models via ML.NET. In this instance the You Only Look Once version 4 (yolov4) is used.
 
     - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
+
+    - [Powercube7/YOLOv5-GUI](https://github.com/Powercube7/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Powercube7/YOLOv5-GUI?style=social"/> : A simple GUI made for creating jobs in YOLOv5.
+
 
 
   - ### Other Applications
