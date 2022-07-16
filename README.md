@@ -480,6 +480,8 @@
 
       - [Code-keys/yolo-darknet](https://github.com/Code-keys/yolo-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolo-darknet?style=social"/> : YOLO-family complemented by darknet. yolov5 yolov7 et al ... 
 
+      - [pooya-mohammadi/deep_utils](https://github.com/pooya-mohammadi/deep_utils) <img src="https://img.shields.io/github/stars/pooya-mohammadi/deep_utils?style=social"/> : A toolkit full of handy functions including most used models and utilities for deep-learning practitioners!  
+
 
 ## Extensional Frameworks
 
@@ -1120,6 +1122,8 @@
       - [AnarbekovAlt/Traffic-analysis](https://github.com/AnarbekovAlt/Traffic-analysis) <img src="https://img.shields.io/github/stars/AnarbekovAlt/Traffic-analysis?style=social"/> : A traffic analysis system is built on the basis of the YOLO network.
 
       - [ruhyadi/yolov5-nodeflux](https://github.com/ruhyadi/yolov5-nodeflux) <img src="https://img.shields.io/github/stars/ruhyadi/yolov5-nodeflux?style=social"/> : YOLOv5 Nodeflux Vehicle Detection.
+
+      - [Daheer/Driving-Environment-Detector](https://github.com/Daheer/Driving-Environment-Detector) <img src="https://img.shields.io/github/stars/Daheer/Driving-Environment-Detector?style=social"/> : Detecting road objects using YOLO CNN Architecture.
 
 
     - ####  License Plate Detection
