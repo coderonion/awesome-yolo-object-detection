@@ -401,6 +401,11 @@
 
       - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
 
+      - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> :  yolov5-api-rust.
+
+
+
+
 
     - #### Go Implementation
 
@@ -444,15 +449,15 @@
 
     - #### Others
 
-      - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) <img src="https://img.shields.io/github/stars/jinfagang/yolov7?style=social"/> : 🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥
-
-      - [DL-Practise/YoloAll](https://github.com/DL-Practise/YoloAll) <img src="https://img.shields.io/github/stars/DL-Practise/YoloAll?style=social"/> : YoloAll is a collection of yolo all versions. you you use YoloAll to test yolov3/yolov5/yolox/yolo_fastest.
-
-      - [msnh2012/Msnhnet](https://github.com/msnh2012/Msnhnet) <img src="https://img.shields.io/github/stars/msnh2012/Msnhnet?style=social"/> : (yolov3 yolov4 yolov5 unet ...)A mini pytorch inference framework which inspired from darknet.
+      - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) <img src="https://img.shields.io/github/stars/jinfagang/yolov7?style=social"/> :  🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
       - [shanglianlm0525/CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
 
       - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
+
+      - [DL-Practise/YoloAll](https://github.com/DL-Practise/YoloAll) <img src="https://img.shields.io/github/stars/DL-Practise/YoloAll?style=social"/> : YoloAll is a collection of yolo all versions. you you use YoloAll to test yolov3/yolov5/yolox/yolo_fastest.
+
+      - [msnh2012/Msnhnet](https://github.com/msnh2012/Msnhnet) <img src="https://img.shields.io/github/stars/msnh2012/Msnhnet?style=social"/> : (yolov3 yolov4 yolov5 unet ...)A mini pytorch inference framework which inspired from darknet.
 
       - [1579093407/Yolov5_Magic](https://github.com/1579093407/Yolov5_Magic) <img src="https://img.shields.io/github/stars/1579093407/Yolov5_Magic?style=social"/> : Share some tricks of improving Yolov5 and experiment results. 分享一些关于改进Yolov5的tricks以及实验结果。
 
@@ -485,6 +490,10 @@
       - [Code-keys/yolo-darknet](https://github.com/Code-keys/yolo-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolo-darknet?style=social"/> : YOLO-family complemented by darknet. yolov5 yolov7 et al ... 
 
       - [pooya-mohammadi/deep_utils](https://github.com/pooya-mohammadi/deep_utils) <img src="https://img.shields.io/github/stars/pooya-mohammadi/deep_utils?style=social"/> : A toolkit full of handy functions including most used models and utilities for deep-learning practitioners!  
+
+      - [yl-jiang/YOLOSeries](https://github.com/yl-jiang/YOLOSeries) <img src="https://img.shields.io/github/stars/yl-jiang/YOLOSeries?style=social"/> : YOLO Series.
+
+      - [yjh0410/FreeYOLO](https://github.com/yjh0410/FreeYOLO) <img src="https://img.shields.io/github/stars/yjh0410/FreeYOLO?style=social"/> : Anchor-free YOLO detector.
 
 
 ## Extensional Frameworks
@@ -790,6 +799,9 @@
 
       - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) <img src="https://img.shields.io/github/stars/Zhou-sx/yolov5_Deepsort_rknn?style=social"/> : Track vehicles and persons on rk3588 / rk3399pro. 
 
+      - [OpenVINO-dev-contest/YOLOv7_OpenVINO](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO) <img src="https://img.shields.io/github/stars/OpenVINO-dev-contest/YOLOv7_OpenVINO?style=social"/> : This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api. 
+
+
 
   - ### Video Object Detection
     #### 视频目标检测
@@ -866,6 +878,8 @@
       - [deyiwang89/pytorch-yolov7-deepsort](https://github.com/deyiwang89/pytorch-yolov7-deepsort) <img src="https://img.shields.io/github/stars/deyiwang89/pytorch-yolov7-deepsort?style=social"/> : an implentation of yolov7-deepsort based on pytorch.
 
       - [xuarehere/yolovx_deepsort_pytorch](https://github.com/xuarehere/yolovx_deepsort_pytorch) <img src="https://img.shields.io/github/stars/xuarehere/yolovx_deepsort_pytorch?style=social"/> : this project support the existing yolo detection model algorithm (YOLOv3, YOLOV4, YOLOV4Scaled, YOLOV5, YOLOV6, YOLOV7 ). 
+
+      - [deshwalmahesh/yolov7-deepsort-tracking](https://github.com/deshwalmahesh/yolov7-deepsort-tracking) <img src="https://img.shields.io/github/stars/deshwalmahesh/yolov7-deepsort-tracking?style=social"/> : Modular and ready to deploy code to detect and track videos using YOLO-v7 and DeepSORT.
 
 
   - #### Deep Reinforcement Learning
