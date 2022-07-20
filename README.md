@@ -1608,6 +1608,7 @@
 
     - [Powercube7/YOLOv5-GUI](https://github.com/Powercube7/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Powercube7/YOLOv5-GUI?style=social"/> : A simple GUI made for creating jobs in YOLOv5.
 
+    - [cdmstrong/yolov5-pyqt-moke](https://github.com/cdmstrong/yolov5-pyqt-moke) <img src="https://img.shields.io/github/stars/cdmstrong/yolov5-pyqt-moke?style=social"/> : 利用yolov5和pyqt做可视化检测。
 
 
   - ### Other Applications
