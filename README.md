@@ -46,7 +46,7 @@
         - [Social Distance Detection (社交距离检测)](#social-distance-detection)
         - [Intelligent Transportation Field Detection (智能交通领域检测)](#intelligent-transportation-field-detection)
           - [Vehicle Detection (车辆检测)](#vehicle-detection)
-          - [License Plate Detection (车牌检测)](#license-plate-detection)
+          - [License Plate Detection and Recognition (车牌检测)](#license-plate-detection-and-recognition)
           - [Lane Detection (车道线检测)](#lane-detection)
           - [Driving Behavior Detection (驾驶行为检测)](#driving-behavior-detection)
           - [Parking Slot Detection (停车位检测)](#parking-slot-detection)
@@ -719,6 +719,7 @@
 
       - [hewen0901/yolov7_trt](https://github.com/hewen0901/yolov7_trt) <img src="https://img.shields.io/github/stars/hewen0901/yolov7_trt?style=social"/> : yolov7目标检测算法的c++ tensorrt部署代码。
 
+      - [tsutof/tiny_yolov2_onnx_cam](https://github.com/tsutof/tiny_yolov2_onnx_cam) <img src="https://img.shields.io/github/stars/tsutof/tiny_yolov2_onnx_cam?style=social"/> : Tiny YOLO v2 Inference Application with NVIDIA TensorRT.
 
 
     - #### FPGA TPU NPU Hardware Deployment
@@ -940,6 +941,8 @@
 
     - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) <img src="https://img.shields.io/github/stars/MenghaoGuo/Awesome-Vision-Attentions?style=social"/> : Summary of related papers on visual attention. Related code will be released based on Jittor gradually. "Attention Mechanisms in Computer Vision: A Survey". (**[arXiv 2021](https://arxiv.org/abs/2111.07624)**)
 
+    - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
+
     - [HaloTrouvaille/YOLO-Multi-Backbones-Attention](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention) <img src="https://img.shields.io/github/stars/HaloTrouvaille/YOLO-Multi-Backbones-Attention?style=social"/> : This Repository includes YOLOv3 with some lightweight backbones (ShuffleNetV2, GhostNet, VoVNet), some computer vision attention mechanism (SE Block, CBAM Block, ECA Block), pruning,quantization and distillation for GhostNet.
 
     - [kay-cottage/CoordAttention_YOLOX_Pytorch](https://github.com/kay-cottage/CoordAttention_YOLOX_Pytorch) <img src="https://img.shields.io/github/stars/kay-cottage/CoordAttention_YOLOX_Pytorch?style=social"/> : CoordAttention_YOLOX(基于CoordAttention坐标注意力机制的改进版YOLOX目标检测平台）。 "Coordinate Attention for Efficient Mobile Network Design". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.html), [ Andrew-Qibin/CoordAttention](https://github.com/Andrew-Qibin/CoordAttention)**)
@@ -950,9 +953,6 @@
 
     - [anonymoussss/YOLOX-SwinTransformer](https://github.com/anonymoussss/YOLOX-SwinTransformer) <img src="https://img.shields.io/github/stars/anonymoussss/YOLOX-SwinTransformer?style=social"/> : YOLOX with Swin-Transformer backbone.
 
-    - [leonyufeng/YOLO_SwinT](https://github.com/leonyufeng/YOLO_SwinT) <img src="https://img.shields.io/github/stars/leonyufeng/YOLO_SwinT?style=social"/> : A miminal implementation of YOLOR P6, YOLOv4 and YOLO with Swin-Transformer as Backbone. This project is for personal study.
-
-    - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
 
 
   - ### Small Object Detection
@@ -1147,8 +1147,8 @@
       - [Daheer/Driving-Environment-Detector](https://github.com/Daheer/Driving-Environment-Detector) <img src="https://img.shields.io/github/stars/Daheer/Driving-Environment-Detector?style=social"/> : Detecting road objects using YOLO CNN Architecture.
 
 
-    - ####  License Plate Detection
-      #####  车牌检测
+    - ####  License Plate Detection and Recognition
+      #####  车牌检测与识别
 
       - [zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector) <img src="https://img.shields.io/github/stars/zeusees/License-Plate-Detector?style=social"/> : License Plate Detection with Yolov5，基于Yolov5车牌检测。
 
@@ -1159,6 +1159,8 @@
       - [HuKai97/YOLOv5-LPRNet-Licence-Recognition](https://github.com/HuKai97/YOLOv5-LPRNet-Licence-Recognition) <img src="https://img.shields.io/github/stars/HuKai97/YOLOv5-LPRNet-Licence-Recognition?style=social"/> : 使用YOLOv5和LPRNet进行车牌检测+识别（CCPD数据集）。 
 
       - [xialuxi/yolov5-car-plate](https://github.com/xialuxi/yolov5-car-plate) <img src="https://img.shields.io/github/stars/xialuxi/yolov5-car-plate?style=social"/> : 基于yolov5的车牌检测，包含车牌角点检测。 
+
+      - [kyrielw24/License_Plate_Recognition](https://github.com/kyrielw24/License_Plate_Recognition) <img src="https://img.shields.io/github/stars/kyrielw24/License_Plate_Recognition?style=social"/> : 基于Yolo&CNN的车牌识别可视化项目。 
 
 
     - ####  Lane Detection
@@ -1506,6 +1508,8 @@
 
      - [Lucid1ty/Yolov5ForCSGO](https://github.com/Lucid1ty/Yolov5ForCSGO) <img src="https://img.shields.io/github/stars/Lucid1ty/Yolov5ForCSGO?style=social"/> : CSGO character detection and auto aim.
 
+     - [leo4048111/Yolov5-LabelMaker-For-CSGO](https://github.com/leo4048111/Yolov5-LabelMaker-For-CSGO) <img src="https://img.shields.io/github/stars/leo4048111/Yolov5-LabelMaker-For-CSGO?style=social"/> : A simple tool for making CSGO dataset in YOLO format.
+
 
   - ### Automatic Annotation Tool
     #### 自动标注工具
@@ -1653,6 +1657,8 @@
     - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
 
     - [Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR](https://github.com/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR) <img src="https://img.shields.io/github/stars/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR?style=social"/> : OCR(Korean).
+
+    - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) <img src="https://img.shields.io/github/stars/QIN2DIM/hcaptcha-challenger?style=social"/> : 🥂 Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution. 
 
 
 ## Blogs
