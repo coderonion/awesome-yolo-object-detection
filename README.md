@@ -186,6 +186,8 @@
 
       - [bubbliiiing/yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolox-pytorch?style=social"/> : 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
 
+      - [bubbliiiing/yolov7-pytorch](https://github.com/bubbliiiing/yolov7-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov7-pytorch?style=social"/> : 这是一个yolov7的库，可以用于训练自己的数据集。 
+
       - [BobLiu20/YOLOv3_PyTorch](https://github.com/BobLiu20/YOLOv3_PyTorch) <img src="https://img.shields.io/github/stars/BobLiu20/YOLOv3_PyTorch?style=social"/> : Full implementation of YOLOv3 in PyTorch.
 
       - [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) <img src="https://img.shields.io/github/stars/ruiminshen/yolo2-pytorch?style=social"/> : PyTorch implementation of the YOLO (You Only Look Once) v2.
