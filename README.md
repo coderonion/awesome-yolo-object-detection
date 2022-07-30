@@ -616,11 +616,11 @@
 
       - [SlimYOLOv3](https://github.com/PengyiZhang/SlimYOLOv3) <img src="https://img.shields.io/github/stars/PengyiZhang/SlimYOLOv3?style=social"/> : "SlimYOLOv3: Narrower, Faster and Better for UAV Real-Time Applications". (**[arXiv 2019](https://arxiv.org/abs/1907.11093)**)
 
+      - [uyzhang/yolov5_prune](https://github.com/uyzhang/yolov5_prune) <img src="https://img.shields.io/github/stars/uyzhang/yolov5_prune?style=social"/> : Yolov5 pruning on COCO Dataset.
+
       - [midasklr/yolov5prune](https://github.com/midasklr/yolov5prune) <img src="https://img.shields.io/github/stars/midasklr/yolov5prune?style=social"/> : yolov5模型剪枝。
 
       - [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) <img src="https://img.shields.io/github/stars/ZJU-lishuang/yolov5_prune?style=social"/> : yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5.
-
-      - [uyzhang/yolov5_prune](https://github.com/uyzhang/yolov5_prune) <img src="https://img.shields.io/github/stars/uyzhang/yolov5_prune?style=social"/> : Yolov5 pruning on COCO Dataset.
 
       - [Syencil/mobile-yolov5-pruning-distillation](https://github.com/Syencil/mobile-yolov5-pruning-distillation) <img src="https://img.shields.io/github/stars/Syencil/mobile-yolov5-pruning-distillation?style=social"/> : mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！
 
