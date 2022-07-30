@@ -5,8 +5,8 @@
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
-    - [Review](#review)
-        - [Summary](#summary)
+    - [Summary](#summary)
+        - [Review](#review)
         - [Code](#code)
         - [Blogs](#blogs)
     - [YOLO Family](#yolo-family)
@@ -84,9 +84,9 @@
         - [Other Applications](#other-applications)
 
 
-## Review
+## Summary
 
-  - ### Summary
+  - ### Review
 
     - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
 
