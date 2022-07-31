@@ -1003,6 +1003,8 @@
 
     - [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : 🕶 A curated list of Tiny Object Detection papers and related resources. 
 
+    - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
+
     - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : A lightweight vision library for performing large scale object detection/ instance segmentation. "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**). "计算机视觉研究院：《[小目标Trick | Detectron2、MMDetection、YOLOv5都通用的小目标检测解决方案](https://mp.weixin.qq.com/s/MKtvEg0DQgAw3LAvfn3FdA)》"
 
     - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "江大白：《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s/qbbd5FdyKKk7UI3mmGBt4Q)》"
