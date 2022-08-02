@@ -79,7 +79,7 @@
         - [Game Field Detection (游戏领域检测)](#game-field-detection)
         - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
         - [Feature Map Visualization (特征图可视化)](#feature-map-visualization)
-        - [Object Detection Metrics (目标检测性能指标)](#object-detection-metrics)
+        - [Object Detection Evaluation Metrics (目标检测性能评价指标)](#object-detection-evaluation-metrics)
         - [GUI (图形用户界面)](#gui)
         - [Other Applications](#other-applications)
 
@@ -296,6 +296,8 @@
 
       - [nemonameless/PaddleDetection_YOLOset](https://github.com/nemonameless/PaddleDetection_YOLOset) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOset?style=social"/> : Paddle YOLO set: YOLOv3, PPYOLO, PPYOLOE, YOLOX, YOLOv5, YOLOv7 and so on.
 
+      - [Nioolek/PPYOLOE_pytorch](https://github.com/Nioolek/PPYOLOE_pytorch) <img src="https://img.shields.io/github/stars/Nioolek/PPYOLOE_pytorch?style=social"/> : An unofficial implementation of Pytorch version PP-YOLOE,based on Megvii YOLOX training code. 
+
 
     - #### Caffe Implementation
 
@@ -418,6 +420,9 @@
       - [TimothyMeadows/Yolo6.NetCore](https://github.com/TimothyMeadows/Yolo6.NetCore) <img src="https://img.shields.io/github/stars/TimothyMeadows/Yolo6.NetCore?style=social"/> : You Only Look Once (v6) for .NET Core LTS.
 
       - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : EasyYoloDarknet.
+
+      - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
+
 
 
     - #### Rust Implementation
@@ -757,7 +762,7 @@
 
       - [triple-Mu/yolov7](https://github.com/triple-Mu/yolov7) <img src="https://img.shields.io/github/stars/triple-Mu/yolov7?style=social"/> : End2end TensorRT YOLOv7.
 
-      - [Linaom1214/tensorrt-python](https://github.com/Linaom1214/tensorrt-python) <img src="https://img.shields.io/github/stars/Linaom1214/tensorrt-python?style=social"/> : tensorrt for yolov7,yolov6,yolov5,yolox.
+      - [Linaom1214/tensorrt-python](https://github.com/Linaom1214/tensorrt-python) <img src="https://img.shields.io/github/stars/Linaom1214/tensorrt-python?style=social"/> : YOLO Series TensorRT Python/C++. tensorrt for yolov7,yolov6,yolov5,yolox.
 
       - [cyrillkuettel/ncnn-android-yolov5](https://github.com/cyrillkuettel/ncnn-android-yolov5) <img src="https://img.shields.io/github/stars/cyrillkuettel/ncnn-android-yolov5?style=social"/> : This is a sample ncnn android project, it depends on ncnn library and opencv.
 
@@ -986,6 +991,8 @@
     - [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) <img src="https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch?style=social"/> : 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐.
 
     - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) <img src="https://img.shields.io/github/stars/MenghaoGuo/Awesome-Vision-Attentions?style=social"/> : Summary of related papers on visual attention. Related code will be released based on Jittor gradually. "Attention Mechanisms in Computer Vision: A Survey". (**[arXiv 2021](https://arxiv.org/abs/2111.07624)**)
+
+    - [pprp/awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) <img src="https://img.shields.io/github/stars/pprp/awesome-attention-mechanism-in-cv?style=social"/> : 👊 CV中常用注意力模块;即插即用模块;ViT模型. PyTorch Implementation Collection of Attention Module and Plug&Play Module.
 
     - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
 
@@ -1566,15 +1573,23 @@
   - ### Automatic Annotation Tool
     #### 自动标注工具
 
+    - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
+
+    - [Label Studio](https://github.com/heartexlabs/label-studio) <img src="https://img.shields.io/github/stars/heartexlabs/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format.
+
+    - [labelme](https://github.com/wkentaro/labelme) <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).  
+
     - [AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
     - [Cartucho/OpenLabeling](https://github.com/Cartucho/OpenLabeling) <img src="https://img.shields.io/github/stars/Cartucho/OpenLabeling?style=social"/> : Label images and video for Computer Vision applications. 
+
+    - [CVAT](https://github.com/cvat-ai/cvat) <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Computer Vision Annotation Tool (CVAT). Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. 
 
     - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) <img src="https://img.shields.io/github/stars/cnyvfang/labelGo-Yolov5AutoLabelImg?style=social"/> : 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕一个基于labelImg及YOLOV5的图形化半自动标注工具。
 
     - [CVUsers/Auto_maker](https://github.com/CVUsers/Auto_maker) <img src="https://img.shields.io/github/stars/CVUsers/Auto_maker?style=social"/> : 深度学习数据自动标注器开源 目标检测和图像分类（高精度高效率）。
 
-    - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) <img src="https://img.shields.io/github/stars/cvat-ai/cvat?style=social"/> : Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. 
+    - [DarkLabel](https://github.com/darkpgmr/DarkLabel) <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
 
     - [wufan-tb/AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg) <img src="https://img.shields.io/github/stars/wufan-tb/AutoLabelImg?style=social"/> : auto-labelimg based on yolov5, with many other useful tools. AutoLabelImg 多功能自动标注工具。
 
@@ -1602,9 +1617,12 @@
 
     - [TorchCAM](https://github.com/frgfm/torch-cam) <img src="https://img.shields.io/github/stars/frgfm/torch-cam?style=social"/> : Class activation maps for your PyTorch models (CAM, Grad-CAM, Grad-CAM++, Smooth Grad-CAM++, Score-CAM, SS-CAM, IS-CAM, XGrad-CAM, Layer-CAM).
 
+    - [Him-wen/OD_Heatmap](https://github.com/Him-wen/OD_Heatmap) <img src="https://img.shields.io/github/stars/Him-wen/OD_Heatmap?style=social"/> : Heatmap visualization of the YOLO model using the Grad-CAM heatmap visualization method can Intuitively show which regions in the image contribute the most to the category classification.
 
-  - ### Object Detection Metrics
-    #### 目标检测性能指标
+
+
+  - ### Object Detection Evaluation Metrics
+    #### 目标检测性能评价指标
     
     - [rafaelpadilla/review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/review_object_detection_metrics?style=social"/> : Object Detection Metrics. 14 object detection metrics: mean Average Precision (mAP), Average Recall (AR), Spatio-Temporal Tube Average Precision (STT-AP). This project supports different bounding box formats as in COCO, PASCAL, Imagenet, etc. "A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit".  (**[Electronics 2021](https://www.mdpi.com/2079-9292/10/3/279)**)
 
@@ -1613,7 +1631,8 @@
     - [Cartucho/mAP](https://github.com/Cartucho/mAP) <img src="https://img.shields.io/github/stars/Cartucho/mAP?style=social"/> : mean Average Precision - This code evaluates the performance of your neural net for object recognition. 
 
     - [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics) <img src="https://img.shields.io/github/stars/Lightning-AI/metrics?style=social"/> : Machine learning metrics for distributed, scalable PyTorch applications. 
-    
+
+    - [laclouis5/ObjectDetectionEval](https://github.com/laclouis5/ObjectDetectionEval) <img src="https://img.shields.io/github/stars/laclouis5/ObjectDetectionEval?style=social"/> : Object Detection Evaluation Library. Unified framework to parse, create and evaluate object detections from many frameworks (COCO, YOLO, PascalVOC, ImageNet, LabelMe, ...). 
 
 
   - ### GUI
