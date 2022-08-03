@@ -5,82 +5,87 @@
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
-    - [Summary](#summary)
-        - [Official YOLO](#official-yolo)
-        - [Awesome Repository List](#awesome-repository-list)
-        - [Paper and Code Review](#paper-and-code-review)
-        - [Blogs](#blogs)
-    - [Other Versions of YOLO](#other-versions-of-yolo)
-      - [PyTorch Implementation](#pytorch-implementation)
-      - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
-      - [PaddlePaddle Implementation](#paddlepaddle-implementation)
-      - [Caffe Implementation](#caffe-implementation)
-      - [MXNet Implementation](#mxnet-implementation)
-      - [LibTorch Implementation](#libtorch-implementation)
-      - [OpenCV Implementation](#opencv-implementation)
-      - [ROS Implementation](#ros-implementation)
-      - [Dotnet Implementation](#dotnet-implementation)
-      - [Rust Implementation](#rust-implementation)
-      - [Go Implementation](#go-implementation)
-      - [Web Implementation](#web-implementation)
-      - [Others](#others)
-    - [Extensional Frameworks](#extensional-frameworks)
-    - [Applications](#applications)
-        - [Lighter and Faster](#lighter-and-faster)
-          - [Lightweight Backbones and FPN (轻量级骨干网络和特征金字塔网络)](#lightweight-backbones-and-fpn)
-          - [Pruning Knoweldge-Distillation Quantization (剪枝 知识蒸馏 量化)](#pruning-knoweldge-distillation-quantization)
-          - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
-          - [FPGA TPU NPU Hardware Deployment (FPGA TPU NPU 硬件部署)](#fpga-tpu-npu-hardware-deployment)
-        - [Video Object Detection (视频目标检测)](#video-object-detection)
-        - [Object Tracking (目标跟踪)](#object-tracking)
-          - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
-        - [Deep Reinforcement Learning (深度强化学习)](#deep-reinforcement-learning)
-        - [Multi-Modality Information Fusion (多模态信息融合)](#multi-modality-information-fusion)
-        - [Motion Control Field (运动控制领域)](#motion-control-field)
-        - [Super-Resolution Field (超分辨率领域)](#super-resolution-field)
-        - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
-        - [Attention and Transformer (注意力机制)](#attention-and-transformer)
-        - [Small Object Detection (小目标检测)](#small-object-detection)
-        - [Few-shot Object Detection (少样本目标检测)](#few-shot-object-detection)
-        - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
-        - [Face Detection and Recognition (人脸检测与识别)](#face-detection-and-recognition)
-        - [Face Mask Detection (口罩检测)](#face-mask-detection)
-        - [Social Distance Detection (社交距离检测)](#social-distance-detection)
-        - [Intelligent Transportation Field Detection (智能交通领域检测)](#intelligent-transportation-field-detection)
-          - [Vehicle Detection (车辆检测)](#vehicle-detection)
-          - [License Plate Detection and Recognition (车牌检测)](#license-plate-detection-and-recognition)
-          - [Lane Detection (车道线检测)](#lane-detection)
-          - [Driving Behavior Detection (驾驶行为检测)](#driving-behavior-detection)
-          - [Parking Slot Detection (停车位检测)](#parking-slot-detection)
-          - [Traffic Light Detection (交通灯检测)](#traffic-light-detection)
-          - [Traffic Sign Detection (交通标志检测)](#traffic-sign-detection)
-          - [Crosswalk Detection (人行横道/斑马线检测)](#crosswalk-detection)
-          - [Traffic Accidents Detection (交通事故检测)](#traffic-accidents-detection)
-          - [Road Damage Detection (道路损伤检测)](#road-damage-detection)
-        - [Helmet Detection (头盔/安全帽检测)](#helmet-detection)
-        - [Hand Detection (手部检测)](#hand-detection)
-        - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
-        - [Action Detection (行为检测)](#action-detection)
-        - [Emotion Recognition (情感识别)](#emotion-recognition)
-        - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
-        - [Distance Measurement (距离测量)](#distance-measurement)
-        - [3D Object Detection (三维目标检测)](#3d-object-detection)
-        - [SLAM Field Detection (SLAM领域检测)](#slam-field-detection)
-        - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
-        - [SAR Image Detection (合成孔径雷达图像检测)](#sar-image-detection)
-        - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
-        - [Medical Field Detection (医学领域检测)](#medical-field-detection)
-        - [Chemistry Field Detection (化学领域检测)](#chemistry-field-detection)
-        - [Agricultural Field Detection (农业领域检测)](#agricultural-field-detection)
-        - [Adverse Weather Conditions (恶劣天气情况)](#adverse-weather-conditions)
-        - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
-        - [Instance and Semantic Segmentation (实例和语义分割)](#instance-and-semantic-segmentation)
-        - [Game Field Detection (游戏领域检测)](#game-field-detection)
-        - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
-        - [Feature Map Visualization (特征图可视化)](#feature-map-visualization)
-        - [Object Detection Evaluation Metrics (目标检测性能评价指标)](#object-detection-evaluation-metrics)
-        - [GUI (图形用户界面)](#gui)
-        - [Other Applications](#other-applications)
+  - [Summary](#summary)
+    - [Official YOLO](#official-yolo)
+    - [Awesome List](#awesome-list)
+    - [Paper and Code Overview](#paper-and-code-overview)
+    - [Blogs](#blogs)
+  - [Other Versions of YOLO](#other-versions-of-yolo)
+    - [PyTorch Implementation](#pytorch-implementation)
+    - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
+    - [PaddlePaddle Implementation](#paddlepaddle-implementation)
+    - [Caffe Implementation](#caffe-implementation)
+    - [MXNet Implementation](#mxnet-implementation)
+    - [LibTorch Implementation](#libtorch-implementation)
+    - [OpenCV Implementation](#opencv-implementation)
+    - [ROS Implementation](#ros-implementation)
+    - [Dotnet Implementation](#dotnet-implementation)
+    - [Rust Implementation](#rust-implementation)
+    - [Go Implementation](#go-implementation)
+    - [Web Implementation](#web-implementation)
+    - [Others](#others)
+  - [Extensional Frameworks](#extensional-frameworks)
+  - [Applications](#applications)
+    - [Lighter and Faster](#lighter-and-faster)
+      - [Lightweight Backbones and FPN (轻量级骨干网络和特征金字塔网络)](#lightweight-backbones-and-fpn)
+      - [Pruning Knoweldge-Distillation Quantization (剪枝 知识蒸馏 量化)](#pruning-knoweldge-distillation-quantization)
+      - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
+      - [FPGA TPU NPU Hardware Deployment (FPGA TPU NPU 硬件部署)](#fpga-tpu-npu-hardware-deployment)
+    - [Video Object Detection (视频目标检测)](#video-object-detection)
+    - [Object Tracking (目标跟踪)](#object-tracking)
+      - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
+    - [Deep Reinforcement Learning (深度强化学习)](#deep-reinforcement-learning)
+    - [Multi-Modality Information Fusion (多模态信息融合)](#multi-modality-information-fusion)
+    - [Motion Control Field (运动控制领域)](#motion-control-field)
+    - [Super-Resolution Field (超分辨率领域)](#super-resolution-field)
+    - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
+    - [Attention and Transformer (注意力机制)](#attention-and-transformer)
+    - [Small Object Detection (小目标检测)](#small-object-detection)
+    - [Few-shot Object Detection (少样本目标检测)](#few-shot-object-detection)
+    - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
+    - [Face Detection and Recognition (人脸检测与识别)](#face-detection-and-recognition)
+    - [Face Mask Detection (口罩检测)](#face-mask-detection)
+    - [Social Distance Detection (社交距离检测)](#social-distance-detection)
+    - [Intelligent Transportation Field Detection (智能交通领域检测)](#intelligent-transportation-field-detection)
+      - [Vehicle Detection (车辆检测)](#vehicle-detection)
+      - [License Plate Detection and Recognition (车牌检测)](#license-plate-detection-and-recognition)
+      - [Lane Detection (车道线检测)](#lane-detection)
+      - [Driving Behavior Detection (驾驶行为检测)](#driving-behavior-detection)
+      - [Parking Slot Detection (停车位检测)](#parking-slot-detection)
+      - [Traffic Light Detection (交通灯检测)](#traffic-light-detection)
+      - [Traffic Sign Detection (交通标志检测)](#traffic-sign-detection)
+      - [Crosswalk Detection (人行横道/斑马线检测)](#crosswalk-detection)
+      - [Traffic Accidents Detection (交通事故检测)](#traffic-accidents-detection)
+      - [Road Damage Detection (道路损伤检测)](#road-damage-detection)
+    - [Helmet Detection (头盔/安全帽检测)](#helmet-detection)
+    - [Hand Detection (手部检测)](#hand-detection)
+    - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
+    - [Action Detection (行为检测)](#action-detection)
+    - [Emotion Recognition (情感识别)](#emotion-recognition)
+    - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
+    - [Distance Measurement (距离测量)](#distance-measurement)
+    - [3D Object Detection (三维目标检测)](#3d-object-detection)
+    - [SLAM Field Detection (SLAM领域检测)](#slam-field-detection)
+    - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
+    - [SAR Image Detection (合成孔径雷达图像检测)](#sar-image-detection)
+    - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
+    - [Medical Field Detection (医学领域检测)](#medical-field-detection)
+    - [Chemistry Field Detection (化学领域检测)](#chemistry-field-detection)
+    - [Agricultural Field Detection (农业领域检测)](#agricultural-field-detection)
+    - [Adverse Weather Conditions (恶劣天气情况)](#adverse-weather-conditions)
+    - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
+    - [Instance and Semantic Segmentation (实例和语义分割)](#instance-and-semantic-segmentation)
+    - [Game Field Detection (游戏领域检测)](#game-field-detection)
+    - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
+    - [Feature Map Visualization (特征图可视化)](#feature-map-visualization)
+    - [Object Detection Evaluation Metrics (目标检测性能评价指标)](#object-detection-evaluation-metrics)
+    - [GUI (图形用户界面)](#gui)
+    - [Other Applications](#other-applications)
+  - [Datasets](#datasets)
+    - [Universal Detection Field (通用检测领域)](#universal-detection-field)
+    - [Person Detection Field (人员检测领域)](#person-detection-field)
+    - [Autonomous Driving Field (自动驾驶领域)](#autonomous-driving-field)
+    
 
 
 ## Summary
@@ -104,7 +109,7 @@
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[arXiv 2022](https://arxiv.org/abs/2207.02696)**)
 
 
-  - ### Awesome Repository List
+  - ### Awesome List
 
     - [awesome-yolo-object-detection](https://github.com/dotnet-rs-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-rs-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
 
@@ -120,7 +125,7 @@
     - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) <img src="https://img.shields.io/github/stars/amusi/awesome-object-detection?style=social"/> : Awesome Object Detection.
   
 
-  - ### Paper and Code Review
+  - ### Paper and Code Overview
 
     - #### Paper Review
 
@@ -157,7 +162,7 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
 
 
-- ## Other Versions of YOLO
+## Other Versions of YOLO
 
   - ### PyTorch Implementation
 
@@ -316,6 +321,7 @@
 
 
   - ### MXNet Implementation
+
     - [Gluon CV Toolkit](https://github.com/dmlc/gluon-cv) <img src="https://img.shields.io/github/stars/dmlc/gluon-cv?style=social"/> : GluonCV provides implementations of the state-of-the-art (SOTA) deep learning models in computer vision.
 
     - [zhreshold/mxnet-yolo](https://github.com/zhreshold/mxnet-yolo) <img src="https://img.shields.io/github/stars/zhreshold/mxnet-yolo?style=social"/> : YOLO: You only look once real-time object detector.
@@ -448,8 +454,6 @@
 
 
 
-
-
   - ### Go Implementation
 
     - [LdDl/go-darknet](https://github.com/LdDl/go-darknet) <img src="https://img.shields.io/github/stars/LdDl/go-darknet?style=social"/> : go-darknet: Go bindings for Darknet (Yolo V4, Yolo V7-tiny, Yolo V3).
@@ -563,7 +567,6 @@
   - [AIRDet](https://github.com/tinyvision/AIRDet) <img src="https://img.shields.io/github/stars/tinyvision/AIRDet?style=social"/> : Welcome to AIRDet! AIRDet is an efficiency-oriented anchor-free object detector, aims to enable robust object detection in various industry scene.
 
   - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
-
 
 
 ## Applications
@@ -1627,7 +1630,7 @@
     
     - [rafaelpadilla/review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/review_object_detection_metrics?style=social"/> : Object Detection Metrics. 14 object detection metrics: mean Average Precision (mAP), Average Recall (AR), Spatio-Temporal Tube Average Precision (STT-AP). This project supports different bounding box formats as in COCO, PASCAL, Imagenet, etc. "A Comparative Analysis of Object Detection Metrics with a Companion Open-Source Toolkit".  (**[Electronics 2021](https://www.mdpi.com/2079-9292/10/3/279)**)
 
-    - [rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/Object-Detection-Metrics?style=social"/> : Most popular metrics used to evaluate object detection algorithms. "A Survey on Performance Metrics for Object-Detection Algorithms".  (**[IWSSIP 2020](https://ieeexplore.ieee.org/abstract/document/9145130)**)
+    - [rafaelpadilla/Object-Detection-Metrics](https://github.com/rafaelpadilla/Object-Detection-Metrics) <img src="https://img.shields.io/github/stars/rafaelpadilla/Object-Detection-Metrics?style=social"/> : Most popular metrics used to evaluate object detection algorithms. "A Survey on Performance Metrics for Object-Detection Algorithms". (**[IWSSIP 2020](https://ieeexplore.ieee.org/abstract/document/9145130)**)
 
     - [Cartucho/mAP](https://github.com/Cartucho/mAP) <img src="https://img.shields.io/github/stars/Cartucho/mAP?style=social"/> : mean Average Precision - This code evaluates the performance of your neural net for object recognition. 
 
@@ -1736,5 +1739,38 @@
     - [Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR](https://github.com/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR) <img src="https://img.shields.io/github/stars/Jiseong-Ok/OCR-Yolov5-SwinIR-SVTR?style=social"/> : OCR(Korean).
 
     - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) <img src="https://img.shields.io/github/stars/QIN2DIM/hcaptcha-challenger?style=social"/> : 🥂 Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution. 
+
+
+
+## Datasets
+
+  - ### Universal Detection Field
+    #### 通用检测领域
+
+    - [COCO](https://cocodataset.org/) : "Microsoft COCO: Common Objects in Context". (**[ECCV 2014](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48)**)
+
+    - [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/) : "The Pascal Visual Object Classes Challenge: A Retrospective". (**[IJCV 2015](https://link.springer.com/article/10.1007/s11263-014-0733-5)**)
+
+    - [ImageNet](https://image-net.org/challenges/LSVRC/) : "ImageNet Large Scale Visual Recognition Challenge". (**[IJCV 2015](https://link.springer.com/article/10.1007/s11263-015-0816-y)**)
+
+    - [Objects365](http://www.objects365.org/overview.html) : "Objects365: A Large-scale, High-quality Dataset for Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.html)**)
+
+
+  - ### Person Detection Field
+   #### 人员检测领域  
+
+    - [CrowdHuman](http://www.crowdhuman.org/) : "CrowdHuman: A Benchmark for Detecting Human in a Crowd". (**[arXiv 2018](https://arxiv.org/abs/1805.00123)**)
+
+
+  - ### Autonomous Driving Field
+    #### 自动驾驶领域
+
+    - [TT100K](http://cg.cs.tsinghua.edu.cn/traffic-sign/) : "Traffic-Sign Detection and Classification in the Wild". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html)**)
+
+    - [BDD100K](https://bdd-data.berkeley.edu/) : "BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html)**)
+
+
+
+
 
 
