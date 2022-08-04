@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome YOLO object detection series projects.
+🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
@@ -82,10 +82,13 @@
     - [GUI (图形用户界面)](#gui)
     - [Other Applications](#other-applications)
   - [Datasets](#datasets)
-    - [Universal Detection Field (通用检测领域)](#universal-detection-field)
-    - [Person Detection Field (人员检测领域)](#person-detection-field)
-    - [Autonomous Driving Field (自动驾驶领域)](#autonomous-driving-field)
+    - [General Detection Dataset (通用检测数据集)](#general-detection-dataset)
+    - [Person Detection Dataset (人员检测数据集)](#person-detection-dataset)
+    - [Autonomous Driving Dataset (自动驾驶数据集)](#autonomous-driving-dataset)
+    - [Adverse Weather Dataset (恶劣天气数据集)](#adverse-weather-dataset)
+    - [Aerial Imagery Dataset (遥感影像数据集)](#aerial-imagery-dataset)
     
+
 
 
 ## Summary
@@ -1744,8 +1747,8 @@
 
 ## Datasets
 
-  - ### Universal Detection Field
-    #### 通用检测领域
+  - ### General Detection Dataset
+    #### 通用检测数据集
 
     - [COCO](https://cocodataset.org/) : "Microsoft COCO: Common Objects in Context". (**[ECCV 2014](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48)**)
 
@@ -1756,24 +1759,37 @@
     - [Objects365](http://www.objects365.org/overview.html) : "Objects365: A Large-scale, High-quality Dataset for Object Detection". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Shao_Objects365_A_Large-Scale_High-Quality_Dataset_for_Object_Detection_ICCV_2019_paper.html)**)
 
 
-  - ### Person Detection Field
-    #### 人员检测领域  
-    
+  - ### Human Detection Dataset
+    #### 人员检测数据集 
+
     - [CrowdHuman](http://www.crowdhuman.org/) : "CrowdHuman: A Benchmark for Detecting Human in a Crowd". (**[arXiv 2018](https://arxiv.org/abs/1805.00123)**)
     
 
-
-  - ### Autonomous Driving Field
-    #### 自动驾驶领域
+  - ### Autonomous Driving Dataset
+    #### 自动驾驶数据集
 
     - [TT100K](http://cg.cs.tsinghua.edu.cn/traffic-sign/) : "Traffic-Sign Detection and Classification in the Wild". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html)**)
 
     - [BDD100K](https://bdd-data.berkeley.edu/) : "BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Yu_BDD100K_A_Diverse_Driving_Dataset_for_Heterogeneous_Multitask_Learning_CVPR_2020_paper.html)**)
 
 
+  - ### Adverse Weather Dataset
+    #### 恶劣天气数据集
+
+    - [RESID](https://sites.google.com/site/boyilics/website-builder/reside) : "Benchmarking Single-Image Dehazing and Beyond". (**[IEEE Transactions on Image Processing 2018](https://ieeexplore.ieee.org/abstract/document/8451944)**)
 
 
+  - ### Aerial Imagery Dataset
+    #### 遥感影像数据集
 
+    - [VEDAI](https://downloads.greyc.fr/vedai/) : "Vehicle Detection in Aerial Imagery: A small target detection benchmark". (**[Journal of Visual Communication and Image Representation 2015](https://hal.archives-ouvertes.fr/hal-01122605v2/document)**)
 
+    - [COWC](https://github.com/LLNL/cowc) : "A large contextual dataset for classification, detection and counting of cars with deep learning". (**[ECCV 2016](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_48)**)
+
+    - [RSOD](https://github.com/RSIA-LIESMARS-WHU/RSOD-Dataset-) : "Accurate object localization in remote sensing images based on convolutional neural networks". (**[IEEE TGRS 2017](https://ieeexplore.ieee.org/abstract/document/7827088/)**)
+
+    - [LEVIR](http://levir.buaa.edu.cn/Code.htm) : "Random access memories: A new paradigm for target detection in high resolution aerial remote sensing images". (**[IEEE Transactions on Image Processing 2017](https://ieeexplore.ieee.org/abstract/document/8106808)**)
+  
+    - [LEVIR-Ship](https://github.com/WindVChen/LEVIR-Ship) : "A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset". (**[IEEE TGRS 2022](https://ieeexplore.ieee.org/abstract/document/9791363)**)
 
 
