@@ -86,7 +86,7 @@
     - [Person Detection Dataset (人员检测数据集)](#person-detection-dataset)
     - [Autonomous Driving Dataset (自动驾驶数据集)](#autonomous-driving-dataset)
     - [Adverse Weather Dataset (恶劣天气数据集)](#adverse-weather-dataset)
-    - [Aerial Imagery Dataset (遥感影像数据集)](#aerial-imagery-dataset)
+    - [Optical Aerial Imagery Dataset (光学航拍遥感数据集)](#optical-aerial-imagery-dataset)
     
 
 
@@ -611,11 +611,13 @@
     - #### Pruning Knoweldge-Distillation Quantization
       #### 剪枝 知识蒸馏 量化
 
-      - [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSlim?style=social"/> : PaddleSlim is an open-source library for deep model compression and architecture search. PaddleSlim是一个专注于深度学习模型压缩的工具库，提供低比特量化、知识蒸馏、稀疏化和模型结构搜索等模型压缩策略，帮助用户快速实现模型的小型化。
-
       - [SparseML](https://github.com/neuralmagic/sparseml) <img src="https://img.shields.io/github/stars/neuralmagic/sparseml?style=social"/> : Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models. "Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks". (**[PMLR 2020](http://proceedings.mlr.press/v119/kurtz20a.html)**). "Woodfisher: Efficient second-order approximation for neural network compression". (**[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)**)
 
-      - [yoshitomo-matsubara/torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) <img src="https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill?style=social"/> : A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark. 
+      - [SparseZoo](https://github.com/neuralmagic/sparsezoo) <img src="https://img.shields.io/github/stars/neuralmagic/sparsezoo?style=social"/> : Neural network model repository for highly sparse and sparse-quantized models with matching sparsification recipes.
+
+      - [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) <img src="https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill?style=social"/> : torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation. A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark. 
+
+      - [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSlim?style=social"/> : PaddleSlim is an open-source library for deep model compression and architecture search. PaddleSlim是一个专注于深度学习模型压缩的工具库，提供低比特量化、知识蒸馏、稀疏化和模型结构搜索等模型压缩策略，帮助用户快速实现模型的小型化。
 
       - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~ 
 
@@ -777,6 +779,9 @@
 
       - [tsutof/tiny_yolov2_onnx_cam](https://github.com/tsutof/tiny_yolov2_onnx_cam) <img src="https://img.shields.io/github/stars/tsutof/tiny_yolov2_onnx_cam?style=social"/> : Tiny YOLO v2 Inference Application with NVIDIA TensorRT.
 
+      - [DataXujing/ncnn_android_yolov6](https://github.com/DataXujing/ncnn_android_yolov6) <img src="https://img.shields.io/github/stars/DataXujing/ncnn_android_yolov6?style=social"/> : 手摸手实现基于QT和NCNN的安卓手机YOLOv6模型的部署！
+
+
 
     - #### FPGA TPU NPU Hardware Deployment
       #### FPGA TPU NPU 硬件部署
@@ -877,7 +882,7 @@
     - ####  Multi-Object Tracking
       #####  多目标跟踪
 
-      - [mikel-brostrom/Yolov5_DeepSort_OSNet](https://github.com/mikel-brostrom/Yolov5_DeepSort_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLO v5 and Deep SORT with OSNet.
+      - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv5 and StrongSORT with OSNet.
 
       - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_Pytorch?style=social"/> : Real-time multi-object tracker using YOLO v5 and deep sort.
 
@@ -1576,6 +1581,8 @@
 
      - [leo4048111/Yolov5-LabelMaker-For-CSGO](https://github.com/leo4048111/Yolov5-LabelMaker-For-CSGO) <img src="https://img.shields.io/github/stars/leo4048111/Yolov5-LabelMaker-For-CSGO?style=social"/> : A simple tool for making CSGO dataset in YOLO format.
 
+     - [soloist-v/AutoStrike](https://github.com/soloist-v/AutoStrike) <img src="https://img.shields.io/github/stars/soloist-v/AutoStrike?style=social"/> : 使用yolov5自动瞄准，支持fps游戏 鼠标移动控制需要自行调整。
+
 
   - ### Automatic Annotation Tool
     #### 自动标注工具
@@ -1743,6 +1750,8 @@
 
     - [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) <img src="https://img.shields.io/github/stars/QIN2DIM/hcaptcha-challenger?style=social"/> : 🥂 Gracefully face hCaptcha challenge with YOLOv6(ONNX) embedded solution. 
 
+    - [bobjiangps/vision](https://github.com/bobjiangps/vision) <img src="https://img.shields.io/github/stars/bobjiangps/vision?style=social"/> : UI auto test framework based on YOLO to recognize elements, less code, less maintenance, cross platform, cross project / 基于YOLO的UI层自动化测试框架, 可识别控件类型，减少代码和维护，一定程度上跨平台跨项目。
+
 
 
 ## Datasets
@@ -1763,7 +1772,14 @@
     #### 人员检测数据集 
 
     - [CrowdHuman](http://www.crowdhuman.org/) : "CrowdHuman: A Benchmark for Detecting Human in a Crowd". (**[arXiv 2018](https://arxiv.org/abs/1805.00123)**)
-    
+
+    - [PANDA](http://www.panda-dataset.com) : "PANDA: A Gigapixel-Level Human-Centric Video Dataset". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Wang_PANDA_A_Gigapixel-Level_Human-Centric_Video_Dataset_CVPR_2020_paper.html)**)
+
+    - [TinyPerson](https://github.com/ucas-vg/PointTinyBenchmark) : "Scale Match for Tiny Person Detection". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Yu_Scale_Match_for_Tiny_Person_Detection_WACV_2020_paper.html)**)
+
+    - [TinyPerson v2 | SeaPerson](https://github.com/ucas-vg/PointTinyBenchmark) : "Object Localization Under Single Coarse Point Supervision". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yu_Object_Localization_Under_Single_Coarse_Point_Supervision_CVPR_2022_paper.html)**)
+
+
 
   - ### Autonomous Driving Dataset
     #### 自动驾驶数据集
@@ -1779,8 +1795,8 @@
     - [RESID](https://sites.google.com/site/boyilics/website-builder/reside) : "Benchmarking Single-Image Dehazing and Beyond". (**[IEEE Transactions on Image Processing 2018](https://ieeexplore.ieee.org/abstract/document/8451944)**)
 
 
-  - ### Aerial Imagery Dataset
-    #### 遥感影像数据集
+  - ### Optical Aerial Imagery Dataset
+    #### 光学航拍遥感数据集
 
     - [VEDAI](https://downloads.greyc.fr/vedai/) : "Vehicle Detection in Aerial Imagery: A small target detection benchmark". (**[Journal of Visual Communication and Image Representation 2015](https://hal.archives-ouvertes.fr/hal-01122605v2/document)**)
 
@@ -1792,4 +1808,26 @@
   
     - [LEVIR-Ship](https://github.com/WindVChen/LEVIR-Ship) : "A Degraded Reconstruction Enhancement-based Method for Tiny Ship Detection in Remote Sensing Images with A New Large-scale Dataset". (**[IEEE TGRS 2022](https://ieeexplore.ieee.org/abstract/document/9791363)**)
 
+    - [MASATI](https://www.iuii.ua.es/datasets/masati/) : "Automatic ship classification from optical aerial images with convolutional neural networks". (**[Remote Sensing 2018](https://www.mdpi.com/2072-4292/10/4/511)**)
 
+    - [xView](http://xviewdataset.org/) : "xView: Objects in Context in Overhead Imagery". (**[arXiv 2018](https://arxiv.org/abs/1802.07856)**)
+  
+    - [DOTA](https://captain-whu.github.io/DOTA/) : "DOTA: A Large-Scale Dataset for Object Detection in Aerial Images". (**[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Xia_DOTA_A_Large-Scale_CVPR_2018_paper.html)**). "Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9560031)**).
+
+    - [ITCVD](https://research.utwente.nl/en/datasets/itcvd-dataset) : "Deep Learning for Vehicle Detection in Aerial Images". (**[IEEE ICIP 2018](https://ieeexplore.ieee.org/abstract/document/8451454)**)
+
+    - [Bridge Dataset](http://www.patreo.dcc.ufmg.br/2019/07/10/bridge-dataset/) : "A Tool for Bridge Detection in Major Infrastructure Works Using Satellite Images". (**[IEEE ICIP 2018](https://ieeexplore.ieee.org/abstract/document/8876942)**)
+
+    - [DIOR](http://www.escience.cn/people/JunweiHan/DIOR.html) : "Object detection in optical remote sensing images: A survey and a new benchmark". (**[ISPRS 2020](https://www.sciencedirect.com/science/article/abs/pii/S0924271619302825)**)
+
+    - [PESMOD](https://github.com/mribrahim/PESMOD) : "UAV Images Dataset for Moving Object Detection from Moving Cameras". (**[arXiv 2021](https://arxiv.org/abs/2103.11460)**)
+
+    - [AI-TOD](https://github.com/jwwangchn/AI-TOD) : "Tiny Object Detection in Aerial Images". (**[IEEE ICPR 2021](https://ieeexplore.ieee.org/abstract/document/9413340)**)
+
+    - [RsCarData](https://github.com/ChaoXiao12/Moving-object-detection-DSFNet) : "DSFNet: Dynamic and Static Fusion Network for Moving Object Detection in Satellite Videos". (**[IEEE GRSL 2021](https://ieeexplore.ieee.org/abstract/document/9594855)**)
+
+    - [VISO](https://github.com/The-Learning-And-Vision-Atelier-LAVA/VISO) : "Detecting and Tracking Small and Dense Moving Objects in Satellite Videos: A Benchmark". (**[IEEE TGRS 2021](https://ieeexplore.ieee.org/abstract/document/9625976)**)
+
+    - [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
+
+    - [FAIR1M](http://gaofen-challenge.com/benchmark) : "FAIR1M: A benchmark dataset for fine-grained object recognition in high-resolution remote sensing imagery". (**[ISPRS 2021](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)**)
