@@ -1869,8 +1869,18 @@
   - ### Infrared Image Dataset
     #### 红外图像数据集
 
-    - [SCUT_FIR_Pedestrian_Dataset](https://github.com/SCUT-CV/SCUT_FIR_Pedestrian_Dataset) : "Benchmarking a large-scale FIR dataset for on-road pedestrian detection". (**[Infrared Physics & Technology, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1350449518305589)**)
-
     - [地/空背景下红外图像弱小飞机目标检测跟踪数据集](https://www.scidb.cn/en/detail?dataSetId=720626420933459968) (**[中国科学数据 2020](http://www.csdata.org/p/387/)**)
 
+    - [复杂背景下红外弱小运动目标检测数据集](https://www.scidb.cn/en/detail?dataSetId=808025946870251520) (**[中国科学数据 2021](http://www.csdata.org/p/553/)**)
+
+    - [面向空地应用的红外时敏目标检测跟踪数据集](https://www.scidb.cn/en/detail?dataSetId=de971a1898774dc5921b68793817916e) (**[中国科学数据 2022](http://www.csdata.org/p/673/)**)
+
+    - [SCUT_FIR_Pedestrian_Dataset](https://github.com/SCUT-CV/SCUT_FIR_Pedestrian_Dataset) : "Benchmarking a large-scale FIR dataset for on-road pedestrian detection". (**[Infrared Physics & Technology, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1350449518305589)**)
+
     - [LLVIP](https://github.com/bupt-ai-cz/LLVIP) : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision ". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
+
+    - [NUDT-SIRST](https://github.com/YeRen123455/Infrared-Small-Target-Detection) : "Dense Nested Attention Network for Infrared Small Target Detection". (**[arXiv 2021](https://arxiv.org/abs/2106.00487)**)
+
+    - [SIRST](https://github.com/YimianDai/sirst) : "Asymmetric Contextual Modulation for Infrared Small Target Detection". (**[WACV 2021](https://openaccess.thecvf.com/content/WACV2021/html/Dai_Asymmetric_Contextual_Modulation_for_Infrared_Small_Target_Detection_WACV_2021_paper.html)**)
+
+    - [DroneVehicle](https://github.com/VisDrone/DroneVehicle) : "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning". (**[IEEE TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9759286/)**)
