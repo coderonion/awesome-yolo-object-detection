@@ -618,6 +618,8 @@
 
       - [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSlim?style=social"/> : PaddleSlim is an open-source library for deep model compression and architecture search. PaddleSlim是一个专注于深度学习模型压缩的工具库，提供低比特量化、知识蒸馏、稀疏化和模型结构搜索等模型压缩策略，帮助用户快速实现模型的小型化。
 
+      - [PPL量化工具](https://github.com/openppl-public/ppq) <img src="https://img.shields.io/github/stars/openppl-public/ppq?style=social"/> : PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool. PPL QuantTool 是一个高效的工业级神经网络量化工具。 
+
       - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~ 
 
       - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. (**[知乎 2022](https://zhuanlan.zhihu.com/p/536500269)**)    
@@ -1842,3 +1844,33 @@
     - [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) : "Detection and Tracking Meet Drones Challenge". (**[IEEE TPAMI 2021](https://ieeexplore.ieee.org/abstract/document/9573394)**)
 
     - [FAIR1M](http://gaofen-challenge.com/benchmark) : "FAIR1M: A benchmark dataset for fine-grained object recognition in high-resolution remote sensing imagery". (**[ISPRS 2021](https://www.sciencedirect.com/science/article/abs/pii/S0924271621003269)**)
+
+
+
+  - ### Low-light Image Dataset
+    #### 低光照图像数据集
+
+    - [NightOwls](https://www.nightowls-dataset.org/) : "NightOwls: A Pedestrians at Night Dataset". (**[ACCV 2018](https://link.springer.com/chapter/10.1007/978-3-030-20887-5_43)**).
+
+    - [ExDark](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset) : "Getting to know low-light images with the exclusively dark dataset". (**[CVIU 2019](https://www.sciencedirect.com/science/article/abs/pii/S1077314218304296)**). "Low-light image enhancement using Gaussian Process for features retrieval". (**[Signal Processing: Image Communication, 2019](https://www.sciencedirect.com/science/article/abs/pii/S0923596518310452)**).
+
+    - [DARK FACE](https://flyywh.github.io/CVPRW2019LowLight/) : DARK FACE: Face Detection in Low Light Condition. "Advancing Image Understanding in Poor Visibility Environments: A Collective Benchmark Study". (**[IEEE Transactions on Image Processing 2020](https://ieeexplore.ieee.org/abstract/document/9049390/)**).
+
+
+  - ### Thermal Image Dataset
+    #### 热成像数据集
+
+    - [FLIR_ADAS](https://adas-dataset-v2.flirconservator.com/) : Teledyne FLIR Free ADAS Thermal Dataset v2.
+
+    - [KAIST_rgbt](https://github.com/SoonminHwang/rgbt-ped-detection) : "Multispectral Pedestrian Detection: Benchmark Dataset and Baseline". (**[CVPR 2015](https://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html)**)
+
+
+
+  - ### Infrared Image Dataset
+    #### 红外图像数据集
+
+    - [SCUT_FIR_Pedestrian_Dataset](https://github.com/SCUT-CV/SCUT_FIR_Pedestrian_Dataset) : "Benchmarking a large-scale FIR dataset for on-road pedestrian detection". (**[Infrared Physics & Technology, 2019](https://www.sciencedirect.com/science/article/abs/pii/S1350449518305589)**)
+
+    - [地/空背景下红外图像弱小飞机目标检测跟踪数据集](https://www.scidb.cn/en/detail?dataSetId=720626420933459968) (**[中国科学数据 2020](http://www.csdata.org/p/387/)**)
+
+    - [LLVIP](https://github.com/bupt-ai-cz/LLVIP) : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision ". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
