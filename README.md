@@ -9,6 +9,8 @@
     - [Official YOLO](#official-yolo)
     - [Awesome List](#awesome-list)
     - [Paper and Code Overview](#paper-and-code-overview)
+      - [Paper Review](#paper-review)
+      - [Code Review](#code-review)
     - [Blogs](#blogs)
   - [Other Versions of YOLO](#other-versions-of-yolo)
     - [PyTorch Implementation](#pytorch-implementation)
@@ -141,8 +143,6 @@
 
       - [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
-      - [Him-wen/YOLOC](https://github.com/Him-wen/YOLOC) <img src="https://img.shields.io/github/stars/Him-wen/YOLOC?style=social"/> : 🚀🚀🚀YOLOC is Combining different modules to build an different Object detection model. 
-
 
   - ### Blogs
 
@@ -215,7 +215,7 @@
 
     - [misads/easy_detection](https://github.com/misads/easy_detection) <img src="https://img.shields.io/github/stars/misads/easy_detection?style=social"/> : 一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Yolo系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等经典网络。
 
-    - [miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch implementation of YOLOX、PPYOLO、PPYOLOv2、FCOS an so on.
+    - [miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
 
 
   - ### Tensorflow and Keras Implementation
@@ -548,7 +548,6 @@
 
     - [open-yolo/yolov7](https://github.com/open-yolo/yolov7) <img src="https://img.shields.io/github/stars/open-yolo/yolov7?style=social"/> : Improved and packaged version of WongKinYiu/yolov7.
 
-    - [Him-wen/YOLOv5_Sourcecode_analysis](https://github.com/Him-wen/YOLOv5_Sourcecode_analysis) <img src="https://img.shields.io/github/stars/Him-wen/YOLOv5_Sourcecode_analysis?style=social"/> : 🍋🍋🍋This is a comment analysis on the source code of yolov5, What it is. yolov5 object detection model 源码中文解析代码🚀🚀🚀. 
 
 
 ## Extensional Frameworks
@@ -781,6 +780,16 @@
 
       - [DataXujing/ncnn_android_yolov6](https://github.com/DataXujing/ncnn_android_yolov6) <img src="https://img.shields.io/github/stars/DataXujing/ncnn_android_yolov6?style=social"/> : 手摸手实现基于QT和NCNN的安卓手机YOLOv6模型的部署！
 
+      - [Qengineering/YoloV3-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV3-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV3-ncnn-Raspberry-Pi-4?style=social"/> : YoloV3 Raspberry Pi 4.
+
+      - [Qengineering/YoloV4-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV4-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV4-ncnn-Raspberry-Pi-4?style=social"/> : YoloV4 on a bare Raspberry Pi 4 with ncnn framework.    
+
+      - [Qengineering/YoloV5-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV5-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV5-ncnn-Raspberry-Pi-4?style=social"/> : YoloV5 for a bare Raspberry Pi 4.
+
+      - [Qengineering/YoloV6-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV6-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV6-ncnn-Raspberry-Pi-4?style=social"/> : YoloV6 for a bare Raspberry Pi using ncnn.
+      
+      - [Qengineering/YoloV7-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV7-ncnn-Raspberry-Pi-4?style=social"/> : YoloV7 for a bare Raspberry Pi using ncnn.       
+
 
 
     - #### FPGA TPU NPU Hardware Deployment
@@ -947,6 +956,8 @@
       - [deshwalmahesh/yolov7-deepsort-tracking](https://github.com/deshwalmahesh/yolov7-deepsort-tracking) <img src="https://img.shields.io/github/stars/deshwalmahesh/yolov7-deepsort-tracking?style=social"/> : Modular and ready to deploy code to detect and track videos using YOLO-v7 and DeepSORT.
 
       - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
+
+      - [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) <img src="https://img.shields.io/github/stars/bharath5673/StrongSORT-YOLO?style=social"/> : Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and StrongSORT with OSNet.
 
 
   - #### Deep Reinforcement Learning
