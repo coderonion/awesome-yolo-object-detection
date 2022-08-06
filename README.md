@@ -493,6 +493,8 @@
 
     - [Devmawi/BlazorObjectDetection-Sample](https://github.com/Devmawi/BlazorObjectDetection-Sample) <img src="https://img.shields.io/github/stars/Devmawi/BlazorObjectDetection-Sample?style=social"/> : A sample for demonstrating online execution of an onnx model by a Blazor app.
 
+    - [Hyuto/yolov5-onnxruntime-web](https://github.com/Hyuto/yolov5-onnxruntime-web) <img src="https://img.shields.io/github/stars/Hyuto/yolov5-onnxruntime-web?style=social"/> : YOLOv5 right in your browser with onnxruntime-web.
+
 
   - ### Others
 
