@@ -545,6 +545,7 @@
 
     - [open-yolo/yolov7](https://github.com/open-yolo/yolov7) <img src="https://img.shields.io/github/stars/open-yolo/yolov7?style=social"/> : Improved and packaged version of WongKinYiu/yolov7.
 
+    - [iloveai8086/YOLOC](https://github.com/iloveai8086/YOLOC) <img src="https://img.shields.io/github/stars/iloveai8086/YOLOC?style=social"/> : 🚀YOLOC is Combining different modules to build an different Object detection model.
 
 
 ## Extensional Frameworks
