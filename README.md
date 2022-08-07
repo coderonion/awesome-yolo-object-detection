@@ -620,6 +620,8 @@
 
       - [PPL量化工具](https://github.com/openppl-public/ppq) <img src="https://img.shields.io/github/stars/openppl-public/ppq?style=social"/> : PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool. PPL QuantTool 是一个高效的工业级神经网络量化工具。 
 
+      - [PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) <img src="https://img.shields.io/github/stars/PINTO0309/PINTO_model_zoo?style=social"/> : A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML. 
+
       - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~ 
 
       - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. (**[知乎 2022](https://zhuanlan.zhihu.com/p/536500269)**)    
