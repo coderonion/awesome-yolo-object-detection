@@ -549,6 +549,8 @@
 
     - [iloveai8086/YOLOC](https://github.com/iloveai8086/YOLOC) <img src="https://img.shields.io/github/stars/iloveai8086/YOLOC?style=social"/> : 🚀YOLOC is Combining different modules to build an different Object detection model.
 
+    - [iscyy/yoloair](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5.
+
 
 ## Extensional Frameworks
 
