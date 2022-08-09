@@ -86,9 +86,6 @@
 
 
 
-
-
-
 ## Summary
 
   - ### Official YOLO
@@ -300,6 +297,8 @@
     - [nemonameless/PaddleDetection_YOLOX](https://github.com/nemonameless/PaddleDetection_YOLOX) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOX?style=social"/> : Paddle YOLOX, 51.8% on COCO val by YOLOX-x, 44.6% on YOLOX-ConvNeXt-s.
 
     - [nemonameless/PaddleDetection_YOLOset](https://github.com/nemonameless/PaddleDetection_YOLOset) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOset?style=social"/> : Paddle YOLO set: YOLOv3, PPYOLO, PPYOLOE, YOLOX, YOLOv5, YOLOv7 and so on.
+
+    - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> :  🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
 
     - [Nioolek/PPYOLOE_pytorch](https://github.com/Nioolek/PPYOLOE_pytorch) <img src="https://img.shields.io/github/stars/Nioolek/PPYOLOE_pytorch?style=social"/> : An unofficial implementation of Pytorch version PP-YOLOE,based on Megvii YOLOX training code. 
 
@@ -1623,6 +1622,8 @@
     - [CVUsers/Auto_maker](https://github.com/CVUsers/Auto_maker) <img src="https://img.shields.io/github/stars/CVUsers/Auto_maker?style=social"/> : 深度学习数据自动标注器开源 目标检测和图像分类（高精度高效率）。
 
     - [DarkLabel](https://github.com/darkpgmr/DarkLabel) <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
+
+    - [MyVision](https://github.com/OvidijusParsiunas/myvision) <img src="https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social"/> : Computer vision based ML training data generation tool 🚀
 
     - [wufan-tb/AutoLabelImg](https://github.com/wufan-tb/AutoLabelImg) <img src="https://img.shields.io/github/stars/wufan-tb/AutoLabelImg?style=social"/> : auto-labelimg based on yolov5, with many other useful tools. AutoLabelImg 多功能自动标注工具。
 
