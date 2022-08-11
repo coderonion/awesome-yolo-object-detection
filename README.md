@@ -136,6 +136,8 @@
 
       - [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
+      - [iscyy/yoloair](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5. YOLOAir算法库 是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱。用来组合不同模块构建不同网络。
+
 
   - ### Blogs
 
@@ -381,6 +383,9 @@
 
     - [ConfusionTechnologies/ros-yolov5-node](https://github.com/ConfusionTechnologies/ros-yolov5-node) <img src="https://img.shields.io/github/stars/ConfusionTechnologies/ros-yolov5-node?style=social"/> : For ROS2, uses ONNX GPU Runtime to inference YOLOv5.
 
+    - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) <img src="https://img.shields.io/github/stars/Ar-Ray-code/darknet_ros_fp16?style=social"/> : darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）.
+
+
 
   - ### Dotnet Implementation
 
@@ -388,7 +393,15 @@
 
     - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
-    - [harujoh/KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : Pure C# machine learning framework.
+    - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
+    
+    - [KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : Pure C# machine learning framework.
+
+    - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support.
+
+    - [Bright Wire](https://github.com/jdermody/brightwire) <img src="https://img.shields.io/github/stars/jdermody/brightwire?style=social"/> : Bright Wire is an open source machine learning library for .NET with GPU support (via CUDA).
+
+    - [MyCaffe](https://github.com/MyCaffe/MyCaffe) <img src="https://img.shields.io/github/stars/MyCaffe/MyCaffe?style=social"/> : A complete deep learning platform written almost entirely in C# for Windows developers! Now you can write your own layers in C#! 
 
     - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
 
@@ -548,7 +561,7 @@
 
     - [iloveai8086/YOLOC](https://github.com/iloveai8086/YOLOC) <img src="https://img.shields.io/github/stars/iloveai8086/YOLOC?style=social"/> : 🚀YOLOC is Combining different modules to build an different Object detection model.
 
-    - [iscyy/yoloair](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5.
+    - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
 
 
 ## Extensional Frameworks
@@ -705,6 +718,8 @@
 
       - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, SCRFD, YOLOX . MNN, NCNN, TNN, ONNXRuntime, CPU/GPU. “🛠Lite.Ai.ToolKit: 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。”
 
+      - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++.
+
       - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models) <img src="https://img.shields.io/github/stars/Baiyuetribe/ncnn-models?style=social"/> : awesome AI models with NCNN, and how they were converted ✨✨✨
 
       - [cmdbug/YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN) <img src="https://img.shields.io/github/stars/cmdbug/YOLOv5_NCNN?style=social"/> : 🍅 Deploy ncnn on mobile phones. Support Android and iOS. 移动端ncnn部署，支持Android与iOS。
@@ -776,8 +791,6 @@
       - [ibaiGorordo/ONNX-YOLOv7-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv7-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv7-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv7 model in ONNX. 
 
       - [triple-Mu/yolov7](https://github.com/triple-Mu/yolov7) <img src="https://img.shields.io/github/stars/triple-Mu/yolov7?style=social"/> : End2end TensorRT YOLOv7.
-
-      - [Linaom1214/tensorrt-python](https://github.com/Linaom1214/tensorrt-python) <img src="https://img.shields.io/github/stars/Linaom1214/tensorrt-python?style=social"/> : YOLO Series TensorRT Python/C++. tensorrt for yolov7,yolov6,yolov5,yolox.
 
       - [cyrillkuettel/ncnn-android-yolov5](https://github.com/cyrillkuettel/ncnn-android-yolov5) <img src="https://img.shields.io/github/stars/cyrillkuettel/ncnn-android-yolov5?style=social"/> : This is a sample ncnn android project, it depends on ncnn library and opencv.
 
@@ -1027,8 +1040,6 @@
 
     - [pprp/awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) <img src="https://img.shields.io/github/stars/pprp/awesome-attention-mechanism-in-cv?style=social"/> : 👊 CV中常用注意力模块;即插即用模块;ViT模型. PyTorch Implementation Collection of Attention Module and Plug&Play Module.
 
-    - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
-
     - [HaloTrouvaille/YOLO-Multi-Backbones-Attention](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention) <img src="https://img.shields.io/github/stars/HaloTrouvaille/YOLO-Multi-Backbones-Attention?style=social"/> : This Repository includes YOLOv3 with some lightweight backbones (ShuffleNetV2, GhostNet, VoVNet), some computer vision attention mechanism (SE Block, CBAM Block, ECA Block), pruning,quantization and distillation for GhostNet.
 
     - [kay-cottage/CoordAttention_YOLOX_Pytorch](https://github.com/kay-cottage/CoordAttention_YOLOX_Pytorch) <img src="https://img.shields.io/github/stars/kay-cottage/CoordAttention_YOLOX_Pytorch?style=social"/> : CoordAttention_YOLOX(基于CoordAttention坐标注意力机制的改进版YOLOX目标检测平台）。 "Coordinate Attention for Efficient Mobile Network Design". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.html), [ Andrew-Qibin/CoordAttention](https://github.com/Andrew-Qibin/CoordAttention)**)
@@ -1136,6 +1147,8 @@
 
     - [YOLO5Face](https://github.com/deepcam-cn/yolov5-face) <img src="https://img.shields.io/github/stars/deepcam-cn/yolov5-face?style=social"/> : "YOLO5Face: Why Reinventing a Face Detector". (**[arXiv 2021](https://arxiv.org/abs/2105.12931)**)
 
+    - [YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) <img src="https://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2?style=social"/> : "YOLO-FaceV2: A Scale and Occlusion Aware Face Detector ". (**[arXiv 2022](https://arxiv.org/abs/2208.02019)**). (**[超越Yolo5-Face，Yolo-Facev2开源，各类Trick优化，值得学习！](https://mp.weixin.qq.com/s/7smH2Zg_bfTT7IBHFOg1tA)**)
+
     - [xialuxi/yolov5_face_landmark](https://github.com/xialuxi/yolov5_face_landmark) <img src="https://img.shields.io/github/stars/xialuxi/yolov5_face_landmark?style=social"/> : 基于yolov5的人脸检测，带关键点检测。
 
     - [sthanhng/yoloface](https://github.com/sthanhng/yoloface) <img src="https://img.shields.io/github/stars/sthanhng/yoloface?style=social"/> : Deep learning-based Face detection using the YOLOv3 algorithm. 
@@ -1159,6 +1172,10 @@
     - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
 
     - [zhouyuchong/face-recognition-deepstream](https://github.com/zhouyuchong/face-recognition-deepstream) <img src="https://img.shields.io/github/stars/zhouyuchong/face-recognition-deepstream?style=social"/> : Deepstream app use YOLO, retinaface and arcface for face recognition. 
+
+
+
+
 
 
   - ### Face Mask Detection
