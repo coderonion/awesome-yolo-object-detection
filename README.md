@@ -563,6 +563,8 @@
 
     - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
 
+    - [miemie2013/miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
+
 
 ## Extensional Frameworks
 
