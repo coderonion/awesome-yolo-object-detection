@@ -160,7 +160,7 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
     - [zhihu「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
-    - [zhihu「迪迦奥特曼」](https://www.zhihu.com/people/LEYM2)
+    - [zhihu「PoemAI」](https://www.zhihu.com/people/LEYM2)
       - [YOLO家族进化史（v1-v7）](https://zhuanlan.zhihu.com/p/539932517)
     - [zhihu「科技猛兽」](https://www.zhihu.com/people/wang-jia-hao-53-3)
       - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (上)](https://zhuanlan.zhihu.com/p/183261974)
