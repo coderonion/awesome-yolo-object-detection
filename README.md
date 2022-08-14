@@ -141,7 +141,7 @@
 
   - ### Blogs
 
-    - [知乎「江大白」/ 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
+    - [zhihu「江大白」/ 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
       - [深入浅出0基础入门AI及目标检测详细学习路径](https://zhuanlan.zhihu.com/p/463221190)
       - [深入浅出Yolo系列之Yolov3&Yolov4&Yolov5&Yolox核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/143747206)    
       - [深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380)   
@@ -158,7 +158,14 @@
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
     - 微信公众号「WeThinkln」
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
-
+    - [zhihu「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
+      - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
+    - [zhihu「迪迦奥特曼」](https://www.zhihu.com/people/LEYM2)
+      - [YOLO家族进化史（v1-v7）](https://zhuanlan.zhihu.com/p/539932517)
+    - [zhihu「科技猛兽」](https://www.zhihu.com/people/wang-jia-hao-53-3)
+      - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (上)](https://zhuanlan.zhihu.com/p/183261974)
+      - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (中)](https://zhuanlan.zhihu.com/p/183781646)
+      - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (下)](https://zhuanlan.zhihu.com/p/186014243)
 
 ## Other Versions of YOLO
 
@@ -290,9 +297,7 @@
 
     - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleDetection?style=social"/> : Object Detection toolkit based on PaddlePaddle. "PP-YOLO: An Effective and Efficient Implementation of Object Detector". (**[arXiv 2020](https://arxiv.org/abs/2007.12099)**)
 
-    - [miemie2013/Paddle-YOLOv4](https://github.com/miemie2013/Paddle-YOLOv4) <img src="https://img.shields.io/github/stars/miemie2013/Paddle-YOLOv4?style=social"/> : Paddle-YOLOv4.
-
-    - [Sharpiless/PaddleDetection-Yolov5](https://github.com/Sharpiless/PaddleDetection-Yolov5) <img src="https://img.shields.io/github/stars/Sharpiless/PaddleDetection-Yolov5?style=social"/> : 基于Paddlepaddle复现yolov5，支持PaddleDetection接口。
+    - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> :  🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
 
     - [nemonameless/PaddleDetection_YOLOv5](https://github.com/nemonameless/PaddleDetection_YOLOv5) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOv5?style=social"/> : YOLOv5 of PaddleDetection, Paddle implementation of YOLOv5.
 
@@ -300,7 +305,9 @@
 
     - [nemonameless/PaddleDetection_YOLOset](https://github.com/nemonameless/PaddleDetection_YOLOset) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOset?style=social"/> : Paddle YOLO set: YOLOv3, PPYOLO, PPYOLOE, YOLOX, YOLOv5, YOLOv7 and so on.
 
-    - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> :  🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
+    - [miemie2013/Paddle-YOLOv4](https://github.com/miemie2013/Paddle-YOLOv4) <img src="https://img.shields.io/github/stars/miemie2013/Paddle-YOLOv4?style=social"/> : Paddle-YOLOv4.
+
+    - [Sharpiless/PaddleDetection-Yolov5](https://github.com/Sharpiless/PaddleDetection-Yolov5) <img src="https://img.shields.io/github/stars/Sharpiless/PaddleDetection-Yolov5?style=social"/> : 基于Paddlepaddle复现yolov5，支持PaddleDetection接口。
 
     - [Nioolek/PPYOLOE_pytorch](https://github.com/Nioolek/PPYOLOE_pytorch) <img src="https://img.shields.io/github/stars/Nioolek/PPYOLOE_pytorch?style=social"/> : An unofficial implementation of Pytorch version PP-YOLOE,based on Megvii YOLOX training code. 
 
@@ -640,11 +647,11 @@
 
       - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~ 
 
-      - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. (**[知乎 2022](https://zhuanlan.zhihu.com/p/536500269)**)    
+      - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. (**[zhihu 2022](https://zhuanlan.zhihu.com/p/536500269)**)    
 
-      - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-Fastest?style=social"/> : Yolo-Fastest：超超超快的开源ARM实时目标检测算法。 (**[Zenodo 2021](http://doi.org/10.5281/zenodo.5131532), [知乎 2020](https://zhuanlan.zhihu.com/p/234506503)**)
+      - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-Fastest?style=social"/> : Yolo-Fastest：超超超快的开源ARM实时目标检测算法。 (**[Zenodo 2021](http://doi.org/10.5281/zenodo.5131532), [zhihu 2020](https://zhuanlan.zhihu.com/p/234506503)**)
 
-      - [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-FastestV2?style=social"/> : Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k。 (**[知乎 2021](https://zhuanlan.zhihu.com/p/400474142)**)
+      - [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-FastestV2?style=social"/> : Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k。 (**[zhihu 2021](https://zhuanlan.zhihu.com/p/400474142)**)
 
       - [YOLObile](https://github.com/nightsnack/YOLObile) <img src="https://img.shields.io/github/stars/nightsnack/YOLObile?style=social"/> : "YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-7561.CaiY.pdf)**)
 
@@ -1570,7 +1577,7 @@
 
     - [tsm55555/adversarial-yolov5](https://github.com/tsm55555/adversarial-yolov5) <img src="https://img.shields.io/github/stars/tsm55555/adversarial-yolov5?style=social"/> : The code is modified from [Adversarial YOLO](https://gitlab.com/EAVISE/adversarial-yolo)   
 
-    - [AdvTexture](https://github.com/WhoTHU/Adversarial_Texture) <img src="https://img.shields.io/github/stars/WhoTHU/Adversarial_Texture?style=social"/> : "Adversarial Texture for Fooling Person Detectors in the Physical World". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html)**). CVPR2022 Oral 物理对抗样本 如何做一件“隐形衣”。  (**[知乎 2022](https://zhuanlan.zhihu.com/p/499854846)**)
+    - [AdvTexture](https://github.com/WhoTHU/Adversarial_Texture) <img src="https://img.shields.io/github/stars/WhoTHU/Adversarial_Texture?style=social"/> : "Adversarial Texture for Fooling Person Detectors in the Physical World". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html)**). CVPR2022 Oral 物理对抗样本 如何做一件“隐形衣”。  (**[zhihu 2022](https://zhuanlan.zhihu.com/p/499854846)**)
 
 
   - ### Instance and Semantic Segmentation
