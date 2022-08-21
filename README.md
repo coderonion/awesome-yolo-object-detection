@@ -48,9 +48,9 @@
     - [Face Detection and Recognition (人脸检测与识别)](#face-detection-and-recognition)
     - [Face Mask Detection (口罩检测)](#face-mask-detection)
     - [Social Distance Detection (社交距离检测)](#social-distance-detection)
-    - [Intelligent Transportation Field Detection (智能交通领域检测)](#intelligent-transportation-field-detection)
+    - [Autonomous Driving Field Detection (自动驾驶领域检测)](#autonomous-driving-field-detection)
       - [Vehicle Detection (车辆检测)](#vehicle-detection)
-      - [License Plate Detection and Recognition (车牌检测)](#license-plate-detection-and-recognition)
+      - [License Plate Detection and Recognition (车牌检测与识别)](#license-plate-detection-and-recognition)
       - [Lane Detection (车道线检测)](#lane-detection)
       - [Driving Behavior Detection (驾驶行为检测)](#driving-behavior-detection)
       - [Parking Slot Detection (停车位检测)](#parking-slot-detection)
@@ -388,6 +388,8 @@
 
     - [lukazso/yolov7-ros](https://github.com/lukazso/yolov7-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov7-ros?style=social"/> : ROS package for official YOLOv7.
 
+    - [phuoc101/yolov7_ros](https://github.com/phuoc101/yolov7_ros) <img src="https://img.shields.io/github/stars/phuoc101/yolov7_ros?style=social"/> : ROS package for official YOLOv7.
+
     - [ConfusionTechnologies/ros-yolov5-node](https://github.com/ConfusionTechnologies/ros-yolov5-node) <img src="https://img.shields.io/github/stars/ConfusionTechnologies/ros-yolov5-node?style=social"/> : For ROS2, uses ONNX GPU Runtime to inference YOLOv5.
 
     - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) <img src="https://img.shields.io/github/stars/Ar-Ray-code/darknet_ros_fp16?style=social"/> : darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）.
@@ -517,6 +519,7 @@
 
   - ### Others
 
+    - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
     - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) <img src="https://img.shields.io/github/stars/jinfagang/yolov7?style=social"/> :  🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
@@ -546,8 +549,6 @@
 
     - [tiquasar/FLAITER](https://github.com/tiquasar/FLAITER) <img src="https://img.shields.io/github/stars/tiquasar/FLAITER?style=social"/> : Machine Learning and AI Mobile Application.
 
-    - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
-
     - [kadirnar/Minimal-Yolov6](https://github.com/kadirnar/Minimal-Yolov6) <img src="https://img.shields.io/github/stars/kadirnar/Minimal-Yolov6?style=social"/> : Minimal-Yolov6. 
 
     - [DataXujing/YOLOv6](https://github.com/DataXujing/YOLOv6) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv6?style=social"/> : 🌀 🌀 手摸手 美团 YOLOv6模型训练和TensorRT端到端部署方案教程。
@@ -571,6 +572,7 @@
     - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C. 🌟 基于yolov5&&yolov7的改进库。
 
     - [miemie2013/miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
+
 
 
 ## Extensional Frameworks
@@ -1229,8 +1231,8 @@
     - [Ashamaria/Safe-distance-tracker-using-YOLOv3-v3](https://github.com/Ashamaria/Safe-distance-tracker-using-YOLOv3-v3) <img src="https://img.shields.io/github/stars/Ashamaria/Safe-distance-tracker-using-YOLOv3-v3?style=social"/> : Safe Distance Tracker.
 
 
-  - ### Intelligent Transportation Field Detection
-    #### 智能交通领域检测
+  - ### Autonomous Driving Field Detection
+    #### 自动驾驶领域检测
 
     - ####  Vehicle Detection
       #####  车辆检测
