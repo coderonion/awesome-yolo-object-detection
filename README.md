@@ -29,59 +29,59 @@
   - [Extensional Frameworks](#extensional-frameworks)
   - [Applications](#applications)
     - [Lighter and Faster](#lighter-and-faster)
-      - [Lightweight Backbones and FPN (轻量级骨干网络和特征金字塔网络)](#lightweight-backbones-and-fpn)
-      - [Pruning Knoweldge-Distillation Quantization (剪枝 知识蒸馏 量化)](#pruning-knoweldge-distillation-quantization)
-      - [High-performance Inference Engine (高性能推理引擎)](#high-performance-inference-engine)
-      - [FPGA TPU NPU Hardware Deployment (FPGA TPU NPU 硬件部署)](#fpga-tpu-npu-hardware-deployment)
-    - [Video Object Detection (视频目标检测)](#video-object-detection)
-    - [Object Tracking (目标跟踪)](#object-tracking)
-      - [Multi-Object Tracking (多目标跟踪)](#multi-object-tracking)
-    - [Deep Reinforcement Learning (深度强化学习)](#deep-reinforcement-learning)
-    - [Multi-Modality Information Fusion (多模态信息融合)](#multi-modality-information-fusion)
-    - [Motion Control Field (运动控制领域)](#motion-control-field)
-    - [Super-Resolution Field (超分辨率领域)](#super-resolution-field)
-    - [Spiking Neural Network (SNN, 脉冲神经网络)](#spiking-neural-network)
-    - [Attention and Transformer (注意力机制)](#attention-and-transformer)
-    - [Small Object Detection (小目标检测)](#small-object-detection)
-    - [Few-shot Object Detection (少样本目标检测)](#few-shot-object-detection)
-    - [Oriented Object Detection (旋转目标检测)](#oriented-object-detection)
-    - [Face Detection and Recognition (人脸检测与识别)](#face-detection-and-recognition)
-    - [Face Mask Detection (口罩检测)](#face-mask-detection)
-    - [Social Distance Detection (社交距离检测)](#social-distance-detection)
-    - [Autonomous Driving Field Detection (自动驾驶领域检测)](#autonomous-driving-field-detection)
-      - [Vehicle Detection (车辆检测)](#vehicle-detection)
-      - [License Plate Detection and Recognition (车牌检测与识别)](#license-plate-detection-and-recognition)
-      - [Lane Detection (车道线检测)](#lane-detection)
-      - [Driving Behavior Detection (驾驶行为检测)](#driving-behavior-detection)
-      - [Parking Slot Detection (停车位检测)](#parking-slot-detection)
-      - [Traffic Light Detection (交通灯检测)](#traffic-light-detection)
-      - [Traffic Sign Detection (交通标志检测)](#traffic-sign-detection)
-      - [Crosswalk Detection (人行横道/斑马线检测)](#crosswalk-detection)
-      - [Traffic Accidents Detection (交通事故检测)](#traffic-accidents-detection)
-      - [Road Damage Detection (道路损伤检测)](#road-damage-detection)
-    - [Helmet Detection (头盔/安全帽检测)](#helmet-detection)
-    - [Hand Detection (手部检测)](#hand-detection)
-    - [Gesture Recognition (手势/手语识别)](#gesture-recognition)
-    - [Action Detection (行为检测)](#action-detection)
-    - [Emotion Recognition (情感识别)](#emotion-recognition)
-    - [Human Pose Estimation (人体姿态估计)](#human-pose-estimation)
-    - [Distance Measurement (距离测量)](#distance-measurement)
-    - [3D Object Detection (三维目标检测)](#3d-object-detection)
-    - [SLAM Field Detection (SLAM领域检测)](#slam-field-detection)
-    - [Industrial Defect Detection (工业缺陷检测)](#industrial-defect-detection)
-    - [SAR Image Detection (合成孔径雷达图像检测)](#sar-image-detection)
-    - [Safety Monitoring Field Detection (安防监控领域检测)](#safety-monitoring-field-detection)
-    - [Medical Field Detection (医学领域检测)](#medical-field-detection)
-    - [Chemistry Field Detection (化学领域检测)](#chemistry-field-detection)
-    - [Agricultural Field Detection (农业领域检测)](#agricultural-field-detection)
-    - [Adverse Weather Conditions (恶劣天气情况)](#adverse-weather-conditions)
-    - [Adversarial Attack and Defense (对抗攻击与防御)](#adversarial-attack-and-defense)
-    - [Instance and Semantic Segmentation (实例和语义分割)](#instance-and-semantic-segmentation)
-    - [Game Field Detection (游戏领域检测)](#game-field-detection)
-    - [Automatic Annotation Tool (自动标注工具)](#automatic-annotation-tool)
-    - [Feature Map Visualization (特征图可视化)](#feature-map-visualization)
-    - [Object Detection Evaluation Metrics (目标检测性能评价指标)](#object-detection-evaluation-metrics)
-    - [GUI (图形用户界面)](#gui)
+      - [Lightweight Backbones and FPN](#lightweight-backbones-and-fpn)
+      - [Pruning Knoweldge-Distillation Quantization](#pruning-knoweldge-distillation-quantization)
+      - [High-performance Inference Engine](#high-performance-inference-engine)
+      - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
+    - [Video Object Detection](#video-object-detection)
+    - [Object Tracking](#object-tracking)
+      - [Multi-Object Tracking](#multi-object-tracking)
+    - [Deep Reinforcement Learning](#deep-reinforcement-learning)
+    - [Multi-Modality Information Fusion](#multi-modality-information-fusion)
+    - [Motion Control Field](#motion-control-field)
+    - [Super-Resolution Field](#super-resolution-field)
+    - [Spiking Neural Network](#spiking-neural-network)
+    - [Attention and Transformer](#attention-and-transformer)
+    - [Small Object Detection](#small-object-detection)
+    - [Few-shot Object Detection](#few-shot-object-detection)
+    - [Oriented Object Detection](#oriented-object-detection)
+    - [Face Detection and Recognition](#face-detection-and-recognition)
+    - [Face Mask Detection](#face-mask-detection)
+    - [Social Distance Detection](#social-distance-detection)
+    - [Autonomous Driving Field Detection](#autonomous-driving-field-detection)
+      - [Vehicle Detection](#vehicle-detection)
+      - [License Plate Detection and Recognition](#license-plate-detection-and-recognition)
+      - [Lane Detection](#lane-detection)
+      - [Driving Behavior Detection](#driving-behavior-detection)
+      - [Parking Slot Detection](#parking-slot-detection)
+      - [Traffic Light Detection](#traffic-light-detection)
+      - [Traffic Sign Detection](#traffic-sign-detection)
+      - [Crosswalk Detection](#crosswalk-detection)
+      - [Traffic Accidents Detection](#traffic-accidents-detection)
+      - [Road Damage Detection](#road-damage-detection)
+    - [Helmet Detection](#helmet-detection)
+    - [Hand Detection](#hand-detection)
+    - [Gesture Recognition](#gesture-recognition)
+    - [Action Detection](#action-detection)
+    - [Emotion Recognition](#emotion-recognition)
+    - [Human Pose Estimation](#human-pose-estimation)
+    - [Distance Measurement](#distance-measurement)
+    - [3D Object Detection](#3d-object-detection)
+    - [SLAM Field Detection](#slam-field-detection)
+    - [Industrial Defect Detection](#industrial-defect-detection)
+    - [SAR Image Detection](#sar-image-detection)
+    - [Safety Monitoring Field Detection](#safety-monitoring-field-detection)
+    - [Medical Field Detection](#medical-field-detection)
+    - [Chemistry Field Detection](#chemistry-field-detection)
+    - [Agricultural Field Detection](#agricultural-field-detection)
+    - [Adverse Weather Conditions](#adverse-weather-conditions)
+    - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
+    - [Instance and Semantic Segmentation](#instance-and-semantic-segmentation)
+    - [Game Field Detection](#game-field-detection)
+    - [Automatic Annotation Tool](#automatic-annotation-tool)
+    - [Feature Map Visualization](#feature-map-visualization)
+    - [Object Detection Evaluation Metrics](#object-detection-evaluation-metrics)
+    - [GUI](#gui)
     - [Other Applications](#other-applications)
 
 
@@ -136,7 +136,7 @@
 
       - [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
-      - [iscyy/yoloair](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOAir：Including YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR and other networks... Support to improve backbone, head, loss, IoU, NMS...The original version was created based on YOLOv5. YOLOAir算法库 是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱。用来组合不同模块构建不同网络。
+      - [iscyy/yoloair](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOv5, YOLOv5-Improved, YOLOv7, Transformer, YOLOX, YOLOR , YOLOv3, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules. YOLOAir算法库 是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱，内置YOLOv5、YOLOv7、YOLOX、YOLOR、Transformer、Scaled_YOLOv4、YOLOv3、YOLOv4、YOLO-Facev2、TPH-YOLOv5、YOLOv5Lite、PicoDet等模型网络结构(持续更新中🚀)...。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir ](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
 
 
   - ### Blogs
@@ -667,6 +667,8 @@
 
       - [ZJU-lishuang/yolov5_prune](https://github.com/ZJU-lishuang/yolov5_prune) <img src="https://img.shields.io/github/stars/ZJU-lishuang/yolov5_prune?style=social"/> : yolov5 prune，Support V2, V3, V4 and V6 versions of yolov5.
 
+      - [sbbug/yolov5-prune-multi](https://github.com/sbbug/yolov5-prune-multi) <img src="https://img.shields.io/github/stars/sbbug/yolov5-prune-multi?style=social"/> : yolov5-prune-multi 无人机视角、多模态、模型剪枝、国产AI芯片部署。
+
       - [Syencil/mobile-yolov5-pruning-distillation](https://github.com/Syencil/mobile-yolov5-pruning-distillation) <img src="https://img.shields.io/github/stars/Syencil/mobile-yolov5-pruning-distillation?style=social"/> : mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！
 
       - [Lam1360/YOLOv3-model-pruning](https://github.com/Lam1360/YOLOv3-model-pruning) <img src="https://img.shields.io/github/stars/Lam1360/YOLOv3-model-pruning?style=social"/> : 在 oxford hand 数据集上对 YOLOv3 做模型剪枝（network slimming）。
@@ -925,7 +927,11 @@
     - ####  Multi-Object Tracking
       #####  多目标跟踪
 
-      - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv5 and StrongSORT with OSNet.
+      - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with OSNet.
+
+      - [kadirnar/yolov5-strongsort](https://github.com/kadirnar/yolov5-strongsort) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-strongsort?style=social"/> : Minimal PyTorch implementation of YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT).
+
+      - [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) <img src="https://img.shields.io/github/stars/bharath5673/StrongSORT-YOLO?style=social"/> : Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with OSNet.
 
       - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_Pytorch?style=social"/> : Real-time multi-object tracker using YOLO v5 and deep sort.
 
@@ -991,7 +997,7 @@
 
       - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
 
-      - [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) <img src="https://img.shields.io/github/stars/bharath5673/StrongSORT-YOLO?style=social"/> : Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and StrongSORT with OSNet.
+
 
 
   - #### Deep Reinforcement Learning
