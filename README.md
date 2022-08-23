@@ -524,7 +524,7 @@
 
     - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
-    - [jinfagang/yolov7](https://github.com/jinfagang/yolov7) <img src="https://img.shields.io/github/stars/jinfagang/yolov7?style=social"/> :  🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
+    - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) <img src="https://img.shields.io/github/stars/jinfagang/yolov7_d2?style=social"/> : 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
     - [shanglianlm0525/CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
 
@@ -1000,6 +1000,7 @@
 
       - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
 
+      - [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=social"/> : YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking.
 
 
 
@@ -1049,6 +1050,9 @@
     - [Zaabon/spiking_yolo](https://github.com/Zaabon/spiking_yolo) <img src="https://img.shields.io/github/stars/Zaabon/spiking_yolo?style=social"/> : This project is a combined neural network utilizing an spiking CNN with backpropagation and YOLOv3 for object detection.
 
     - [Dignity-ghost/PyTorch-Spiking-YOLOv3](https://github.com/Dignity-ghost/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/Dignity-ghost/PyTorch-Spiking-YOLOv3?style=social"/> : A modified repository based on [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) and [YOLOv3](https://pjreddie.com/darknet/yolo), which makes it suitable for VOC-dataset and YOLOv2.
+
+    - [beauty-girl-cxy/spiking-yolov5](https://github.com/beauty-girl-cxy/spiking-yolov5) <img src="https://img.shields.io/github/stars/beauty-girl-cxy/spiking-yolov5?style=social"/> : spiking-yolov5.
+
 
 
   - #### Attention and Transformer
@@ -1418,6 +1422,8 @@
     - [pengyang1225/yolov5_person_pose](https://github.com/pengyang1225/yolov5_person_pose) <img src="https://img.shields.io/github/stars/pengyang1225/yolov5_person_pose?style=social"/> : 基于yolov5的person—pose。
 
     - [hpc203/yolov5_pose_opencv](https://github.com/hpc203/yolov5_pose_opencv) <img src="https://img.shields.io/github/stars/hpc203/yolov5_pose_opencv?style=social"/> : 使用OpenCV部署yolov5-pose目标检测+人体姿态估计，包含C++和Python两个版本的程序。支持yolov5s，yolov5m，yolov5l。
+
+    - [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-pose-estimation?style=social"/> : YOLOv7 Pose estimation using OpenCV, PyTorch.
 
 
   - ### Distance Measurement
@@ -1809,8 +1815,9 @@
 
     - [bobjiangps/vision](https://github.com/bobjiangps/vision) <img src="https://img.shields.io/github/stars/bobjiangps/vision?style=social"/> : UI auto test framework based on YOLO to recognize elements, less code, less maintenance, cross platform, cross project / 基于YOLO的UI层自动化测试框架, 可识别控件类型，减少代码和维护，一定程度上跨平台跨项目。
 
+    - [RizwanMunawar/yolov7-object-cropping](https://github.com/RizwanMunawar/yolov7-object-cropping) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-cropping?style=social"/> : YOLOv7 Object Cropping Using OpenCV.
 
-
+    - [RizwanMunawar/yolov7-object-blurring](https://github.com/RizwanMunawar/yolov7-object-blurring) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-blurring?style=social"/> : YOLOv7 Object Blurring Using PyTorch and OpenCV.
 
 
 
