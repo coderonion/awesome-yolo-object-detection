@@ -134,6 +134,8 @@
 
     - #### Code Review
 
+      - [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) <img src="https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch?style=social"/> : 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐.
+      
       - [YOLOAir](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOv3, YOLOv5, YOLOv7, Transformer, YOLOX, YOLOR, YOLOv4 and other networks... Support to improve backbone, head, loss, IoU, NMS and other modules. YOLOAir: Make the improvement of the YOLO model faster, more convenient. YOLOAir算法库 是一个基于 PyTorch 的一系列 YOLO 检测算法组合工具箱，内置YOLOv5、YOLOv7、YOLOX、YOLOR、Transformer、Scaled_YOLOv4、YOLOv3、YOLOv4、YOLO-Facev2、TPH-YOLOv5、YOLOv5Lite、PicoDet等模型网络结构(持续更新中🚀)...。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
 
       - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
@@ -1062,8 +1064,6 @@
 
   - #### Attention and Transformer
     #### 注意力机制
-
-    - [xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch) <img src="https://img.shields.io/github/stars/xmu-xiaoma666/External-Attention-pytorch?style=social"/> : 🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐.
 
     - [MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions) <img src="https://img.shields.io/github/stars/MenghaoGuo/Awesome-Vision-Attentions?style=social"/> : Summary of related papers on visual attention. Related code will be released based on Jittor gradually. "Attention Mechanisms in Computer Vision: A Survey". (**[arXiv 2021](https://arxiv.org/abs/2111.07624)**)
 
