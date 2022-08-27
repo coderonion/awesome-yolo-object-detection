@@ -528,15 +528,15 @@
 
     - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) <img src="https://img.shields.io/github/stars/jinfagang/yolov7_d2?style=social"/> : 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
-    - [shanglianlm0525/CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
+    - [CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
 
     - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
+
+    - [Yolov5_Magic](https://github.com/WangQvQ/Yolov5_Magic) <img src="https://img.shields.io/github/stars/WangQvQ/Yolov5_Magic?style=social"/> : Share some tricks of improving Yolov5 and experiment results. 🚀🚀🚀分享一些关于改进Yolov5的tricks以及实验结果。
 
     - [DL-Practise/YoloAll](https://github.com/DL-Practise/YoloAll) <img src="https://img.shields.io/github/stars/DL-Practise/YoloAll?style=social"/> : YoloAll is a collection of yolo all versions. you you use YoloAll to test yolov3/yolov5/yolox/yolo_fastest.
 
     - [msnh2012/Msnhnet](https://github.com/msnh2012/Msnhnet) <img src="https://img.shields.io/github/stars/msnh2012/Msnhnet?style=social"/> : (yolov3 yolov4 yolov5 unet ...)A mini pytorch inference framework which inspired from darknet.
-
-    - [1579093407/Yolov5_Magic](https://github.com/1579093407/Yolov5_Magic) <img src="https://img.shields.io/github/stars/1579093407/Yolov5_Magic?style=social"/> : Share some tricks of improving Yolov5 and experiment results. 分享一些关于改进Yolov5的tricks以及实验结果。
 
     - [xinghanliuying/yolov5-trick](https://github.com/xinghanliuying/yolov5-trick) <img src="https://img.shields.io/github/stars/xinghanliuying/yolov5-trick?style=social"/> : 基于yolov5的改进库。
 
