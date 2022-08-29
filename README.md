@@ -925,6 +925,8 @@
 
       - [StreamYOLO](https://github.com/yancie-yjr/StreamYOLO) <img src="https://img.shields.io/github/stars/yancie-yjr/StreamYOLO?style=social"/> : "Real-time Object Detection for Streaming Perception". (**[CVPR 2022](https://arxiv.org/abs/2203.12338v1)**)
 
+      - [REPP](https://github.com/AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection) <img src="https://img.shields.io/github/stars/AlbertoSabater/Robust-and-efficient-post-processing-for-video-object-detection?style=social"/> : "Robust and efficient post-processing for video object detection". (**[IROS 2020](https://ieeexplore.ieee.org/abstract/document/9341600)**)
+
       - [NoScope](https://github.com/stanford-futuredata/noscope) <img src="https://img.shields.io/github/stars/stanford-futuredata/noscope?style=social"/> : "Noscope: optimizing neural network queries over video at scale". (**[arXiv 2017](https://arxiv.org/abs/1703.02529)**)
 
 
