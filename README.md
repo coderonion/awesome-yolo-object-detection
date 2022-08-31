@@ -141,7 +141,7 @@
 
   - ### Blogs
 
-    - [zhihu「江大白」/ 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
+    - [知乎「江大白」/ 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
       - [深入浅出0基础入门AI及目标检测详细学习路径](https://zhuanlan.zhihu.com/p/463221190)
       - [深入浅出Yolo系列之Yolov3&Yolov4&Yolov5&Yolox核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/143747206)    
       - [深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380)   
@@ -152,17 +152,20 @@
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
       - [【yolov7系列】网络框架细节拆解](https://mp.weixin.qq.com/s/VEcUIaDrhc1ETIPr39l4rg)
+      - [【yolov7系列二】正负样本分配策略](https://mp.weixin.qq.com/s/nhZ3Q1NHm3op8abdVIGmLA)
       - [【yolov7系列三】实战从0构建训练自己的数据集](https://mp.weixin.qq.com/s/S80mMimu4YpHwClHIH07eA)
     - 微信公众号「集智书童」
       - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
     - 微信公众号「WeThinkln」
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
-    - [zhihu「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（尝鲜版）](https://mp.weixin.qq.com/s/JDaSWyNdLoHc6j6cOmNIWw)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
+    - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
-    - [zhihu「PoemAI」](https://www.zhihu.com/people/LEYM2)
+    - [知乎「PoemAI」](https://www.zhihu.com/people/LEYM2)
       - [YOLO家族进化史（v1-v7）](https://zhuanlan.zhihu.com/p/539932517)
-    - [zhihu「科技猛兽」](https://www.zhihu.com/people/wang-jia-hao-53-3)
+    - [知乎「科技猛兽」](https://www.zhihu.com/people/wang-jia-hao-53-3)
       - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (上)](https://zhuanlan.zhihu.com/p/183261974)
       - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (中)](https://zhuanlan.zhihu.com/p/183781646)
       - [你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (下)](https://zhuanlan.zhihu.com/p/186014243)
