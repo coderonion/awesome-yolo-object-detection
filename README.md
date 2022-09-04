@@ -1803,7 +1803,7 @@
 
     - [zeyad-mansour/lunar](https://github.com/zeyad-mansour/lunar) <img src="https://img.shields.io/github/stars/zeyad-mansour/lunar?style=social"/> : Lunar is a neural network aimbot that uses real-time object detection accelerated with CUDA on Nvidia GPUs.
 
-    - [lannguyen0910/food-detection-yolov5](https://github.com/lannguyen0910/food-detection-yolov5) <img src="https://img.shields.io/github/stars/lannguyen0910/food-detection-yolov5?style=social"/> : YOLOv5 meal analysis.
+    - [lannguyen0910/food-recognition](https://github.com/lannguyen0910/food-recognition) <img src="https://img.shields.io/github/stars/lannguyen0910/food-recognition?style=social"/> :  🍔🍟🍗 Food analysis baseline with Theseus. Integrate object detection, image classification and multi-class semantic segmentation. 🍞🍖🍕 
 
     - [killnice/yolov5-D435i](https://github.com/killnice/yolov5-D435i) <img src="https://img.shields.io/github/stars/killnice/yolov5-D435i?style=social"/> : using yolov5 and realsense D435i.
 
