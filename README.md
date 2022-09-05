@@ -408,19 +408,11 @@
 
     - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
-    - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
-    
-    - [KelpNet](https://github.com/harujoh/KelpNet) <img src="https://img.shields.io/github/stars/harujoh/KelpNet?style=social"/> : Pure C# machine learning framework.
-
-    - [SharpNet](https://github.com/FranckZibi/SharpNet) <img src="https://img.shields.io/github/stars/FranckZibi/SharpNet?style=social"/> : Open-source Deep Learning library in C# with CUDA and BLAS support.
-
-    - [Bright Wire](https://github.com/jdermody/brightwire) <img src="https://img.shields.io/github/stars/jdermody/brightwire?style=social"/> : Bright Wire is an open source machine learning library for .NET with GPU support (via CUDA).
-
-    - [MyCaffe](https://github.com/MyCaffe/MyCaffe) <img src="https://img.shields.io/github/stars/MyCaffe/MyCaffe?style=social"/> : A complete deep learning platform written almost entirely in C# for Windows developers! Now you can write your own layers in C#! 
-
     - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
 
     - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
+
+    - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
 
     - [keijiro/TinyYOLOv2Barracuda](https://github.com/keijiro/TinyYOLOv2Barracuda) <img src="https://img.shields.io/github/stars/keijiro/TinyYOLOv2Barracuda?style=social"/> : Tiny YOLOv2 on Unity Barracuda.
 
@@ -453,8 +445,6 @@
     - [TimothyMeadows/Yolo6.NetCore](https://github.com/TimothyMeadows/Yolo6.NetCore) <img src="https://img.shields.io/github/stars/TimothyMeadows/Yolo6.NetCore?style=social"/> : You Only Look Once (v6) for .NET Core LTS.
 
     - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : EasyYoloDarknet.
-
-    - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
 
     - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : Windows optimized Yolo / Darknet Compile, Train and Detect.
 
@@ -584,6 +574,8 @@
 ## Extensional Frameworks
 
   - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
+
+  - [YOLOX-PAI](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
   - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
 
@@ -1780,6 +1772,8 @@
     - [Powercube7/YOLOv5-GUI](https://github.com/Powercube7/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Powercube7/YOLOv5-GUI?style=social"/> : A simple GUI made for creating jobs in YOLOv5.
 
     - [cdmstrong/yolov5-pyqt-moke](https://github.com/cdmstrong/yolov5-pyqt-moke) <img src="https://img.shields.io/github/stars/cdmstrong/yolov5-pyqt-moke?style=social"/> : 利用yolov5和pyqt做可视化检测。
+
+    - [GHigher12/Pyqt5_yolov5_unet_centernet](https://github.com/GHigher12/Pyqt5_yolov5_unet_centernet) <img src="https://img.shields.io/github/stars/GHigher12/Pyqt5_yolov5_unet_centernet?style=social"/> : 集yolov5、centernet、unet算法的pyqt5界面，可实现图片目标检测和语义分割。
 
 
   - ### Other Applications
