@@ -109,7 +109,7 @@
 
   - ### Awesome List
 
-    - [awesome-yolo-object-detection](https://github.com/dotnet-py/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/dotnet-py/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
+    - [awesome-yolo-object-detection](https://github.com/sjinzh/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/sjinzh/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
 
     - [srebroa/awesome-yolo](https://github.com/srebroa/awesome-yolo) <img src="https://img.shields.io/github/stars/srebroa/awesome-yolo?style=social"/> : 🚀 ⭐ The list of the most popular YOLO algorithms - awesome YOLO. 
 
@@ -519,6 +519,8 @@
 
     - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) <img src="https://img.shields.io/github/stars/jinfagang/yolov7_d2?style=social"/> : 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
+    - [j-marple-dev/AYolov2](https://github.com/j-marple-dev/AYolov2) <img src="https://img.shields.io/github/stars/j-marple-dev/AYolov2?style=social"/> : The main goal of this repository is to rewrite the object detection pipeline with a better code structure for better portability and adaptability to apply new experimental methods. The object detection pipeline is based on [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5).
+
     - [CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
 
     - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
@@ -680,8 +682,6 @@
       - [talebolano/yolov3-network-slimming](https://github.com/talebolano/yolov3-network-slimming) <img src="https://img.shields.io/github/stars/talebolano/yolov3-network-slimming?style=social"/> : yolov3 network slimming剪枝的一种实现。
 
       - [AlexeyAB/yolo2_light](https://github.com/AlexeyAB/yolo2_light) <img src="https://img.shields.io/github/stars/AlexeyAB/yolo2_light?style=social"/> : Light version of convolutional neural network Yolo v3 & v2 for objects detection with a minimum of dependencies (INT8-inference, BIT1-XNOR-inference).
-
-      - [j-marple-dev/AYolov2](https://github.com/j-marple-dev/AYolov2) <img src="https://img.shields.io/github/stars/j-marple-dev/AYolov2?style=social"/> : AYolov2.
 
       - [Wulingtian/yolov5_tensorrt_int8](https://github.com/Wulingtian/yolov5_tensorrt_int8) <img src="https://img.shields.io/github/stars/Wulingtian/yolov5_tensorrt_int8?style=social"/> : TensorRT int8 量化部署 yolov5s 模型，实测3.3ms一帧！ 
 
