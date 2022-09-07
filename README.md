@@ -116,9 +116,9 @@
 
     - [Bubble-water/YOLO-Summary](https://github.com/Bubble-water/YOLO-Summary) <img src="https://img.shields.io/github/stars/Bubble-water/YOLO-Summary?style=social"/> : YOLO-Summary. 
 
-    - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) <img src="https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social"/> : A paper list of object detection using deep learning.  
-
     - [WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing) <img src="https://img.shields.io/github/stars/WZMIAOMIAO/deep-learning-for-image-processing?style=social"/> : deep learning for image processing including classification and object-detection etc. 
+
+    - [hoya012/deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) <img src="https://img.shields.io/github/stars/hoya012/deep_learning_object_detection?style=social"/> : A paper list of object detection using deep learning.  
 
     - [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) <img src="https://img.shields.io/github/stars/amusi/awesome-object-detection?style=social"/> : Awesome Object Detection.
   
@@ -1304,6 +1304,8 @@
 
       - [YOLOPv2](https://github.com/CAIC-AD/YOLOPv2) <img src="https://img.shields.io/github/stars/CAIC-AD/YOLOPv2?style=social"/> : "YOLOPv2: Better, Faster, Stronger for Panoptic Driving Perception". (**[arXiv 2022](https://arxiv.org/abs/2208.11434)**). "微信公众号「集智书童」《[YOLOP v2来啦 | YOLOv7结合YOLOP的多任务版本，超越YOLOP以及HybridNets](https://mp.weixin.qq.com/s/XTD32JCu_YbZjV2Br3KXCA)》" 
 
+      - [FeiGeChuanShu/YOLOPv2-ncnn](https://github.com/FeiGeChuanShu/YOLOPv2-ncnn) <img src="https://img.shields.io/github/stars/FeiGeChuanShu/YOLOPv2-ncnn?style=social"/> : YOLOPv2-ncnn.
+
       - [visualbuffer/copilot](https://github.com/visualbuffer/copilot) <img src="https://img.shields.io/github/stars/visualbuffer/copilot?style=social"/> : Lane and obstacle detection for active assistance during driving.
 
       - [hpc203/YOLOP-opencv-dnn](https://github.com/hpc203/YOLOP-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/YOLOP-opencv-dnn?style=social"/> : 使用OpenCV部署全景驾驶感知网络YOLOP，可同时处理交通目标检测、可驾驶区域分割、车道线检测，三项视觉感知任务。
@@ -1476,6 +1478,8 @@
     #### 工业缺陷检测
 
     - [annsonic/Steel_defect](https://github.com/annsonic/Steel_defect) <img src="https://img.shields.io/github/stars/annsonic/Steel_defect?style=social"/> : Exercise: Use YOLO to detect hot-rolled steel strip surface defects (NEU-DET dataset).
+
+    - [VanillaHours/pcbDefectDetectionYOLO](https://github.com/VanillaHours/pcbDefectDetectionYOLO) <img src="https://img.shields.io/github/stars/VanillaHours/pcbDefectDetectionYOLO?style=social"/> : PCB defect detection using YOLOv3, on DeepPCB dataset. 
 
 
   - ### SAR Image Detection
