@@ -1157,6 +1157,8 @@
 
     - [hpc203/rotateyolov5-opencv-onnxrun](https://github.com/hpc203/rotateyolov5-opencv-onnxrun) <img src="https://img.shields.io/github/stars/hpc203/rotateyolov5-opencv-onnxrun?style=social"/> : 分别使用OpenCV，ONNXRuntime部署yolov5旋转目标检测，包含C++和Python两个版本的程序。
 
+    - [kunnnnethan/R-YOLOv4](https://github.com/kunnnnethan/R-YOLOv4) <img src="https://img.shields.io/github/stars/kunnnnethan/R-YOLOv4?style=social"/> : This is a PyTorch-based R-YOLOv4 implementation which combines YOLOv4 model and loss function from R3Det for arbitrary oriented object detection. 
+
 
   - ### Face Detection and Recognition
     #### 人脸检测与识别
