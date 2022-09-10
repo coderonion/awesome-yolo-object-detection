@@ -1004,6 +1004,8 @@
 
       - [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=social"/> : YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking.
 
+      - [HKPolyU-UAV/AUTO](https://github.com/HKPolyU-UAV/AUTO) <img src="https://img.shields.io/github/stars/HKPolyU-UAV/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
+
 
 
   - #### Deep Reinforcement Learning
