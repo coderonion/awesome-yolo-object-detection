@@ -1000,11 +1000,13 @@
 
       - [deshwalmahesh/yolov7-deepsort-tracking](https://github.com/deshwalmahesh/yolov7-deepsort-tracking) <img src="https://img.shields.io/github/stars/deshwalmahesh/yolov7-deepsort-tracking?style=social"/> : Modular and ready to deploy code to detect and track videos using YOLO-v7 and DeepSORT.
 
-      - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
-
       - [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=social"/> : YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking.
 
+      - [RizwanMunawar/yolov5-object-tracking](https://github.com/RizwanMunawar/yolov5-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?style=social"/> : YOLOv5 Object Tracking + Detection + Object Blurring + Streamlit Dashboard Using OpenCV, PyTorch and Streamlit.
+
       - [HKPolyU-UAV/AUTO](https://github.com/HKPolyU-UAV/AUTO) <img src="https://img.shields.io/github/stars/HKPolyU-UAV/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
+
+      - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
 
 
 
