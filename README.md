@@ -728,20 +728,24 @@
 
       - ##### DeepStream
 
+        - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_reference_apps?style=social"/> : Reference Apps using DeepStream 6.1.
+
+        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social"/> : DeepStream SDK Python bindings and sample applications.
+
         - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.0 configuration for YOLO models.
 
         - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
 
-
+        - [ozinc/Deepstream6_YoloV5_Kafka](https://github.com/ozinc/Deepstream6_YoloV5_Kafka) <img src="https://img.shields.io/github/stars/ozinc/Deepstream6_YoloV5_Kafka?style=social"/> : This repository gives a detailed explanation on making custom trained deepstream-Yolo models predict and send message over kafka.
 
 
       - ##### TensorRT
 
         - [ONNX](https://github.com/onnx/onnx) <img src="https://img.shields.io/github/stars/onnx/onnx?style=social"/> : Open standard for machine learning interoperability.
 
-        - [ONNX Runtime](https://github.com/microsoft/onnxruntime) <img src="https://img.shields.io/github/stars/microsoft/onnxruntime?style=social"/> : ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator.
-
         - [TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
+
+        - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs. 
 
@@ -850,6 +854,8 @@
 
 
       - ##### Other Engine
+
+        - [ONNX Runtime](https://github.com/microsoft/onnxruntime) <img src="https://img.shields.io/github/stars/microsoft/onnxruntime?style=social"/> : ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator.
 
         - [TVM](https://github.com/apache/tvm) <img src="https://img.shields.io/github/stars/apache/tvm?style=social"/> : Open deep learning compiler stack for cpu, gpu and specialized accelerators.
 
@@ -978,7 +984,7 @@
     - ####  Multi-Object Tracking
       #####  多目标跟踪
 
-      - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with OSNet.
+      - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using [YOLOv5](https://github.com/ultralytics/yolov5) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with [OSNet](https://github.com/KaiyangZhou/deep-person-reid).
 
       - [kadirnar/yolov5-strongsort](https://github.com/kadirnar/yolov5-strongsort) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-strongsort?style=social"/> : Minimal PyTorch implementation of YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT).
 
@@ -1401,6 +1407,8 @@
 
       - [sarah-antillia/YOLO_Realistic_USA_RoadSigns_160classes](https://github.com/sarah-antillia/YOLO_Realistic_USA_RoadSigns_160classes) <img src="https://img.shields.io/github/stars/sarah-antillia/YOLO_Realistic_USA_RoadSigns_160classes?style=social"/> : USA RoadSigns Dataset 160classes annotated by YOLO format.
 
+      - [DickensKP/yolov3-vehicle-pedestrian-trafficsign-detection-system](https://github.com/DickensKP/yolov3-vehicle-pedestrian-trafficsign-detection-system) <img src="https://img.shields.io/github/stars/DickensKP/yolov3-vehicle-pedestrian-trafficsign-detection-system?style=social"/> : 基于bubbliiiing的yolov3-pytorch框架，自主训练的车辆、行人、交通标志识别系统.
+
 
     - ####  Crosswalk Detection
       #####  人行横道/斑马线检测
@@ -1671,6 +1679,8 @@
     - [ArtyZe/yolo_segmentation](https://github.com/ArtyZe/yolo_segmentation) <img src="https://img.shields.io/github/stars/ArtyZe/yolo_segmentation?style=social"/> : image (semantic segmentation) instance segmentation by darknet or yolo.
 
     - [midasklr/yolov5ds](https://github.com/midasklr/yolov5ds) <img src="https://img.shields.io/github/stars/midasklr/yolov5ds?style=social"/> : multi-task yolov5 with detection and segmentation.
+
+    - [RizwanMunawar/yolov7-segmentation](https://github.com/RizwanMunawar/yolov7-segmentation) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=social"/> : YOLOv7 Instance Segmentation using OpenCV and PyTorch.
 
 
   - ### Game Field Detection
