@@ -1061,6 +1061,8 @@
 
       - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
 
+      - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
+
 
 
   - #### Deep Reinforcement Learning
