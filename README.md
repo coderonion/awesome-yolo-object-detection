@@ -146,6 +146,10 @@
 
       - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO.  "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
+      - [MMYOLO](https://github.com/open-mmlab/mmyolo) <img src="https://img.shields.io/github/stars/open-mmlab/mmyolo?style=social"/> : OpenMMLab YOLO series toolbox and benchmark. MMYOLO is an open source toolbox for YOLO series algorithms based on PyTorch and [MMDetection](https://github.com/open-mmlab/mmdetection). 
+
+      - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> : 🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
+
 
   - ### Blogs
 
@@ -172,6 +176,7 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
+      - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
     - [知乎「PoemAI」](https://www.zhihu.com/people/LEYM2)
       - [YOLO家族进化史（v1-v7）](https://zhuanlan.zhihu.com/p/539932517)
     - [知乎「科技猛兽」](https://www.zhihu.com/people/wang-jia-hao-53-3)
@@ -332,8 +337,6 @@
   - ### PaddlePaddle Implementation
 
     - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleDetection?style=social"/> : Object Detection toolkit based on PaddlePaddle. "PP-YOLO: An Effective and Efficient Implementation of Object Detector". (**[arXiv 2020](https://arxiv.org/abs/2007.12099)**)
-
-    - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> :  🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
 
     - [nemonameless/PaddleDetection_YOLOv5](https://github.com/nemonameless/PaddleDetection_YOLOv5) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOv5?style=social"/> : YOLOv5 of PaddleDetection, Paddle implementation of YOLOv5.
 
