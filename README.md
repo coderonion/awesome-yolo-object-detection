@@ -484,6 +484,8 @@
 
     - [mwetzko/EasyYoloDarknet](https://github.com/mwetzko/EasyYoloDarknet) <img src="https://img.shields.io/github/stars/mwetzko/EasyYoloDarknet?style=social"/> : Windows optimized Yolo / Darknet Compile, Train and Detect.
 
+    - [cj-mills/Unity-OpenVINO-YOLOX](https://github.com/cj-mills/Unity-OpenVINO-YOLOX) <img src="https://img.shields.io/github/stars/cj-mills/Unity-OpenVINO-YOLOX?style=social"/> : This tutorial series covers how to perform object detection in the Unity game engine with the OpenVINO™ Toolkit. 
+
 
   - ### Rust Implementation
 
