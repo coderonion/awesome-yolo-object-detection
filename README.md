@@ -963,10 +963,11 @@
 
       - [BaronLeeLZP/hi3516dv300_nnie-yolov3-demo](https://github.com/BaronLeeLZP/hi3516dv300_nnie-yolov3-demo) <img src="https://img.shields.io/github/stars/BaronLeeLZP/hi3516dv300_nnie-yolov3-demo?style=social"/> : 在海思Hisilicon的Hi3516dv300芯片上，利用nnie和opencv库，简洁了官方yolov3用例中各种复杂的嵌套调用/复杂编译，提供了交叉编译后可成功上板部署运行的demo。
 
-      - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) <img src="https://img.shields.io/github/stars/Zhou-sx/yolov5_Deepsort_rknn?style=social"/> : Track vehicles and persons on rk3588 / rk3399pro. 
-
       - [OpenVINO-dev-contest/YOLOv7_OpenVINO](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO) <img src="https://img.shields.io/github/stars/OpenVINO-dev-contest/YOLOv7_OpenVINO?style=social"/> : This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api. 
 
+      - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) <img src="https://img.shields.io/github/stars/Zhou-sx/yolov5_Deepsort_rknn?style=social"/> : Track vehicles and persons on rk3588 / rk3399pro. 
+
+      - [littledeep/YOLOv5-RK3399Pro](https://github.com/littledeep/YOLOv5-RK3399Pro) <img src="https://img.shields.io/github/stars/littledeep/YOLOv5-RK3399Pro?style=social"/> : PyTorch-->ONNX-->RKNN. 
 
 
   - ### Video Object Detection
@@ -1139,6 +1140,8 @@
     - [e96031413/AA-YOLO](https://github.com/e96031413/AA-YOLO) <img src="https://img.shields.io/github/stars/e96031413/AA-YOLO?style=social"/> : Attention ALL-CNN Twin Head YOLO (AA -YOLO). "Improving Tiny YOLO with Fewer Model Parameters". (**[IEEE BigMM 2021](https://ieeexplore.ieee.org/abstract/document/9643269/)**)
 
     - [anonymoussss/YOLOX-SwinTransformer](https://github.com/anonymoussss/YOLOX-SwinTransformer) <img src="https://img.shields.io/github/stars/anonymoussss/YOLOX-SwinTransformer?style=social"/> : YOLOX with Swin-Transformer backbone.
+
+    - [GuanRunwei/MAN-and-CAT](https://github.com/GuanRunwei/MAN-and-CAT) <img src="https://img.shields.io/github/stars/GuanRunwei/MAN-and-CAT?style=social"/> : "MAN and CAT: mix attention to nn and concatenate attention to YOLO". (**[ The Journal of Supercomputing, 2022](https://link.springer.com/article/10.1007/s11227-022-04726-7)**)
 
 
 
@@ -1770,6 +1773,8 @@
 
     - [AlturosDestinations/Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.ImageAnnotation?style=social"/> : A collaborative tool for labeling image data for yolo.
 
+    - [stephanecharette/DarkMark](https://github.com/stephanecharette/DarkMark) <img src="https://img.shields.io/github/stars/stephanecharette/DarkMark?style=social"/> : Marking up images for use with Darknet.
+
 
 
   - ### Feature Map Visualization
@@ -1871,8 +1876,6 @@
     - [ismail-mebsout/Parsing-PDFs-using-YOLOV3](https://github.com/ismail-mebsout/Parsing-PDFs-using-YOLOV3) <img src="https://img.shields.io/github/stars/ismail-mebsout/Parsing-PDFs-using-YOLOV3?style=social"/> : Parsing pdf tables using YOLOV3.
 
     - [008karan/PAN_OCR](https://github.com/008karan/PAN_OCR) <img src="https://img.shields.io/github/stars/008karan/PAN_OCR?style=social"/> : Building OCR using YOLO and Tesseract.
-
-    - [stephanecharette/DarkMark](https://github.com/stephanecharette/DarkMark) <img src="https://img.shields.io/github/stars/stephanecharette/DarkMark?style=social"/> : Marking up images for use with Darknet.
 
     - [zeyad-mansour/lunar](https://github.com/zeyad-mansour/lunar) <img src="https://img.shields.io/github/stars/zeyad-mansour/lunar?style=social"/> : Lunar is a neural network aimbot that uses real-time object detection accelerated with CUDA on Nvidia GPUs.
 
