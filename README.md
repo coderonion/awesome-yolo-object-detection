@@ -487,6 +487,9 @@
 
     - [cj-mills/Unity-OpenVINO-YOLOX](https://github.com/cj-mills/Unity-OpenVINO-YOLOX) <img src="https://img.shields.io/github/stars/cj-mills/Unity-OpenVINO-YOLOX?style=social"/> : This tutorial series covers how to perform object detection in the Unity game engine with the OpenVINO™ Toolkit. 
 
+    - [natml-hub/YOLOX](https://github.com/natml-hub/YOLOX) <img src="https://img.shields.io/github/stars/natml-hub/YOLOX?style=social"/> : High performance object detector based on YOLO series. 
+
+
 
   - ### Rust Implementation
 
