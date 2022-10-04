@@ -1809,6 +1809,8 @@
 
     - [laclouis5/ObjectDetectionEval](https://github.com/laclouis5/ObjectDetectionEval) <img src="https://img.shields.io/github/stars/laclouis5/ObjectDetectionEval?style=social"/> : Object Detection Evaluation Library. Unified framework to parse, create and evaluate object detections from many frameworks (COCO, YOLO, PascalVOC, ImageNet, LabelMe, ...). 
 
+    - [laclouis5/globox](https://github.com/laclouis5/globox) <img src="https://img.shields.io/github/stars/laclouis5/globox?style=social"/> : A package to read and convert object detection databases (COCO, YOLO, PascalVOC, LabelMe, CVAT, OpenImage, ...) and evaluate them with COCO and PascalVOC metrics.  
+
 
   - ### GUI
     #### 图形用户界面
