@@ -855,6 +855,10 @@
 
         - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) <img src="https://img.shields.io/github/stars/fb029ed/yolov5_cpp_openvino?style=social"/> : 用c++实现了yolov5使用openvino的部署。
 
+        - [dlod-openvino/yolov5_infer](https://github.com/dlod-openvino/yolov5_infer) <img src="https://img.shields.io/github/stars/dlod-openvino/yolov5_infer?style=social"/> : Do the YOLOv5 model inference by OpenCV/OpenVINO based on onnx model format.
+
+
+
 
       - ##### MNN
 
@@ -1072,6 +1076,8 @@
       - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
 
       - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
+
+      - [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) <img src="https://img.shields.io/github/stars/Smorodov/Multitarget-tracker?style=social"/> : Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
 
 
@@ -1782,6 +1788,8 @@
     - [AlturosDestinations/Alturos.ImageAnnotation](https://github.com/AlturosDestinations/Alturos.ImageAnnotation) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.ImageAnnotation?style=social"/> : A collaborative tool for labeling image data for yolo.
 
     - [stephanecharette/DarkMark](https://github.com/stephanecharette/DarkMark) <img src="https://img.shields.io/github/stars/stephanecharette/DarkMark?style=social"/> : Marking up images for use with Darknet.
+
+    - [2vin/yolo_annotation_tool](https://github.com/2vin/yolo_annotation_tool) <img src="https://img.shields.io/github/stars/2vin/yolo_annotation_tool?style=social"/> : Annotation tool for YOLO in opencv.
 
 
 
