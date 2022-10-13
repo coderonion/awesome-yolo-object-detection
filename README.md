@@ -489,6 +489,9 @@
 
     - [natml-hub/YOLOX](https://github.com/natml-hub/YOLOX) <img src="https://img.shields.io/github/stars/natml-hub/YOLOX?style=social"/> : High performance object detector based on YOLO series. 
 
+    - [thisistherealdiana/YOLO_project](https://github.com/thisistherealdiana/YOLO_project) <img src="https://img.shields.io/github/stars/thisistherealdiana/YOLO_project?style=social"/> : YOLO project made by Diana Kereselidze. 
+
+
 
 
   - ### Rust Implementation
@@ -1760,6 +1763,8 @@
 
     - [VoTT](https://github.com/Microsoft/VoTT) <img src="https://img.shields.io/github/stars/Microsoft/VoTT?style=social"/> : Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos.  
 
+    - [Rectlabel-support](https://github.com/ryouchinsa/Rectlabel-support) <img src="https://img.shields.io/github/stars/ryouchinsa/Rectlabel-support?style=social"/> : RectLabel - An image annotation tool to label images for bounding box object detection and segmentation.  
+
     - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) <img src="https://img.shields.io/github/stars/cnyvfang/labelGo-Yolov5AutoLabelImg?style=social"/> : 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕一个基于labelImg及YOLOV5的图形化半自动标注工具。
 
     - [CVUsers/Auto_maker](https://github.com/CVUsers/Auto_maker) <img src="https://img.shields.io/github/stars/CVUsers/Auto_maker?style=social"/> : 深度学习数据自动标注器开源 目标检测和图像分类（高精度高效率）。
@@ -1926,6 +1931,7 @@
 
     - [RizwanMunawar/yolov7-object-blurring](https://github.com/RizwanMunawar/yolov7-object-blurring) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-blurring?style=social"/> : YOLOv7 Object Blurring Using PyTorch and OpenCV.
 
+    - [pacocp/YOLOF](https://github.com/pacocp/YOLOF) <img src="https://img.shields.io/github/stars/pacocp/YOLOF?style=social"/> : 📹 YOLO meets Optical Flow.
 
 
 
