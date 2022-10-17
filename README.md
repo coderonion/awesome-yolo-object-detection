@@ -400,6 +400,9 @@
 
     - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) <img src="https://img.shields.io/github/stars/hpc203/yolov7-opencv-onnxrun-cpp-py?style=social"/> : 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含12个onnx模型，依然是包含C++和Python两个版本的程序。
 
+    - [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) <img src="https://img.shields.io/github/stars/doleron/yolov5-opencv-cpp-python?style=social"/> : Example of using ultralytics YOLO V5 with OpenCV 4.5.4, C++ and Python.
+
+
 
   - ### ROS Implementation
 
