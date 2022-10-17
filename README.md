@@ -150,6 +150,8 @@
 
       - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> : 🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
 
+      - [RyanCCC/YOLOSeries](https://github.com/RyanCCC/YOLOSeries) <img src="https://img.shields.io/github/stars/RyanCCC/YOLOSeries?style=social"/> : YOLO算法的实现。
+
 
   - ### Blogs
 
@@ -175,6 +177,7 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（尝鲜版）](https://mp.weixin.qq.com/s/JDaSWyNdLoHc6j6cOmNIWw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -512,8 +515,9 @@
 
     - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
 
-    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> :  yolov5-api-rust.
+    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : yolov5-api-rust.
 
+    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
 
 
   - ### Go Implementation
@@ -1288,7 +1292,7 @@
 
     - [zhouyuchong/face-recognition-deepstream](https://github.com/zhouyuchong/face-recognition-deepstream) <img src="https://img.shields.io/github/stars/zhouyuchong/face-recognition-deepstream?style=social"/> : Deepstream app use YOLO, retinaface and arcface for face recognition. 
 
-
+    - [ColinFred/yolov5_arcface_face_recognition](https://github.com/ColinFred/yolov5_arcface_face_recognition) <img src="https://img.shields.io/github/stars/ColinFred/yolov5_arcface_face_recognition?style=social"/> : 利用Yolov5做人脸检测，框出识别到的人脸，用 ArcFace 做人脸识别。 (**[Yolov5 + ArcFace 人脸识别](https://blog.csdn.net/windowsyun/article/details/123607549)**)
 
 
 
