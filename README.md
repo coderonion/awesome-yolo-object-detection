@@ -148,7 +148,7 @@
 
       - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO.  "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
-      - [nemonameless/PaddleDetection_YOLOSeries](https://github.com/nemonameless/PaddleDetection_YOLOSeries) <img src="https://img.shields.io/github/stars/nemonameless/PaddleDetection_YOLOSeries?style=social"/> : 🚀🚀🚀 YOLO Series of PaddleDetection implementation, PPYOLOE, YOLOX, YOLOv7, YOLOv5, MT-YOLOv6 and so on. 🚀🚀🚀 
+      - [PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> : 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PPYOLOE, YOLOX, YOLOv5, YOLOv6, YOLOv7, RTMDet and so on. 🚀🚀🚀 
 
 
   - ### Blogs
