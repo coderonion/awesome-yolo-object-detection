@@ -1194,7 +1194,7 @@
 
     - [RFLA](https://github.com/Chasel-Tsui/mmdet-rfla) <img src="https://img.shields.io/github/stars/Chasel-Tsui/mmdet-rfla?style=social"/> : "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection". (**[ECCV 2022](https://arxiv.org/abs/2208.08738)**). "微信公众号「CV技术指南」《[ECCV 2022 | RFLA：基于高斯感受野的微小目标检测标签分配 ](https://mp.weixin.qq.com/s/h0J775I3D6zoTIeaJRnFgQ)》"
 
-    - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "微信公众号「江大白」《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s/qbbd5FdyKKk7UI3mmGBt4Q)》"
+    - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "微信公众号「江大白」《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498265&idx=1&sn=1eee95f8f4d09d761dc7b94f4ac55c34&source=41#wechat_redirect)》"
 
     - [SIMRDWN](https://github.com/avanetten/simrdwn) <img src="https://img.shields.io/github/stars/avanetten/simrdwn?style=social"/> : "Satellite Imagery Multiscale Rapid Detection with Windowed Networks". (**[arXiv 2018](https://arxiv.org/abs/1809.09978), [WACV 2019](https://ieeexplore.ieee.org/abstract/document/8659155)**)
 
@@ -1391,6 +1391,9 @@
       - [ruhyadi/yolov5-nodeflux](https://github.com/ruhyadi/yolov5-nodeflux) <img src="https://img.shields.io/github/stars/ruhyadi/yolov5-nodeflux?style=social"/> : YOLOv5 Nodeflux Vehicle Detection.
 
       - [Daheer/Driving-Environment-Detector](https://github.com/Daheer/Driving-Environment-Detector) <img src="https://img.shields.io/github/stars/Daheer/Driving-Environment-Detector?style=social"/> : Detecting road objects using YOLO CNN Architecture.
+
+      - [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) <img src="https://img.shields.io/github/stars/georgia-tech-db/eva?style=social"/> : Exploratory Video Analytics System.
+
 
 
     - ####  License Plate Detection and Recognition
@@ -1777,9 +1780,9 @@
   - ### Automatic Annotation Tool
     #### 自动标注工具
 
-    - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
-
     - [Label Studio](https://github.com/heartexlabs/label-studio) <img src="https://img.shields.io/github/stars/heartexlabs/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format.
+
+    - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
     - [labelme](https://github.com/wkentaro/labelme) <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).  
 
