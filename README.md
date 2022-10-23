@@ -1656,6 +1656,8 @@
 
     - [Moqixis/object_detection_yolov5_deepsort](https://github.com/Moqixis/object_detection_yolov5_deepsort) <img src="https://img.shields.io/github/stars/Moqixis/object_detection_yolov5_deepsort?style=social"/> : 基于yolov5+deepsort的息肉目标检测。
 
+    - [mdciri/YOLOv7-Bone-Fracture-Detection](https://github.com/mdciri/YOLOv7-Bone-Fracture-Detection) <img src="https://img.shields.io/github/stars/mdciri/YOLOv7-Bone-Fracture-Detection?style=social"/> : YOLOv7 to detect bone fractures on X-ray images.
+
 
   - ### Chemistry Field Detection
     #### 化学领域检测
@@ -1911,6 +1913,10 @@
     - [cdmstrong/yolov5-pyqt-moke](https://github.com/cdmstrong/yolov5-pyqt-moke) <img src="https://img.shields.io/github/stars/cdmstrong/yolov5-pyqt-moke?style=social"/> : 利用yolov5和pyqt做可视化检测。
 
     - [GHigher12/Pyqt5_yolov5_unet_centernet](https://github.com/GHigher12/Pyqt5_yolov5_unet_centernet) <img src="https://img.shields.io/github/stars/GHigher12/Pyqt5_yolov5_unet_centernet?style=social"/> : 集yolov5、centernet、unet算法的pyqt5界面，可实现图片目标检测和语义分割。
+
+    - [chenanga/qt5_yolov5_2.0](https://github.com/chenanga/qt5_yolov5_2.0) <img src="https://img.shields.io/github/stars/chenanga/qt5_yolov5_2.0?style=social"/> : Pyqt搭建YOLOV5目标检测界面-第一次优化后的版本。
+
+
 
 
   - ### Other Applications
