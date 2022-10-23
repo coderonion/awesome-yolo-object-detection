@@ -84,6 +84,7 @@
     - [Medical Field Detection](#medical-field-detection)
     - [Chemistry Field Detection](#chemistry-field-detection)
     - [Agricultural Field Detection](#agricultural-field-detection)
+    - [Sports Field Detection](#sports-field-detection)
     - [Adverse Weather Conditions](#adverse-weather-conditions)
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
     - [Instance and Semantic Segmentation](#instance-and-semantic-segmentation)
@@ -1673,6 +1674,11 @@
     - [tanmaypandey7/wheat-detection](https://github.com/tanmaypandey7/wheat-detection) <img src="https://img.shields.io/github/stars/tanmaypandey7/wheat-detection?style=social"/> : Detecting wheat heads using YOLOv5. 
 
     - [WoodratTradeCo/crop-rows-detection](https://github.com/WoodratTradeCo/crop-rows-detection) <img src="https://img.shields.io/github/stars/WoodratTradeCo/crop-rows-detection?style=social"/> : It is an real-time crop rows detection method using YOLOv5. 
+
+  - ### Sports Field Detection
+    #### 体育领域检测
+
+    - [tomer-erez/pingpong-referee](https://github.com/tomer-erez/pingpong-referee) <img src="https://img.shields.io/github/stars/tomer-erez/pingpong-referee?style=social"/> : using the YOlO algorithm for an automated pingpong referee.
 
 
   - ### Adverse Weather Conditions
