@@ -169,6 +169,7 @@
       - [【yolov7系列】网络框架细节拆解](https://mp.weixin.qq.com/s/VEcUIaDrhc1ETIPr39l4rg)
       - [【yolov7系列二】正负样本分配策略](https://mp.weixin.qq.com/s/nhZ3Q1NHm3op8abdVIGmLA)
       - [【yolov7系列三】实战从0构建训练自己的数据集](https://mp.weixin.qq.com/s/S80mMimu4YpHwClHIH07eA)
+      - [万字长文解析cv中的注意力机制 ](https://mp.weixin.qq.com/s/kt3iIuOD3lsZBTIbOSGN0g)
     - 微信公众号「集智书童」
       - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
@@ -179,6 +180,8 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（尝鲜版）](https://mp.weixin.qq.com/s/JDaSWyNdLoHc6j6cOmNIWw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
+    - 微信公众号「自动驾驶之心」
+      - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -1305,6 +1308,8 @@
       - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
 
       - [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) <img src="https://img.shields.io/github/stars/derronqi/yolov7-face?style=social"/> : yolov7 face detection with landmark.
+
+      - [jinfagang/yolov7-face](https://github.com/jinfagang/yolov7-face) <img src="https://img.shields.io/github/stars/jinfagang/yolov7-face?style=social"/> :Next Gen Face detection based on YOLOv7.
 
 
     - ####  Face Recognition
