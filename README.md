@@ -174,6 +174,9 @@
       - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
       - [连夜卷出 | 超越所有YOLO检测模型，mmdet开源当今最强最快目标检测模型！](https://mp.weixin.qq.com/s/2XErHzw9hWrrBry9Ij2pjA)
+    - 微信公众号「GiantPandaCV」
+      - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
+      - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
     - 微信公众号「WeThinkln」
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
@@ -182,6 +185,9 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
+    - 微信公众号「计算机视觉漫谈」
+      - [YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
+      - [YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw)  
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
