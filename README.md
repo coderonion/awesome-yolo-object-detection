@@ -163,6 +163,7 @@
       - [深入浅出Yolov5之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/463176500)
       - [深入浅出Yolo系列之Yolox核心基础完整讲解](https://zhuanlan.zhihu.com/p/397993315)
       - [深入浅出Yolox之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/397499216)
+      - [实践教程 | 在yolov5上验证的一些想法尝试](https://mp.weixin.qq.com/s/HqXJov5fWIlgKhMp2_Ca7g)
     - 微信公众号「所向披靡的张大刀」
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -1764,6 +1765,8 @@
     - [midasklr/yolov5ds](https://github.com/midasklr/yolov5ds) <img src="https://img.shields.io/github/stars/midasklr/yolov5ds?style=social"/> : multi-task yolov5 with detection and segmentation.
 
     - [RizwanMunawar/yolov7-segmentation](https://github.com/RizwanMunawar/yolov7-segmentation) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=social"/> : YOLOv7 Instance Segmentation using OpenCV and PyTorch.
+
+    - [leandro-svg/Yolov7_Segmentation_Tensorrt](https://github.com/leandro-svg/Yolov7_Segmentation_Tensorrt) <img src="https://img.shields.io/github/stars/leandro-svg/Yolov7_Segmentation_Tensorrt?style=social"/> : The real-time Instance Segmentation Algorithm Yolov7 running on TensoRT and ONNX.
 
 
   - ### Game Field Detection
