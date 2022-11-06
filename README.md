@@ -1908,9 +1908,9 @@
 
     - [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics) <img src="https://img.shields.io/github/stars/Lightning-AI/metrics?style=social"/> : Machine learning metrics for distributed, scalable PyTorch applications. 
 
-    - [laclouis5/ObjectDetectionEval](https://github.com/laclouis5/ObjectDetectionEval) <img src="https://img.shields.io/github/stars/laclouis5/ObjectDetectionEval?style=social"/> : Object Detection Evaluation Library. Unified framework to parse, create and evaluate object detections from many frameworks (COCO, YOLO, PascalVOC, ImageNet, LabelMe, ...). 
+    - [open-mmlab/mmeval](https://github.com/open-mmlab/mmeval) <img src="https://img.shields.io/github/stars/open-mmlab/mmeval?style=social"/> : MMEval is a machine learning evaluation library that supports efficient and accurate distributed evaluation on a variety of machine learning frameworks. 
 
-    - [laclouis5/globox](https://github.com/laclouis5/globox) <img src="https://img.shields.io/github/stars/laclouis5/globox?style=social"/> : A package to read and convert object detection databases (COCO, YOLO, PascalVOC, LabelMe, CVAT, OpenImage, ...) and evaluate them with COCO and PascalVOC metrics.  
+    - [laclouis5/globox](https://github.com/laclouis5/globox) <img src="https://img.shields.io/github/stars/laclouis5/globox?style=social"/> : A package to read and convert object detection databases (COCO, YOLO, PascalVOC, LabelMe, CVAT, OpenImage, ...) and evaluate them with COCO and PascalVOC metrics. 
 
 
   - ### GUI
