@@ -190,7 +190,8 @@
       - [YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
       - [YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
     - 微信公众号「计算机视觉研究院」
-      - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A)       
+      - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
+      - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -473,11 +474,19 @@
 
     - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
+    - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.   
+
+    - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
+
+    - [Microsoft-Rocket-Video-Analytics-Platform](https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform) <img src="https://img.shields.io/github/stars/microsoft/Microsoft-Rocket-Video-Analytics-Platform?style=social"/> : A highly extensible software stack to empower everyone to build practical real-world live video analytics applications for object detection and counting with cutting edge machine learning algorithms. 
+
     - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
 
     - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
     - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
+
+    - [sangyuxiaowu/ml_yolov7](https://github.com/sangyuxiaowu/ml_yolov7) <img src="https://img.shields.io/github/stars/sangyuxiaowu/ml_yolov7?style=social"/> : ML.NET Yolov7. "微信公众号「桑榆肖物」《[YOLOv7 在 ML.NET 中使用 ONNX 检测对象](https://mp.weixin.qq.com/s/vXz6gavYJR2mh5KuJO_slA)》"
 
     - [keijiro/TinyYOLOv2Barracuda](https://github.com/keijiro/TinyYOLOv2Barracuda) <img src="https://img.shields.io/github/stars/keijiro/TinyYOLOv2Barracuda?style=social"/> : Tiny YOLOv2 on Unity Barracuda.
 
@@ -520,6 +529,27 @@
     - [thisistherealdiana/YOLO_project](https://github.com/thisistherealdiana/YOLO_project) <img src="https://img.shields.io/github/stars/thisistherealdiana/YOLO_project?style=social"/> : YOLO project made by Diana Kereselidze. 
 
     - [oujunke/Yolo5Net](https://github.com/oujunke/Yolo5Net) <img src="https://img.shields.io/github/stars/oujunke/Yolo5Net?style=social"/> : Yolo5实现于TensorFlow.Net. 
+
+    - [wojciechp6/YOLO-UnityBarracuda](https://github.com/wojciechp6/YOLO-UnityBarracuda) <img src="https://img.shields.io/github/stars/wojciechp6/YOLO-UnityBarracuda?style=social"/> : Object detection app build on Unity Barracuda and YOLOv2 Tiny.
+
+    - [RaminAbbaszadi/YoloWrapper-WPF](https://github.com/RaminAbbaszadi/YoloWrapper-WPF) <img src="https://img.shields.io/github/stars/RaminAbbaszadi/YoloWrapper-WPF?style=social"/> : WPF (C#) Yolo Darknet Wrapper.
+
+    - [fengyhack/YoloWpf](https://github.com/fengyhack/YoloWpf) <img src="https://img.shields.io/github/stars/fengyhack/YoloWpf?style=social"/> : GUI demo for Object Detection with YOLO and OpenCVSharp.
+
+    - [hanzhuang111/Yolov5Wpf](https://github.com/hanzhuang111/Yolov5Wpf) <img src="https://img.shields.io/github/stars/hanzhuang111/Yolov5Wpf?style=social"/> : 使用ML.NET部署YOLOV5 的ONNX模型。
+
+    - [quangdungluong/object-detection-form](https://github.com/quangdungluong/object-detection-form) <img src="https://img.shields.io/github/stars/quangdungluong/object-detection-form?style=social"/> : YOLOv5 using ML.Net, C# and WinForm.
+
+    - [MaikoKingma/yolo-winforms-test](https://github.com/MaikoKingma/yolo-winforms-test) <img src="https://img.shields.io/github/stars/MaikoKingma/yolo-winforms-test?style=social"/> : A Windows forms application that can execute pre-trained object detection models via ML.NET. In this instance the You Only Look Once version 4 (yolov4) is used.
+
+    - [SeanAnd/WebcamObjectDetection](https://github.com/SeanAnd/WebcamObjectDetection) <img src="https://img.shields.io/github/stars/SeanAnd/WebcamObjectDetection?style=social"/> : YOLO object detection using webcam in winforms.
+
+    - [Devmawi/BlazorObjectDetection-Sample](https://github.com/Devmawi/BlazorObjectDetection-Sample) <img src="https://img.shields.io/github/stars/Devmawi/BlazorObjectDetection-Sample?style=social"/> : Simple project for demonstrating how to embed a continuously object detection with Yolo on a video in a hybrid Blazor app (WebView2).
+
+    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
+
+
+
 
 
 
@@ -1923,16 +1953,6 @@
     - [cnyvfang/YOLOv5-GUI](https://github.com/cnyvfang/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Eagle104fred/PyQt5-Yolov5?style=social"/> : Qt-GUI implementation of the YOLOv5 algorithm (ver.6 and ver.5). YOLOv5算法(ver.6及ver.5)的Qt-GUI实现。
 
     - [WeNN-Artificial-Intelligence/PyQT-Object-Detection-App](https://github.com/WeNN-Artificial-Intelligence/PyQT-Object-Detection-App) <img src="https://img.shields.io/github/stars/WeNN-Artificial-Intelligence/PyQT-Object-Detection-App?style=social"/> : Real-time object detection app with Python and PyQt framework. 
-
-    - [RaminAbbaszadi/YoloWrapper-WPF](https://github.com/RaminAbbaszadi/YoloWrapper-WPF) <img src="https://img.shields.io/github/stars/RaminAbbaszadi/YoloWrapper-WPF?style=social"/> : WPF (C#) Yolo Darknet Wrapper.
-
-    - [fengyhack/YoloWpf](https://github.com/fengyhack/YoloWpf) <img src="https://img.shields.io/github/stars/fengyhack/YoloWpf?style=social"/> : GUI demo for Object Detection with YOLO and OpenCVSharp.
-
-    - [hanzhuang111/Yolov5Wpf](https://github.com/hanzhuang111/Yolov5Wpf) <img src="https://img.shields.io/github/stars/hanzhuang111/Yolov5Wpf?style=social"/> : 使用ML.NET部署YOLOV5 的ONNX模型。
-
-    - [MaikoKingma/yolo-winforms-test](https://github.com/MaikoKingma/yolo-winforms-test) <img src="https://img.shields.io/github/stars/MaikoKingma/yolo-winforms-test?style=social"/> : A Windows forms application that can execute pre-trained object detection models via ML.NET. In this instance the You Only Look Once version 4 (yolov4) is used.
-
-    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
 
     - [Powercube7/YOLOv5-GUI](https://github.com/Powercube7/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Powercube7/YOLOv5-GUI?style=social"/> : A simple GUI made for creating jobs in YOLOv5.
 
