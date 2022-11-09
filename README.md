@@ -192,6 +192,8 @@
     - 微信公众号「计算机视觉研究院」
       - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
       - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
+     - 微信公众号「智造情报局」
+      - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -1967,6 +1969,8 @@
 
   - ### Other Applications
     #### 其它应用
+
+    - [Ikomia-dev/IkomiaApi](https://github.com/Ikomia-dev/IkomiaApi) <img src="https://img.shields.io/github/stars/Ikomia-dev/IkomiaApi?style=social"/> : State-of-the-art algorithms in Computer Vision with a few lines of code. 
 
     - [penny4860/Yolo-digit-detector](https://github.com/penny4860/Yolo-digit-detector) <img src="https://img.shields.io/github/stars/penny4860/Yolo-digit-detector?style=social"/> : Implemented digit detector in natural scene using resnet50 and Yolo-v2. I used SVHN as the training set, and implemented it using tensorflow and keras.
 
