@@ -1322,6 +1322,8 @@
 
       - [YOLO5Face](https://github.com/deepcam-cn/yolov5-face) <img src="https://img.shields.io/github/stars/deepcam-cn/yolov5-face?style=social"/> : "YOLO5Face: Why Reinventing a Face Detector". (**[arXiv 2021](https://arxiv.org/abs/2105.12931)**)
 
+      - [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) <img src="https://img.shields.io/github/stars/derronqi/yolov7-face?style=social"/> : yolov7 face detection with landmark.
+
       - [YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) <img src="https://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2?style=social"/> : "YOLO-FaceV2: A Scale and Occlusion Aware Face Detector ". (**[arXiv 2022](https://arxiv.org/abs/2208.02019)**). "微信公众号「江大白」《[超越Yolo5-Face，Yolo-Facev2开源，各类Trick优化，值得学习！](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498561&idx=1&sn=b7ff0592644ab6bc5b716e07294e1c0a&source=41#wechat_redirect)》"
 
       - [OAID/TengineKit](https://github.com/OAID/TengineKit) <img src="https://img.shields.io/github/stars/OAID/TengineKit?style=social"/> : TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks & Iris Landmarks & Yolov5 SDK On Mobile. 
@@ -1346,9 +1348,7 @@
 
       - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
 
-      - [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) <img src="https://img.shields.io/github/stars/derronqi/yolov7-face?style=social"/> : yolov7 face detection with landmark.
-
-      - [jinfagang/yolov7-face](https://github.com/jinfagang/yolov7-face) <img src="https://img.shields.io/github/stars/jinfagang/yolov7-face?style=social"/> :Next Gen Face detection based on YOLOv7.
+      - [jinfagang/yolov7-face](https://github.com/jinfagang/yolov7-face) <img src="https://img.shields.io/github/stars/jinfagang/yolov7-face?style=social"/> : Next Gen Face detection based on YOLOv7.
 
 
     - ####  Face Recognition
