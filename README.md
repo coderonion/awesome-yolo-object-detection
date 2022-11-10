@@ -164,36 +164,6 @@
       - [深入浅出Yolo系列之Yolox核心基础完整讲解](https://zhuanlan.zhihu.com/p/397993315)
       - [深入浅出Yolox之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/397499216)
       - [实践教程 | 在yolov5上验证的一些想法尝试](https://mp.weixin.qq.com/s/HqXJov5fWIlgKhMp2_Ca7g)
-    - 微信公众号「所向披靡的张大刀」
-      - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
-      - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
-      - [【yolov7系列】网络框架细节拆解](https://mp.weixin.qq.com/s/VEcUIaDrhc1ETIPr39l4rg)
-      - [【yolov7系列二】正负样本分配策略](https://mp.weixin.qq.com/s/nhZ3Q1NHm3op8abdVIGmLA)
-      - [【yolov7系列三】实战从0构建训练自己的数据集](https://mp.weixin.qq.com/s/S80mMimu4YpHwClHIH07eA)
-      - [万字长文解析cv中的注意力机制 ](https://mp.weixin.qq.com/s/kt3iIuOD3lsZBTIbOSGN0g)
-    - 微信公众号「集智书童」
-      - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
-      - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
-      - [连夜卷出 | 超越所有YOLO检测模型，mmdet开源当今最强最快目标检测模型！](https://mp.weixin.qq.com/s/2XErHzw9hWrrBry9Ij2pjA)
-    - 微信公众号「GiantPandaCV」
-      - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
-      - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
-    - 微信公众号「WeThinkln」
-      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
-      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
-      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（尝鲜版）](https://mp.weixin.qq.com/s/JDaSWyNdLoHc6j6cOmNIWw)
-      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
-      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
-    - 微信公众号「自动驾驶之心」
-      - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
-    - 微信公众号「计算机视觉漫谈」
-      - [YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
-      - [YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
-    - 微信公众号「计算机视觉研究院」
-      - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
-      - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
-     - 微信公众号「智造情报局」
-      - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -211,6 +181,82 @@
       - [YOLO系列梳理（十）YOLO官方重回江湖 并带来了YOLOv7](https://zhuanlan.zhihu.com/p/543574708) 
     - [知乎「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
       - [YOLO算法最全综述：从YOLOv1到YOLOv5](https://zhuanlan.zhihu.com/p/297965943)
+    - 微信公众号「WeThinkln」
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（尝鲜版）](https://mp.weixin.qq.com/s/JDaSWyNdLoHc6j6cOmNIWw)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
+    - 微信公众号「人工智能AI算法工程师」
+      - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
+      - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
+      - [YOLOv5改进之三：添加Coordinate注意力机制](https://mp.weixin.qq.com/s/NzN88Vtkb3rVjsyPi60edQ) 
+      - [YOLOv5改进之四：添加ECA通道注意力机制](https://mp.weixin.qq.com/s/4tnD0OZrOn0RdRSY-1XAxw) 
+      - [YOLOv5改进之五：改进特征融合网络PANET为BIFPN](https://mp.weixin.qq.com/s/CgvdOqRC9JLrWa4mIDT_zA) 
+      - [YOLOv5改进之六：增加小目标检测层](https://mp.weixin.qq.com/s/0IsvGgxhE5USP0c37HzeAQ) 
+      - [YOLOv5改进之七：损失函数改进](https://mp.weixin.qq.com/s/0U4Y_ZEI2YvW1sMHxRfwMQ) 
+      - [YOLOv5改进之八：非极大值抑制NMS算法改进Soft-nms](https://mp.weixin.qq.com/s/Q35jjU6qCKhwsVpF_JkFGw) 
+      - [YOLOv5改进之九：锚框K-Means算法改进K-Means++](https://mp.weixin.qq.com/s/8tfw3l_qy8IyKKh3njsN_w) 
+      - [YOLOv5改进之十：损失函数改进为SIOU](https://mp.weixin.qq.com/s/JMbiPaQKHwIULKLE2jeQNA) 
+      - [YOLOv5改进之十一：主干网络C3替换为轻量化网络MobileNetV3](https://mp.weixin.qq.com/s/b3v2zNU4Ek6eO5AajuPI5A) 
+      - [YOLOv5改进之十二：主干网络C3替换为轻量化网络ShuffleNetV2](https://mp.weixin.qq.com/s/9E9U64Wl8C02etSE19Q1iw) 
+      - [YOLOv5改进之十三：主干网络C3替换为轻量化网络EfficientNetv2](https://mp.weixin.qq.com/s/SIqZyXfpx67uRxL7OSHqDg) 
+      - [YOLOv5改进之十四：主干网络C3替换为轻量化网络Ghostnet](https://mp.weixin.qq.com/s/IVR6kJodBWStFcVoVHArEw) 
+      - [YOLOv5改进之十五：网络轻量化方法深度可分离卷积](https://mp.weixin.qq.com/s/l3F9vGE2DHxz2otrlM1kfw) 
+      - [YOLOv5改进之十六：主干网络C3替换为轻量化网络PP-LCNet](https://mp.weixin.qq.com/s/sHCpHtgcMurvgaXjnQX5HQ) 
+      - [YOLOv5改进之十七：CNN+Transformer——融合Bottleneck Transformers](https://mp.weixin.qq.com/s/-hEjujFJuK5V-i9jX00iFw) 
+      - [YOLOv5改进之十八：损失函数改进为Alpha-IoU损失函数](https://mp.weixin.qq.com/s/5mwBdny3xI4vZajfZ_KxjQ) 
+      - [YOLOv5改进之十九：非极大值抑制NMS算法改进DIoU NMS](https://mp.weixin.qq.com/s/rW9FuDdpNVnO8yQbRon58g) 
+      - [YOLOv5改进之二十：Involution新神经网络算子引入网络](https://mp.weixin.qq.com/s/cn7uQtcPN3S_CHJc_INZaQ) 
+      - [YOLOv5改进之二十一：CNN+Transformer——主干网络替换为又快又强的轻量化主干EfficientFormer](https://mp.weixin.qq.com/s/D21iFLFTMFfM--vsfh0T5w) 
+      - [YOLOv7改进之二十二：涨点神器——引入递归门控卷积（gnConv）](https://mp.weixin.qq.com/s/qq0M1yaCUysp5L3xap6t9g) 
+      - [YOLOv7改进之二十三：引入SimAM无参数注意力](https://mp.weixin.qq.com/s/AfrIRsNDAbwfVzdz8XwgFw) 
+      - [YOLOv7改进之二十四：引入量子启发的新型视觉主干模型WaveMLP](https://mp.weixin.qq.com/s/O78PFirnfdfuGlmQRpf9rw) 
+      - [YOLOv7改进之二十五：引入Swin Transformer](https://mp.weixin.qq.com/s/s4RfXjW17mxUSIuK9QvTxg) 
+      - [YOLOv5、v7改进之二十六：改进特征融合网络PANet为ASFF自适应特征融合网络](https://mp.weixin.qq.com/s/Ty8Eo_qbJZMxjTULVVi-xA) 
+      - [YOLOv5、v7改进之二十七：解决小目标问题——校正卷积取代特征提取网络中的常规卷积](https://mp.weixin.qq.com/s/o23-u-B2I23bttzp14FJTg) 
+      - [YOLOv5、v7改进之二十八：ICLR 2022涨点神器——即插即用的动态卷积ODConv](https://mp.weixin.qq.com/s/-wH_N4-pXY08XdbJ-Iu8zA) 
+      - [YOLOv5、YOLOv7改进之二十九：v2.0版本的Swin Transformer 融入](https://mp.weixin.qq.com/s/9g-JMK44YQDd3feTBwCYjA) 
+      - [YOLOv5、YOLOv7改进之三十：引入10月4号发表最新的Transformer视觉模型MOAT结构](https://mp.weixin.qq.com/s/Y2kOLVbU5ZnNzPIoiv4voA) 
+      - [YOLOv5、v7改进之三十一：CrissCrossAttention注意力机制](https://mp.weixin.qq.com/s/sSZfmjJHS3USGkqFd5N-Nw) 
+      - [YOLOv5、v7改进之三十二：SKAttention注意力机制](https://mp.weixin.qq.com/s/fgTTylKkDe36Z45MxMV_ig) 
+      - [YOLOv5、v7改进之三十三：引入GAMAttention注意力机制](https://mp.weixin.qq.com/s/Tl5q7TEEPphXvzWQM_f61Q) 
+      - [YOLOv5、v7改进之三十四：更换激活函数为FReLU](https://mp.weixin.qq.com/s/k1FIIcaEZxSjuR6aRzotHg) 
+      - [YOLOv5、v7改进之三十五：引入NAMAttention注意力机制](https://mp.weixin.qq.com/s/rFe2pex6-YsUpRj8K-pw3g) 
+      - [YOLOv5、v7改进之三十六：引入S2-MLPv2注意力机制](https://mp.weixin.qq.com/s/5MuJiodqJ4ixOSdogr5ebw) 
+      - [YOLOv5、v7改进之三十七：结合CVPR2022新作ConvNeXt网络](https://mp.weixin.qq.com/s/f9rjpRkeqBCWeTFkadLZpQ) 
+      - [YOLOv5、v7改进之三十八：引入最新RepVGG](https://mp.weixin.qq.com/s/7UhjzSwjR2U2h-FC7ZFbCw) 
+      - [YOLOv5、v7改进之三十九：引入改进遮挡检测的Tri-Layer插件 | BMVC 2022](https://mp.weixin.qq.com/s/X0f0MLhDYMrMZzx72vyGPg) 
+      - [YOLOv5、v7改进之四十：轻量化mobileone主干网络引入](https://mp.weixin.qq.com/s/rHTYQW5aRucVe8MoWUlA4Q) 
+      - [YOLOv5、v7改进之四十一：引入SPD-Conv处理低分辨率图像和小对象问题](https://mp.weixin.qq.com/s/TrB7-B-ppU2JkuQ5G46a8Q) 
+      - [YOLOv5改进之四十二：引入V7中的ELAN网络，降低网络参数](https://mp.weixin.qq.com/s/cg4KinN-vEhcnoiQlN_tfw) 
+      - [YOLOv7、v5改进之四十三：结合最新Non-local Networks and Attention结构](https://mp.weixin.qq.com/s/P9TCtm6d_x6sRXtENTwY_A)
+    - 微信公众号「所向披靡的张大刀」
+      - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
+      - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
+      - [【yolov7系列】网络框架细节拆解](https://mp.weixin.qq.com/s/VEcUIaDrhc1ETIPr39l4rg)
+      - [【yolov7系列二】正负样本分配策略](https://mp.weixin.qq.com/s/nhZ3Q1NHm3op8abdVIGmLA)
+      - [【yolov7系列三】实战从0构建训练自己的数据集](https://mp.weixin.qq.com/s/S80mMimu4YpHwClHIH07eA)
+      - [万字长文解析cv中的注意力机制 ](https://mp.weixin.qq.com/s/kt3iIuOD3lsZBTIbOSGN0g)
+    - 微信公众号「集智书童」
+      - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
+      - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
+      - [连夜卷出 | 超越所有YOLO检测模型，mmdet开源当今最强最快目标检测模型！](https://mp.weixin.qq.com/s/2XErHzw9hWrrBry9Ij2pjA)
+    - 微信公众号「GiantPandaCV」
+      - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
+      - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
+    - 微信公众号「自动驾驶之心」
+      - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
+    - 微信公众号「计算机视觉漫谈」
+      - [YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
+      - [YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
+    - 微信公众号「计算机视觉研究院」
+      - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
+      - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
+     - 微信公众号「智造情报局」
+      - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
+      
+
 
 
 
