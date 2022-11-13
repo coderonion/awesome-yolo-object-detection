@@ -260,11 +260,9 @@
     - 微信公众号「计算机视觉研究院」
       - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
       - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
-     - 微信公众号「智造情报局」
+    - 微信公众号「智造情报局」
       - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
       
-
-
 
 
 ## Extensional Frameworks
