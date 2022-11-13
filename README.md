@@ -245,6 +245,9 @@
     - 微信公众号「GiantPandaCV」
       - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
       - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
+      - [《YOLOv5全面解析教程》二，YOLOv5数据集结构解析&如何制作一个可以获得更好训练效果的数据集](https://mp.weixin.qq.com/s/qDNjLKhkjDT54l06SQ_yEA)
+      - [《YOLOv5全面解析教程》三，IoU深入解析](https://mp.weixin.qq.com/s/1DYz8sp1xR91rr7Q5_X4Qw)
+      - [《YOLOv5全面解析教程》四，目标检测模型精确度评估](https://mp.weixin.qq.com/s/n6ziYYc3BBsobcRkMS9tsQ)
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -726,7 +729,7 @@
 
     - [miemie2013/miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
 
-    - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : Detection Models Implement with OneFlow.
+    - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉
 
     - [RyanCCC/YOLOSeries](https://github.com/RyanCCC/YOLOSeries) <img src="https://img.shields.io/github/stars/RyanCCC/YOLOSeries?style=social"/> : YOLO算法的实现。
 
