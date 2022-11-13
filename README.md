@@ -153,6 +153,10 @@
 
       - [PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> : 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PPYOLOE, YOLOX, YOLOv5, YOLOv6, YOLOv7, RTMDet and so on. 🚀🚀🚀 
 
+      - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉. "微信公众号「GiantPandaCV」《[One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)》"
+
+      - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
+
 
   - ### Blogs
 
@@ -187,6 +191,12 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（尝鲜版）](https://mp.weixin.qq.com/s/JDaSWyNdLoHc6j6cOmNIWw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
+    - 微信公众号「GiantPandaCV」
+      - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
+      - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
+      - [《YOLOv5全面解析教程》二，YOLOv5数据集结构解析&如何制作一个可以获得更好训练效果的数据集](https://mp.weixin.qq.com/s/qDNjLKhkjDT54l06SQ_yEA)
+      - [《YOLOv5全面解析教程》三，IoU深入解析](https://mp.weixin.qq.com/s/1DYz8sp1xR91rr7Q5_X4Qw)
+      - [《YOLOv5全面解析教程》四，目标检测模型精确度评估](https://mp.weixin.qq.com/s/n6ziYYc3BBsobcRkMS9tsQ)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -242,12 +252,6 @@
       - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
       - [连夜卷出 | 超越所有YOLO检测模型，mmdet开源当今最强最快目标检测模型！](https://mp.weixin.qq.com/s/2XErHzw9hWrrBry9Ij2pjA)
-    - 微信公众号「GiantPandaCV」
-      - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
-      - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
-      - [《YOLOv5全面解析教程》二，YOLOv5数据集结构解析&如何制作一个可以获得更好训练效果的数据集](https://mp.weixin.qq.com/s/qDNjLKhkjDT54l06SQ_yEA)
-      - [《YOLOv5全面解析教程》三，IoU深入解析](https://mp.weixin.qq.com/s/1DYz8sp1xR91rr7Q5_X4Qw)
-      - [《YOLOv5全面解析教程》四，目标检测模型精确度评估](https://mp.weixin.qq.com/s/n6ziYYc3BBsobcRkMS9tsQ)
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -673,8 +677,6 @@
 
   - ### Others
 
-    - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
-
     - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) <img src="https://img.shields.io/github/stars/jinfagang/yolov7_d2?style=social"/> : 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
     - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C.
@@ -728,8 +730,6 @@
     - [iloveai8086/YOLOC](https://github.com/iloveai8086/YOLOC) <img src="https://img.shields.io/github/stars/iloveai8086/YOLOC?style=social"/> : 🚀YOLOC is Combining different modules to build an different Object detection model.
 
     - [miemie2013/miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
-
-    - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉
 
     - [RyanCCC/YOLOSeries](https://github.com/RyanCCC/YOLOSeries) <img src="https://img.shields.io/github/stars/RyanCCC/YOLOSeries?style=social"/> : YOLO算法的实现。
 
