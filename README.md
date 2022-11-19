@@ -603,6 +603,10 @@
     - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
 
 
+    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
+
+    - [developer-ken/YoloPredictorMLDotNet](https://github.com/developer-ken/YoloPredictorMLDotNet) <img src="https://img.shields.io/github/stars/developer-ken/YoloPredictorMLDotNet?style=social"/> : YoloPredictorMLDotNet.
+
 
 
 
@@ -1408,10 +1412,11 @@
 
       - [hpc203/10kinds-light-face-detector-align-recognition](https://github.com/hpc203/10kinds-light-face-detector-align-recognition) <img src="https://img.shields.io/github/stars/hpc203/10kinds-light-face-detector-align-recognition?style=social"/> : 10种轻量级人脸检测算法的比拼，其中还包含人脸关键点检测与对齐，人脸特征向量提取和计算距离相似度。
 
+      - [ooooxianyu/yoloV5-arcface_forlearn](https://github.com/ooooxianyu/yoloV5-arcface_forlearn) <img src="https://img.shields.io/github/stars/ooooxianyu/yoloV5-arcface_forlearn?style=social"/> : 简单拼接一些源码，实现的人脸识别项目。可供学习参考。具体使用到：yolov5人脸检测、arcface人脸识别。
+
       - [zhouyuchong/face-recognition-deepstream](https://github.com/zhouyuchong/face-recognition-deepstream) <img src="https://img.shields.io/github/stars/zhouyuchong/face-recognition-deepstream?style=social"/> : Deepstream app use YOLO, retinaface and arcface for face recognition. 
 
-      - [ColinFred/yolov5_arcface_face_recognition](https://github.com/ColinFred/yolov5_arcface_face_recognition) <img src="https://img.shields.io/github/stars/ColinFred/yolov5_arcface_face_recognition?style=social"/> : 利用Yolov5做人脸检测，框出识别到的人脸，用 ArcFace 做人脸识别。 (**[Yolov5 + ArcFace 人脸识别](https://blog.csdn.net/windowsyun/article/details/123607549)**)
-
+      - [duckzhao/face_detection_and_recognition_yolov5](https://github.com/duckzhao/face_detection_and_recognition_yolov5) <img src="https://img.shields.io/github/stars/duckzhao/face_detection_and_recognition_yolov5?style=social"/> : 使用yolov5构建人脸检测模型，使用预训练的Arcface完成人脸特征提取和识别。
 
 
 
