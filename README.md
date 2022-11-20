@@ -198,6 +198,8 @@
       - [《YOLOv5全面解析教程》二，YOLOv5数据集结构解析&如何制作一个可以获得更好训练效果的数据集](https://mp.weixin.qq.com/s/qDNjLKhkjDT54l06SQ_yEA)
       - [《YOLOv5全面解析教程》三，IoU深入解析](https://mp.weixin.qq.com/s/1DYz8sp1xR91rr7Q5_X4Qw)
       - [《YOLOv5全面解析教程》四，目标检测模型精确度评估](https://mp.weixin.qq.com/s/n6ziYYc3BBsobcRkMS9tsQ)
+      - [《YOLOv5全面解析教程》五，计算mAP用到的numpy函数详解](https://mp.weixin.qq.com/s/i8Ygm9BCWNQfyBya7f1Z8Q)
+      - [《YOLOv5全面解析教程》六，YOLOv5使用教程详解（单卡，多卡，多机训练）](https://mp.weixin.qq.com/s/B1q_XsvXpf-fI3vDedoWjA)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
