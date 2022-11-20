@@ -1890,6 +1890,8 @@
 
      - [soloist-v/AutoStrike](https://github.com/soloist-v/AutoStrike) <img src="https://img.shields.io/github/stars/soloist-v/AutoStrike?style=social"/> : 使用yolov5自动瞄准，支持fps游戏 鼠标移动控制需要自行调整。
 
+     - [slyautomation/osrs_yolov5](https://github.com/slyautomation/osrs_yolov5) <img src="https://img.shields.io/github/stars/slyautomation/osrs_yolov5?style=social"/> : Yolov5 Object Detection In OSRS using Python code, Detecting Cows - Botting.
+
 
   - ### Automatic Annotation Tool
     #### 自动标注工具
@@ -2074,6 +2076,5 @@
 
     - [pacocp/YOLOF](https://github.com/pacocp/YOLOF) <img src="https://img.shields.io/github/stars/pacocp/YOLOF?style=social"/> : 📹 YOLO meets Optical Flow.
 
-
-
+    - [FabianPlum/OmniTrax](https://github.com/FabianPlum/OmniTrax) <img src="https://img.shields.io/github/stars/FabianPlum/OmniTrax?style=social"/> : Deep learning-based multi animal tracking and pose estimation Blender Add-on.
 
