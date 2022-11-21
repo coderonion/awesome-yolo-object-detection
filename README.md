@@ -527,11 +527,15 @@
 
   - ### Dotnet Implementation
 
+    - [SynapseML](https://github.com/microsoft/SynapseML) <img src="https://img.shields.io/github/stars/microsoft/SynapseML?style=social"/> : SynapseML (previously known as MMLSpark), is an open-source library that simplifies the creation of massively scalable machine learning (ML) pipelines. SynapseML provides simple, composable, and distributed APIs for a wide variety of different machine learning tasks such as text analytics, vision, anomaly detection, and many others.  
+  
     - [ML.NET](https://github.com/dotnet/machinelearning) <img src="https://img.shields.io/github/stars/dotnet/machinelearning?style=social"/> : ML.NET is an open source and cross-platform machine learning framework for .NET. 
 
     - [TorchSharp](https://github.com/dotnet/TorchSharp) <img src="https://img.shields.io/github/stars/dotnet/TorchSharp?style=social"/> : A .NET library that provides access to the library that powers PyTorch.    
 
     - [TensorFlow.NET](https://github.com/SciSharp/TensorFlow.NET) <img src="https://img.shields.io/github/stars/SciSharp/TensorFlow.NET?style=social"/> : .NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.   
+
+    - [DlibDotNet](https://github.com/takuya-takeuchi/DlibDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/DlibDotNet?style=social"/> : Dlib .NET wrapper written in C++ and C# for Windows, MacOS, Linux and iOS.
 
     - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
 
