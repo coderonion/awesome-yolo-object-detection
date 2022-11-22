@@ -266,6 +266,8 @@
       - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
     - 微信公众号「智造情报局」
       - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
+    - 微信公众号「学姐带你玩AI」
+      - [YOLOv5+Tesseract-OCR 实现车牌号文本识别【实战】](https://mp.weixin.qq.com/s/52Woexamu697tozevSiyQQ) 
       
 
 
