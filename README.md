@@ -200,6 +200,7 @@
       - [《YOLOv5全面解析教程》四，目标检测模型精确度评估](https://mp.weixin.qq.com/s/n6ziYYc3BBsobcRkMS9tsQ)
       - [《YOLOv5全面解析教程》五，计算mAP用到的numpy函数详解](https://mp.weixin.qq.com/s/i8Ygm9BCWNQfyBya7f1Z8Q)
       - [《YOLOv5全面解析教程》六，YOLOv5使用教程详解（单卡，多卡，多机训练）](https://mp.weixin.qq.com/s/B1q_XsvXpf-fI3vDedoWjA)
+      - [《YOLOv5全面解析教程》七，使用模型融合提升mAP和mAR](https://mp.weixin.qq.com/s/6UvHK0bRxHGk__B8YMQhiw)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -251,7 +252,8 @@
       - [【yolov7系列】网络框架细节拆解](https://mp.weixin.qq.com/s/VEcUIaDrhc1ETIPr39l4rg)
       - [【yolov7系列二】正负样本分配策略](https://mp.weixin.qq.com/s/nhZ3Q1NHm3op8abdVIGmLA)
       - [【yolov7系列三】实战从0构建训练自己的数据集](https://mp.weixin.qq.com/s/S80mMimu4YpHwClHIH07eA)
-      - [万字长文解析cv中的注意力机制 ](https://mp.weixin.qq.com/s/kt3iIuOD3lsZBTIbOSGN0g)
+      - [万字长文解析cv中的注意力机制](https://mp.weixin.qq.com/s/kt3iIuOD3lsZBTIbOSGN0g)
+      - [yolov5的持续发力|分类任务](https://mp.weixin.qq.com/s/YiK5kT-Yd-9k_V_aiSVYqw)
     - 微信公众号「集智书童」
       - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
@@ -1119,8 +1121,6 @@
 
 
 
-
-
   - ### Object Tracking
     #### 目标跟踪
 
@@ -1129,11 +1129,13 @@
 
       - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using [YOLOv5](https://github.com/ultralytics/yolov5) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with [OSNet](https://github.com/KaiyangZhou/deep-person-reid).
 
-      - [kadirnar/yolov5-strongsort](https://github.com/kadirnar/yolov5-strongsort) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-strongsort?style=social"/> : Minimal PyTorch implementation of YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT).
+      - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
+
+      - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet.
 
       - [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) <img src="https://img.shields.io/github/stars/bharath5673/StrongSORT-YOLO?style=social"/> : Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with OSNet.
 
-      - [mikel-brostrom/Yolov5_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_DeepSort_Pytorch?style=social"/> : Real-time multi-object tracker using YOLO v5 and deep sort.
+      - [kadirnar/yolov5-strongsort](https://github.com/kadirnar/yolov5-strongsort) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-strongsort?style=social"/> : Minimal PyTorch implementation of YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT).
 
       - [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch) <img src="https://img.shields.io/github/stars/ZQPei/deep_sort_pytorch?style=social"/> : MOT using deepsort and yolov3 with pytorch.
 
@@ -1202,8 +1204,6 @@
       - [HKPolyU-UAV/AUTO](https://github.com/HKPolyU-UAV/AUTO) <img src="https://img.shields.io/github/stars/HKPolyU-UAV/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
 
       - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
-
-      - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
 
       - [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) <img src="https://img.shields.io/github/stars/Smorodov/Multitarget-tracker?style=social"/> : Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
