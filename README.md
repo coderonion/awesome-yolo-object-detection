@@ -151,9 +151,11 @@
 
       - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
-      - [PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> : 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PPYOLOE, YOLOX, YOLOv5, YOLOv6, YOLOv7, RTMDet and so on. 🚀🚀🚀 
-
       - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉. "微信公众号「GiantPandaCV」《[One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)》"
+
+      - [augmentedstartups/AS-One](https://github.com/augmentedstartups/AS-One) <img src="https://img.shields.io/github/stars/augmentedstartups/AS-One?style=social"/> : Easy & Modular Computer Vision Detectors and Trackers - Run YOLOv7,v6,v5,R,X in under 20 lines of code.
+
+      - [PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> : 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PPYOLOE, YOLOX, YOLOv5, YOLOv6, YOLOv7, RTMDet and so on. 🚀🚀🚀 
 
       - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
@@ -1131,9 +1133,9 @@
 
       - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
 
-      - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet.
-
       - [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) <img src="https://img.shields.io/github/stars/bharath5673/StrongSORT-YOLO?style=social"/> : Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with OSNet.
+
+      - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet.
 
       - [kadirnar/yolov5-strongsort](https://github.com/kadirnar/yolov5-strongsort) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-strongsort?style=social"/> : Minimal PyTorch implementation of YOLOv5 and [StrongSORT](https://github.com/dyhBUPT/StrongSORT).
 
