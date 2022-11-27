@@ -647,6 +647,8 @@ fv
 
     - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
 
+    - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
+
 
 
   - ### Go Implementation
@@ -2030,7 +2032,7 @@ fv
 
     - [chenanga/qt5_yolov5_2.0](https://github.com/chenanga/qt5_yolov5_2.0) <img src="https://img.shields.io/github/stars/chenanga/qt5_yolov5_2.0?style=social"/> : Pyqt搭建YOLOV5目标检测界面-第一次优化后的版本。
 
-
+    - [xun-xh/yolov5-onnx-pyqt-exe](https://github.com/xun-xh/yolov5-onnx-pyqt-exe) <img src="https://img.shields.io/github/stars/xun-xh/yolov5-onnx-pyqt-exe?style=social"/> : 基于Yolov5 + PyQt5 + onnxruntime的目标检测部署。
 
 
   - ### Other Applications
