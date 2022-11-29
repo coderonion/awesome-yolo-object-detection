@@ -45,7 +45,6 @@
     - [Object Tracking](#object-tracking)
       - [Multi-Object Tracking](#multi-object-tracking)
     - [Deep Reinforcement Learning](#deep-reinforcement-learning)
-    - [Multi-Modality Information Fusion](#multi-modality-information-fusion)
     - [Motion Control Field](#motion-control-field)
     - [Super-Resolution Field](#super-resolution-field)
     - [Spiking Neural Network](#spiking-neural-network)
@@ -80,6 +79,7 @@
     - [SLAM Field Detection](#slam-field-detection)
     - [Industrial Defect Detection](#industrial-defect-detection)
     - [SAR Image Detection](#sar-image-detection)
+    - [Multispectral Image Fusion Detection](#multispectral-image-fusion-detection)
     - [Safety Monitoring Field Detection](#safety-monitoring-field-detection)
     - [Medical Field Detection](#medical-field-detection)
     - [Chemistry Field Detection](#chemistry-field-detection)
@@ -205,6 +205,7 @@
       - [《YOLOv5全面解析教程》六，YOLOv5使用教程详解（单卡，多卡，多机训练）](https://mp.weixin.qq.com/s/B1q_XsvXpf-fI3vDedoWjA)
       - [《YOLOv5全面解析教程》七，使用模型融合提升mAP和mAR](https://mp.weixin.qq.com/s/6UvHK0bRxHGk__B8YMQhiw)
       - [《YOLOv5全面解析教程》八，将训练好的YOLOv5权重导出为其它框架格式](https://mp.weixin.qq.com/s/UoPY_0E0D5g0R5o5eVmbdA)
+      - [《YOLOv5全面解析教程》九，train.py 逐代码解析](https://mp.weixin.qq.com/s/4jOg6De01Yxl1uW-v9Zydg)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -1232,24 +1233,6 @@
     - [uzkent/EfficientObjectDetection](https://github.com/uzkent/EfficientObjectDetection) <img src="https://img.shields.io/github/stars/uzkent/EfficientObjectDetection?style=social"/> : "Efficient Object Detection in Large Images with Deep Reinforcement Learning". (**[WACV 2020](https://openaccess.thecvf.com/content_WACV_2020/html/Uzkent_Efficient_Object_Detection_in_Large_Images_Using_Deep_Reinforcement_Learning_WACV_2020_paper.html)**)
 
 
-  - #### Multi-Modality Information Fusion
-    #### 多模态信息融合
-
-      - [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) <img src="https://img.shields.io/github/stars/OrangeSodahub/CRLFnet?style=social"/> : Camera-Radar-Lidar Fusion detection net based on ROS, YOLOv3, OpenPCDet integration. 
-
-      - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
-
-      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
-
-      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.    
-
-      - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。 
-
-      - [eralso/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/eralso/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/eralso/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。 
-
-
-
-
   - #### Motion Control Field
     #### 运动控制领域
 
@@ -1739,6 +1722,25 @@
     #### 合成孔径雷达图像检测
 
     - [humblecoder612/SAR_yolov3](https://github.com/humblecoder612/SAR_yolov3) <img src="https://img.shields.io/github/stars/humblecoder612/SAR_yolov3?style=social"/> : Best Accruacy:speed ratio SAR Ship detection in the world.
+
+
+  - #### Multispectral Image Fusion Detection
+    #### 多光谱图像融合检测
+
+      - [SuperYOLO](https://github.com/icey-zhang/SuperYOLO) <img src="https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social"/> : "SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery". (**[arXiv 2022](https://arxiv.org/abs/2209.13351)**)
+
+      - [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) <img src="https://img.shields.io/github/stars/OrangeSodahub/CRLFnet?style=social"/> : Camera-Radar-Lidar Fusion detection net based on ROS, YOLOv3, OpenPCDet integration. 
+
+      - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
+
+      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
+
+      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.    
+
+      - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。 
+
+      - [eralso/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/eralso/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/eralso/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。 
+
 
 
   - ### Safety Monitoring Field Detection
