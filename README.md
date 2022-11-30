@@ -1149,6 +1149,14 @@
 
       - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
 
+      - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
+
+      - [StrongSORT](https://github.com/dyhBUPT/StrongSORT) <img src="https://img.shields.io/github/stars/dyhBUPT/StrongSORT?style=social"/> : "StrongSORT: Make DeepSORT Great Again". (**[arXiv 2022](https://arxiv.org/abs/2202.13514)**)
+
+      - [UAVMOT](https://github.com/LiuShuaiyr/UAVMOT) <img src="https://img.shields.io/github/stars/LiuShuaiyr/UAVMOT?style=social"/> : "Multi-Object Tracking Meets Moving UAV". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Multi-Object_Tracking_Meets_Moving_UAV_CVPR_2022_paper.html)**)
+
+      - [HKPolyU-UAV/AUTO](https://github.com/HKPolyU-UAV/AUTO) <img src="https://img.shields.io/github/stars/HKPolyU-UAV/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
+
       - [bharath5673/StrongSORT-YOLO](https://github.com/bharath5673/StrongSORT-YOLO) <img src="https://img.shields.io/github/stars/bharath5673/StrongSORT-YOLO?style=social"/> : Real-time multi-camera multi-object tracker using (YOLOv5, YOLOv7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with OSNet.
 
       - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using YOLOv7 and StrongSORT with OSNet.
@@ -1218,10 +1226,6 @@
       - [RizwanMunawar/yolov7-object-tracking](https://github.com/RizwanMunawar/yolov7-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-object-tracking?style=social"/> : YOLOv7 Object Tracking Using PyTorch, OpenCV and Sort Tracking.
 
       - [RizwanMunawar/yolov5-object-tracking](https://github.com/RizwanMunawar/yolov5-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov5-object-tracking?style=social"/> : YOLOv5 Object Tracking + Detection + Object Blurring + Streamlit Dashboard Using OpenCV, PyTorch and Streamlit.
-
-      - [HKPolyU-UAV/AUTO](https://github.com/HKPolyU-UAV/AUTO) <img src="https://img.shields.io/github/stars/HKPolyU-UAV/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
-
-      - [BoT-SORT](https://github.com/NirAharon/BoT-SORT) <img src="https://img.shields.io/github/stars/NirAharon/BoT-SORT?style=social"/> : "BoT-SORT: Robust Associations Multi-Pedestrian Tracking". (**[arXiv 2022](https://arxiv.org/abs/2206.14651)**)
 
       - [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) <img src="https://img.shields.io/github/stars/Smorodov/Multitarget-tracker?style=social"/> : Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
