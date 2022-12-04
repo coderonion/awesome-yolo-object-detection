@@ -636,6 +636,20 @@
 
     - [LionelC-Kyo/CSharp_YoloV5_Torch](https://github.com/LionelC-Kyo/CSharp_YoloV5_Torch) <img src="https://img.shields.io/github/stars/LionelC-Kyo/CSharp_YoloV5_Torch?style=social"/> : Run Yolo V5 in C# By Torch.
 
+    - [wanglvhang/OnnxYoloDemo](https://github.com/wanglvhang/OnnxYoloDemo) <img src="https://img.shields.io/github/stars/wanglvhang/OnnxYoloDemo?style=social"/> : demo of using c# to run yolo onnx model with onnx runtime, and contains a windows capture tool to get bitmap from windows desktop and window.
+
+    - [BobLd/YOLOv3MLNet](https://github.com/BobLd/YOLOv3MLNet) <img src="https://img.shields.io/github/stars/BobLd/YOLOv3MLNet?style=social"/> : Use the YOLO v3 (ONNX) model for object detection in C# using ML.Net.
+
+    - [zgabi/Yolo.Net](https://github.com/zgabi/Yolo.Net) <img src="https://img.shields.io/github/stars/zgabi/Yolo.Net?style=social"/> : zgabi/Yolo.Net
+
+    - [aliardan/RoadMarkingDetection](https://github.com/aliardan/RoadMarkingDetection) <img src="https://img.shields.io/github/stars/aliardan/RoadMarkingDetection?style=social"/> : Road markings detection using yolov5 model based on ONNX.
+
+    - [TimothyMeadows/Yolo5.NetCore](https://github.com/TimothyMeadows/Yolo5.NetCore) <img src="https://img.shields.io/github/stars/TimothyMeadows/Yolo5.NetCore?style=social"/> : You Only Look Once (v5) for .NET Core LTS.
+
+    - [AD-HO/YOLOv5-ML.NET](https://github.com/AD-HO/YOLOv5-ML.NET) <img src="https://img.shields.io/github/stars/AD-HO/YOLOv5-ML.NET?style=social"/> : Inferencing Yolov5 ONNX model using ML.NET and ONNX Runtime.
+
+
+
 
 
 
@@ -1980,6 +1994,8 @@
     - [stephanecharette/DarkMark](https://github.com/stephanecharette/DarkMark) <img src="https://img.shields.io/github/stars/stephanecharette/DarkMark?style=social"/> : Marking up images for use with Darknet.
 
     - [2vin/yolo_annotation_tool](https://github.com/2vin/yolo_annotation_tool) <img src="https://img.shields.io/github/stars/2vin/yolo_annotation_tool?style=social"/> : Annotation tool for YOLO in opencv.
+
+    - [sanfooh/quick_yolo2_label_tool](https://github.com/sanfooh/quick_yolo2_label_tool) <img src="https://img.shields.io/github/stars/sanfooh/quick_yolo2_label_tool?style=social"/> : yolo快速标注工具 quick yolo2 label tool.
 
 
 
