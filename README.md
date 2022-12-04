@@ -542,6 +542,7 @@
 
     - [wk123467/yolov5s_trt_ros](https://github.com/wk123467/yolov5s_trt_ros) <img src="https://img.shields.io/github/stars/wk123467/yolov5s_trt_ros?style=social"/> : 利用TensorRT对yolov5s进行加速，并将其应用于ROS，实现交通标志、红绿灯(直接输出路灯状态)、行人和车辆等交通场景的检测。 
 
+    - [PardisTaghavi/yolov7_strongsort_ros](https://github.com/PardisTaghavi/yolov7_strongsort_ros) <img src="https://img.shields.io/github/stars/PardisTaghavi/yolov7_strongsort_ros?style=social"/> : Integration of "Yolov7 StrongSort" with ROS for real time object tracking.
 
 
 
