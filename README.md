@@ -197,6 +197,7 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Tricks篇）](https://mp.weixin.qq.com/s/xJDMKcS9SRQIWKCAbUpMaQ)
     - 微信公众号「GiantPandaCV」
       - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
+      - [One-YOLOv5 v1.1.0发布，大幅优化Eager FP32单卡性能](https://mp.weixin.qq.com/s/N2Xp4IKJAATCmmmQqQ6new)
       - [《YOLOv5全面解析教程》一，网络结构逐行代码解析](https://mp.weixin.qq.com/s/qR2ODIMidsNR_Eznxry5pg)
       - [《YOLOv5全面解析教程》二，YOLOv5数据集结构解析&如何制作一个可以获得更好训练效果的数据集](https://mp.weixin.qq.com/s/qDNjLKhkjDT54l06SQ_yEA)
       - [《YOLOv5全面解析教程》三，IoU深入解析](https://mp.weixin.qq.com/s/1DYz8sp1xR91rr7Q5_X4Qw)
