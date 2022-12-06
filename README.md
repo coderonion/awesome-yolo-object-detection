@@ -1249,6 +1249,9 @@
 
       - [Smorodov/Multitarget-tracker](https://github.com/Smorodov/Multitarget-tracker) <img src="https://img.shields.io/github/stars/Smorodov/Multitarget-tracker?style=social"/> : Multiple Object Tracker, Based on Hungarian algorithm + Kalman filter.
 
+      - [Naughty-Galileo/YoloV5_MCMOT](https://github.com/Naughty-Galileo/YoloV5_MCMOT) <img src="https://img.shields.io/github/stars/Naughty-Galileo/YoloV5_MCMOT?style=social"/> : 多类别多目标跟踪YoloV5+sort/deepsort/bytetrack/BotSort/motdt.
+
+
 
 
   - #### Deep Reinforcement Learning
