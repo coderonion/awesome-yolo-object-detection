@@ -150,6 +150,8 @@
 
       - [YOLOAir](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, PPYOLO, PPYOLOv2, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀. YOLOAir是一个基于PyTorch的YOLO算法库。统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
 
+      - [YOLOAir2](https://github.com/iscyy/yoloair2) <img src="https://img.shields.io/github/stars/iscyy/yoloair2?style=social"/> : ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules. YOLOAir2☁️💡🎈 : Makes improvements easy again.
+
       - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
       - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉. "微信公众号「GiantPandaCV」《[One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)》"
@@ -785,6 +787,11 @@
     - [miemie2013/miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
 
     - [RyanCCC/YOLOSeries](https://github.com/RyanCCC/YOLOSeries) <img src="https://img.shields.io/github/stars/RyanCCC/YOLOSeries?style=social"/> : YOLO算法的实现。
+
+    - [HuKai97/YOLOX-Annotations](https://github.com/HuKai97/YOLOX-Annotations) <img src="https://img.shields.io/github/stars/HuKai97/YOLOX-Annotations?style=social"/> : 一个YOLOX的中文注释版本，供大家参考学习！
+
+
+
 
 ## Applications
 
