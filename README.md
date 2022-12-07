@@ -207,6 +207,7 @@
       - [《YOLOv5全面解析教程》七，使用模型融合提升mAP和mAR](https://mp.weixin.qq.com/s/6UvHK0bRxHGk__B8YMQhiw)
       - [《YOLOv5全面解析教程》八，将训练好的YOLOv5权重导出为其它框架格式](https://mp.weixin.qq.com/s/UoPY_0E0D5g0R5o5eVmbdA)
       - [《YOLOv5全面解析教程》九，train.py 逐代码解析](https://mp.weixin.qq.com/s/4jOg6De01Yxl1uW-v9Zydg)
+      - [《YOLOv5全面解析教程》十，YOLOv5 的 W & B 科学实验工具教程](https://mp.weixin.qq.com/s/CZ1btWU9cpbJWC2eVLBVQQ)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -1949,6 +1950,11 @@
      - [soloist-v/AutoStrike](https://github.com/soloist-v/AutoStrike) <img src="https://img.shields.io/github/stars/soloist-v/AutoStrike?style=social"/> : 使用yolov5自动瞄准，支持fps游戏 鼠标移动控制需要自行调整。
 
      - [slyautomation/osrs_yolov5](https://github.com/slyautomation/osrs_yolov5) <img src="https://img.shields.io/github/stars/slyautomation/osrs_yolov5?style=social"/> : Yolov5 Object Detection In OSRS using Python code, Detecting Cows - Botting.
+
+     - [HarunoWindy/yolo-games-weights](https://github.com/HarunoWindy/yolo-games-weights) <img src="https://img.shields.io/github/stars/HarunoWindy/yolo-games-weights?style=social"/> : YOLOv5 vision deep-learning on detect games UI (current support: onmyoji) YOLOv5深度学习识别游戏UI(目前支持：阴阳师).
+
+
+
 
 
   - ### Automatic Annotation Tool
