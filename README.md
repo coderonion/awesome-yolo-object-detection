@@ -210,6 +210,7 @@
       - [《YOLOv5全面解析教程》八，将训练好的YOLOv5权重导出为其它框架格式](https://mp.weixin.qq.com/s/UoPY_0E0D5g0R5o5eVmbdA)
       - [《YOLOv5全面解析教程》九，train.py 逐代码解析](https://mp.weixin.qq.com/s/4jOg6De01Yxl1uW-v9Zydg)
       - [《YOLOv5全面解析教程》十，YOLOv5 的 W & B 科学实验工具教程](https://mp.weixin.qq.com/s/CZ1btWU9cpbJWC2eVLBVQQ)
+      - [《YOLOv5全面解析教程》十一，YOLOv5 数据增强模块 utils/augmentations.py 逐行解析](https://mp.weixin.qq.com/s/uouLlV1G35L8_DQaUm8ogg)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
