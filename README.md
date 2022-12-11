@@ -1561,6 +1561,9 @@
 
       - [kyrielw24/License_Plate_Recognition](https://github.com/kyrielw24/License_Plate_Recognition) <img src="https://img.shields.io/github/stars/kyrielw24/License_Plate_Recognition?style=social"/> : 基于Yolo&CNN的车牌识别可视化项目。 
 
+      - [we0091234/yolov7_plate](https://github.com/we0091234/yolov7_plate) <img src="https://img.shields.io/github/stars/we0091234/yolov7_plate?style=social"/> : yolov7 车牌检测 车牌识别 中文车牌识别 检测 支持双层车牌 支持13种中文车牌。
+
+
 
     - ####  Lane Detection
       #####  车道线检测
@@ -1614,6 +1617,8 @@
 
       - [DickensKP/yolov3-vehicle-pedestrian-trafficsign-detection-system](https://github.com/DickensKP/yolov3-vehicle-pedestrian-trafficsign-detection-system) <img src="https://img.shields.io/github/stars/DickensKP/yolov3-vehicle-pedestrian-trafficsign-detection-system?style=social"/> : 基于bubbliiiing的yolov3-pytorch框架，自主训练的车辆、行人、交通标志识别系统.
 
+      - [mkrupczak3/Coneslayer](https://github.com/mkrupczak3/Coneslayer) <img src="https://img.shields.io/github/stars/mkrupczak3/Coneslayer?style=social"/> : A lightweight neural-network for rapid detection of traffic cones.
+
 
     - ####  Crosswalk Detection
       #####  人行横道/斑马线检测
@@ -1630,6 +1635,11 @@
     - ####  Road Damage Detection
       #####  道路损伤检测
       - [adnanmushtaq1996/Yolov4_Road_Damage_Detection](https://github.com/adnanmushtaq1996/Yolov4_Road_Damage_Detection) <img src="https://img.shields.io/github/stars/adnanmushtaq1996/Yolov4_Road_Damage_Detection?style=social"/> : A Repository to Train a Custom Yolov4 based object detector for road damage detection using the RDD2020 dataset. 
+
+
+
+
+
 
   - ### Helmet Detection
     #### 头盔/安全帽检测
@@ -1804,6 +1814,9 @@
     - [bishal116/FireDetection](https://github.com/bishal116/FireDetection) <img src="https://img.shields.io/github/stars/bishal116/FireDetection?style=social"/> : This project builds fire detecton using YOLO v3 model.
 
     - [Psynosaur/Jetson-SecVision](https://github.com/Psynosaur/Jetson-SecVision) <img src="https://img.shields.io/github/stars/Psynosaur/Jetson-SecVision?style=social"/> : Person detection for Hikvision DVR with AlarmIO ports, uses TensorRT and yolov4.
+
+    - [robmarkcole/fire-detection-from-images](https://github.com/robmarkcole/fire-detection-from-images) <img src="https://img.shields.io/github/stars/robmarkcole/fire-detection-from-images?style=social"/> : Detect fire in images using neural nets.
+
 
 
   - ### Medical Field Detection
