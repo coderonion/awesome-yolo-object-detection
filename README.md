@@ -654,7 +654,7 @@
 
     - [AD-HO/YOLOv5-ML.NET](https://github.com/AD-HO/YOLOv5-ML.NET) <img src="https://img.shields.io/github/stars/AD-HO/YOLOv5-ML.NET?style=social"/> : Inferencing Yolov5 ONNX model using ML.NET and ONNX Runtime.
 
-
+    - [ToxicSkill/YOLOV7-Webcam-inference](https://github.com/ToxicSkill/YOLOV7-Webcam-inference) <img src="https://img.shields.io/github/stars/ToxicSkill/YOLOV7-Webcam-inference?style=social"/> : Simple WPF program for webcam inference with yoloV7 models.
 
 
 
