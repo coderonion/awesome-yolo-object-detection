@@ -197,6 +197,7 @@
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Head篇）（完整版）](https://mp.weixin.qq.com/s/85Xh4l_t65HrGx25ByD_iw)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Backbone篇）](https://mp.weixin.qq.com/s/T76JkDf82ZPF5WWVDvJ6GA)
       - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（Tricks篇）](https://mp.weixin.qq.com/s/xJDMKcS9SRQIWKCAbUpMaQ)
+      - [【Make YOLO Great Again】YOLOv1-v7全系列大解析（汇总篇）](https://mp.weixin.qq.com/s/etaaojeNv8lbBy586FjtQw)
     - 微信公众号「GiantPandaCV」
       - [One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)
       - [One-YOLOv5 v1.1.0发布，大幅优化Eager FP32单卡性能](https://mp.weixin.qq.com/s/N2Xp4IKJAATCmmmQqQ6new)
