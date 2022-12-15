@@ -305,8 +305,6 @@
 
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
-  - [AIRDet](https://github.com/tinyvision/AIRDet) <img src="https://img.shields.io/github/stars/tinyvision/AIRDet?style=social"/> : Welcome to AIRDet! AIRDet is an efficiency-oriented anchor-free object detector, aims to enable robust object detection in various industry scene.
-
   - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
 
 
@@ -401,8 +399,6 @@
     - [experiencor/keras-yolo2](https://github.com/experiencor/keras-yolo2) <img src="https://img.shields.io/github/stars/experiencor/keras-yolo2?style=social"/> : YOLOv2 in Keras and Applications.
 
     - [experiencor/keras-yolo3](https://github.com/experiencor/keras-yolo3) <img src="https://img.shields.io/github/stars/experiencor/keras-yolo3?style=social"/> : Training and Detecting Objects with YOLO3.
-
-    - [alternativebug/yolo-tf2](https://github.com/alternativebug/yolo-tf2) <img src="https://img.shields.io/github/stars/alternativebug/yolo-tf2?style=social"/> : yolo(all versions) implementation in keras and tensorflow 2.x.
 
     - [SpikeKing/keras-yolo3-detection](https://github.com/SpikeKing/keras-yolo3-detection) <img src="https://img.shields.io/github/stars/SpikeKing/keras-yolo3-detection?style=social"/> : YOLO v3 物体检测算法。
 
@@ -1655,13 +1651,13 @@
 
     - [BlcaKHat/yolov3-Helmet-Detection](https://github.com/BlcaKHat/yolov3-Helmet-Detection) <img src="https://img.shields.io/github/stars/BlcaKHat/yolov3-Helmet-Detection?style=social"/> : Training a YOLOv3 model to detect the presence of helmet for intrusion or traffic monitoring.
 
-    - [yumulinfeng1/YOLOv4-Hat-detection](https://github.com/yumulinfeng1/YOLOv4-Hat-detection)) <img src="https://img.shields.io/github/stars/yumulinfeng1/YOLOv4-Hat-detection?style=social"/> : 基于YOLOv4的安全帽佩戴检测。
+    - [yumulinfeng1/YOLOv4-Hat-detection](https://github.com/yumulinfeng1/YOLOv4-Hat-detection) <img src="https://img.shields.io/github/stars/yumulinfeng1/YOLOv4-Hat-detection?style=social"/> : 基于YOLOv4的安全帽佩戴检测。
 
-    - [FanDady/Helmet-Detection-YoloV5](https://github.com/FanDady/Helmet-Detection-YoloV5)) <img src="https://img.shields.io/github/stars/FanDady/Helmet-Detection-YoloV5?style=social"/> : Safety helmet wearing detection on construction site based on YoloV5s-V5.0 including helmet dataset（基于YoloV5-V5.0的工地安全帽检测并且包含开源的安全帽数据集）。
+    - [FanDady/Helmet-Detection-YoloV5](https://github.com/FanDady/Helmet-Detection-YoloV5) <img src="https://img.shields.io/github/stars/FanDady/Helmet-Detection-YoloV5?style=social"/> : Safety helmet wearing detection on construction site based on YoloV5s-V5.0 including helmet dataset（基于YoloV5-V5.0的工地安全帽检测并且包含开源的安全帽数据集）。
 
-    - [RUI-LIU7/Helmet_Detection](https://github.com/RUI-LIU7/Helmet_Detection)) <img src="https://img.shields.io/github/stars/RUI-LIU7/Helmet_Detection?style=social"/> : 使用yolov5算法实现安全帽以及危险区域的监测，同时接入海康摄像头实现实时监测。
+    - [RUI-LIU7/Helmet_Detection](https://github.com/RUI-LIU7/Helmet_Detection) <img src="https://img.shields.io/github/stars/RUI-LIU7/Helmet_Detection?style=social"/> : 使用yolov5算法实现安全帽以及危险区域的监测，同时接入海康摄像头实现实时监测。
 
-    - [ZijianWang1995/PPE_detection](https://github.com/ZijianWang1995/PPE_detection)) <img src="https://img.shields.io/github/stars/ZijianWang1995/PPE_detectionstyle=social"/> : Real-time PPE detection based on YOLO. Open high-quality dataset. "Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/10/3478)**)
+    - [ZijianWang1995/PPE_detection](https://github.com/ZijianWang1995/PPE_detection) <img src="https://img.shields.io/github/stars/ZijianWang1995/PPE_detectionstyle=social"/> : Real-time PPE detection based on YOLO. Open high-quality dataset. "Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/10/3478)**)
 
 
 
