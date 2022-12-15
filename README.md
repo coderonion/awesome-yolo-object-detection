@@ -212,6 +212,7 @@
       - [《YOLOv5全面解析教程》九，train.py 逐代码解析](https://mp.weixin.qq.com/s/4jOg6De01Yxl1uW-v9Zydg)
       - [《YOLOv5全面解析教程》十，YOLOv5 的 W & B 科学实验工具教程](https://mp.weixin.qq.com/s/CZ1btWU9cpbJWC2eVLBVQQ)
       - [《YOLOv5全面解析教程》十一，YOLOv5 数据增强模块 utils/augmentations.py 逐行解析](https://mp.weixin.qq.com/s/uouLlV1G35L8_DQaUm8ogg)
+      - [《YOLOv5全面解析教程》​十二，Loss 计算详细解析](https://mp.weixin.qq.com/s/WfXSQFHgF6Ouwq5re4n1Vw)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -636,9 +637,6 @@
 
     - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
 
-
-    - [Soju06/yolov5-annotation-viewer](https://github.com/Soju06/yolov5-annotation-viewer) <img src="https://img.shields.io/github/stars/Soju06/yolov5-annotation-viewer?style=social"/> : yolov5 annotation viewer.
-
     - [developer-ken/YoloPredictorMLDotNet](https://github.com/developer-ken/YoloPredictorMLDotNet) <img src="https://img.shields.io/github/stars/developer-ken/YoloPredictorMLDotNet?style=social"/> : YoloPredictorMLDotNet.
 
     - [LionelC-Kyo/CSharp_YoloV5_Torch](https://github.com/LionelC-Kyo/CSharp_YoloV5_Torch) <img src="https://img.shields.io/github/stars/LionelC-Kyo/CSharp_YoloV5_Torch?style=social"/> : Run Yolo V5 in C# By Torch.
@@ -657,6 +655,7 @@
 
     - [ToxicSkill/YOLOV7-Webcam-inference](https://github.com/ToxicSkill/YOLOV7-Webcam-inference) <img src="https://img.shields.io/github/stars/ToxicSkill/YOLOV7-Webcam-inference?style=social"/> : Simple WPF program for webcam inference with yoloV7 models.
 
+    - [aliardan/RoadMarkingDetection](https://github.com/aliardan/RoadMarkingDetection) <img src="https://img.shields.io/github/starsaliardan/RoadMarkingDetection?style=social"/> : Road markings detection using yolov5 model based on ONNX.
 
 
 
@@ -2166,3 +2165,4 @@
 
     - [FabianPlum/OmniTrax](https://github.com/FabianPlum/OmniTrax) <img src="https://img.shields.io/github/stars/FabianPlum/OmniTrax?style=social"/> : Deep learning-based multi animal tracking and pose estimation Blender Add-on.
 
+    - [aweihao/ExDark2Yolo](https://github.com/aweihao/ExDark2Yolo) <img src="https://img.shields.io/github/stars/aweihao/ExDark2Yolo?style=social"/> : Convert ExDark annotated format data to YOLO format data. / 将ExDark标注格式的数据转换成YOLO格式的数据。
