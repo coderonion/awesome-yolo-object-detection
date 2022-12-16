@@ -1657,7 +1657,7 @@
 
     - [RUI-LIU7/Helmet_Detection](https://github.com/RUI-LIU7/Helmet_Detection) <img src="https://img.shields.io/github/stars/RUI-LIU7/Helmet_Detection?style=social"/> : 使用yolov5算法实现安全帽以及危险区域的监测，同时接入海康摄像头实现实时监测。
 
-    - [ZijianWang1995/PPE_detection](https://github.com/ZijianWang1995/PPE_detection) <img src="https://img.shields.io/github/stars/ZijianWang1995/PPE_detectionstyle=social"/> : Real-time PPE detection based on YOLO. Open high-quality dataset. "Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/10/3478)**)
+    - [ZijianWang1995/PPE_detection](https://github.com/ZijianWang1995/PPE_detection) <img src="https://img.shields.io/github/stars/ZijianWang1995/PPE_detection?style=social"/> : Real-time PPE detection based on YOLO. Open high-quality dataset. "Fast Personal Protective Equipment Detection for Real Construction Sites Using Deep Learning Approaches". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/10/3478)**)
 
 
 
