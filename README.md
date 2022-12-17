@@ -2162,3 +2162,7 @@
     - [FabianPlum/OmniTrax](https://github.com/FabianPlum/OmniTrax) <img src="https://img.shields.io/github/stars/FabianPlum/OmniTrax?style=social"/> : Deep learning-based multi animal tracking and pose estimation Blender Add-on.
 
     - [aweihao/ExDark2Yolo](https://github.com/aweihao/ExDark2Yolo) <img src="https://img.shields.io/github/stars/aweihao/ExDark2Yolo?style=social"/> : Convert ExDark annotated format data to YOLO format data. / 将ExDark标注格式的数据转换成YOLO格式的数据。
+
+    - [ozankaraali/yolov3-recaptcha](https://github.com/ozankaraali/yolov3-recaptcha) <img src="https://img.shields.io/github/stars/ozankaraali/yolov3-recaptcha?style=social"/> : Solve Recaptcha with YoloV3. A proof of concept Recaptcha solver using YOLOv3 on Tensorflow 2.0 and Selenium. This tutorial shows that with a better trained object detection weight file, ReCaptcha can be easily solved.
+
+    - [jyp-studio/Invoice_detection](https://github.com/jyp-studio/Invoice_detection) <img src="https://img.shields.io/github/stars/jyp-studio/Invoice_detection?style=social"/> : This is an AI model for detecting and recognizing invoice information by yolov5 and OCR.
