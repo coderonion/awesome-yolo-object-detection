@@ -118,7 +118,7 @@
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[arXiv 2022](https://arxiv.org/abs/2207.02696)**)
 
-
+    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : "About DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement."(**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
 
   - ### Awesome List
 
@@ -750,6 +750,10 @@
 
     - [fcakyon/yolov5-pip](https://github.com/fcakyon/yolov5-pip) <img src="https://img.shields.io/github/stars/fcakyon/yolov5-pip?style=social"/> : Packaged version of ultralytics/yolov5.
     
+    - [kadirnar/yolov6-pip](https://github.com/kadirnar/yolov6-pip) <img src="https://img.shields.io/github/stars/kadirnar/yolov6-pip?style=social"/> : Packaged version of yolov6 model.
+
+    - [kadirnar/yolov7-pip](https://github.com/kadirnar/yolov7-pip) <img src="https://img.shields.io/github/stars/kadirnar/yolov7-pip?style=social"/> : Packaged version of yolov7 model.
+        
     - [CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
 
     - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
