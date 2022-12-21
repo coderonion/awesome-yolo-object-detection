@@ -14,6 +14,7 @@
     - [Blogs](#blogs)
   - [Extensional Frameworks](#extensional-frameworks)
   - [Other Versions of YOLO](#other-versions-of-yolo)
+    - [C Implementation](#c-implementation)
     - [PyTorch Implementation](#pytorch-implementation)
     - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
     - [PaddlePaddle Implementation](#paddlepaddle-implementation)
@@ -311,6 +312,11 @@
 
 ## Other Versions of YOLO
 
+  - ### C Implementation
+
+    - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) <img src="https://img.shields.io/github/stars/rockcarry/ffcnn?style=social"/> : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
+
+
   - ### PyTorch Implementation
 
     - [MMDetection](https://github.com/open-mmlab/mmdetection) <img src="https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social"/> : OpenMMLab Detection Toolbox and Benchmark. (**[arXiv 2019](https://arxiv.org/abs/1906.07155)**)
@@ -498,6 +504,8 @@
 
     - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
 
+    - [UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp?style=social"/> : yolov5 segmentation with onnxruntime and opencv.
+
     - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
 
     - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
@@ -505,6 +513,10 @@
     - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) <img src="https://img.shields.io/github/stars/hpc203/yolov7-opencv-onnxrun-cpp-py?style=social"/> : 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含12个onnx模型，依然是包含C++和Python两个版本的程序。
 
     - [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) <img src="https://img.shields.io/github/stars/doleron/yolov5-opencv-cpp-python?style=social"/> : Example of using ultralytics YOLO V5 with OpenCV 4.5.4, C++ and Python.
+
+
+
+
 
 
 
