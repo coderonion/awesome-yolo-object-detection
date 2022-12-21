@@ -746,6 +746,8 @@
 
     - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C.
 
+    - [yang-0201/YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro) <img src="https://img.shields.io/github/stars/yang-0201/YOLOv6_pro?style=social"/> : Make it easier for yolov6 to change the network structure.
+
     - [j-marple-dev/AYolov2](https://github.com/j-marple-dev/AYolov2) <img src="https://img.shields.io/github/stars/j-marple-dev/AYolov2?style=social"/> : The main goal of this repository is to rewrite the object detection pipeline with a better code structure for better portability and adaptability to apply new experimental methods. The object detection pipeline is based on [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5).
 
     - [fcakyon/yolov5-pip](https://github.com/fcakyon/yolov5-pip) <img src="https://img.shields.io/github/stars/fcakyon/yolov5-pip?style=social"/> : Packaged version of ultralytics/yolov5.
@@ -799,6 +801,7 @@
     - [RyanCCC/YOLOSeries](https://github.com/RyanCCC/YOLOSeries) <img src="https://img.shields.io/github/stars/RyanCCC/YOLOSeries?style=social"/> : YOLO算法的实现。
 
     - [HuKai97/YOLOX-Annotations](https://github.com/HuKai97/YOLOX-Annotations) <img src="https://img.shields.io/github/stars/HuKai97/YOLOX-Annotations?style=social"/> : 一个YOLOX的中文注释版本，供大家参考学习！
+
 
 
 
