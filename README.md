@@ -118,7 +118,9 @@
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[arXiv 2022](https://arxiv.org/abs/2207.02696)**)
 
-    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : "About DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement."(**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
+    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
+
+    
 
   - ### Awesome List
 
@@ -288,8 +290,6 @@
 
 
 ## Extensional Frameworks
-
-  - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO: A Report on Real-Time Object Detection Design". (**[arXiv 2022]()**)
 
   - [YOLOX-PAI](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
