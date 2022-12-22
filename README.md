@@ -958,7 +958,7 @@
 
         - [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) <img src="https://img.shields.io/github/stars/enazoe/yolo-tensorrt?style=social"/> : TensorRT8.Support Yolov5n,s,m,l,x .darknet -> tensorrt. Yolov4 Yolov3 use raw darknet *.weights and *.cfg fils. If the wrapper is useful to you,please Star it.
 
-        - [zhiqwang/yolov5-rt-stack](https://github.com/zhiqwang/yolov5-rt-stack) <img src="https://img.shields.io/github/stars/zhiqwang/yolov5-rt-stack?style=social"/> : A runtime stack for object detection on specialized accelerators.
+        - [zhiqwang/yolov5-rt-stack](https://github.com/zhiqwang/yolov5-rt-stack) <img src="https://img.shields.io/github/stars/zhiqwang/yolov5-rt-stack?style=social"/> : yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn.
 
         - [guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot) <img src="https://img.shields.io/github/stars/guojianyang/cv-detect-robot?style=social"/> : 🔥🔥🔥🔥🔥🔥Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX for High-performance deployment(高性能部署)。
 
