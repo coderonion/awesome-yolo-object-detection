@@ -1990,6 +1990,10 @@
 
      - [HarunoWindy/yolo-games-weights](https://github.com/HarunoWindy/yolo-games-weights) <img src="https://img.shields.io/github/stars/HarunoWindy/yolo-games-weights?style=social"/> : YOLOv5 vision deep-learning on detect games UI (current support: onmyoji) YOLOv5深度学习识别游戏UI(目前支持：阴阳师).
 
+     - [mrathena/python.yolo.csgo.autoaim.helper](https://github.com/mrathena/python.yolo.csgo.autoaim.helper) <img src="https://img.shields.io/github/stars/mrathena/python.yolo.csgo.autoaim.helper?style=social"/> : Python Yolo v5 6.2 Csgo.
+
+
+
 
 
 
