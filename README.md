@@ -964,6 +964,8 @@
 
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++.
 
+        - [BlueMirrors/Yolov5-TensorRT](https://github.com/BlueMirrors/Yolov5-TensorRT) <img src="https://img.shields.io/github/stars/BlueMirrors/Yolov5-TensorRT?style=social"/> : Yolov5 TensorRT Implementations.
+
         - [lewes6369/TensorRT-Yolov3](https://github.com/lewes6369/TensorRT-Yolov3) <img src="https://img.shields.io/github/stars/lewes6369/TensorRT-Yolov3?style=social"/> : TensorRT for Yolov3.
 
         - [CaoWGG/TensorRT-YOLOv4](https://github.com/CaoWGG/TensorRT-YOLOv4) <img src="https://img.shields.io/github/stars/CaoWGG/TensorRT-YOLOv4?style=social"/> :tensorrt5, yolov4, yolov3,yolov3-tniy,yolov3-tniy-prn.
@@ -995,6 +997,8 @@
         - [Wulingtian/yolov5_tensorrt_int8](https://github.com/Wulingtian/yolov5_tensorrt_int8) <img src="https://img.shields.io/github/stars/Wulingtian/yolov5_tensorrt_int8?style=social"/> : TensorRT int8 量化部署 yolov5s 模型，实测3.3ms一帧！ 
 
         - [Wulingtian/yolov5_tensorrt_int8_tools](https://github.com/Wulingtian/yolov5_tensorrt_int8_tools) <img src="https://img.shields.io/github/stars/Wulingtian/yolov5_tensorrt_int8_tools?style=social"/> : tensorrt int8 量化yolov5 onnx模型。
+
+        - [MadaoFY/yolov5_TensorRT_inference](https://github.com/MadaoFY/yolov5_TensorRT_inference) <img src="https://img.shields.io/github/stars/MadaoFY/yolov5_TensorRT_inference?style=social"/> : 记录yolov5的TensorRT量化及推理代码，经实测可运行于Jetson平台。
 
 
       - ##### NCNN
@@ -1802,6 +1806,9 @@
       - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。 
 
       - [eralso/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/eralso/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/eralso/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。 
+
+      - [Arrowes/CEAM-YOLOv7](https://github.com/Arrowes/CEAM-YOLOv7) <img src="https://img.shields.io/github/stars/Arrowes/CEAM-YOLOv7?style=social"/> : CEAM-YOLOv7: Improved YOLOv7 Based on Channel Expansion and Attention Mechanism for Driver Distraction Behavior Detection.   
+
 
 
 
