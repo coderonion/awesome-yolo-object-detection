@@ -177,6 +177,7 @@
       - [深入浅出Yolox之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/397499216)
       - [实践教程 | 在yolov5上验证的一些想法尝试](https://mp.weixin.qq.com/s/HqXJov5fWIlgKhMp2_Ca7g)
       - [YOLOv6精度深度优化，感知量化的重参再设计](https://mp.weixin.qq.com/s/lm77Fe4e6e_cx_gJYhp8QA)
+      - [Repvgg重参数化，YOLO检测算法涨点实践！](https://mp.weixin.qq.com/s/QZnpo24537fhGeFj7-MR_Q)
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -1783,6 +1784,7 @@
 
     - [VanillaHours/pcbDefectDetectionYOLO](https://github.com/VanillaHours/pcbDefectDetectionYOLO) <img src="https://img.shields.io/github/stars/VanillaHours/pcbDefectDetectionYOLO?style=social"/> : PCB defect detection using YOLOv3, on DeepPCB dataset. 
 
+    - [talisma-cassoma/pcb-components-detection-recognition](https://github.com/talisma-cassoma/pcb-components-detection-recognition) <img src="https://img.shields.io/github/stars/talisma-cassoma/pcb-components-detection-recognition?style=social"/> : this code shows the train and test of a YOLOV5 convolutional neural network for detection of electronics components.
 
   - ### SAR Image Detection
     #### 合成孔径雷达图像检测
