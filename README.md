@@ -756,7 +756,9 @@
     - [kadirnar/yolov6-pip](https://github.com/kadirnar/yolov6-pip) <img src="https://img.shields.io/github/stars/kadirnar/yolov6-pip?style=social"/> : Packaged version of yolov6 model.
 
     - [kadirnar/yolov7-pip](https://github.com/kadirnar/yolov7-pip) <img src="https://img.shields.io/github/stars/kadirnar/yolov7-pip?style=social"/> : Packaged version of yolov7 model.
-        
+
+    - [kadirnar/torchyolo](https://github.com/kadirnar/torchyolo) <img src="https://img.shields.io/github/stars/kadirnar/torchyolo?style=social"/> : PyTorch implementation of YOLOv5, YOLOv6, YOLOv7, YOLOX.
+
     - [CvPytorch](https://github.com/shanglianlm0525/CvPytorch) <img src="https://img.shields.io/github/stars/shanglianlm0525/CvPytorch?style=social"/> : CvPytorch is an open source COMPUTER VISION toolbox based on PyTorch.
 
     - [Holocron](https://github.com/frgfm/Holocron) <img src="https://img.shields.io/github/stars/frgfm/Holocron?style=social"/> : PyTorch implementations of recent Computer Vision tricks (ReXNet, RepVGG, Unet3p, YOLOv4, CIoU loss, AdaBelief, PolyLoss). 
