@@ -938,6 +938,8 @@
 
         - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social"/> : DeepStream SDK Python bindings and sample applications.
 
+        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/yolov5_gpu_optimization?style=social"/> : This repository provides YOLOV5 GPU optimization sample.
+
         - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.0 configuration for YOLO models.
 
         - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
@@ -1843,6 +1845,7 @@
 
     - [robmarkcole/fire-detection-from-images](https://github.com/robmarkcole/fire-detection-from-images) <img src="https://img.shields.io/github/stars/robmarkcole/fire-detection-from-images?style=social"/> : Detect fire in images using neural nets.
 
+    - [gaiasd/DFireDataset](https://github.com/gaiasd/DFireDataset) <img src="https://img.shields.io/github/stars/gaiasd/DFireDataset?style=social"/> : D-Fire: an image data set for fire and smoke detection.
 
 
   - ### Medical Field Detection
