@@ -118,9 +118,10 @@
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[arXiv 2022](https://arxiv.org/abs/2207.02696)**)
 
+    - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection, image segmentation and image classification tasks.
+
     - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
 
-    
 
   - ### Awesome List
 
