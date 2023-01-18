@@ -179,6 +179,7 @@
       - [实践教程 | 在yolov5上验证的一些想法尝试](https://mp.weixin.qq.com/s/HqXJov5fWIlgKhMp2_Ca7g)
       - [YOLOv6精度深度优化，感知量化的重参再设计](https://mp.weixin.qq.com/s/lm77Fe4e6e_cx_gJYhp8QA)
       - [Repvgg重参数化，YOLO检测算法涨点实践！](https://mp.weixin.qq.com/s/QZnpo24537fhGeFj7-MR_Q)
+      - [YOLOv8自有数据集训练，及多任务使用详细教程](https://mp.weixin.qq.com/s/zhoFAKvFOHh0T1R2fvwZxQ)      
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -264,6 +265,7 @@
       - [YOLOv5改进之四十二：引入V7中的ELAN网络，降低网络参数](https://mp.weixin.qq.com/s/cg4KinN-vEhcnoiQlN_tfw) 
       - [YOLOv7、v5改进之四十三：结合最新Non-local Networks and Attention结构](https://mp.weixin.qq.com/s/P9TCtm6d_x6sRXtENTwY_A)
       - [YOLO系列改进之四十四——融入适配GPU的轻量级 G-GhostNet](https://mp.weixin.qq.com/s/vS7Lm73tgVbQZ6WdKT9J4Q)
+      - [YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g)    
     - 微信公众号「所向披靡的张大刀」
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -276,6 +278,10 @@
       - [YOLOv7官方开源 | Alexey Bochkovskiy站台，精度速度超越所有YOLO，还得是AB](https://mp.weixin.qq.com/s/5SeD09vG6nv46-YuN_uU1w)
       - [YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)
       - [连夜卷出 | 超越所有YOLO检测模型，mmdet开源当今最强最快目标检测模型！](https://mp.weixin.qq.com/s/2XErHzw9hWrrBry9Ij2pjA)
+      - [YOLOv8来啦 | 详细解读YOLOv8的改进模块！YOLOv5官方出品YOLOv8，必卷！](https://mp.weixin.qq.com/s/l3fzlPzMFIxXK18rhqX-kg)     
+      - [从标注到部署，MMYOLO 保姆级教程！](https://mp.weixin.qq.com/s/rIi1XBUh_SZuNqKz473tcQ) 
+      - [YOLOv8实践 | 手把手教你用YOLOv8训练自己的数据集以及YOLOv8的多任务使用](https://mp.weixin.qq.com/s/vUXOX71rcqb3IzDca0nKVQ) 
+      - [YOLOv8 + DeepSORT | YOLO与DeepSORT跟踪的难分难舍，直接用吧（附源码）](https://mp.weixin.qq.com/s/AClsBD7jJPDUjJ_svwRplQ) 
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -1199,6 +1205,8 @@
 
     - ####  Multi-Object Tracking
       #####  多目标跟踪
+
+      - [mikel-brostrom/yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolov8_tracking?style=social"/> : Real-time multi-object tracking and segmentation using YOLOv8.
 
       - [mikel-brostrom/Yolov5_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov5_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using [YOLOv5](https://github.com/ultralytics/yolov5) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with [OSNet](https://github.com/KaiyangZhou/deep-person-reid).
 
