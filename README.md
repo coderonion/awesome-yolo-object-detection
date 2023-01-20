@@ -796,6 +796,8 @@
 
     - [DataXujing/YOLOv7](https://github.com/DataXujing/YOLOv7) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv7?style=social"/> : 🔥🔥🔥 Official YOLOv7训练自己的数据集并实现端到端的TensorRT模型加速推断。
 
+    - [DataXujing/YOLOv8](https://github.com/DataXujing/YOLOv8) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv8?style=social"/> : 🔥 Official YOLOv8模型训练和部署。
+
     - [Code-keys/yolov5-darknet](https://github.com/Code-keys/yolov5-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolov5-darknet?style=social"/> : yolov5-darknet support yaml && cfg.
 
     - [Code-keys/yolo-darknet](https://github.com/Code-keys/yolo-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolo-darknet?style=social"/> : YOLO-family complemented by darknet. yolov5 yolov7 et al ... 
@@ -953,6 +955,8 @@
 
         - [ozinc/Deepstream6_YoloV5_Kafka](https://github.com/ozinc/Deepstream6_YoloV5_Kafka) <img src="https://img.shields.io/github/stars/ozinc/Deepstream6_YoloV5_Kafka?style=social"/> : This repository gives a detailed explanation on making custom trained deepstream-Yolo models predict and send message over kafka.
 
+        - [kn1ghtf1re/yolov8-deepstream-6-1](https://github.com/kn1ghtf1re/yolov8-deepstream-6-1) <img src="https://img.shields.io/github/stars/kn1ghtf1re/yolov8-deepstream-6-1?style=social"/> : YOLOv8 by Ultralytics in DeepStream 6.1.
+
 
       - ##### TensorRT
 
@@ -960,7 +964,9 @@
 
         - [TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 
-        - [NVIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
+        - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
+
+        - [TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 《TensorRT-Alpha》 supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. TensorRT-Alpha implements CUDA C accelerated deployment models.The other 10 more CNN and transformer models are being sorted out,which will be updated in the future.CUDA IS ALL YOU NEED.Best Wish!
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs. 
 
@@ -1422,6 +1428,7 @@
 
     - [kadirnar/Yolov6-SAHI](https://github.com/kadirnar/Yolov6-SAHI) <img src="https://img.shields.io/github/stars/kadirnar/Yolov6-SAHI?style=social"/> : Yolov6-SAHI.
 
+    - [zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023](https://github.com/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023) <img src="https://img.shields.io/github/stars/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023?style=social"/> : 2023年西交利物浦大学动云科技GMaster战队雷达yolo小目标检测。
 
 
 
@@ -2231,3 +2238,7 @@
     - [ozankaraali/yolov3-recaptcha](https://github.com/ozankaraali/yolov3-recaptcha) <img src="https://img.shields.io/github/stars/ozankaraali/yolov3-recaptcha?style=social"/> : Solve Recaptcha with YoloV3. A proof of concept Recaptcha solver using YOLOv3 on Tensorflow 2.0 and Selenium. This tutorial shows that with a better trained object detection weight file, ReCaptcha can be easily solved.
 
     - [jyp-studio/Invoice_detection](https://github.com/jyp-studio/Invoice_detection) <img src="https://img.shields.io/github/stars/jyp-studio/Invoice_detection?style=social"/> : This is an AI model for detecting and recognizing invoice information by yolov5 and OCR.
+
+    - [vmc-7645/YOLOv8-retail](https://github.com/vmc-7645/YOLOv8-retail) <img src="https://img.shields.io/github/stars/vmc-7645/YOLOv8-retail?style=social"/> : Detect retail products via the YOLOv8 object recognition engine.
+
+
