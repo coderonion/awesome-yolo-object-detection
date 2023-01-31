@@ -179,7 +179,8 @@
       - [实践教程 | 在yolov5上验证的一些想法尝试](https://mp.weixin.qq.com/s/HqXJov5fWIlgKhMp2_Ca7g)
       - [YOLOv6精度深度优化，感知量化的重参再设计](https://mp.weixin.qq.com/s/lm77Fe4e6e_cx_gJYhp8QA)
       - [Repvgg重参数化，YOLO检测算法涨点实践！](https://mp.weixin.qq.com/s/QZnpo24537fhGeFj7-MR_Q)
-      - [YOLOv8自有数据集训练，及多任务使用详细教程](https://mp.weixin.qq.com/s/zhoFAKvFOHh0T1R2fvwZxQ)      
+      - [YOLOv8自有数据集训练，及多任务使用详细教程](https://mp.weixin.qq.com/s/zhoFAKvFOHh0T1R2fvwZxQ)  
+      - [YOLOv8+DeepSORT原理讲解及实现（附源码）](https://mp.weixin.qq.com/s/rDpbzIG95TmgpJQH71QY8g)          
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -966,7 +967,7 @@
 
         - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
 
-        - [TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 《TensorRT-Alpha》 supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. TensorRT-Alpha implements CUDA C accelerated deployment models.The other 10 more CNN and transformer models are being sorted out,which will be updated in the future.CUDA IS ALL YOU NEED.Best Wish!
+        - [TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥《TensorRT-Alpha》🔥supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. It implements 🚀 CUDA C++🚀 accelerated deployment models.🍎CUDA IS ALL YOU NEED🍎.Best Wish!
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs. 
 
@@ -1070,10 +1071,12 @@
         - [Qengineering/YoloV6-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV6-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV6-ncnn-Raspberry-Pi-4?style=social"/> : YoloV6 for a bare Raspberry Pi using ncnn.
         
         - [Qengineering/YoloV7-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV7-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV7-ncnn-Raspberry-Pi-4?style=social"/> : YoloV7 for a bare Raspberry Pi using ncnn.     
-        
-        - [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) <img src="https://img.shields.io/github/stars/FeiGeChuanShu/ncnn-android-yolov8?style=social"/> : Real time yolov8 Android demo by ncnn.
 
         - [Qengineering/YoloV8-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV8-ncnn-Raspberry-Pi-4?style=social"/> : YoloV8 for a bare Raspberry Pi 4.
+                
+        - [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) <img src="https://img.shields.io/github/stars/FeiGeChuanShu/ncnn-android-yolov8?style=social"/> : Real time yolov8 Android demo by ncnn.
+
+
 
 
       - ##### OpenVINO
