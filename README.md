@@ -120,8 +120,6 @@
 
     - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection, image segmentation and image classification tasks.
 
-    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
-
 
   - ### Awesome List
 
@@ -163,6 +161,8 @@
       - [augmentedstartups/AS-One](https://github.com/augmentedstartups/AS-One) <img src="https://img.shields.io/github/stars/augmentedstartups/AS-One?style=social"/> : Easy & Modular Computer Vision Detectors and Trackers - Run YOLOv7,v6,v5,R,X in under 20 lines of code.
 
       - [PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> : 🚀🚀🚀 YOLO series of PaddlePaddle implementation, PPYOLOE, YOLOX, YOLOv5, YOLOv6, YOLOv7, RTMDet and so on. 🚀🚀🚀 
+
+      - [BestYOLO](https://github.com/WangRongsheng/BestYOLO) <img src="https://img.shields.io/github/stars/WangRongsheng/BestYOLO?style=social"/> : 🌟Change the world, it will become a better place. | 以科研和竞赛为导向的最好的YOLO实践框架! 
 
       - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
@@ -282,7 +282,8 @@
       - [YOLOv8来啦 | 详细解读YOLOv8的改进模块！YOLOv5官方出品YOLOv8，必卷！](https://mp.weixin.qq.com/s/l3fzlPzMFIxXK18rhqX-kg)     
       - [从标注到部署，MMYOLO 保姆级教程！](https://mp.weixin.qq.com/s/rIi1XBUh_SZuNqKz473tcQ) 
       - [YOLOv8实践 | 手把手教你用YOLOv8训练自己的数据集以及YOLOv8的多任务使用](https://mp.weixin.qq.com/s/vUXOX71rcqb3IzDca0nKVQ) 
-      - [YOLOv8 + DeepSORT | YOLO与DeepSORT跟踪的难分难舍，直接用吧（附源码）](https://mp.weixin.qq.com/s/AClsBD7jJPDUjJ_svwRplQ) 
+      - [YOLOv8 + DeepSORT | YOLO与DeepSORT跟踪的难分难舍，直接用吧（附源码）](https://mp.weixin.qq.com/s/AClsBD7jJPDUjJ_svwRplQ)
+      - [YOLO涨点Trick | 超越CIOU/SIOU，Wise-IOU让Yolov7再涨1.5个点！](https://mp.weixin.qq.com/s/8TS70TpbqgQ5GB37zVgERA) 
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -299,6 +300,8 @@
 
 
 ## Extensional Frameworks
+
+  - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
 
   - [YOLOX-PAI](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
@@ -591,6 +594,8 @@
 
     - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
+    - [sstainba/YoloNet](https://github.com/sstainba/YoloNet) <img src="https://img.shields.io/github/stars/sstainba/YoloNet?style=social"/> : A .net 6 implementation to use Yolov5 and Yolov8 models via the ONNX Runtime.
+
     - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
 
     - [sangyuxiaowu/ml_yolov7](https://github.com/sangyuxiaowu/ml_yolov7) <img src="https://img.shields.io/github/stars/sangyuxiaowu/ml_yolov7?style=social"/> : ML.NET Yolov7. "微信公众号「桑榆肖物」《[YOLOv7 在 ML.NET 中使用 ONNX 检测对象](https://mp.weixin.qq.com/s/vXz6gavYJR2mh5KuJO_slA)》"
@@ -674,6 +679,7 @@
     - [ToxicSkill/YOLOV7-Webcam-inference](https://github.com/ToxicSkill/YOLOV7-Webcam-inference) <img src="https://img.shields.io/github/stars/ToxicSkill/YOLOV7-Webcam-inference?style=social"/> : Simple WPF program for webcam inference with yoloV7 models.
 
     - [aliardan/RoadMarkingDetection](https://github.com/aliardan/RoadMarkingDetection) <img src="https://img.shields.io/github/starsaliardan/RoadMarkingDetection?style=social"/> : Road markings detection using yolov5 model based on ONNX.
+
 
 
 
@@ -1211,6 +1217,9 @@
 
       - [littledeep/YOLOv5-RK3399Pro](https://github.com/littledeep/YOLOv5-RK3399Pro) <img src="https://img.shields.io/github/stars/littledeep/YOLOv5-RK3399Pro?style=social"/> : PyTorch-->ONNX-->RKNN. 
 
+      - [jnulzl/YOLOV5_RK1126](https://github.com/jnulzl/YOLOV5_RK1126) <img src="https://img.shields.io/github/stars/jnulzl/YOLOV5_RK1126?style=social"/> : yolov5 rk1126 cpp code.
+
+
 
   - ### Video Object Detection
     #### 视频目标检测
@@ -1234,6 +1243,8 @@
       - [mikel-brostrom/yolov8_tracking](https://github.com/mikel-brostrom/yolov8_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolov8_tracking?style=social"/> : Real-time multi-object tracking and segmentation using [YOLOv8](https://github.com/ultralytics/ultralytics). Supported ones at the moment are: [StrongSORT](https://github.com/dyhBUPT/StrongSORT) [OSNet](https://github.com/KaiyangZhou/deep-person-reid), [OCSORT](https://github.com/noahcao/OC_SORT) and [ByteTrack](https://github.com/ifzhang/ByteTrack).
 
       - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using [YOLOv7](https://github.com/WongKinYiu/yolov7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with [OSNet](https://github.com/KaiyangZhou/deep-person-reid).
+
+      - [xuarehere/yolo_series_deepsort_pytorch](https://github.com/xuarehere/yolo_series_deepsort_pytorch) <img src="https://img.shields.io/github/stars/xuarehere/yolo_series_deepsort_pytorch?style=social"/> : Deepsort with yolo series. This project support the existing yolo detection model algorithm (YOLOv3, YOLOV4, YOLOV4Scaled, YOLOV5, YOLOV6, YOLOV7, YOLOV8, YOLOX, YOLOR, PPYOLOE ).
 
       - [JackWoo0831/Yolov7-tracker](https://github.com/JackWoo0831/Yolov7-tracker) <img src="https://img.shields.io/github/stars/JackWoo0831/Yolov7-tracker?style=social"/> : Yolo v7 and several Multi-Object Tracker(SORT, DeepSORT, ByteTrack, BoT-SORT, etc.) in VisDrone2019 Dataset. It uses a unified style and integrated tracker for easy embedding in your own projects. YOLOv7 + 各种tracker实现多目标跟踪。
 
@@ -1322,6 +1333,9 @@
       - [RizwanMunawar/yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?style=social"/> : YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics.
 
       - [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) <img src="https://img.shields.io/github/stars/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking?style=social"/> : YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT.
+
+
+
 
 
   - #### Deep Reinforcement Learning
@@ -1774,6 +1788,8 @@
 
     - [RizwanMunawar/yolov7-pose-estimation](https://github.com/RizwanMunawar/yolov7-pose-estimation) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-pose-estimation?style=social"/> : YOLOv7 Pose estimation using OpenCV, PyTorch.
 
+    - [nanmi/yolov7-pose](https://github.com/nanmi/yolov7-pose) <img src="https://img.shields.io/github/stars/nanmi/yolov7-pose?style=social"/> : pose detection base on yolov7.
+
 
   - ### Distance Measurement
     #### 距离测量
@@ -1883,6 +1899,8 @@
     - [robmarkcole/fire-detection-from-images](https://github.com/robmarkcole/fire-detection-from-images) <img src="https://img.shields.io/github/stars/robmarkcole/fire-detection-from-images?style=social"/> : Detect fire in images using neural nets.
 
     - [gaiasd/DFireDataset](https://github.com/gaiasd/DFireDataset) <img src="https://img.shields.io/github/stars/gaiasd/DFireDataset?style=social"/> : D-Fire: an image data set for fire and smoke detection.
+
+    - [MuhammadMoinFaisal/FireDetectionYOLOv8](https://github.com/MuhammadMoinFaisal/FireDetectionYOLOv8) <img src="https://img.shields.io/github/stars/MuhammadMoinFaisal/FireDetectionYOLOv8?style=social"/> : Fire Detection using YOLOv8.
 
 
   - ### Medical Field Detection
@@ -2043,7 +2061,7 @@
 
      - [mrathena/python.yolo.csgo.autoaim.helper](https://github.com/mrathena/python.yolo.csgo.autoaim.helper) <img src="https://img.shields.io/github/stars/mrathena/python.yolo.csgo.autoaim.helper?style=social"/> : Python Yolo v5 6.2 Csgo.
 
-
+     - [Aa-bN/AimYolo](https://github.com/Aa-bN/AimYolo) <img src="https://img.shields.io/github/stars/Aa-bN/AimYolo?style=social"/> : AI外挂——基于YOLOv5的射击类游戏瞄准辅助。An AI plug-in - targeting aid for shooting games based on YOLOv5.
 
 
 
