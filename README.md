@@ -2063,6 +2063,7 @@
 
      - [Aa-bN/AimYolo](https://github.com/Aa-bN/AimYolo) <img src="https://img.shields.io/github/stars/Aa-bN/AimYolo?style=social"/> : AI外挂——基于YOLOv5的射击类游戏瞄准辅助。An AI plug-in - targeting aid for shooting games based on YOLOv5.
 
+     - [suixin1424/cf-yolo-trt](https://github.com/suixin1424/cf-yolo-trt) <img src="https://img.shields.io/github/stars/suixin1424/cf-yolo-trt?style=social"/> : 基于yolov5-trt的穿越火线ai自瞄。
 
 
 
