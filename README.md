@@ -575,6 +575,8 @@
 
     - [PardisTaghavi/yolov7_strongsort_ros](https://github.com/PardisTaghavi/yolov7_strongsort_ros) <img src="https://img.shields.io/github/stars/PardisTaghavi/yolov7_strongsort_ros?style=social"/> : Integration of "Yolov7 StrongSort" with ROS for real time object tracking.
 
+    - [af-doom/yolov8_ros_tensorrt-](https://github.com/af-doom/yolov8_ros_tensorrt-) <img src="https://img.shields.io/github/stars/af-doom/yolov8_ros_tensorrt-?style=social"/> : This is a YOLOv8 project based on ROS implementation, where YOLOv8 uses Tensorrt acceleration.
+
 
 
   - ### Dotnet Implementation
@@ -959,7 +961,7 @@
 
         - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/yolov5_gpu_optimization?style=social"/> : This repository provides YOLOV5 GPU optimization sample.
 
-        - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.0 configuration for YOLO models.
+        - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.1.1 / 6.1 / 6.0.1 / 6.0 implementation for YOLO models.
 
         - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
 
@@ -993,6 +995,8 @@
         - [guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot) <img src="https://img.shields.io/github/stars/guojianyang/cv-detect-robot?style=social"/> : 🔥🔥🔥🔥🔥🔥Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX for High-performance deployment(高性能部署)。
 
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++.
+
+        - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
 
         - [BlueMirrors/Yolov5-TensorRT](https://github.com/BlueMirrors/Yolov5-TensorRT) <img src="https://img.shields.io/github/stars/BlueMirrors/Yolov5-TensorRT?style=social"/> : Yolov5 TensorRT Implementations.
 
@@ -1030,15 +1034,14 @@
 
         - [MadaoFY/yolov5_TensorRT_inference](https://github.com/MadaoFY/yolov5_TensorRT_inference) <img src="https://img.shields.io/github/stars/MadaoFY/yolov5_TensorRT_inference?style=social"/> : 记录yolov5的TensorRT量化及推理代码，经实测可运行于Jetson平台。
 
-        - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
-
-        - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/FeiYull/TensorRT-Alpha?style=social"/> : 《TensorRT-Alpha》 supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. TensorRT-Alpha implements CUDA C accelerated deployment models.The other 10 more CNN and transformer models are being sorted out,which will be updated in the future.CUDA IS ALL YOU NEED.Best Wish!
-
         - [ibaiGorordo/ONNX-YOLOv8-Object-Detection](https://github.com/ibaiGorordo/ONNX-YOLOv8-Object-Detection) <img src="https://img.shields.io/github/stars/ibaiGorordo/ONNX-YOLOv8-Object-Detection?style=social"/> : Python scripts performing object detection using the YOLOv8 model in ONNX.
 
         - [we0091234/yolov8-tensorrt](https://github.com/we0091234/yolov8-tensorrt) <img src="https://img.shields.io/github/stars/we0091234/yolov8-tensorrt?style=social"/> : yolov8 tensorrt 加速.
 
         - [FeiYull/yolov8-tensorrt](https://github.com/FeiYull/yolov8-tensorrt) <img src="https://img.shields.io/github/stars/FeiYull/yolov8-tensorrt?style=social"/> : YOLOv8的TensorRT+CUDA加速部署，代码可在Win、Linux下运行。
+
+        - [cvdong/YOLO_TRT_SIM](https://github.com/cvdong/YOLO_TRT_SIM) <img src="https://img.shields.io/github/stars/cvdong/YOLO_TRT_SIM?style=social"/> : 🐇 一套代码同时支持YOLO X, V5, V6, V7, V8 TRT推理 ™️ 🔝 ,前后处理均由CUDA核函数实现 CPP/CUDA🚀
+
 
 
       - ##### NCNN
