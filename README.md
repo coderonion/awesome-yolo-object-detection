@@ -387,6 +387,7 @@
 
     - [pjh5672/YOLOv3](https://github.com/pjh5672/YOLOv3) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv3?style=social"/> : YOLOv3 implementation using PyTorch. 
 
+    - [Iywie/pl_YOLO](https://github.com/Iywie/pl_YOLO) <img src="https://img.shields.io/github/stars/Iywie/pl_YOLO?style=social"/> : YOLOv7, YOLOX and YOLOv5 are working right now.
 
 
   - ### Tensorflow and Keras Implementation
@@ -458,6 +459,8 @@
     - [CV_Lab/yolov5_rt_tfjs](https://gitee.com/CV_Lab/yolov5_rt_tfjs) : 🚀 基于TensorFlow.js的YOLOv5实时目标检测项目。
 
     - [Burf/TFDetection](https://github.com/Burf/TFDetection) <img src="https://img.shields.io/github/stars/Burf/TFDetection?style=social"/> : A Detection Toolbox for Tensorflow2.
+
+    - [taipingeric/yolo-v4-tf.keras](https://github.com/taipingeric/yolo-v4-tf.keras) <img src="https://img.shields.io/github/stars/taipingeric/yolo-v4-tf.keras?style=social"/> : A simple tf.keras implementation of YOLO v4.
 
 
   - ### PaddlePaddle Implementation
@@ -594,7 +597,7 @@
 
     - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
-    - [sstainba/YoloNet](https://github.com/sstainba/YoloNet) <img src="https://img.shields.io/github/stars/sstainba/YoloNet?style=social"/> : A .net 6 implementation to use Yolov5 and Yolov8 models via the ONNX Runtime.
+    - [sstainba/Yolov8.Net](https://github.com/sstainba/Yolov8.Net) <img src="https://img.shields.io/github/stars/sstainba/Yolov8.Net?style=social"/> : A .net 6 implementation to use Yolov5 and Yolov8 models via the ONNX Runtime.
 
     - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
 
@@ -1219,6 +1222,7 @@
 
       - [jnulzl/YOLOV5_RK1126](https://github.com/jnulzl/YOLOV5_RK1126) <img src="https://img.shields.io/github/stars/jnulzl/YOLOV5_RK1126?style=social"/> : yolov5 rk1126 cpp code.
 
+      - [Qengineering/YoloCam](https://github.com/Qengineering/YoloCam) <img src="https://img.shields.io/github/stars/Qengineering/YoloCam?style=social"/> : AI camera with live feed, email notification, Gdrive storage and event-triggered GPIO. Raspberry Pi stand-alone AI-powered camera with live feed, email notification and event-triggered cloud storage. 
 
 
   - ### Video Object Detection
@@ -1637,6 +1641,8 @@
       - [kyrielw24/License_Plate_Recognition](https://github.com/kyrielw24/License_Plate_Recognition) <img src="https://img.shields.io/github/stars/kyrielw24/License_Plate_Recognition?style=social"/> : 基于Yolo&CNN的车牌识别可视化项目。 
 
       - [we0091234/yolov7_plate](https://github.com/we0091234/yolov7_plate) <img src="https://img.shields.io/github/stars/we0091234/yolov7_plate?style=social"/> : yolov7 车牌检测 车牌识别 中文车牌识别 检测 支持双层车牌 支持13种中文车牌。
+
+      - [MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8](https://github.com/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8) <img src="https://img.shields.io/github/stars/MuhammadMoinFaisal/Automatic_Number_Plate_Detection_Recognition_YOLOv8?style=social"/> : Automatic Number Plate Detection YOLOv8.
 
 
 
@@ -2118,6 +2124,10 @@
     - [2vin/yolo_annotation_tool](https://github.com/2vin/yolo_annotation_tool) <img src="https://img.shields.io/github/stars/2vin/yolo_annotation_tool?style=social"/> : Annotation tool for YOLO in opencv.
 
     - [sanfooh/quick_yolo2_label_tool](https://github.com/sanfooh/quick_yolo2_label_tool) <img src="https://img.shields.io/github/stars/sanfooh/quick_yolo2_label_tool?style=social"/> : yolo快速标注工具 quick yolo2 label tool.
+
+    - [folkien/yaya](https://github.com/folkien/yaya) <img src="https://img.shields.io/github/stars/folkien/yaya?style=social"/> : YAYA - Yet annother YOLO annoter for images (in QT5). Support yolo format, image modifications, labeling and detecting with previously trained detector.
+
+    - [pylabel-project/pylabel](https://github.com/pylabel-project/pylabel) <img src="https://img.shields.io/github/stars/pylabel-project/pylabel?style=social"/> : Python library for computer vision labeling tasks. The core functionality is to translate bounding box annotations between different formats-for example, from coco to yolo.
 
 
 
