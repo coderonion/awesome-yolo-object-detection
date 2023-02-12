@@ -577,6 +577,8 @@
 
     - [af-doom/yolov8_ros_tensorrt-](https://github.com/af-doom/yolov8_ros_tensorrt-) <img src="https://img.shields.io/github/stars/af-doom/yolov8_ros_tensorrt-?style=social"/> : This is a YOLOv8 project based on ROS implementation, where YOLOv8 uses Tensorrt acceleration.
 
+    - [KoKoMier/ros_darknet_yolov4](https://github.com/KoKoMier/ros_darknet_yolov4) <img src="https://img.shields.io/github/stars/KoKoMier/ros_darknet_yolov4?style=social"/> : 这是机器人小组视觉与雷达的结合程序，首先通过yolo目标检测识别到物体，然后把识别到的数据发送给ros里面程序，用于雷达数据结合。
+
 
 
   - ### Dotnet Implementation
@@ -1047,6 +1049,9 @@
 
         - [cvdong/YOLO_TRT_PY](https://github.com/cvdong/YOLO_TRT_PY) <img src="https://img.shields.io/github/stars/cvdong/YOLO_TRT_PY?style=social"/> : 🐰 一套代码同时支持YOLOV5, V6, V7, V8 TRT推理 ™️ PYTHON ✈️
 
+        - [Psynosaur/Jetson-SecVision](https://github.com/Psynosaur/Jetson-SecVision) <img src="https://img.shields.io/github/stars/Psynosaur/Jetson-SecVision?style=social"/> : Person detection for Hikvision DVR with AlarmIO ports, uses TensorRT and yolov4.
+
+
 
       - ##### NCNN
 
@@ -1234,6 +1239,10 @@
       - [ylk678910/tiny-yolov3-fpga](https://github.com/ylk678910/tiny-yolov3-fpga) <img src="https://img.shields.io/github/stars/ylk678910/tiny-yolov3-fpga?style=social"/> : Use an all-programmable SoC board to implement locating and tracking tasks. The hardware algorithm, a row-stationary-like strategy, can parallel calculate and reduce the storage buffer area on FPGA.
 
       - [Applied-Deep-Learning-Lab/Yolov5_RK3588](https://github.com/Applied-Deep-Learning-Lab/Yolov5_RK3588) <img src="https://img.shields.io/github/stars/Applied-Deep-Learning-Lab/Yolov5_RK3588?style=social"/> : Yolov5_RK3588.
+
+      - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance.
+
+
 
 
   - ### Video Object Detection
@@ -2085,6 +2094,8 @@
 
      - [suixin1424/cf-yolo-trt](https://github.com/suixin1424/cf-yolo-trt) <img src="https://img.shields.io/github/stars/suixin1424/cf-yolo-trt?style=social"/> : 基于yolov5-trt的穿越火线ai自瞄。
 
+     - [DuGuYifei/Yolov5_FPS_AICheatPrinciple](https://github.com/DuGuYifei/Yolov5_FPS_AICheatPrinciple) <img src="https://img.shields.io/github/stars/DuGuYifei/Yolov5_FPS_AICheatPrinciple?style=social"/> : The AI cheating principle of fps game. (This is only used for learning).
+
 
 
 
@@ -2222,6 +2233,10 @@
     - [chenanga/qt5_yolov5_2.0](https://github.com/chenanga/qt5_yolov5_2.0) <img src="https://img.shields.io/github/stars/chenanga/qt5_yolov5_2.0?style=social"/> : Pyqt搭建YOLOV5目标检测界面-第一次优化后的版本。
 
     - [xun-xh/yolov5-onnx-pyqt-exe](https://github.com/xun-xh/yolov5-onnx-pyqt-exe) <img src="https://img.shields.io/github/stars/xun-xh/yolov5-onnx-pyqt-exe?style=social"/> : 基于Yolov5 + PyQt5 + onnxruntime的目标检测部署。
+
+    - [LPC1616/pyqt-yolox-modbus](https://github.com/LPC1616/pyqt-yolox-modbus) <img src="https://img.shields.io/github/stars/LPC1616/pyqt-yolox-modbus?style=social"/> : qt界面+yolox识别算法+modbus通信。
+
+
 
 
   - ### Other Applications
