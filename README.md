@@ -45,6 +45,7 @@
     - [Video Object Detection](#video-object-detection)
     - [Object Tracking](#object-tracking)
       - [Multi-Object Tracking](#multi-object-tracking)
+      - [Dynamic Object Tracking](#Dynamic-object-tracking)
     - [Deep Reinforcement Learning](#deep-reinforcement-learning)
     - [Motion Control Field](#motion-control-field)
     - [Super-Resolution Field](#super-resolution-field)
@@ -328,6 +329,8 @@
 
     - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) <img src="https://img.shields.io/github/stars/rockcarry/ffcnn?style=social"/> : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
 
+    - [RajneeshKumar12/yolo-detection-app](https://github.com/RajneeshKumar12/yolo-detection-app) <img src="https://img.shields.io/github/stars/RajneeshKumar12/yolo-detection-app?style=social"/> : Yolo app for object detection.
+
 
   - ### PyTorch Implementation
 
@@ -529,7 +532,7 @@
 
     - [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) <img src="https://img.shields.io/github/stars/doleron/yolov5-opencv-cpp-python?style=social"/> : Example of using ultralytics YOLO V5 with OpenCV 4.5.4, C++ and Python.
 
-
+    - [UNeedCryDear/yolov8-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov8-opencv-onnxruntime-cpp?style=social"/> : detection and instance segmentation of yolov8,use onnxruntime and opencv.
 
 
   - ### ROS Implementation
@@ -1246,7 +1249,7 @@
 
       - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance.
 
-
+      - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) <img src="https://img.shields.io/github/stars/vseasky/yolo-for-k210?style=social"/> : Yolo-for-k210.
 
 
   - ### Video Object Detection
@@ -1362,7 +1365,10 @@
 
       - [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) <img src="https://img.shields.io/github/stars/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking?style=social"/> : YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT.
 
+    - ####  Dynamic Object Tracking
+      #####  动态目标跟踪
 
+      - [PolyU-AIRO-Lab/AUTO](https://github.com/PolyU-AIRO-Lab/AUTO) <img src="https://img.shields.io/github/stars/PolyU-AIRO-Lab/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
 
 
 
@@ -1567,7 +1573,7 @@
 
       - [duckzhao/face_detection_and_recognition_yolov5](https://github.com/duckzhao/face_detection_and_recognition_yolov5) <img src="https://img.shields.io/github/stars/duckzhao/face_detection_and_recognition_yolov5?style=social"/> : 使用yolov5构建人脸检测模型，使用预训练的Arcface完成人脸特征提取和识别。
 
-
+      - [PhucNDA/FaceID--YOLOV5.ArcFace](https://github.com/PhucNDA/FaceID--YOLOV5.ArcFace) <img src="https://img.shields.io/github/stars/PhucNDA/FaceID--YOLOV5.ArcFace?style=social"/> : ONNX implementation of YOLOv5 and Siamese Network (ResNet100) with ArcFace loss for Face Detection and Recognition.
 
 
 
@@ -2240,6 +2246,9 @@
 
     - [LPC1616/pyqt-yolox-modbus](https://github.com/LPC1616/pyqt-yolox-modbus) <img src="https://img.shields.io/github/stars/LPC1616/pyqt-yolox-modbus?style=social"/> : qt界面+yolox识别算法+modbus通信。
 
+    - [SwimmingLiu/yolov7-Pyside6](https://github.com/SwimmingLiu/yolov7-Pyside6) <img src="https://img.shields.io/github/stars/SwimmingLiu/yolov7-Pyside6?style=social"/> : PySide6 implementation of YOLOv7 GUI.
+
+    - [zawawiAI/yolo_gpt](https://github.com/zawawiAI/yolo_gpt) <img src="https://img.shields.io/github/stars/zawawiAI/yolo_gpt?style=social"/> : This is a GUI application that integrates YOLOv8 object recognition with OpenAI's GPT-3 language generation model.
 
 
 
