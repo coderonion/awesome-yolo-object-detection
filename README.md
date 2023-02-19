@@ -121,6 +121,10 @@
 
     - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection, image segmentation and image classification tasks.
 
+    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
+
+    - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
+
 
   - ### Awesome List
 
@@ -222,6 +226,10 @@
       - [《YOLOv5全面解析教程》十，YOLOv5 的 W & B 科学实验工具教程](https://mp.weixin.qq.com/s/CZ1btWU9cpbJWC2eVLBVQQ)
       - [《YOLOv5全面解析教程》十一，YOLOv5 数据增强模块 utils/augmentations.py 逐行解析](https://mp.weixin.qq.com/s/uouLlV1G35L8_DQaUm8ogg)
       - [《YOLOv5全面解析教程》​十二，Loss 计算详细解析](https://mp.weixin.qq.com/s/WfXSQFHgF6Ouwq5re4n1Vw)
+      - [《YOLOv5全面解析教程》​十三，downloads.py 详细解析](https://mp.weixin.qq.com/s/Efa44D7PiwaZkN0jlf4R_w)
+      - [《YOLOv5全面解析教程》​十四，YOLOv5 autoanchor 机制详解](https://mp.weixin.qq.com/s/qC-E2UbjNZT-c04IpXfoYA)
+      - [《YOLOv5全面解析教程》​十五，YOLOv5 Callback机制解读](https://mp.weixin.qq.com/s/osGwscIawS9q07g21rTQcA)
+      - [《YOLOv5全面解析教程》​十六，val.py 源码解读](https://mp.weixin.qq.com/s/sa2MQIaPIkHHxoVRGYMTAw)
     - 微信公众号「人工智能AI算法工程师」
       - [YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
       - [YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -285,6 +293,7 @@
       - [YOLOv8实践 | 手把手教你用YOLOv8训练自己的数据集以及YOLOv8的多任务使用](https://mp.weixin.qq.com/s/vUXOX71rcqb3IzDca0nKVQ) 
       - [YOLOv8 + DeepSORT | YOLO与DeepSORT跟踪的难分难舍，直接用吧（附源码）](https://mp.weixin.qq.com/s/AClsBD7jJPDUjJ_svwRplQ)
       - [YOLO涨点Trick | 超越CIOU/SIOU，Wise-IOU让Yolov7再涨1.5个点！](https://mp.weixin.qq.com/s/8TS70TpbqgQ5GB37zVgERA) 
+      - [EdgeYOLO来袭 | Xaiver超实时，精度和速度完美超越YOLOX、v4、v5、v6](https://mp.weixin.qq.com/s/BK3IRiJdKfPE53KFpvjTCg) 
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -297,14 +306,13 @@
       - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
     - 微信公众号「学姐带你玩AI」
       - [YOLOv5+Tesseract-OCR 实现车牌号文本识别【实战】](https://mp.weixin.qq.com/s/52Woexamu697tozevSiyQQ) 
-      
+    - 微信公众号「量子位」
+      - [YOLOv8已至，精度大涨！教你如何在自定义数据集上训练它](https://mp.weixin.qq.com/s/_ccYfjWm6CsH_vxpACUWEA)      
 
 
 ## Extensional Frameworks
 
-  - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
-
-  - [YOLOX-PAI](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
+  - [EasyCV](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : An all-in-one toolkit for computer vision. "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
   - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
@@ -2250,6 +2258,7 @@
 
     - [zawawiAI/yolo_gpt](https://github.com/zawawiAI/yolo_gpt) <img src="https://img.shields.io/github/stars/zawawiAI/yolo_gpt?style=social"/> : This is a GUI application that integrates YOLOv8 object recognition with OpenAI's GPT-3 language generation model.
 
+    - [LSH9832/yolov5_training_tool](https://github.com/LSH9832/yolov5_training_tool) <img src="https://img.shields.io/github/stars/LSH9832/yolov5_training_tool?style=social"/> : 本工具使用PYQT5编写界面。通过使用该工具可以快速部署相应数据集并训练，目前仍在不断更新中，较大的缺点是目前只支持PascalVOC格式的xml标签文件，所以其它格式的标签文件需要先转换为PascalVOC的格式，且目前仅适用于Linux系统且仅在Ubuntu16.04-20.04试运行。
 
 
   - ### Other Applications
