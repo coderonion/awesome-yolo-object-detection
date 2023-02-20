@@ -308,7 +308,10 @@
       - [YOLOv5+Tesseract-OCR 实现车牌号文本识别【实战】](https://mp.weixin.qq.com/s/52Woexamu697tozevSiyQQ) 
     - 微信公众号「量子位」
       - [YOLOv8已至，精度大涨！教你如何在自定义数据集上训练它](https://mp.weixin.qq.com/s/_ccYfjWm6CsH_vxpACUWEA)      
-
+    - 微信公众号「笑傲算法江湖」
+      - [代码实战：YOLOv5实现钢材表面缺陷检测](https://mp.weixin.qq.com/s/i_bF6_77MxKqEy7-y7LQdQ)      
+    - 微信公众号「CVHub」
+      - [阿里团队新作 | 探讨 YOLOv5 的高效进阶之路！](https://mp.weixin.qq.com/s/B0yHtFMTO5gwt0B-ra18QA)      
 
 ## Extensional Frameworks
 
@@ -338,6 +341,11 @@
     - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) <img src="https://img.shields.io/github/stars/rockcarry/ffcnn?style=social"/> : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
 
     - [RajneeshKumar12/yolo-detection-app](https://github.com/RajneeshKumar12/yolo-detection-app) <img src="https://img.shields.io/github/stars/RajneeshKumar12/yolo-detection-app?style=social"/> : Yolo app for object detection.
+
+    - [Deyht/CIANNA](https://github.com/Deyht/CIANNA) <img src="https://img.shields.io/github/stars/Deyht/CIANNA?style=social"/> : CIANNA - Convolutional Interactive Artificial Neural Networks by/for Astrophysicists.
+
+    - [lstuma/YOLO_utils](https://github.com/lstuma/YOLO_utils) <img src="https://img.shields.io/github/stars/lstuma/YOLO_utils?style=social"/> : A few utilities for the YOLO project implemented in C for extra speed.
+
 
 
   - ### PyTorch Implementation
@@ -1127,7 +1135,7 @@
 
         - [dlod-openvino/yolov5_infer](https://github.com/dlod-openvino/yolov5_infer) <img src="https://img.shields.io/github/stars/dlod-openvino/yolov5_infer?style=social"/> : Do the YOLOv5 model inference by OpenCV/OpenVINO based on onnx model format.
 
-
+        - [snail0614/yolov5.6_openvino_cpp](https://github.com/snail0614/yolov5.6_openvino_cpp) <img src="https://img.shields.io/github/stars/snail0614/yolov5.6_openvino_cpp?style=social"/> : yolov5.6.1 OpenVINO的C++实现。
 
 
       - ##### MNN
@@ -1887,6 +1895,7 @@
 
     - [talisma-cassoma/pcb-components-detection-recognition](https://github.com/talisma-cassoma/pcb-components-detection-recognition) <img src="https://img.shields.io/github/stars/talisma-cassoma/pcb-components-detection-recognition?style=social"/> : this code shows the train and test of a YOLOV5 convolutional neural network for detection of electronics components.
 
+
   - ### SAR Image Detection
     #### 合成孔径雷达图像检测
 
@@ -1912,7 +1921,7 @@
 
       - [Arrowes/CEAM-YOLOv7](https://github.com/Arrowes/CEAM-YOLOv7) <img src="https://img.shields.io/github/stars/Arrowes/CEAM-YOLOv7?style=social"/> : CEAM-YOLOv7: Improved YOLOv7 Based on Channel Expansion and Attention Mechanism for Driver Distraction Behavior Detection.   
 
-
+      - [jere357/yolov5-RGBD](https://github.com/jere357/yolov5-RGBD) <img src="https://img.shields.io/github/stars/jere357/yolov5-RGBD?style=social"/> : "fork" from yolov5 with the possibility of running inferences on RGBD(C) images, work in progress. This repo is not a fork of the original repo bcs i already have 1 fork with a PR pending, this is still messy code and a work in progress.
 
 
   - ### Safety Monitoring Field Detection
