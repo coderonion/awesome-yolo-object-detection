@@ -294,6 +294,7 @@
       - [YOLOv8 + DeepSORT | YOLO与DeepSORT跟踪的难分难舍，直接用吧（附源码）](https://mp.weixin.qq.com/s/AClsBD7jJPDUjJ_svwRplQ)
       - [YOLO涨点Trick | 超越CIOU/SIOU，Wise-IOU让Yolov7再涨1.5个点！](https://mp.weixin.qq.com/s/8TS70TpbqgQ5GB37zVgERA) 
       - [EdgeYOLO来袭 | Xaiver超实时，精度和速度完美超越YOLOX、v4、v5、v6](https://mp.weixin.qq.com/s/BK3IRiJdKfPE53KFpvjTCg) 
+      - [YOLOv5抛弃Anchor-Base方法 | YOLOv5u正式加入Anchor-Free大家庭](https://mp.weixin.qq.com/s/m09WRKRqC1bngCOzip_hFA) 
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -398,8 +399,6 @@
 
     - [miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on. 
 
-    - [theos-ai/easy-yolov7](https://github.com/theos-ai/easy-yolov7) <img src="https://img.shields.io/github/stars/theos-ai/easy-yolov7?style=social"/> : This a clean and easy-to-use implementation of YOLOv7 in PyTorch, made with ❤️ by Theos AI.
-
     - [pjh5672/YOLOv1](https://github.com/pjh5672/YOLOv1) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv1?style=social"/> : YOLOv1 implementation using PyTorch. 
 
     - [pjh5672/YOLOv2](https://github.com/pjh5672/YOLOv2) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv2?style=social"/> : YOLOv2 implementation using PyTorch. 
@@ -407,6 +406,10 @@
     - [pjh5672/YOLOv3](https://github.com/pjh5672/YOLOv3) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv3?style=social"/> : YOLOv3 implementation using PyTorch. 
 
     - [Iywie/pl_YOLO](https://github.com/Iywie/pl_YOLO) <img src="https://img.shields.io/github/stars/Iywie/pl_YOLO?style=social"/> : YOLOv7, YOLOX and YOLOv5 are working right now.
+
+    - [DavidLandup0/deepvision](https://github.com/DavidLandup0/deepvision) <img src="https://img.shields.io/github/stars/DavidLandup0/deepvision?style=social"/> : PyTorch and TensorFlow/Keras image models with automatic weight conversions and equal API/implementations - Vision Transformer (ViT), ResNetV2, EfficientNetV2, (planned...) DeepLabV3+, ConvNeXtV2, YOLO, NeRF, etc.
+
+    - [theos-ai/easy-yolov7](https://github.com/theos-ai/easy-yolov7) <img src="https://img.shields.io/github/stars/theos-ai/easy-yolov7?style=social"/> : This a clean and easy-to-use implementation of YOLOv7 in PyTorch, made with ❤️ by Theos AI.
 
 
   - ### Tensorflow and Keras Implementation
@@ -596,6 +599,9 @@
     - [KoKoMier/ros_darknet_yolov4](https://github.com/KoKoMier/ros_darknet_yolov4) <img src="https://img.shields.io/github/stars/KoKoMier/ros_darknet_yolov4?style=social"/> : 这是机器人小组视觉与雷达的结合程序，首先通过yolo目标检测识别到物体，然后把识别到的数据发送给ros里面程序，用于雷达数据结合。
 
     - [YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS](https://github.com/YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS) <img src="https://img.shields.io/github/stars/YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS?style=social"/> : Inference with YOLOv5, OpenCV 4.5.4 DNN, C++, ROS and Python.
+
+    - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : ROS 2 wrap for Ultralytics [YOLOv8](https://github.com/ultralytics/ultralytics) to perform object detection.
+
 
 
   - ### Dotnet Implementation
@@ -1504,7 +1510,7 @@
 
     - [bingykang/Fewshot_Detection](https://github.com/bingykang/Fewshot_Detection) <img src="https://img.shields.io/github/stars/bingykang/Fewshot_Detection?style=social"/> : "Few-shot Object Detection via Feature Reweighting". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)**). 
 
-    - [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) <img src="https://img.shields.io/github/stars/hnuzhy/SSDA-YOLO?style=social"/> : Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection".
+    - [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) <img src="https://img.shields.io/github/stars/hnuzhy/SSDA-YOLO?style=social"/> : Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection". (**[Computer Vision and Image Understanding, 2023](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000292)**). 
 
 
   - ### Oriented Object Detection
@@ -1574,6 +1580,9 @@
       - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
 
       - [jinfagang/yolov7-face](https://github.com/jinfagang/yolov7-face) <img src="https://img.shields.io/github/stars/jinfagang/yolov7-face?style=social"/> : Next Gen Face detection based on YOLOv7.
+
+      - [Yusepp/YOLOv8-Face](https://github.com/Yusepp/YOLOv8-Face) <img src="https://img.shields.io/github/stars/Yusepp/YOLOv8-Face?style=social"/> : YOLOv8 for Face Detection.
+
 
 
     - ####  Face Recognition
