@@ -185,7 +185,9 @@
       - [YOLOv6精度深度优化，感知量化的重参再设计](https://mp.weixin.qq.com/s/lm77Fe4e6e_cx_gJYhp8QA)
       - [Repvgg重参数化，YOLO检测算法涨点实践！](https://mp.weixin.qq.com/s/QZnpo24537fhGeFj7-MR_Q)
       - [YOLOv8自有数据集训练，及多任务使用详细教程](https://mp.weixin.qq.com/s/zhoFAKvFOHh0T1R2fvwZxQ)  
-      - [YOLOv8+DeepSORT原理讲解及实现（附源码）](https://mp.weixin.qq.com/s/rDpbzIG95TmgpJQH71QY8g)          
+      - [YOLOv8+DeepSORT原理讲解及实现（附源码）](https://mp.weixin.qq.com/s/rDpbzIG95TmgpJQH71QY8g) 
+      - [深入浅出TensorRT中ONNX模型解析过程](https://mp.weixin.qq.com/s/C3O3QeSUnu4LUBxHZtur7A)         
+      - [模型部署 | TensorRT加速PyTorch实战部署教程，值得收藏学习！](https://mp.weixin.qq.com/s/AdnfJ48mnwFejTtHN4v70w) 
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -602,6 +604,9 @@
 
     - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : ROS 2 wrap for Ultralytics [YOLOv8](https://github.com/ultralytics/ultralytics) to perform object detection.
 
+    - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) <img src="https://img.shields.io/github/stars/fishros/yolov5_ros2?style=social"/> : 基于YoloV5的ROS2功能包，可以快速完成物体识别与位姿发布。
+
+
 
 
   - ### Dotnet Implementation
@@ -954,6 +959,10 @@
 
         - [YINYIPENG-EN/Pruning_for_YOLOV5_pytorch](https://github.com/YINYIPENG-EN/Pruning_for_YOLOV5_pytorch) <img src="https://img.shields.io/github/stars/YINYIPENG-EN/Pruning_for_YOLOV5_pytorch?style=social"/> : Pruning_for_YOLOV5_pytorch.
 
+        - [chumingqian/Model_Compression_For_YOLOV3-V4](https://github.com/chumingqian/Model_Compression_For_YOLOV3-V4) <img src="https://img.shields.io/github/stars/chumingqian/Model_Compression_For_YOLOV3-V4?style=social"/> : In this repository using the dynamic sparse training( variable sparse rate s which can speed up the sparse training process), channel pruning and knowledge distilling for YOLOV3 and YOLOV4.
+
+
+
 
       - ##### Knoweldge-Distillation
         ##### 知识蒸馏
@@ -1080,6 +1089,9 @@
 
         - [Psynosaur/Jetson-SecVision](https://github.com/Psynosaur/Jetson-SecVision) <img src="https://img.shields.io/github/stars/Psynosaur/Jetson-SecVision?style=social"/> : Person detection for Hikvision DVR with AlarmIO ports, uses TensorRT and yolov4.
 
+        - [tatsuya-fukuoka/yolov7-onnx-infer](https://github.com/tatsuya-fukuoka/yolov7-onnx-infer) <img src="https://img.shields.io/github/stars/tatsuya-fukuoka/yolov7-onnx-infer?style=social"/> : Inference with yolov7's onnx model.
+
+
 
 
       - ##### NCNN
@@ -1142,6 +1154,8 @@
         - [dlod-openvino/yolov5_infer](https://github.com/dlod-openvino/yolov5_infer) <img src="https://img.shields.io/github/stars/dlod-openvino/yolov5_infer?style=social"/> : Do the YOLOv5 model inference by OpenCV/OpenVINO based on onnx model format.
 
         - [snail0614/yolov5.6_openvino_cpp](https://github.com/snail0614/yolov5.6_openvino_cpp) <img src="https://img.shields.io/github/stars/snail0614/yolov5.6_openvino_cpp?style=social"/> : yolov5.6.1 OpenVINO的C++实现。
+
+        - [shungfu/openvino_yolov5v7](https://github.com/shungfu/openvino_yolov5v7) <img src="https://img.shields.io/github/stars/shungfu/openvino_yolov5v7?style=social"/> : YOLOv5 YOLOv7 INT8 quantization using OpenVINO.
 
 
       - ##### MNN
@@ -1555,6 +1569,8 @@
 
       - [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) <img src="https://img.shields.io/github/stars/derronqi/yolov7-face?style=social"/> : yolov7 face detection with landmark.
 
+      - [we0091234/yolov7-face-tensorrt](https://github.com/we0091234/yolov7-face-tensorrt) <img src="https://img.shields.io/github/stars/we0091234/yolov7-face-tensorrt?style=social"/> : yolov7-face TensorRT.
+
       - [YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) <img src="https://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2?style=social"/> : "YOLO-FaceV2: A Scale and Occlusion Aware Face Detector ". (**[arXiv 2022](https://arxiv.org/abs/2208.02019)**). "微信公众号「江大白」《[超越Yolo5-Face，Yolo-Facev2开源，各类Trick优化，值得学习！](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498561&idx=1&sn=b7ff0592644ab6bc5b716e07294e1c0a&source=41#wechat_redirect)》"
 
       - [OAID/TengineKit](https://github.com/OAID/TengineKit) <img src="https://img.shields.io/github/stars/OAID/TengineKit?style=social"/> : TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks & Iris Landmarks & Yolov5 SDK On Mobile. 
@@ -1903,6 +1919,9 @@
     - [VanillaHours/pcbDefectDetectionYOLO](https://github.com/VanillaHours/pcbDefectDetectionYOLO) <img src="https://img.shields.io/github/stars/VanillaHours/pcbDefectDetectionYOLO?style=social"/> : PCB defect detection using YOLOv3, on DeepPCB dataset. 
 
     - [talisma-cassoma/pcb-components-detection-recognition](https://github.com/talisma-cassoma/pcb-components-detection-recognition) <img src="https://img.shields.io/github/stars/talisma-cassoma/pcb-components-detection-recognition?style=social"/> : this code shows the train and test of a YOLOV5 convolutional neural network for detection of electronics components.
+
+    - [Luckycat518/Yolo-MSAPF](https://github.com/Luckycat518/Yolo-MSAPF) <img src="https://img.shields.io/github/stars/Luckycat518/Yolo-MSAPF?style=social"/> : Yolo-MSAPF: Multi-Scale Alignment fusion with Parallel feature Filtering model for high accuracy weld defect detection.
+
 
 
   - ### SAR Image Detection
