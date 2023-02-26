@@ -188,6 +188,7 @@
       - [YOLOv8+DeepSORT原理讲解及实现（附源码）](https://mp.weixin.qq.com/s/rDpbzIG95TmgpJQH71QY8g) 
       - [深入浅出TensorRT中ONNX模型解析过程](https://mp.weixin.qq.com/s/C3O3QeSUnu4LUBxHZtur7A)         
       - [模型部署 | TensorRT加速PyTorch实战部署教程，值得收藏学习！](https://mp.weixin.qq.com/s/AdnfJ48mnwFejTtHN4v70w) 
+      - [YOLOv8+ByteTrack，作者开源多目标跟踪算法](https://mp.weixin.qq.com/s/DZcVdwFZP3TKaTk0n98oeg) 
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -305,6 +306,7 @@
     - 微信公众号「计算机视觉研究院」
       - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
       - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
+      - [使用ONNXRuntime部署阿里达摩院开源DAMO-YOLO目标检测，一共包含27个onnx模型(代码开源)](https://mp.weixin.qq.com/s/cQo7HMcWcbZgk7XIzj1q2A)      
     - 微信公众号「智造情报局」
       - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
     - 微信公众号「学姐带你玩AI」
