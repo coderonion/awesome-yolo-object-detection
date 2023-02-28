@@ -189,6 +189,7 @@
       - [深入浅出TensorRT中ONNX模型解析过程](https://mp.weixin.qq.com/s/C3O3QeSUnu4LUBxHZtur7A)         
       - [模型部署 | TensorRT加速PyTorch实战部署教程，值得收藏学习！](https://mp.weixin.qq.com/s/AdnfJ48mnwFejTtHN4v70w) 
       - [YOLOv8+ByteTrack，作者开源多目标跟踪算法](https://mp.weixin.qq.com/s/DZcVdwFZP3TKaTk0n98oeg) 
+      - [基于YOLOv5的半监督目标检测，算法进阶之路，阿里团队新作！（附论文及源码）](https://mp.weixin.qq.com/s/9qpuLCvgaQjc_JOdZchxjQ) 
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -1524,6 +1525,9 @@
     - [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) <img src="https://img.shields.io/github/stars/hnuzhy/SSDA-YOLO?style=social"/> : Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection". (**[Computer Vision and Image Understanding, 2023](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000292)**). 
 
     - [OneTeacher](https://github.com/luogen1996/OneTeacher) <img src="https://img.shields.io/github/stars/luogen1996/OneTeacher?style=social"/> : "Towards End-to-end Semi-supervised Learning for One-stage Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2302.11299)**).
+
+    - [Efficient Teacher](https://github.com/AlibabaResearch/efficientteacher) <img src="https://img.shields.io/github/stars/AlibabaResearch/efficientteacher?style=social"/> : "Efficient Teacher: Semi-Supervised Object Detection for YOLOv5". (**[arXiv 2023](https://arxiv.org/abs/2302.07577)**).
+
 
 
   - ### Oriented Object Detection
