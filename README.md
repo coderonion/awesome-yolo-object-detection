@@ -117,7 +117,7 @@
 
     - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**). "微信公众号「美团技术团队」《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"。"微信公众号「美团技术团队」《[目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://mp.weixin.qq.com/s/9FyvWrHErfgJrVXIC_PKqg)》"。"微信公众号「美团技术团队」《[通用目标检测开源框架YOLOv6在美团的量化部署实战 ](https://mp.weixin.qq.com/s/J-3saNkCCAHLjkZQ3VCaeQ)》"。 "微信公众号「集智书童」《[超越YOLOv7 | YOLOv6论文放出，重参+自蒸馏+感知量化+...各种Tricks大放异彩](https://mp.weixin.qq.com/s/DPHC7bO1Q-IKDUqPU7DSJA)》"
 
-    - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[arXiv 2022](https://arxiv.org/abs/2207.02696)**)
+    - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**). "微信公众号「CVer」《[CVPR 2023 | YOLOv7强势收录！时隔6年，YOLOv系列再登CVPR！](https://mp.weixin.qq.com/s/HjaszZYPLoV03Z4Rw9KiCg)》"。
 
     - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection, image segmentation and image classification tasks.
 
@@ -1778,7 +1778,7 @@
     - ####  Crosswalk Detection
       #####  人行横道/斑马线检测
 
-      - [CDNet](https://github.com/zhangzhengde0225/CDNet) <img src="https://img.shields.io/github/stars/zhangzhengde0225/CDNet?style=social"/> : "CDNet: a real-time and robust crosswalk detection network on Jetson nano based on YOLOv5". (**[Neural Computing and Applications 2022](https://link.springer.com/article/10.1007/s00521-022-07007-9)**). "CVer：《[上海交大提出CDNet：基于改进YOLOv5的斑马线和汽车过线行为检测](https://mp.weixin.qq.com/s/2F3WBtfN_7DkhERMOH8-QA)》"
+      - [CDNet](https://github.com/zhangzhengde0225/CDNet) <img src="https://img.shields.io/github/stars/zhangzhengde0225/CDNet?style=social"/> : "CDNet: a real-time and robust crosswalk detection network on Jetson nano based on YOLOv5". (**[Neural Computing and Applications 2022](https://link.springer.com/article/10.1007/s00521-022-07007-9)**). "微信公众号「CVer」《[上海交大提出CDNet：基于改进YOLOv5的斑马线和汽车过线行为检测](https://mp.weixin.qq.com/s/2F3WBtfN_7DkhERMOH8-QA)》"。
 
       - [xN1ckuz/Crosswalks-Detection-using-YoloV5](https://github.com/xN1ckuz/Crosswalks-Detection-using-YoloV5) <img src="https://img.shields.io/github/stars/xN1ckuz/Crosswalks-Detection-using-YoloV5?style=social"/> : Crosswalks Detection using YoloV5. 
 
