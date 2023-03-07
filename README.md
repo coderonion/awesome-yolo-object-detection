@@ -280,7 +280,8 @@
       - [YOLOv5改进之四十二：引入V7中的ELAN网络，降低网络参数](https://mp.weixin.qq.com/s/cg4KinN-vEhcnoiQlN_tfw) 
       - [YOLOv7、v5改进之四十三：结合最新Non-local Networks and Attention结构](https://mp.weixin.qq.com/s/P9TCtm6d_x6sRXtENTwY_A)
       - [YOLO系列改进之四十四——融入适配GPU的轻量级 G-GhostNet](https://mp.weixin.qq.com/s/vS7Lm73tgVbQZ6WdKT9J4Q)
-      - [YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g)    
+      - [YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g) 
+      - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.55】融入美团最新QARepVGG](https://mp.weixin.qq.com/s/WvHoB5zSPPH1SHRahMLL8g)   
     - 微信公众号「所向披靡的张大刀」
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -1089,7 +1090,9 @@
 
         - [tatsuya-fukuoka/yolov7-onnx-infer](https://github.com/tatsuya-fukuoka/yolov7-onnx-infer) <img src="https://img.shields.io/github/stars/tatsuya-fukuoka/yolov7-onnx-infer?style=social"/> : Inference with yolov7's onnx model.
 
+        - [MadaoFY/yolov5_TensorRT_inference](https://github.com/MadaoFY/yolov5_TensorRT_inference) <img src="https://img.shields.io/github/stars/MadaoFY/yolov5_TensorRT_inference?style=social"/> : 记录yolov5的TensorRT量化及推理代码，经实测可运行于Jetson平台。
 
+        
 
 
       - ##### NCNN
@@ -2158,6 +2161,9 @@
      - [suixin1424/cf-yolo-trt](https://github.com/suixin1424/cf-yolo-trt) <img src="https://img.shields.io/github/stars/suixin1424/cf-yolo-trt?style=social"/> : 基于yolov5-trt的穿越火线ai自瞄。
 
      - [DuGuYifei/Yolov5_FPS_AICheatPrinciple](https://github.com/DuGuYifei/Yolov5_FPS_AICheatPrinciple) <img src="https://img.shields.io/github/stars/DuGuYifei/Yolov5_FPS_AICheatPrinciple?style=social"/> : The AI cheating principle of fps game. (This is only used for learning).
+
+     - [MistyAI/MistyFN](https://github.com/MistyAI/MistyFN) <img src="https://img.shields.io/github/stars/MistyAI/MistyFN?style=social"/> : Aimbot and Triggerbot for Fortnite based on artificial intelligence.
+
 
 
 
