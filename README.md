@@ -281,7 +281,8 @@
       - [YOLOv7、v5改进之四十三：结合最新Non-local Networks and Attention结构](https://mp.weixin.qq.com/s/P9TCtm6d_x6sRXtENTwY_A)
       - [YOLO系列改进之四十四——融入适配GPU的轻量级 G-GhostNet](https://mp.weixin.qq.com/s/vS7Lm73tgVbQZ6WdKT9J4Q)
       - [YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g) 
-      - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.55】融入美团最新QARepVGG](https://mp.weixin.qq.com/s/WvHoB5zSPPH1SHRahMLL8g)   
+      - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.55】融入美团最新QARepVGG](https://mp.weixin.qq.com/s/WvHoB5zSPPH1SHRahMLL8g) 
+      - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.56】引入Contextual Transformer模块 ](https://mp.weixin.qq.com/s/T_v7QM_9P20vT5mjFg07xw)  
     - 微信公众号「所向披靡的张大刀」
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -527,6 +528,9 @@
     - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : ROS 2 wrap for Ultralytics [YOLOv8](https://github.com/ultralytics/ultralytics) to perform object detection.
 
     - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) <img src="https://img.shields.io/github/stars/fishros/yolov5_ros2?style=social"/> : 基于YoloV5的ROS2功能包，可以快速完成物体识别与位姿发布。
+
+    - [fateshelled/EdgeYOLO-ROS](https://github.com/fateshelled/EdgeYOLO-ROS) <img src="https://img.shields.io/github/stars/fateshelled/EdgeYOLO-ROS?style=social"/> : EdgeYOLO + ROS2 object detection package.
+
 
 
 
