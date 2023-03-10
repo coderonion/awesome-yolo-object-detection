@@ -282,7 +282,8 @@
       - [YOLO系列改进之四十四——融入适配GPU的轻量级 G-GhostNet](https://mp.weixin.qq.com/s/vS7Lm73tgVbQZ6WdKT9J4Q)
       - [YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g) 
       - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.55】融入美团最新QARepVGG](https://mp.weixin.qq.com/s/WvHoB5zSPPH1SHRahMLL8g) 
-      - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.56】引入Contextual Transformer模块 ](https://mp.weixin.qq.com/s/T_v7QM_9P20vT5mjFg07xw)  
+      - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.56】引入Contextual Transformer模块](https://mp.weixin.qq.com/s/T_v7QM_9P20vT5mjFg07xw)  
+      - [【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.57】引入可形变卷积](https://mp.weixin.qq.com/s/XVl6o2-xK8BfT4BWbmqxxA)  
     - 微信公众号「所向披靡的张大刀」
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -2314,6 +2315,11 @@
     - [zawawiAI/yolo_gpt](https://github.com/zawawiAI/yolo_gpt) <img src="https://img.shields.io/github/stars/zawawiAI/yolo_gpt?style=social"/> : This is a GUI application that integrates YOLOv8 object recognition with OpenAI's GPT-3 language generation model.
 
     - [LSH9832/yolov5_training_tool](https://github.com/LSH9832/yolov5_training_tool) <img src="https://img.shields.io/github/stars/LSH9832/yolov5_training_tool?style=social"/> : 本工具使用PYQT5编写界面。通过使用该工具可以快速部署相应数据集并训练，目前仍在不断更新中，较大的缺点是目前只支持PascalVOC格式的xml标签文件，所以其它格式的标签文件需要先转换为PascalVOC的格式，且目前仅适用于Linux系统且仅在Ubuntu16.04-20.04试运行。
+
+    - [Egrt/YOLO_PyQt5](https://github.com/Egrt/YOLO_PyQt5) <img src="https://img.shields.io/github/stars/Egrt/YOLO_PyQt5?style=social"/> : 使用Pyqt5搭建YOLO系列多线程目标检测系统。
+
+
+
 
 
   - ### Other Applications
