@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🔥🔥🔥 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects.
+🚀🚀🚀 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
@@ -1704,6 +1704,9 @@
       - [Daheer/Driving-Environment-Detector](https://github.com/Daheer/Driving-Environment-Detector) <img src="https://img.shields.io/github/stars/Daheer/Driving-Environment-Detector?style=social"/> : Detecting road objects using YOLO CNN Architecture.
 
       - [georgia-tech-db/eva](https://github.com/georgia-tech-db/eva) <img src="https://img.shields.io/github/stars/georgia-tech-db/eva?style=social"/> : Exploratory Video Analytics System.
+
+      - [heathhenley/RhodyCarCounter](https://github.com/heathhenley/RhodyCarCounter) <img src="https://img.shields.io/github/stars/heathhenley/RhodyCarCounter?style=social"/> : An app that uses Yolo to count the cars passing by traffic cams mostly in the Providence, RI area. 
+
 
 
 
