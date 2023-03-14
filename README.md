@@ -869,6 +869,9 @@
 
     - [isLinXu/YOLOv8_Efficient](https://github.com/isLinXu/YOLOv8_Efficient) <img src="https://img.shields.io/github/stars/isLinXu/YOLOv8_Efficient?style=social"/> : 🚀Simple and efficient use for Ultralytics yolov8🚀
 
+    - [positive666/yolo_research](https://github.com/positive666/yolo_research) <img src="https://img.shields.io/github/stars/positive666/yolo_research?style=social"/> : 🚀 yolo_reserach PLUS High-level.
+
+
 
 
 ## Applications
@@ -1935,6 +1938,8 @@
     - [talisma-cassoma/pcb-components-detection-recognition](https://github.com/talisma-cassoma/pcb-components-detection-recognition) <img src="https://img.shields.io/github/stars/talisma-cassoma/pcb-components-detection-recognition?style=social"/> : this code shows the train and test of a YOLOV5 convolutional neural network for detection of electronics components.
 
     - [Luckycat518/Yolo-MSAPF](https://github.com/Luckycat518/Yolo-MSAPF) <img src="https://img.shields.io/github/stars/Luckycat518/Yolo-MSAPF?style=social"/> : Yolo-MSAPF: Multi-Scale Alignment fusion with Parallel feature Filtering model for high accuracy weld defect detection.
+
+    - [JiaLim98/YOLO-PCB](https://github.com/JiaLim98/YOLO-PCB) <img src="https://img.shields.io/github/stars/JiaLim98/YOLO-PCB?style=social"/> : A Deep Context Learning based PCB Defect Detection Model with Anomalous Trend Alarming System.
 
 
 
