@@ -283,7 +283,8 @@
       - [YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g) 
       - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.55】融入美团最新QARepVGG](https://mp.weixin.qq.com/s/WvHoB5zSPPH1SHRahMLL8g) 
       - [【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.56】引入Contextual Transformer模块](https://mp.weixin.qq.com/s/T_v7QM_9P20vT5mjFg07xw)  
-      - [【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.57】引入可形变卷积](https://mp.weixin.qq.com/s/XVl6o2-xK8BfT4BWbmqxxA)  
+      - [【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.57】引入可形变卷积](https://mp.weixin.qq.com/s/XVl6o2-xK8BfT4BWbmqxxA)
+      - [【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进】引入DRconv动态区域感知卷积](https://mp.weixin.qq.com/s/GgN_Y9Kxkz0YP7dxtoMUsA)  
     - 微信公众号「所向披靡的张大刀」
       - [【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
       - [【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -303,6 +304,7 @@
       - [YOLO涨点Trick | 超越CIOU/SIOU，Wise-IOU让Yolov7再涨1.5个点！](https://mp.weixin.qq.com/s/8TS70TpbqgQ5GB37zVgERA) 
       - [EdgeYOLO来袭 | Xaiver超实时，精度和速度完美超越YOLOX、v4、v5、v6](https://mp.weixin.qq.com/s/BK3IRiJdKfPE53KFpvjTCg) 
       - [YOLOv5抛弃Anchor-Base方法 | YOLOv5u正式加入Anchor-Free大家庭](https://mp.weixin.qq.com/s/m09WRKRqC1bngCOzip_hFA) 
+      - [全新剪枝框架 | YOLOv5模型缩减4倍，推理速度提升2倍](https://mp.weixin.qq.com/s/p_c0w43ns7rFOzamtOSPVg)
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
