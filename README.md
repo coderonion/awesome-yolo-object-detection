@@ -1256,6 +1256,8 @@
 
       - [adamgallas/fpga_accelerator_yolov3tiny](https://github.com/adamgallas/fpga_accelerator_yolov3tiny) <img src="https://img.shields.io/github/stars/adamgallas/fpga_accelerator_yolov3tiny?style=social"/> : fpga_accelerator_yolov3tiny.
 
+      - [ylk678910/tiny-yolov3-fpga](https://github.com/ylk678910/tiny-yolov3-fpga) <img src="https://img.shields.io/github/stars/ylk678910/tiny-yolov3-fpga?style=social"/> : Use an all-programmable SoC board to implement locating and tracking tasks. The hardware algorithm, a row-stationary-like strategy, can parallel calculate and reduce the storage buffer area on FPGA.
+
       - [zhen8838/K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework) <img src="https://img.shields.io/github/stars/zhen8838/K210_Yolo_framework?style=social"/> : Yolo v3 framework base on tensorflow, support multiple models, multiple datasets, any number of output layers, any number of anchors, model prune, and portable model to K210 !
 
       - [SEASKY-Master/SEASKY_K210](https://github.com/SEASKY-Master/SEASKY_K210) <img src="https://img.shields.io/github/stars/SEASKY-Master/SEASKY_K210?style=social"/> : K210 PCB YOLO.
@@ -1263,6 +1265,8 @@
       - [SEASKY-Master/Yolo-for-k210](https://github.com/SEASKY-Master/Yolo-for-k210) <img src="https://img.shields.io/github/stars/SEASKY-Master/Yolo-for-k210?style=social"/> : Yolo-for-k210.
 
       - [TonyZ1Min/yolo-for-k210](https://github.com/TonyZ1Min/yolo-for-k210) <img src="https://img.shields.io/github/stars/TonyZ1Min/yolo-for-k210?style=social"/> : keras-yolo-for-k210.
+
+      - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) <img src="https://img.shields.io/github/stars/vseasky/yolo-for-k210?style=social"/> : Yolo-for-k210.
 
       - [guichristmann/edge-tpu-tiny-yolo](https://github.com/guichristmann/edge-tpu-tiny-yolo) <img src="https://img.shields.io/github/stars/guichristmann/edge-tpu-tiny-yolo?style=social"/> : Run Tiny YOLO-v3 on Google's Edge TPU USB Accelerator.
 
@@ -1290,13 +1294,13 @@
 
       - [Qengineering/YoloCam](https://github.com/Qengineering/YoloCam) <img src="https://img.shields.io/github/stars/Qengineering/YoloCam?style=social"/> : AI camera with live feed, email notification, Gdrive storage and event-triggered GPIO. Raspberry Pi stand-alone AI-powered camera with live feed, email notification and event-triggered cloud storage. 
 
-      - [ylk678910/tiny-yolov3-fpga](https://github.com/ylk678910/tiny-yolov3-fpga) <img src="https://img.shields.io/github/stars/ylk678910/tiny-yolov3-fpga?style=social"/> : Use an all-programmable SoC board to implement locating and tracking tasks. The hardware algorithm, a row-stationary-like strategy, can parallel calculate and reduce the storage buffer area on FPGA.
-
       - [Applied-Deep-Learning-Lab/Yolov5_RK3588](https://github.com/Applied-Deep-Learning-Lab/Yolov5_RK3588) <img src="https://img.shields.io/github/stars/Applied-Deep-Learning-Lab/Yolov5_RK3588?style=social"/> : Yolov5_RK3588.
 
       - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance.
 
-      - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) <img src="https://img.shields.io/github/stars/vseasky/yolo-for-k210?style=social"/> : Yolo-for-k210.
+
+
+
 
 
   - ### Video Object Detection
