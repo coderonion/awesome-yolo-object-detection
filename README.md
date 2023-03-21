@@ -190,7 +190,8 @@
       - [模型部署 | TensorRT加速PyTorch实战部署教程，值得收藏学习！](https://mp.weixin.qq.com/s/AdnfJ48mnwFejTtHN4v70w) 
       - [YOLOv8+ByteTrack，作者开源多目标跟踪算法](https://mp.weixin.qq.com/s/DZcVdwFZP3TKaTk0n98oeg) 
       - [基于YOLOv5的半监督目标检测，算法进阶之路，阿里团队新作！（附论文及源码）](https://mp.weixin.qq.com/s/9qpuLCvgaQjc_JOdZchxjQ) 
-      - [Efficient Teacher，针对YOLOv5的半监督目标检测算法（附论文及源码）](https://mp.weixin.qq.com/s/3YnNAx_2PFqpxLUZZWoYAg)       
+      - [Efficient Teacher，针对YOLOv5的半监督目标检测算法（附论文及源码）](https://mp.weixin.qq.com/s/3YnNAx_2PFqpxLUZZWoYAg)  
+      - [onnx模型转换，op不支持时的心得经验分享](https://mp.weixin.qq.com/s/qkktjhALMKgRwSSiq6n5bA)      
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -762,6 +763,8 @@
   - ### Go Implementation
 
     - [LdDl/go-darknet](https://github.com/LdDl/go-darknet) <img src="https://img.shields.io/github/stars/LdDl/go-darknet?style=social"/> : go-darknet: Go bindings for Darknet (Yolo V4, Yolo V7-tiny, Yolo V3).
+
+    - [adalkiran/distributed-inference](https://github.com/adalkiran/distributed-inference) <img src="https://img.shields.io/github/stars/adalkiran/distributed-inference?style=social"/> : Cross-language and distributed deep learning inference pipeline for WebRTC video streams over Redis Streams. Currently supports YOLOX model, which can run well on CPU.
 
     - [wimspaargaren/yolov3](https://github.com/wimspaargaren/yolov3) <img src="https://img.shields.io/github/stars/wimspaargaren/yolov3?style=social"/> : Go implementation of the yolo v3 object detection system.      
 
@@ -1440,6 +1443,9 @@
 
     - [SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking](https://github.com/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking) <img src="https://img.shields.io/github/stars/SananSuleymanov/PID_YOLOv5s_ROS_Diver_Tracking?style=social"/> : PID_YOLOv5s_ROS_Diver_Tracking.
 
+    - [sumght-z/apex_yolov5](https://github.com/sumght-z/apex_yolov5) <img src="https://img.shields.io/github/stars/sumght-z/apex_yolov5?style=social"/> : something by yolov5 and PID.
+
+
 
   - #### Super-Resolution Field
     #### 超分辨率领域
@@ -1802,7 +1808,7 @@
 
       - [CDNet](https://github.com/zhangzhengde0225/CDNet) <img src="https://img.shields.io/github/stars/zhangzhengde0225/CDNet?style=social"/> : "CDNet: a real-time and robust crosswalk detection network on Jetson nano based on YOLOv5". (**[Neural Computing and Applications 2022](https://link.springer.com/article/10.1007/s00521-022-07007-9)**). "微信公众号「CVer」《[上海交大提出CDNet：基于改进YOLOv5的斑马线和汽车过线行为检测](https://mp.weixin.qq.com/s/2F3WBtfN_7DkhERMOH8-QA)》"。
 
-      - [xN1ckuz/Crosswalks-Detection-using-YoloV5](https://github.com/xN1ckuz/Crosswalks-Detection-using-YoloV5) <img src="https://img.shields.io/github/stars/xN1ckuz/Crosswalks-Detection-using-YoloV5?style=social"/> : Crosswalks Detection using YoloV5. 
+      - [xN1ckuz/Crosswalks-Detection-using-YoloV5](https://github.com/xN1ckuz/Crosswalks-Detection-using-YoloV5) <img src="https://img.shields.io/github/stars/xN1ckuz/Crosswalks-Detection-using-YoloV5?style=social"/> : Crosswalks Detection using YOLO, project for Computer Vision and Machine Perception course at University of Basilicata, Computer Science and Engineering.  
 
 
     - ####  Traffic Accidents Detection
@@ -2401,4 +2407,5 @@
 
     - [vmc-7645/YOLOv8-retail](https://github.com/vmc-7645/YOLOv8-retail) <img src="https://img.shields.io/github/stars/vmc-7645/YOLOv8-retail?style=social"/> : Detect retail products via the YOLOv8 object recognition engine.
 
+    - [TAber-W/RM_4-points_yolov5](https://github.com/TAber-W/RM_4-points_yolov5) <img src="https://img.shields.io/github/stars/TAber-W/RM_4-points_yolov5?style=social"/> : Robomaster 基于yoloface和MobileNet修改的四点模型.
 
