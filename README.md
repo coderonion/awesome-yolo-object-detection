@@ -882,7 +882,7 @@
 
     - [positive666/yolo_research](https://github.com/positive666/yolo_research) <img src="https://img.shields.io/github/stars/positive666/yolo_research?style=social"/> : 🚀 yolo_reserach PLUS High-level.
 
-
+    - [z1069614715/objectdetection_script](https://github.com/z1069614715/objectdetection_script) <img src="https://img.shields.io/github/stars/z1069614715/objectdetection_script?style=social"/> : 一些关于目标检测的脚本的改进思路代码。
 
 
 ## Applications
