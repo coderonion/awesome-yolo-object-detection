@@ -308,6 +308,10 @@
       - [EdgeYOLO来袭 | Xaiver超实时，精度和速度完美超越YOLOX、v4、v5、v6](https://mp.weixin.qq.com/s/BK3IRiJdKfPE53KFpvjTCg) 
       - [YOLOv5抛弃Anchor-Base方法 | YOLOv5u正式加入Anchor-Free大家庭](https://mp.weixin.qq.com/s/m09WRKRqC1bngCOzip_hFA) 
       - [全新剪枝框架 | YOLOv5模型缩减4倍，推理速度提升2倍](https://mp.weixin.qq.com/s/p_c0w43ns7rFOzamtOSPVg)
+    - 微信公众号「新机器视觉」
+      - [​YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
+      - [​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
+      - [YOLO系列的演进，从v1到v7（三）](https://mp.weixin.qq.com/s/Ngz7SYEtQ8jsejKG0IknXg)
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
@@ -670,7 +674,7 @@
 
     - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
 
-    - [mentalstack/yolov5-net](https://github.com/mentalstack/yolov5-net) <img src="https://img.shields.io/github/stars/mentalstack/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
+    - [techwingslab/yolov5-net](https://github.com/techwingslab/yolov5-net) <img src="https://img.shields.io/github/stars/techwingslab/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
     - [sstainba/Yolov8.Net](https://github.com/sstainba/Yolov8.Net) <img src="https://img.shields.io/github/stars/sstainba/Yolov8.Net?style=social"/> : A .net 6 implementation to use Yolov5 and Yolov8 models via the ONNX Runtime.
 
