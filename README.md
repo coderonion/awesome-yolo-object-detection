@@ -616,6 +616,8 @@
 
     - [taipingeric/yolo-v4-tf.keras](https://github.com/taipingeric/yolo-v4-tf.keras) <img src="https://img.shields.io/github/stars/taipingeric/yolo-v4-tf.keras?style=social"/> : A simple tf.keras implementation of YOLO v4.
 
+    - [david8862/keras-YOLOv3-model-set](https://github.com/david8862/keras-YOLOv3-model-set) <img src="https://img.shields.io/github/stars/david8862/keras-YOLOv3-model-set?style=social"/> : end-to-end YOLOv4/v3/v2 object detection pipeline, implemented on tf.keras with different technologies.
+
 
   - ### PaddlePaddle Implementation
 
@@ -1945,6 +1947,9 @@
 
     - [BzdTaisa/YoloPlanarSLAM](https://github.com/BzdTaisa/YoloPlanarSLAM) <img src="https://img.shields.io/github/stars/BzdTaisa/YoloPlanarSLAM?style=social"/> : YOLO-Planar-SLAM. 
 
+    - [saransapmaz/cv-slam-object-determination](https://github.com/saransapmaz/cv-slam-object-determination) <img src="https://img.shields.io/github/stars/saransapmaz/cv-slam-object-determination?style=social"/> : Object detection with hector slam and YOLO v3 computer vision algorithm. 
+
+
 
   - ### Industrial Defect Detection
     #### 工业缺陷检测
@@ -2023,6 +2028,8 @@
     - [AI-Expert-04/School_Zone_Eye_Level](https://github.com/AI-Expert-04/School_Zone_Eye_Level) <img src="https://img.shields.io/github/stars/AI-Expert-04/School_Zone_Eye_Level?style=social"/> : Prevention of accidents in school zones using deep learning.
 
     - [roboflow/supervision](https://github.com/roboflow/supervision) <img src="https://img.shields.io/github/stars/roboflow/supervision?style=social"/> : A set of easy-to-use utils that will come in handy in any Computer Vision project. 
+
+    - [AntroSafin/Fire_Detection_YoloV5](https://github.com/AntroSafin/Fire_Detection_YoloV5) <img src="https://img.shields.io/github/stars/AntroSafin/Fire_Detection_YoloV5?style=social"/> : This is the YoloV5 fire detection application. 
 
 
 
