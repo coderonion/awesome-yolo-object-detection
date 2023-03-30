@@ -128,7 +128,7 @@
 
   - ### Awesome List
 
-    - [awesome-yolo-object-detection](https://github.com/sjinzh/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/sjinzh/awesome-yolo-object-detection?style=social"/> : 🔥🔥🔥 A collection of some awesome YOLO object detection series projects.  
+    - [awesome-yolo-object-detection](https://github.com/sjinzh/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/sjinzh/awesome-yolo-object-detection?style=social"/> : 🚀🚀🚀 A collection of some awesome YOLO object detection series projects.  
 
     - [srebroa/awesome-yolo](https://github.com/srebroa/awesome-yolo) <img src="https://img.shields.io/github/stars/srebroa/awesome-yolo?style=social"/> : 🚀 ⭐ The list of the most popular YOLO algorithms - awesome YOLO. 
 
