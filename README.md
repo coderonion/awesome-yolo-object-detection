@@ -373,6 +373,7 @@
     - [lstuma/YOLO_utils](https://github.com/lstuma/YOLO_utils) <img src="https://img.shields.io/github/stars/lstuma/YOLO_utils?style=social"/> : A few utilities for the YOLO project implemented in C for extra speed.
 
 
+
   - ### Rust Implementation
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
@@ -548,6 +549,7 @@
 
     - [fateshelled/EdgeYOLO-ROS](https://github.com/fateshelled/EdgeYOLO-ROS) <img src="https://img.shields.io/github/stars/fateshelled/EdgeYOLO-ROS?style=social"/> : EdgeYOLO + ROS2 object detection package.
 
+    - [vivaldini/yolov6-uav](https://github.com/vivaldini/yolov6-uav) <img src="https://img.shields.io/github/stars/vivaldini/yolov6-uav?style=social"/> : This repository contains a ROS noetic package for YOLOv6 to recognize objects from UAV and provide their positions. 
 
 
 
@@ -1114,7 +1116,7 @@
 
         - [MadaoFY/yolov5_TensorRT_inference](https://github.com/MadaoFY/yolov5_TensorRT_inference) <img src="https://img.shields.io/github/stars/MadaoFY/yolov5_TensorRT_inference?style=social"/> : 记录yolov5的TensorRT量化及推理代码，经实测可运行于Jetson平台。
 
-        
+        - [ervgan/yolov5_tensorrt_inference](https://github.com/ervgan/yolov5_tensorrt_inference) <img src="https://img.shields.io/github/stars/ervgan/yolov5_tensorrt_inference?style=social"/> : TensorRT cpp inference for Yolov5 model. Supports yolov5 v1.0, v2.0, v3.0, v3.1, v4.0, v5.0, v6.0, v6.2, v7.0.
 
 
       - ##### NCNN
