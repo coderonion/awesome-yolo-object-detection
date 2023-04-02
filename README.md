@@ -35,11 +35,12 @@
         - [Pruning and Quantization](#pruning-and-quantization)
         - [Knoweldge-Distillation](#knoweldge-distillation)
       - [High-performance Inference Engine](#high-performance-inference-engine)
-        - [DeepStream](#deepstream) 
+        - [ONNX](#onnx)
         - [TensorRT](#tensorrt)
-        - [NCNN](#ncnn) 
         - [OpenVINO](#openvino) 
+        - [NCNN](#ncnn) 
         - [MNN](#mnn) 
+        - [DeepStream](#deepstream) 
         - [Other Engine](#other-engine)
       - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
         - [FPGA](#fpga)
@@ -1019,31 +1020,18 @@
     - #### High-performance Inference Engine
       #### 高性能推理引擎
 
-      - ##### DeepStream
 
-        - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_reference_apps?style=social"/> : Reference Apps using DeepStream 6.1.
+      - ##### ONNX
 
-        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social"/> : DeepStream SDK Python bindings and sample applications.
+        - [ONNX Runtime](https://github.com/microsoft/onnxruntime) <img src="https://img.shields.io/github/stars/microsoft/onnxruntime?style=social"/> : ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator. [onnxruntime.ai](https://onnxruntime.ai/)
 
-        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/yolov5_gpu_optimization?style=social"/> : This repository provides YOLOV5 GPU optimization sample.
+        - [ONNX](https://github.com/onnx/onnx) <img src="https://img.shields.io/github/stars/onnx/onnx?style=social"/> : Open Neural Network Exchange. Open standard for machine learning interoperability. [onnx.ai](https://onnx.ai/)
 
-        - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.1.1 / 6.1 / 6.0.1 / 6.0 implementation for YOLO models.
-
-        - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
-
-        - [ozinc/Deepstream6_YoloV5_Kafka](https://github.com/ozinc/Deepstream6_YoloV5_Kafka) <img src="https://img.shields.io/github/stars/ozinc/Deepstream6_YoloV5_Kafka?style=social"/> : This repository gives a detailed explanation on making custom trained deepstream-Yolo models predict and send message over kafka.
-
-        - [kn1ghtf1re/yolov8-deepstream-6-1](https://github.com/kn1ghtf1re/yolov8-deepstream-6-1) <img src="https://img.shields.io/github/stars/kn1ghtf1re/yolov8-deepstream-6-1?style=social"/> : YOLOv8 by Ultralytics in DeepStream 6.1.
-
-        - [bharath5673/Deepstream](https://github.com/bharath5673/Deepstream) <img src="https://img.shields.io/github/stars/bharath5673/Deepstream?style=social"/> : yolov2 ,yolov5 ,yolov6 ,yolov7 ,yolov7,yolovR ,yolovX on deepstream.
-
-
+        - [ONNXMLTools](https://github.com/onnx/onnxmltools) <img src="https://img.shields.io/github/stars/onnx/onnxmltools?style=social"/> : ONNXMLTools enables you to convert models from different machine learning toolkits into [ONNX](https://github.com/onnx/onnx). [onnx.ai](https://onnx.ai/)
 
 
 
       - ##### TensorRT
-
-        - [ONNX](https://github.com/onnx/onnx) <img src="https://img.shields.io/github/stars/onnx/onnx?style=social"/> : Open standard for machine learning interoperability.
 
         - [TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
 
@@ -1124,6 +1112,23 @@
         - [ervgan/yolov5_tensorrt_inference](https://github.com/ervgan/yolov5_tensorrt_inference) <img src="https://img.shields.io/github/stars/ervgan/yolov5_tensorrt_inference?style=social"/> : TensorRT cpp inference for Yolov5 model. Supports yolov5 v1.0, v2.0, v3.0, v3.1, v4.0, v5.0, v6.0, v6.2, v7.0.
 
 
+      - ##### OpenVINO
+
+        - [OpenVINO](https://github.com/openvinotoolkit/openvino) <img src="https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social"/> : This open source version includes several components: namely Model Optimizer, OpenVINO™ Runtime, Post-Training Optimization Tool, as well as CPU, GPU, MYRIAD, multi device and heterogeneous plugins to accelerate deep learning inferencing on Intel® CPUs and Intel® Processor Graphics.
+
+        - [PINTO0309/OpenVINO-YoloV3](https://github.com/PINTO0309/OpenVINO-YoloV3) <img src="https://img.shields.io/github/stars/PINTO0309/OpenVINO-YoloV3?style=social"/> : YoloV3/tiny-YoloV3 + RaspberryPi3/Ubuntu LaptopPC + NCS/NCS2 + USB Camera + Python + OpenVINO.
+
+        - [TNTWEN/OpenVINO-YOLOV4](https://github.com/TNTWEN/OpenVINO-YOLOV4) <img src="https://img.shields.io/github/stars/TNTWEN/OpenVINO-YOLOV4?style=social"/> : This is implementation of YOLOv4,YOLOv4-relu,YOLOv4-tiny,YOLOv4-tiny-3l,Scaled-YOLOv4 and INT8 Quantization in OpenVINO2021.3.
+
+        - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) <img src="https://img.shields.io/github/stars/fb029ed/yolov5_cpp_openvino?style=social"/> : 用c++实现了yolov5使用openvino的部署。
+
+        - [dlod-openvino/yolov5_infer](https://github.com/dlod-openvino/yolov5_infer) <img src="https://img.shields.io/github/stars/dlod-openvino/yolov5_infer?style=social"/> : Do the YOLOv5 model inference by OpenCV/OpenVINO based on onnx model format.
+
+        - [snail0614/yolov5.6_openvino_cpp](https://github.com/snail0614/yolov5.6_openvino_cpp) <img src="https://img.shields.io/github/stars/snail0614/yolov5.6_openvino_cpp?style=social"/> : yolov5.6.1 OpenVINO的C++实现。
+
+        - [shungfu/openvino_yolov5v7](https://github.com/shungfu/openvino_yolov5v7) <img src="https://img.shields.io/github/stars/shungfu/openvino_yolov5v7?style=social"/> : YOLOv5 YOLOv7 INT8 quantization using OpenVINO.
+
+
       - ##### NCNN
 
         - [NCNN](https://github.com/Tencent/ncnn) <img src="https://img.shields.io/github/stars/Tencent/ncnn?style=social"/> : ncnn is a high-performance neural network inference framework optimized for the mobile platform.
@@ -1169,25 +1174,6 @@
         - [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) <img src="https://img.shields.io/github/stars/FeiGeChuanShu/ncnn-android-yolov8?style=social"/> : Real time yolov8 Android demo by ncnn.
 
 
-
-
-      - ##### OpenVINO
-
-        - [OpenVINO](https://github.com/openvinotoolkit/openvino) <img src="https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social"/> : This open source version includes several components: namely Model Optimizer, OpenVINO™ Runtime, Post-Training Optimization Tool, as well as CPU, GPU, MYRIAD, multi device and heterogeneous plugins to accelerate deep learning inferencing on Intel® CPUs and Intel® Processor Graphics.
-
-        - [PINTO0309/OpenVINO-YoloV3](https://github.com/PINTO0309/OpenVINO-YoloV3) <img src="https://img.shields.io/github/stars/PINTO0309/OpenVINO-YoloV3?style=social"/> : YoloV3/tiny-YoloV3 + RaspberryPi3/Ubuntu LaptopPC + NCS/NCS2 + USB Camera + Python + OpenVINO.
-
-        - [TNTWEN/OpenVINO-YOLOV4](https://github.com/TNTWEN/OpenVINO-YOLOV4) <img src="https://img.shields.io/github/stars/TNTWEN/OpenVINO-YOLOV4?style=social"/> : This is implementation of YOLOv4,YOLOv4-relu,YOLOv4-tiny,YOLOv4-tiny-3l,Scaled-YOLOv4 and INT8 Quantization in OpenVINO2021.3.
-
-        - [fb029ed/yolov5_cpp_openvino](https://github.com/fb029ed/yolov5_cpp_openvino) <img src="https://img.shields.io/github/stars/fb029ed/yolov5_cpp_openvino?style=social"/> : 用c++实现了yolov5使用openvino的部署。
-
-        - [dlod-openvino/yolov5_infer](https://github.com/dlod-openvino/yolov5_infer) <img src="https://img.shields.io/github/stars/dlod-openvino/yolov5_infer?style=social"/> : Do the YOLOv5 model inference by OpenCV/OpenVINO based on onnx model format.
-
-        - [snail0614/yolov5.6_openvino_cpp](https://github.com/snail0614/yolov5.6_openvino_cpp) <img src="https://img.shields.io/github/stars/snail0614/yolov5.6_openvino_cpp?style=social"/> : yolov5.6.1 OpenVINO的C++实现。
-
-        - [shungfu/openvino_yolov5v7](https://github.com/shungfu/openvino_yolov5v7) <img src="https://img.shields.io/github/stars/shungfu/openvino_yolov5v7?style=social"/> : YOLOv5 YOLOv7 INT8 quantization using OpenVINO.
-
-
       - ##### MNN
 
         - [MNN](https://github.com/alibaba/MNN) <img src="https://img.shields.io/github/stars/alibaba/MNN?style=social"/> : MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. (**[MLSys 2020](https://proceedings.mlsys.org/paper/2020/hash/8f14e45fceea167a5a36dedd4bea2543-Abstract.html)**)
@@ -1195,9 +1181,27 @@
         - [apxlwl/MNN-yolov3](https://github.com/apxlwl/MNN-yolov3) <img src="https://img.shields.io/github/stars/apxlwl/MNN-yolov3?style=social"/> : MNN demo of Strongeryolo, including channel pruning, android support...
 
 
-      - ##### Other Engine
 
-        - [ONNX Runtime](https://github.com/microsoft/onnxruntime) <img src="https://img.shields.io/github/stars/microsoft/onnxruntime?style=social"/> : ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator.
+      - ##### DeepStream
+
+        - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_reference_apps?style=social"/> : Reference Apps using DeepStream 6.1.
+
+        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social"/> : DeepStream SDK Python bindings and sample applications.
+
+        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/yolov5_gpu_optimization?style=social"/> : This repository provides YOLOV5 GPU optimization sample.
+
+        - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.1.1 / 6.1 / 6.0.1 / 6.0 implementation for YOLO models.
+
+        - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
+
+        - [ozinc/Deepstream6_YoloV5_Kafka](https://github.com/ozinc/Deepstream6_YoloV5_Kafka) <img src="https://img.shields.io/github/stars/ozinc/Deepstream6_YoloV5_Kafka?style=social"/> : This repository gives a detailed explanation on making custom trained deepstream-Yolo models predict and send message over kafka.
+
+        - [kn1ghtf1re/yolov8-deepstream-6-1](https://github.com/kn1ghtf1re/yolov8-deepstream-6-1) <img src="https://img.shields.io/github/stars/kn1ghtf1re/yolov8-deepstream-6-1?style=social"/> : YOLOv8 by Ultralytics in DeepStream 6.1.
+
+        - [bharath5673/Deepstream](https://github.com/bharath5673/Deepstream) <img src="https://img.shields.io/github/stars/bharath5673/Deepstream?style=social"/> : yolov2 ,yolov5 ,yolov6 ,yolov7 ,yolov7,yolovR ,yolovX on deepstream.
+
+
+      - ##### Other Engine
 
         - [TVM](https://github.com/apache/tvm) <img src="https://img.shields.io/github/stars/apache/tvm?style=social"/> : Open deep learning compiler stack for cpu, gpu and specialized accelerators.
 
