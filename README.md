@@ -200,7 +200,8 @@
       - [基于YOLOv5的半监督目标检测，算法进阶之路，阿里团队新作！（附论文及源码）](https://mp.weixin.qq.com/s/9qpuLCvgaQjc_JOdZchxjQ) 
       - [Efficient Teacher，针对YOLOv5的半监督目标检测算法（附论文及源码）](https://mp.weixin.qq.com/s/3YnNAx_2PFqpxLUZZWoYAg)  
       - [onnx模型转换，op不支持时的心得经验分享](https://mp.weixin.qq.com/s/qkktjhALMKgRwSSiq6n5bA) 
-      - [GPU 利用率低常见原因分析及优化](https://mp.weixin.qq.com/s/LCJZqnNB6C15EEMPB1X-hQ)     
+      - [GPU 利用率低常见原因分析及优化](https://mp.weixin.qq.com/s/LCJZqnNB6C15EEMPB1X-hQ)  
+      - [小目标检测算法，Yolov5优化升级 ，即插即用，值得尝试！](https://mp.weixin.qq.com/s/KEdsJO1z19sq7rTtwyC4Rg)   
     - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
       - [从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
       - [YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -319,6 +320,7 @@
       - [YOLOv5抛弃Anchor-Base方法 | YOLOv5u正式加入Anchor-Free大家庭](https://mp.weixin.qq.com/s/m09WRKRqC1bngCOzip_hFA) 
       - [全新剪枝框架 | YOLOv5模型缩减4倍，推理速度提升2倍](https://mp.weixin.qq.com/s/p_c0w43ns7rFOzamtOSPVg)
       - [小目标检测 | 即插即用 | YOLOv5可以这样升级](https://mp.weixin.qq.com/s/vgg_m80A06xFWQGgw2WhHg)
+      - [实践教程｜TensorRT中对ONNX模型解析过程](https://mp.weixin.qq.com/s/L-TpXpBJI7y0wKmBr9arjQ)
     - 微信公众号「新机器视觉」
       - [​YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
       - [​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
@@ -2070,6 +2072,9 @@
     - [mdciri/YOLOv7-Bone-Fracture-Detection](https://github.com/mdciri/YOLOv7-Bone-Fracture-Detection) <img src="https://img.shields.io/github/stars/mdciri/YOLOv7-Bone-Fracture-Detection?style=social"/> : YOLOv7 to detect bone fractures on X-ray images.
 
     - [MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection](https://github.com/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection) <img src="https://img.shields.io/github/stars/MIRACLE-Center/YOLO_Universal_Anatomical_Landmark_Detection?style=social"/> : [MICCAI 2021] [You Only Learn Once: Universal Anatomical Landmark Detection](https://arxiv.org/abs/2103.04657)
+
+    - [fahriwps/breast-cancer-detection](https://github.com/fahriwps/breast-cancer-detection) <img src="https://img.shields.io/github/stars/fahriwps/breast-cancer-detection?style=social"/> : Breast cancer mass detection using YOLO object detection algorithm and GUI.
+
 
 
 
