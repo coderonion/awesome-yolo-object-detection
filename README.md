@@ -330,6 +330,7 @@
       - [YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
       - [改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
       - [使用ONNXRuntime部署阿里达摩院开源DAMO-YOLO目标检测，一共包含27个onnx模型(代码开源)](https://mp.weixin.qq.com/s/cQo7HMcWcbZgk7XIzj1q2A)      
+      - [CVPR 2023 论文分类汇总：一个专为计算机视觉领域研究者打造的学术资源宝库](https://mp.weixin.qq.com/s/g8yUdF0SP-81VpVfFjTqNw)   
     - 微信公众号「新机器视觉」
       - [​YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
       - [​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
@@ -337,14 +338,13 @@
     - 微信公众号「OpenMMLab」
       - [社区协作，简洁易用，快来开箱新一代 YOLO 系列开源库](https://mp.weixin.qq.com/s/ZK1hzp6QJarS1xiqkBWcrg)
       - [建议收藏！超实用的 YOLO 训练&测试技巧合集](https://mp.weixin.qq.com/s/iF2Upd2ThMBlWPim8Gj13g)
-      - [显著提升模型精度！以 MMYOLO 为例 ，巧用 MMRazor 轻量级骨干网络](https://mp.weixin.qq.com/s/ilCMYZmG_XpvJ_ysB1cgkw)
       - [​YOLOv8 深度详解！一文看懂，快速上手](https://mp.weixin.qq.com/s/_RNmB3KtYEt7UuDsCOJ3rQ)
+      - [显著提升模型精度！以 MMYOLO 为例 ，巧用 MMRazor 轻量级骨干网络](https://mp.weixin.qq.com/s/ilCMYZmG_XpvJ_ysB1cgkw)
     - 微信公众号「自动驾驶之心」
       - [手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
     - 微信公众号「计算机视觉漫谈」
       - [YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
       - [YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
-
     - 微信公众号「智造情报局」
       - [项目实操：基于yolov5的PCB表面缺陷检测【附完整代码】](https://mp.weixin.qq.com/s/IzMabvYts2BEa5IvAwUfrg) 
     - 微信公众号「学姐带你玩AI」
