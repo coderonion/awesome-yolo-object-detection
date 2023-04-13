@@ -2427,7 +2427,8 @@
     - [2023-03-10，【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.57】引入可形变卷积](https://mp.weixin.qq.com/s/XVl6o2-xK8BfT4BWbmqxxA)
     - [2023-03-14，【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进】引入DRconv动态区域感知卷积](https://mp.weixin.qq.com/s/GgN_Y9Kxkz0YP7dxtoMUsA)
     - [2023-03-15，【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.59】引入ASPP模块](https://mp.weixin.qq.com/s/_YjOXjxggHGPLg9T5bE2YQ)   
-    - [2023-03-30，【YOLOv8/YOLOv7/YOLOv5/YOLOv4系列算法改进】结合NeurIPS 2022年GhostnetV2网络模块](https://mp.weixin.qq.com/s/YgR-hc1aimba3ij9tfaBAw)  
+    - [2023-03-30，【YOLOv8/YOLOv7/YOLOv5/YOLOv4系列算法改进】结合NeurIPS 2022年GhostnetV2网络模块](https://mp.weixin.qq.com/s/YgR-hc1aimba3ij9tfaBAw) 
+    - [2023-04-08，YOLOv8/YOLOv7/YOLOv5/YOLOv4算法-结合CVPR 2023 即插即用动态稀疏注意力BiFormer模块](https://mp.weixin.qq.com/s/JqDIRqM5XAMzqz-Un2yw8Q)   
   - 微信公众号「所向披靡的张大刀」
     - [2022-04-24，【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
     - [2022-07-02，【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
