@@ -94,7 +94,7 @@
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
     - [Instance and Semantic Segmentation](#instance-and-semantic-segmentation)
     - [Game Field Detection](#game-field-detection)
-    - [Automatic Annotation Tool](#automatic-annotation-tool)
+    - [Automatic Annotation Tools](#automatic-annotation-tools)
     - [Feature Map Visualization](#feature-map-visualization)
     - [Object Detection Evaluation Metrics](#object-detection-evaluation-metrics)
     - [GUI](#gui)
@@ -189,6 +189,8 @@
 
 ## Extensional Frameworks
 
+  - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
+
   - [EasyCV](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : An all-in-one toolkit for computer vision. "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
   - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
@@ -204,6 +206,8 @@
   - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
   - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
+
+  - [doubleZ0108/Data-Augmentation](https://github.com/doubleZ0108/Data-Augmentation) <img src="https://img.shields.io/github/stars/doubleZ0108/Data-Augmentation?style=social"/> : General Data Augmentation Algorithms for Object Detection(esp. Yolo). 
 
 
 ## Other Versions of YOLO
@@ -1380,6 +1384,8 @@
 
     - [mwaseema/Drone-Detection](https://github.com/mwaseema/Drone-Detection) <img src="https://img.shields.io/github/stars/mwaseema/Drone-Detection?style=social"/> : "Dogfight: Detecting Drones from Drones Videos". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.html)**)
 
+    - [hustvl/TinyDet](https://github.com/hustvl/TinyDet) <img src="https://img.shields.io/github/stars/hustvl/TinyDet?style=social"/> : "TinyDet: accurately detecting small objects within 1 GFLOPs". (**[Science China Information Sciences, 2023](https://link.springer.com/article/10.1007/s11432-021-3504-4)**)
+
     - [KevinMuyaoGuo/yolov5s_for_satellite_imagery](https://github.com/KevinMuyaoGuo/yolov5s_for_satellite_imagery) <img src="https://img.shields.io/github/stars/KevinMuyaoGuo/yolov5s_for_satellite_imagery?style=social"/> : 基于YOLOv5的卫星图像目标检测demo | A demo for satellite imagery object detection based on YOLOv5。
 
     - [Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget) <img src="https://img.shields.io/github/stars/Hongyu-Yue/yoloV5_modify_smalltarget?style=social"/> : YOLOV5 小目标检测修改版。
@@ -1403,6 +1409,11 @@
     - [kadirnar/Yolov6-SAHI](https://github.com/kadirnar/Yolov6-SAHI) <img src="https://img.shields.io/github/stars/kadirnar/Yolov6-SAHI?style=social"/> : Yolov6-SAHI.
 
     - [zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023](https://github.com/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023) <img src="https://img.shields.io/github/stars/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023?style=social"/> : 2023年西交利物浦大学动云科技GMaster战队雷达yolo小目标检测。
+
+
+
+
+
 
 
 
@@ -1749,6 +1760,7 @@
     - [wufan-tb/yolo_slowfast](https://github.com/wufan-tb/yolo_slowfast) <img src="https://img.shields.io/github/stars/wufan-tb/yolo_slowfast?style=social"/> : A realtime action detection frame work based on PytorchVideo.
 
 
+
   - ### Emotion Recognition
     #### 情感识别
 
@@ -2081,7 +2093,7 @@
 
 
 
-  - ### Automatic Annotation Tool
+  - ### Automatic Annotation Tools
     #### 自动标注工具
 
     - [Label Studio](https://github.com/heartexlabs/label-studio) <img src="https://img.shields.io/github/stars/heartexlabs/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
@@ -2307,7 +2319,7 @@
 
 ## Blogs
 
-  - [知乎「江大白」/ 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
+  - [知乎「江大白」| 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
     - [2020-05-27，深入浅出Yolo系列之Yolov3&Yolov4&Yolov5&Yolox核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/143747206)    
     - [2020-08-10，深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380)   
     - [2021-08-09，深入浅出Yolox之自有数据集训练超详细教程](https://zhuanlan.zhihu.com/p/397499216)
@@ -2339,15 +2351,18 @@
     - [2020-08-14，你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (上)](https://zhuanlan.zhihu.com/p/183261974)
     - [2020-08-21，你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (中)](https://zhuanlan.zhihu.com/p/183781646)
     - [2020-08-17，你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (下)](https://zhuanlan.zhihu.com/p/186014243)
-  - [知乎「CV技术指南」/ 微信公众号「CV技术指南」](https://www.zhihu.com/people/cvji-zhu-zhi-nan)
+  - [知乎「CV技术指南」| 微信公众号「CV技术指南」](https://www.zhihu.com/people/cvji-zhu-zhi-nan)
     - [2022-04-07，YOLO系列梳理（一）YOLOv1-YOLOv3](https://zhuanlan.zhihu.com/p/494572914)  
     - [2022-04-15，YOLO系列梳理与复习（二）YOLOv4 ](https://mp.weixin.qq.com/s/2lndImcah5QJJJiEujGOsA)
     - [2022-04-24，YOLO系列梳理（三）YOLOv5](https://zhuanlan.zhihu.com/p/503971609)  
     - [2022-06-26，YOLO系列梳理（九）初尝新鲜出炉的YOLOv6](https://zhuanlan.zhihu.com/p/534090250)  
     - [2022-07-19，YOLO系列梳理（十）YOLO官方重回江湖 并带来了YOLOv7](https://zhuanlan.zhihu.com/p/543574708) 
     - [2021-08-26，目标检测mAP的计算 & COCO的评价指标](https://mp.weixin.qq.com/s/gpr7JZMRgp8B5RxhVzt_mQ)     
-  - [知乎「极市平台」/ 微信公众号「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
+  - [知乎「极市平台」| 微信公众号「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
     - [2020-11-17，YOLO算法最全综述：从YOLOv1到YOLOv5](https://zhuanlan.zhihu.com/p/297965943)
+    - [2022-08-04，华为轻量级神经网络架构GhostNet再升级，GPU上大显身手的G-GhostNet（IJCV22）](https://mp.weixin.qq.com/s/31Fb3WSBtRUNu8oUkMrBrg)     
+    - [2022-11-15，NeurIPS'22 Spotlight｜华为诺亚GhostNetV2出炉：长距离注意力机制增强廉价操作](https://mp.weixin.qq.com/s/RBpC-0HqzgtHy5xsoBce8Q)
+    - [2022-11-21，轻量级的CNN模块！RepGhost：重参数化技术构建硬件高效的 Ghost 模块](https://mp.weixin.qq.com/s/mV2Bl4tBZwZ7n-YleMUE4g) 
     - [2023-02-26，厦大纪荣嵘团队新作｜OneTeacher: 解锁 YOLOv5 的正确打开方式](https://mp.weixin.qq.com/s/HAfCpECOxccPfj5b7Pprfw)
   - 微信公众号「WeThinkln」
     - [2022-09-18，【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
@@ -2376,6 +2391,25 @@
     - [2023-01-10，《YOLOv5全面解析教程》​十四，YOLOv5 autoanchor 机制详解](https://mp.weixin.qq.com/s/qC-E2UbjNZT-c04IpXfoYA)
     - [2023-02-07，《YOLOv5全面解析教程》​十五，YOLOv5 Callback机制解读](https://mp.weixin.qq.com/s/osGwscIawS9q07g21rTQcA)
     - [2023-02-18，《YOLOv5全面解析教程》​十六，val.py 源码解读](https://mp.weixin.qq.com/s/sa2MQIaPIkHHxoVRGYMTAw)
+  - 微信公众号「PandaCVer」
+    - [2022-10-18，改进YOLOv5——魔改YOLOv5提升检测精度](https://mp.weixin.qq.com/s/1iP4H3Ri6uBkq24eOO-viw)
+    - [2022-10-23，目标检测算法——YOLOv5&无参SimAM！](https://mp.weixin.qq.com/s/X6MIRbE4ZD9xA-c-UtAa_A)
+    - [2022-10-25，目标检测算法——YOLOv5改进结合BotNet（Transformer）](https://mp.weixin.qq.com/s/NVkHPBv8Ps2fCB2QvNz59Q)
+    - [2022-10-27，目标检测算法——YOLOv5/YOLOv7更换FReLU激活函数](https://mp.weixin.qq.com/s/4KmjOSGAHHFdp6jYZI_QFw)
+    - [2022-10-29，目标检测算法——YOLOv5/YOLOv7改进之GSConv+Slim Neck](https://mp.weixin.qq.com/s/CdNvKCL6fsQD012zrzZNFA)
+    - [2022-11-02，目标检测算法——YOLOv5/YOLOv7改进之结合CBAM](https://mp.weixin.qq.com/s/vnqnNW5y47XThOmodEWHYA)
+    - [2022-11-07，目标检测算法——YOLOv5/YOLOv7改进之结合GAMAttention](https://mp.weixin.qq.com/s/9gGOO66I1kFpyZcRayjF_Q)
+    - [2022-11-08，人工智能前沿——深度学习热门领域（确定选题及研究方向）](https://mp.weixin.qq.com/s/ETkGaGNLx5VqJVSCSsTJNw)
+    - [2022-11-10，目标检测算法——YOLOv5/YOLOv7改进之结合​SOCA（单幅图像超分辨率）](https://mp.weixin.qq.com/s/ithO0S7R-D8kXH1ZQlpRRQ)
+    - [2022-11-12，目标检测算法——YOLOv5/YOLOv7改进之结合​ASPP（空洞空间卷积池化金字塔）](https://mp.weixin.qq.com/s/QgL2UxbVvXwrfmGxK7uolQ)
+    - [2022-11-16，目标检测算法——YOLOv5/YOLOv7改进之结合​RepVGG（速度飙升）](https://mp.weixin.qq.com/s/4TnHyiG88h5oDhD6NZoq2Q)
+    - [2022-11-20，知识经验分享——YOLOv5-6.0训练出错及解决方法（RuntimeError）](https://mp.weixin.qq.com/s/9qTFFu7HImaF8t6ozG_NWw)
+    - [2022-11-23，目标检测算法——YOLOv5/YOLOv7改进之结合NAMAttention（提升涨点）](https://mp.weixin.qq.com/s/qB8G_pf3oCYBstYyFPrcrw)
+    - [2022-11-25，目标检测算法——YOLOv5/YOLOv7改进之结合Criss-Cross Attention](https://mp.weixin.qq.com/s/v3pOvqz6ZewPR3fjnA5SIg)
+    - [2022-11-29，目标检测算法——YOLOv7改进|增加小目标检测层](https://mp.weixin.qq.com/s/cFzcJLOG_1_TzS-Ckg6hGA)
+    - [2022-11-14，目标检测算法——收藏|小目标检测的定义（一）](https://mp.weixin.qq.com/s/RwthaHf5d7-dT31Cqco6MA)
+    - [2022-11-17，目标检测算法——收藏|小目标检测难点分析（二）](https://mp.weixin.qq.com/s/E2ZRBPZjobhlLspJK_DTfA)
+    - [2022-11-18，目标检测算法——收藏|小目标检测解决方案（三）](https://mp.weixin.qq.com/s/nuIfgFX_krLtN9EQGNrn2w)
   - 微信公众号「人工智能AI算法工程师」
     - [2022-06-26，YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
     - [2022-07-11，YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
@@ -2421,7 +2455,39 @@
     - [2022-11-02，YOLOv5改进之四十二：引入V7中的ELAN网络，降低网络参数](https://mp.weixin.qq.com/s/cg4KinN-vEhcnoiQlN_tfw) 
     - [2022-11-03，YOLOv7、v5改进之四十三：结合最新Non-local Networks and Attention结构](https://mp.weixin.qq.com/s/P9TCtm6d_x6sRXtENTwY_A)
     - [2022-11-19，YOLO系列改进之四十四——融入适配GPU的轻量级 G-GhostNet](https://mp.weixin.qq.com/s/vS7Lm73tgVbQZ6WdKT9J4Q)
+    - [2022-11-10，目标检测论文解读复现之一：基于改进YOLOv5的整车原木数量检测方法——TWD-YOLOv5](https://mp.weixin.qq.com/s/akrldqppGT6oyf89BnJe2Q)
+    - [2022-11-12，目标检测论文解读复现之二：基于改进YOLOv5的轻量化航空目标检测方法](https://mp.weixin.qq.com/s/fOAzM-1_b29B79E8gxTP1Q)
+    - [2022-11-14，目标检测论文解读复现之三：基于改进YOLOv7的X光图像旋转目标检测](https://mp.weixin.qq.com/s/6R9g3D2Xd-TZJ_DAiRcBzQ)
+    - [2022-11-15，目标检测论文解读复现之四：改进YOLOv5算法在停车场火灾检测中的应用](https://mp.weixin.qq.com/s/LcImelrj1hbRHlP_QvLd6g)
+    - [2022-11-16，目标检测论文解读复现之五：改进YOLOv5的SAR图像舰船目标检测](https://mp.weixin.qq.com/s/UwmamMFM0jnzt1sG-CX6iQ)
+    - [2022-11-17，目标检测论文解读复现之六：基于YOLOv5的遥感图像舰船的检测方法](https://mp.weixin.qq.com/s/Qnw_krVnZGxlWUgG8z6q_g)
+    - [2022-11-20，目标检测论文解读复现之七：基于SE-YOLOv5s的绝缘子检测](https://mp.weixin.qq.com/s/jZI93jPaLtsCFK-kljjppw)
+    - [2022-11-21，目标检测论文解读复现之八：基于YOLOv5s的滑雪人员检测研究](https://mp.weixin.qq.com/s/47YVYj4svWnkbPrvrfOqmw)
+    - [2022-11-22，目标检测论文解读复现之九：基于改进YOLOv5的复杂场景下SAR图像船舶检测方法](https://mp.weixin.qq.com/s/8VUZ5RX84krFgBdCO7qMhQ)
+    - [2022-11-23，目标检测论文解读复现之十：基于YOLOv5的遥感图像目标检测](https://mp.weixin.qq.com/s/xEzrjEe8CGfgdttJevFbFw)
+    - [2022-11-25，目标检测论文解读复现之十一：基于特征融合与注意力的遥感图像小目标检测](https://mp.weixin.qq.com/s/uPwcji5mGSstxI9gWnAXCQ)
+    - [2022-11-26，目标检测论文解读复现之十二：基于注意力机制和上下文信息的目标检测算法](https://mp.weixin.qq.com/s/Ii98povs_xjfUdSxe2WYsQ)
+    - [2022-11-27，目标检测论文解读复现之十三：改进YOLOv5s的遥感图像目标检测](https://mp.weixin.qq.com/s/MByqnwl2YiujOCyWrgMMKg)
+    - [2022-12-12，目标检测论文解读复现之十四：一种基于残差网络优化的航拍小目标检测算法](https://mp.weixin.qq.com/s/M2ilkFpP5VwBHa2bY8BLyw)
+    - [2022-12-13，目标检测论文解读复现之十五：基于YOLOv5的光学遥感图像舰船目标检测算法](https://mp.weixin.qq.com/s/qy0hMDcPyKsl5p28E7q30w)
+    - [2022-12-14，目标检测论文解读复现之十六：基于改进YOLOv5的小目标检测算法](https://mp.weixin.qq.com/s/Z-FIlLzVE9obCM-YdtGpxg)
+    - [2022-12-15，目标检测论文解读复现之十七：融合注意力机制的YOLOv5口罩检测算法](https://mp.weixin.qq.com/s/cQHDZkvyw7bYMRCaXUcPKQ)
+    - [2022-12-16，目标检测论文解读复现之十八：基于注意力机制的光线昏暗条件下口罩佩戴检测](https://mp.weixin.qq.com/s/Kxe6CGs8hR6vrYgagMVdPQ)
+    - [2022-12-17，目标检测论文解读复现之十九：基于YOLOv5网络模型的人员口罩佩戴实时检测](https://mp.weixin.qq.com/s/67KIqrl1xSFzUmI6vjjAkw)
+    - [2022-12-18，目标检测论文解读复现之二十：基于改进Yolov5的地铁隧道附属设施与衬砌表观病害检测方法](https://mp.weixin.qq.com/s/2TXXKXsWFDJG2t48rPWGqQ)
+    - [2022-12-19，目标检测论文解读复现之二十一:基于改进YOLOv7的小目标检测](https://mp.weixin.qq.com/s/qlVnBh2FFw5yBOvCsP2G-g)
+    - [2022-12-20，目标检测论文解读复现之二十二：多尺度下遥感小目标多头注意力检测](https://mp.weixin.qq.com/s/LH7IqfyXLGbmRXCq_SxDJQ)
     - [2023-01-16，YOLOv7/YOLOv5系列改进之四十四：融入YOLOv8中的C2f模块](https://mp.weixin.qq.com/s/qe_LV_8W4hzUxxgax2O4_g) 
+    - [2023-01-17，YOLOv7/YOLOv5系列改进之四十五：融入CFPNet网络中的ECVBlock模块，提升小目标检测能力](https://mp.weixin.qq.com/s/HwPwI-nwl8elbiZfDsqHKg)     
+    - [2023-01-18，学习经验分享之十三：首发全网讲解YOLOv8](https://mp.weixin.qq.com/s/B0WVnNYrRDXcX0pw_2cLjg) 
+    - [2023-01-24，【目标检测论文解读复现NO.25】基于改进Yolov5的地铁隧道附属设施与衬砌表观病害检测方法](https://mp.weixin.qq.com/s/Zrth5ANIYOrjVaU0p2eRZQ) 
+    - [2023-01-25，【目标检测论文解读复现NO.26】基于改进YOLOv5s网络的实时输液监测](https://mp.weixin.qq.com/s/URWmI6OVVtDkvxSEfroVVg) 
+    - [2023-01-28，基于改进YOLOv5的螺纹钢表面缺陷检测](https://mp.weixin.qq.com/s/nToaAvSgSViP4pQrD_Gfgg) 
+    - [2023-01-30，【目标检测论文解读复现NO.28】基于改进YOLO v5的电厂管道油液泄漏检测](https://mp.weixin.qq.com/s/mtMA87mMQGLA2f4jXlXiUw) 
+    - [2023-01-31，【目标检测论文解读复现NO.29】基于YOLO-ST的安全帽佩戴精确检测算法](https://mp.weixin.qq.com/s/_tDSg2J3JopTBjQtawnycg) 
+    - [2023-02-03，【目标检测论文解读复现NO.30】基于改进YOLOv5的宁夏草原蝗虫识别模型研究](https://mp.weixin.qq.com/s/UYdTR8axfUSCFEOiTN5wMw) 
+    - [2023-02-05，【目标检测论文解读复现NO.31】基于改进YOLO v5复杂场景下肉鹅姿态的检测算法研究](https://mp.weixin.qq.com/s/fMfsXIJ6v2cC18eWjrIbKw) 
+    - [2023-02-04，【目标检测论文解读复现NO.32】基于改进YOLO的飞机起降阶段跟踪方法](https://mp.weixin.qq.com/s/jycEm-pwYhMkihvfS66YIg) 
     - [2023-03-04，【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.55】融入美团最新QARepVGG](https://mp.weixin.qq.com/s/WvHoB5zSPPH1SHRahMLL8g) 
     - [2023-03-07，【YOLOv8/YOLOv7/YOLOv5系列算法改进NO.56】引入Contextual Transformer模块](https://mp.weixin.qq.com/s/T_v7QM_9P20vT5mjFg07xw)  
     - [2023-03-10，【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.57】引入可形变卷积](https://mp.weixin.qq.com/s/XVl6o2-xK8BfT4BWbmqxxA)
@@ -2453,6 +2519,8 @@
     - [2023-03-14，实践教程｜TensorRT中对ONNX模型解析过程](https://mp.weixin.qq.com/s/L-TpXpBJI7y0wKmBr9arjQ)
     - [2023-03-24，目标检测Trick | SEA方法轻松抹平One-Stage与Two-Stage目标检测之间的差距](https://mp.weixin.qq.com/s/spEL2hYmYykkQkc4aNxJAg)
     - [2023-04-05，部署技巧之PAGCP剪枝 | Yolov5/ResNet参数降低50%速度翻倍精度不减](https://mp.weixin.qq.com/s/3_2Dcm8VpoGFksFZE6n2kQ)
+    - [2023-04-12，Faster RCNN超快版本来啦 | TinyDet用小于1GFLOPS实现30+AP，小目标炸裂](https://mp.weixin.qq.com/s/-AtF3B_A0rzvS8cUcZQ6Hw)
+    - [2023-04-13，即插即用模块 | RFAConv助力YOLOv8再涨2个点](https://mp.weixin.qq.com/s/lsOQiq9wXHxagE_uQ_yOiw)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
@@ -2471,6 +2539,10 @@
     - [2023-04-04，显著提升模型精度！以 MMYOLO 为例 ，巧用 MMRazor 轻量级骨干网络](https://mp.weixin.qq.com/s/ilCMYZmG_XpvJ_ysB1cgkw)
   - 微信公众号「自动驾驶之心」
     - [2022-10-26，手把手教学！TensorRT部署实战：YOLOv5的ONNX模型部署](https://mp.weixin.qq.com/s/M47rwwbU0FRrgd-Xg9c7ww)
+    - [2022-11-12，SSDA-YOLO：用于跨域目标检测的半监督域自适应YOLO方法](https://mp.weixin.qq.com/s/FFRsxSaTeGvs1ssKGCD6lg)  
+    - [2022-11-30，达摩院 | DAMO-YOLO：兼顾速度与精度的新目标检测框架](https://mp.weixin.qq.com/s/QYsCzgMhW9Mfsa6CYolVuQ)  
+    - [2022-12-23，通用小目标Trick | 深度学习检测小目标常用方法盘点](https://mp.weixin.qq.com/s/WRVjub3ePxWoCBQXKhS__w)  
+    - [2023-01-12，纯量产经验 | 谈谈目标检测中正负样本的问题](https://mp.weixin.qq.com/s/esGe2o3_pPXUlrysZoCQKQ)  
   - 微信公众号「计算机视觉漫谈」
     - [2020-02-22，YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
     - [2020-03-07，YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
@@ -2483,6 +2555,7 @@
   - 微信公众号「笑傲算法江湖」
     - [2023-02-08，代码实战：YOLOv5实现钢材表面缺陷检测](https://mp.weixin.qq.com/s/i_bF6_77MxKqEy7-y7LQdQ)      
   - 微信公众号「CVHub」
+    - [2023-01-07，现代目标检测故事 | 40+种网络架构大盘点！从基础架构ResNet到最强检测器Yolov7再到最新部署神器GhostNetV2](https://mp.weixin.qq.com/s/22rRzyZj93-Y4msYwa_LKQ) 
     - [2023-02-19，阿里团队新作 | 探讨 YOLOv5 的高效进阶之路！](https://mp.weixin.qq.com/s/B0yHtFMTO5gwt0B-ra18QA) 
   - 微信公众号「OpenCV中文网」
     - [2023-04-07，YOLOv8 全家桶再迎新成员！新增Pose Estimation模型!](https://mp.weixin.qq.com/s/wF93AAVnGsQtHdB-DkSTPQ) 
