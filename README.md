@@ -1370,6 +1370,8 @@
 
     - [Slim-neck by GSConv](https://github.com/AlanLi1997/slim-neck-by-gsconv) <img src="https://img.shields.io/github/stars/AlanLi1997/slim-neck-by-gsconv?style=social"/> : "Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles". (**[arXiv 2022](https://arxiv.org/abs/2206.02424)**)
 
+    - [hustvl/TinyDet](https://github.com/hustvl/TinyDet) <img src="https://img.shields.io/github/stars/hustvl/TinyDet?style=social"/> : "TinyDet: accurately detecting small objects within 1 GFLOPs". (**[Science China Information Sciences, 2023](https://link.springer.com/article/10.1007/s11432-021-3504-4)**)
+
     - [QueryDet](https://github.com/ChenhongyiYang/QueryDet-PyTorch) <img src="https://img.shields.io/github/stars/ChenhongyiYang/QueryDet-PyTorch?style=social"/> : "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_QueryDet_Cascaded_Sparse_Query_for_Accelerating_High-Resolution_Small_Object_Detection_CVPR_2022_paper.html)**)
 
     - [RFLA](https://github.com/Chasel-Tsui/mmdet-rfla) <img src="https://img.shields.io/github/stars/Chasel-Tsui/mmdet-rfla?style=social"/> : "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection". (**[ECCV 2022](https://arxiv.org/abs/2208.08738)**). "微信公众号「CV技术指南」《[ECCV 2022 | RFLA：基于高斯感受野的微小目标检测标签分配 ](https://mp.weixin.qq.com/s/h0J775I3D6zoTIeaJRnFgQ)》"
@@ -1383,8 +1385,6 @@
     - [TPH-YOLOv5](https://github.com/cv516Buaa/tph-yolov5) <img src="https://img.shields.io/github/stars/cv516Buaa/tph-yolov5?style=social"/> : "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)**)
 
     - [mwaseema/Drone-Detection](https://github.com/mwaseema/Drone-Detection) <img src="https://img.shields.io/github/stars/mwaseema/Drone-Detection?style=social"/> : "Dogfight: Detecting Drones from Drones Videos". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.html)**)
-
-    - [hustvl/TinyDet](https://github.com/hustvl/TinyDet) <img src="https://img.shields.io/github/stars/hustvl/TinyDet?style=social"/> : "TinyDet: accurately detecting small objects within 1 GFLOPs". (**[Science China Information Sciences, 2023](https://link.springer.com/article/10.1007/s11432-021-3504-4)**)
 
     - [KevinMuyaoGuo/yolov5s_for_satellite_imagery](https://github.com/KevinMuyaoGuo/yolov5s_for_satellite_imagery) <img src="https://img.shields.io/github/stars/KevinMuyaoGuo/yolov5s_for_satellite_imagery?style=social"/> : 基于YOLOv5的卫星图像目标检测demo | A demo for satellite imagery object detection based on YOLOv5。
 
@@ -2089,7 +2089,8 @@
 
      - [MistyAI/MistyFN](https://github.com/MistyAI/MistyFN) <img src="https://img.shields.io/github/stars/MistyAI/MistyFN?style=social"/> : Aimbot and Triggerbot for Fortnite based on artificial intelligence.
 
-     - [suixin1424/cf-yolo-trt](https://github.com/suixin1424/cf-yolo-trt) <img src="https://img.shields.io/github/stars/suixin1424/cf-yolo-trt?style=social"/> : 基于yolo-trt的穿越火线ai自瞄。
+     - [suixin1424/crossfire-yolo-TensorRT](https://github.com/suixin1424/crossfire-yolo-TensorRT) <img src="https://img.shields.io/github/stars/suixin1424/crossfire-yolo-TensorRT?style=social"/> : crossfire-yolo-TensorRT. 基于yolo-trt的穿越火线ai自瞄。
+
 
 
 
@@ -2098,9 +2099,13 @@
 
     - [Label Studio](https://github.com/heartexlabs/label-studio) <img src="https://img.shields.io/github/stars/heartexlabs/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
+    - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+
     - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
     - [labelme](https://github.com/wkentaro/labelme) <img src="https://img.shields.io/github/stars/wkentaro/labelme?style=social"/> : Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation).  
+
+    - [DarkLabel](https://github.com/darkpgmr/DarkLabel) <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
 
     - [AlexeyAB/Yolo_mark](https://github.com/AlexeyAB/Yolo_mark) <img src="https://img.shields.io/github/stars/AlexeyAB/Yolo_mark?style=social"/> : GUI for marking bounded boxes of objects in images for training neural network Yolo v3 and v2.
 
@@ -2117,8 +2122,6 @@
     - [cnyvfang/labelGo-Yolov5AutoLabelImg](https://github.com/cnyvfang/labelGo-Yolov5AutoLabelImg) <img src="https://img.shields.io/github/stars/cnyvfang/labelGo-Yolov5AutoLabelImg?style=social"/> : 💕YOLOV5 semi-automatic annotation tool (Based on labelImg)💕一个基于labelImg及YOLOV5的图形化半自动标注工具。
 
     - [CVUsers/Auto_maker](https://github.com/CVUsers/Auto_maker) <img src="https://img.shields.io/github/stars/CVUsers/Auto_maker?style=social"/> : 深度学习数据自动标注器开源 目标检测和图像分类（高精度高效率）。
-
-    - [DarkLabel](https://github.com/darkpgmr/DarkLabel) <img src="https://img.shields.io/github/stars/darkpgmr/DarkLabel?style=social"/> : Video/Image Labeling and Annotation Tool.
 
     - [MyVision](https://github.com/OvidijusParsiunas/myvision) <img src="https://img.shields.io/github/stars/OvidijusParsiunas/myvision?style=social"/> : Computer vision based ML training data generation tool 🚀
 
