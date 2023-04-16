@@ -979,6 +979,9 @@
 
         - [shungfu/openvino_yolov5v7](https://github.com/shungfu/openvino_yolov5v7) <img src="https://img.shields.io/github/stars/shungfu/openvino_yolov5v7?style=social"/> : YOLOv5 YOLOv7 INT8 quantization using OpenVINO.
 
+        - [dacquaviva/yolov5-openvino-cpp-python](https://github.com/dacquaviva/yolov5-openvino-cpp-python) <img src="https://img.shields.io/github/stars/dacquaviva/yolov5-openvino-cpp-python?style=social"/> : Example of using ultralytics YOLOv5 with Openvino in C++ and Python. 
+
+
 
       - ##### NCNN
 
