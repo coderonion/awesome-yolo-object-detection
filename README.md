@@ -1377,7 +1377,7 @@
 
     - [QueryDet](https://github.com/ChenhongyiYang/QueryDet-PyTorch) <img src="https://img.shields.io/github/stars/ChenhongyiYang/QueryDet-PyTorch?style=social"/> : "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_QueryDet_Cascaded_Sparse_Query_for_Accelerating_High-Resolution_Small_Object_Detection_CVPR_2022_paper.html)**)
 
-    - [RFLA](https://github.com/Chasel-Tsui/mmdet-rfla) <img src="https://img.shields.io/github/stars/Chasel-Tsui/mmdet-rfla?style=social"/> : "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection". (**[ECCV 2022](https://arxiv.org/abs/2208.08738)**). "微信公众号「CV技术指南」《[ECCV 2022 | RFLA：基于高斯感受野的微小目标检测标签分配 ](https://mp.weixin.qq.com/s/h0J775I3D6zoTIeaJRnFgQ)》"
+    - [RFLA](https://github.com/Chasel-Tsui/mmdet-rfla) <img src="https://img.shields.io/github/stars/Chasel-Tsui/mmdet-rfla?style=social"/> : "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection". (**[ECCV 2022](https://arxiv.org/abs/2208.08738)**). "微信公众号「CV技术指南」《[ECCV 2022 | RFLA：基于高斯感受野的微小目标检测标签分配](https://mp.weixin.qq.com/s/h0J775I3D6zoTIeaJRnFgQ)》"
 
     - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "微信公众号「江大白」《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498265&idx=1&sn=1eee95f8f4d09d761dc7b94f4ac55c34&source=41#wechat_redirect)》"
 
@@ -1388,6 +1388,8 @@
     - [TPH-YOLOv5](https://github.com/cv516Buaa/tph-yolov5) <img src="https://img.shields.io/github/stars/cv516Buaa/tph-yolov5?style=social"/> : "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)**)
 
     - [mwaseema/Drone-Detection](https://github.com/mwaseema/Drone-Detection) <img src="https://img.shields.io/github/stars/mwaseema/Drone-Detection?style=social"/> : "Dogfight: Detecting Drones from Drones Videos". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.html)**)
+
+    - [CEASA](https://github.com/cuogeihong/ceasc) <img src="https://img.shields.io/github/stars/cuogeihong/ceasc?style=social"/> : "Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images". (**[arXiv 2023](https://arxiv.org/abs/2303.14488)**). "微信公众号「集智书童」《[即插即用 | CEASA模块给你所有，小目标精度提升的同时速度也变快了](https://mp.weixin.qq.com/s/-a4Wz04jLHFiAU88pUyDNQ)》"
 
     - [KevinMuyaoGuo/yolov5s_for_satellite_imagery](https://github.com/KevinMuyaoGuo/yolov5s_for_satellite_imagery) <img src="https://img.shields.io/github/stars/KevinMuyaoGuo/yolov5s_for_satellite_imagery?style=social"/> : 基于YOLOv5的卫星图像目标检测demo | A demo for satellite imagery object detection based on YOLOv5。
 
@@ -2346,6 +2348,7 @@
     - [2023-03-24，深度学习模型训练中，GPU和显存分析](https://mp.weixin.qq.com/s/xyCNXUBE2rTjTUnK6bBm7g)  
     - [2023-03-25，PyTorch模型训练，并行加速方法梳理汇总](https://mp.weixin.qq.com/s/54FaTRh8dUXwI4JqO9LAsQ)     
     - [2023-03-27，基于YOLO的铝型材表面缺陷识别 ](https://mp.weixin.qq.com/s/sTL6aATIDOh8RpicU2B9tA)     
+    - [2023-03-31，小目标检测精度优化方式，CEASA模块，即插即用（附论文及源码）](https://mp.weixin.qq.com/s/fXV3rdB_YtSVap0FtK_AeQ)   
     - [2023-04-01，GPU 利用率低常见原因分析及优化](https://mp.weixin.qq.com/s/LCJZqnNB6C15EEMPB1X-hQ)  
     - [2023-04-03，小目标检测算法，Yolov5优化升级 ，即插即用，值得尝试！](https://mp.weixin.qq.com/s/KEdsJO1z19sq7rTtwyC4Rg)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
@@ -2358,12 +2361,14 @@
     - [2020-08-21，你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (中)](https://zhuanlan.zhihu.com/p/183781646)
     - [2020-08-17，你一定从未看过如此通俗易懂的YOLO系列(从v1到v5)模型解读 (下)](https://zhuanlan.zhihu.com/p/186014243)
   - [知乎「CV技术指南」| 微信公众号「CV技术指南」](https://www.zhihu.com/people/cvji-zhu-zhi-nan)
+    - [2021-08-26，目标检测mAP的计算 & COCO的评价指标](https://mp.weixin.qq.com/s/gpr7JZMRgp8B5RxhVzt_mQ) 
     - [2022-04-07，YOLO系列梳理（一）YOLOv1-YOLOv3](https://zhuanlan.zhihu.com/p/494572914)  
     - [2022-04-15，YOLO系列梳理与复习（二）YOLOv4 ](https://mp.weixin.qq.com/s/2lndImcah5QJJJiEujGOsA)
     - [2022-04-24，YOLO系列梳理（三）YOLOv5](https://zhuanlan.zhihu.com/p/503971609)  
     - [2022-06-26，YOLO系列梳理（九）初尝新鲜出炉的YOLOv6](https://zhuanlan.zhihu.com/p/534090250)  
     - [2022-07-19，YOLO系列梳理（十）YOLO官方重回江湖 并带来了YOLOv7](https://zhuanlan.zhihu.com/p/543574708) 
-    - [2021-08-26，目标检测mAP的计算 & COCO的评价指标](https://mp.weixin.qq.com/s/gpr7JZMRgp8B5RxhVzt_mQ)     
+    - [2023-03-11，目标跟踪专栏（一）基本任务、常用方法](https://mp.weixin.qq.com/s/DKHOlLtjO2OBtIWlA3cpzg) 
+    - [2023-04-17，目标跟踪（二）单、多目标跟踪的基本概念与常用数据集](https://mp.weixin.qq.com/s/N50tOvJwNRZhyoVq6Fc-ig) 
   - [知乎「极市平台」| 微信公众号「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
     - [2020-11-17，YOLO算法最全综述：从YOLOv1到YOLOv5](https://zhuanlan.zhihu.com/p/297965943)
     - [2022-08-04，华为轻量级神经网络架构GhostNet再升级，GPU上大显身手的G-GhostNet（IJCV22）](https://mp.weixin.qq.com/s/31Fb3WSBtRUNu8oUkMrBrg)     
@@ -2417,6 +2422,7 @@
     - [2022-11-17，目标检测算法——收藏|小目标检测难点分析（二）](https://mp.weixin.qq.com/s/E2ZRBPZjobhlLspJK_DTfA)
     - [2022-11-18，目标检测算法——收藏|小目标检测解决方案（三）](https://mp.weixin.qq.com/s/nuIfgFX_krLtN9EQGNrn2w)
   - 微信公众号「人工智能AI算法工程师」
+    - [2023-03-25，投稿指南：目标检测论文写作模板（初稿）](https://mp.weixin.qq.com/s/mi4BIyITyifl7QRhAKqPjg) 
     - [2022-06-26，YOLOv5改进之一：添加SE注意力机制](https://mp.weixin.qq.com/s/QwY5C2y7HZ6LPRHC5gScFg) 
     - [2022-07-11，YOLOv5改进之二：添加CBAM注意力机制](https://mp.weixin.qq.com/s/pFQEH4zpYogDOMdMQqugcg) 
     - [2022-07-13，YOLOv5改进之三：添加Coordinate注意力机制](https://mp.weixin.qq.com/s/NzN88Vtkb3rVjsyPi60edQ) 
@@ -2524,6 +2530,7 @@
     - [2023-03-31 ，小目标检测 | 即插即用 | YOLOv5可以这样升级](https://mp.weixin.qq.com/s/vgg_m80A06xFWQGgw2WhHg)
     - [2023-03-14，实践教程｜TensorRT中对ONNX模型解析过程](https://mp.weixin.qq.com/s/L-TpXpBJI7y0wKmBr9arjQ)
     - [2023-03-24，目标检测Trick | SEA方法轻松抹平One-Stage与Two-Stage目标检测之间的差距](https://mp.weixin.qq.com/s/spEL2hYmYykkQkc4aNxJAg)
+    - [2023-03-30，即插即用 | CEASA模块给你所有，小目标精度提升的同时速度也变快了](https://mp.weixin.qq.com/s/-a4Wz04jLHFiAU88pUyDNQ)    
     - [2023-04-05，部署技巧之PAGCP剪枝 | Yolov5/ResNet参数降低50%速度翻倍精度不减](https://mp.weixin.qq.com/s/3_2Dcm8VpoGFksFZE6n2kQ)
     - [2023-04-12，Faster RCNN超快版本来啦 | TinyDet用小于1GFLOPS实现30+AP，小目标炸裂](https://mp.weixin.qq.com/s/-AtF3B_A0rzvS8cUcZQ6Hw)
     - [2023-04-13，即插即用模块 | RFAConv助力YOLOv8再涨2个点](https://mp.weixin.qq.com/s/lsOQiq9wXHxagE_uQ_yOiw)
