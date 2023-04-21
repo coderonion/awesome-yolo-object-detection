@@ -2561,11 +2561,12 @@
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
+    - [2022-12-31，Micro-YOLO：探索目标检测压缩模型的有效方法（附论文下载）](https://mp.weixin.qq.com/s/0_sF3U232i0PEw1NHE2Efw) 
     - [2023-02-25，使用ONNXRuntime部署阿里达摩院开源DAMO-YOLO目标检测，一共包含27个onnx模型(代码开源)](https://mp.weixin.qq.com/s/cQo7HMcWcbZgk7XIzj1q2A)      
     - [2023-04-03，CVPR 2023 论文分类汇总：一个专为计算机视觉领域研究者打造的学术资源宝库](https://mp.weixin.qq.com/s/g8yUdF0SP-81VpVfFjTqNw)   
     - [2023-04-07，Micro-YOLO：探索目标检测压缩模型的有效方法（附论文下载）](https://mp.weixin.qq.com/s/xMq10ZZQnFyXaob0H-Z1qw)   
     - [2023-04-07，实用教程详解：模型部署，用DNN模块部署YOLO目标检测（附源代码）](https://mp.weixin.qq.com/s/ny98FTagPQB1-GnHKFu2MA) 
-    - [2023-04-20，全自动实时移动端AI框架 | YOLO-v4目标检测实时手机端实现](https://mp.weixin.qq.com/s/FPG44PhAxNi7cy_ALcNXmA) 
+    - [2023-04-20，全自动实时移动端AI框架 | YOLO-v4目标检测实时手机端实现](https://mp.weixin.qq.com/s/FPG44PhAxNi7cy_ALcNXmA)
   - 微信公众号「新机器视觉」
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
