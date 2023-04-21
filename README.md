@@ -121,7 +121,7 @@
 
     - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
-    - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**). "微信公众号「美团技术团队」《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"。"微信公众号「美团技术团队」《[目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://mp.weixin.qq.com/s/9FyvWrHErfgJrVXIC_PKqg)》"。"微信公众号「美团技术团队」《[通用目标检测开源框架YOLOv6在美团的量化部署实战 ](https://mp.weixin.qq.com/s/J-3saNkCCAHLjkZQ3VCaeQ)》"。 "微信公众号「集智书童」《[超越YOLOv7 | YOLOv6论文放出，重参+自蒸馏+感知量化+...各种Tricks大放异彩](https://mp.weixin.qq.com/s/DPHC7bO1Q-IKDUqPU7DSJA)》"
+    - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**). "微信公众号「美团技术团队」《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"。"微信公众号「美团技术团队」《[目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://mp.weixin.qq.com/s/9FyvWrHErfgJrVXIC_PKqg)》"。"微信公众号「美团技术团队」《[通用目标检测开源框架YOLOv6在美团的量化部署实战 ](https://mp.weixin.qq.com/s/J-3saNkCCAHLjkZQ3VCaeQ)》"。 "微信公众号「集智书童」《[超越YOLOv7 | YOLOv6论文放出，重参+自蒸馏+感知量化+...各种Tricks大放异彩](https://mp.weixin.qq.com/s/DPHC7bO1Q-IKDUqPU7DSJA)》"。"微信公众号「极市平台」《[Repvgg-style ConvNets，硬件友好！详解YOLOv6的高效backbone：EfficientRep](https://mp.weixin.qq.com/s/2Md30QdqgWnWwVR7d4sx1Q)》"。
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**). "微信公众号「CVer」《[CVPR 2023 | YOLOv7强势收录！时隔6年，YOLOv系列再登CVPR！](https://mp.weixin.qq.com/s/HjaszZYPLoV03Z4Rw9KiCg)》"。
 
@@ -130,6 +130,10 @@
     - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
 
     - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : EdgeYOLO: anchor-free, edge-friendly. an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
+
+    - [RT-DETR](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleDetection?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2304.08069)**). "微信公众号「集智书童」《[YOLO超快时代终结了 | RT-DETR用114FPS实现54.8AP，远超YOLOv8](https://mp.weixin.qq.com/s/V3MUXinJhpq8J4UWTUL17w)》"。
+
+
 
 
   - ### Awesome List
@@ -376,6 +380,8 @@
     - [aliardan/RoadMarkingDetection](https://github.com/aliardan/RoadMarkingDetection) <img src="https://img.shields.io/github/stars/aliardan/RoadMarkingDetection?style=social"/> : Road markings detection using yolov5 model based on ONNX.
 
     - [rabbitsun2/csharp_and_microsoft_ml_and_yolo_v5_sample](https://github.com/rabbitsun2/csharp_and_microsoft_ml_and_yolo_v5_sample) <img src="https://img.shields.io/github/stars/rabbitsun2/csharp_and_microsoft_ml_and_yolo_v5_sample?style=social"/> : C#, Microsoft ML, Yolo v5, Microsoft ML.DNN, OpenCVSharp4 연계 프로젝트.
+
+    - [hsysfan/YOLOv5-Seg-OnnxRuntime](https://github.com/hsysfan/YOLOv5-Seg-OnnxRuntime) <img src="https://img.shields.io/github/stars/hsysfan/YOLOv5-Seg-OnnxRuntime?style=social"/> : YOLOv5 Segmenation Implementation in C# and OnnxRuntime.
 
 
 
@@ -1348,6 +1354,8 @@
 
     - [pprp/awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv) <img src="https://img.shields.io/github/stars/pprp/awesome-attention-mechanism-in-cv?style=social"/> : 👊 CV中常用注意力模块;即插即用模块;ViT模型. PyTorch Implementation Collection of Attention Module and Plug&Play Module.
 
+    - [AbSViT](https://github.com/bfshi/AbSViT) <img src="https://img.shields.io/github/stars/bfshi/AbSViT?style=social"/> : "Top-Down Visual Attention from Analysis by Synthesis". (**[CVPR 2023](https://arxiv.org/abs/2303.13043)**). "微信公众号「人工智能前沿讲习」《[【源头活水】CVPR 2023 | AbSViT：拥有自上而下注意力机制的视觉Transformer](https://mp.weixin.qq.com/s/FtVd37tOXMfu92eDSvdvbg)》"。 "微信公众号「极市平台」《[CVPR23 Highlight｜拥有top-down attention能力的vision transformer](https://mp.weixin.qq.com/s/UMA3Vk9L71zUEtNkCshYBg)》"。
+
     - [HaloTrouvaille/YOLO-Multi-Backbones-Attention](https://github.com/HaloTrouvaille/YOLO-Multi-Backbones-Attention) <img src="https://img.shields.io/github/stars/HaloTrouvaille/YOLO-Multi-Backbones-Attention?style=social"/> : This Repository includes YOLOv3 with some lightweight backbones (ShuffleNetV2, GhostNet, VoVNet), some computer vision attention mechanism (SE Block, CBAM Block, ECA Block), pruning,quantization and distillation for GhostNet.
 
     - [kay-cottage/CoordAttention_YOLOX_Pytorch](https://github.com/kay-cottage/CoordAttention_YOLOX_Pytorch) <img src="https://img.shields.io/github/stars/kay-cottage/CoordAttention_YOLOX_Pytorch?style=social"/> : CoordAttention_YOLOX(基于CoordAttention坐标注意力机制的改进版YOLOX目标检测平台）。 "Coordinate Attention for Efficient Mobile Network Design". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Hou_Coordinate_Attention_for_Efficient_Mobile_Network_Design_CVPR_2021_paper.html), [ Andrew-Qibin/CoordAttention](https://github.com/Andrew-Qibin/CoordAttention)**)
@@ -1401,7 +1409,9 @@
 
     - [Resham-Sundar/sahi-yolox](https://github.com/Resham-Sundar/sahi-yolox) <img src="https://img.shields.io/github/stars/Resham-Sundar/sahi-yolox?style=social"/> : YoloX with SAHI Implementation.
 
-    - YOLO-Z : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "计算机视觉研究院：《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
+    - YOLO-Z : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "微信公众号「计算机视觉研究院」《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
+
+    - M2S : "A novel Multi to Single Module for small object detection". (**[arXiv 2023](https://arxiv.org/abs/2303.14977)**). "微信公众号「集智书童」《[基于YOLOv5改进再设计 | M2S全面提升小目标精度](https://mp.weixin.qq.com/s/FlKgYYGUHtJAxCF2wrh4NA)》".
 
     - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) <img src="https://img.shields.io/github/stars/ultralytics/xview-yolov3?style=social"/> : xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
 
@@ -2156,6 +2166,9 @@
 
     - [pylabel-project/pylabel](https://github.com/pylabel-project/pylabel) <img src="https://img.shields.io/github/stars/pylabel-project/pylabel?style=social"/> : Python library for computer vision labeling tasks. The core functionality is to translate bounding box annotations between different formats-for example, from coco to yolo.
 
+    - [opendatalab/labelU](https://github.com/opendatalab/labelU) <img src="https://img.shields.io/github/stars/opendatalab/labelU?style=social"/> : Uniform, Unlimited, Universal and Unbelievable Annotation Toolbox.
+
+    
 
 
   - ### Feature Map Visualization
@@ -2189,6 +2202,8 @@
     #### 图形用户界面
 
     - [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) <img src="https://img.shields.io/github/stars/Javacr/PyQt5-YOLOv5?style=social"/> : YOLOv5检测界面-PyQt5实现。
+
+    - [zstar1003/yolov5_pyqt5](https://github.com/zstar1003/yolov5_pyqt5) <img src="https://img.shields.io/github/stars/zstar1003/yolov5_pyqt5?style=social"/> : 这是一个使用pyqt5搭建YOLOv5目标检测可视化程序。
 
     - [scutlrr/Yolov4-QtGUI](https://github.com/scutlrr/Yolov4-QtGUI) <img src="https://img.shields.io/github/stars/scutlrr/Yolov4-QtGUI?style=social"/> : Yolov4-QtGUI是基于[QtGuiDemo](https://github.com/jmu201521121021/QtGuiDemo)项目开发的可视化目标检测界面，可以简便选择本地图片、摄像头来展示图像处理算法的结果。
 
@@ -2324,6 +2339,11 @@
 
     - [TAber-W/RM_4-points_yolov5](https://github.com/TAber-W/RM_4-points_yolov5) <img src="https://img.shields.io/github/stars/TAber-W/RM_4-points_yolov5?style=social"/> : Robomaster 基于yoloface和MobileNet修改的四点模型.
 
+    - [eternal-echo/picking](https://github.com/eternal-echo/picking) <img src="https://img.shields.io/github/stars/eternal-echo/picking?style=social"/> : 基于YOLO v5视觉分拣零件系统设计。
+
+
+
+
 
 ## Blogs
 
@@ -2375,6 +2395,8 @@
     - [2022-11-15，NeurIPS'22 Spotlight｜华为诺亚GhostNetV2出炉：长距离注意力机制增强廉价操作](https://mp.weixin.qq.com/s/RBpC-0HqzgtHy5xsoBce8Q)
     - [2022-11-21，轻量级的CNN模块！RepGhost：重参数化技术构建硬件高效的 Ghost 模块](https://mp.weixin.qq.com/s/mV2Bl4tBZwZ7n-YleMUE4g) 
     - [2023-02-26，厦大纪荣嵘团队新作｜OneTeacher: 解锁 YOLOv5 的正确打开方式](https://mp.weixin.qq.com/s/HAfCpECOxccPfj5b7Pprfw)
+    - [2023-04-18，Repvgg-style ConvNets，硬件友好！详解YOLOv6的高效backbone：EfficientRep](https://mp.weixin.qq.com/s/2Md30QdqgWnWwVR7d4sx1Q)
+    - [2023-04-19，CVPR23 Highlight｜拥有top-down attention能力的vision transformer](https://mp.weixin.qq.com/s/UMA3Vk9L71zUEtNkCshYBg)
   - 微信公众号「WeThinkln」
     - [2022-09-18，【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
     - [2022-07-31，【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
@@ -2534,13 +2556,16 @@
     - [2023-04-05，部署技巧之PAGCP剪枝 | Yolov5/ResNet参数降低50%速度翻倍精度不减](https://mp.weixin.qq.com/s/3_2Dcm8VpoGFksFZE6n2kQ)
     - [2023-04-12，Faster RCNN超快版本来啦 | TinyDet用小于1GFLOPS实现30+AP，小目标炸裂](https://mp.weixin.qq.com/s/-AtF3B_A0rzvS8cUcZQ6Hw)
     - [2023-04-13，即插即用模块 | RFAConv助力YOLOv8再涨2个点](https://mp.weixin.qq.com/s/lsOQiq9wXHxagE_uQ_yOiw)
+    - [2023-04-19，YOLO超快时代终结了 | RT-DETR用114FPS实现54.8AP，远超YOLOv8](https://mp.weixin.qq.com/s/V3MUXinJhpq8J4UWTUL17w)
+    - [2023-04-21，基于YOLOv5改进再设计 | M2S全面提升小目标精度](https://mp.weixin.qq.com/s/FlKgYYGUHtJAxCF2wrh4NA)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
     - [2023-02-25，使用ONNXRuntime部署阿里达摩院开源DAMO-YOLO目标检测，一共包含27个onnx模型(代码开源)](https://mp.weixin.qq.com/s/cQo7HMcWcbZgk7XIzj1q2A)      
     - [2023-04-03，CVPR 2023 论文分类汇总：一个专为计算机视觉领域研究者打造的学术资源宝库](https://mp.weixin.qq.com/s/g8yUdF0SP-81VpVfFjTqNw)   
     - [2023-04-07，Micro-YOLO：探索目标检测压缩模型的有效方法（附论文下载）](https://mp.weixin.qq.com/s/xMq10ZZQnFyXaob0H-Z1qw)   
-    - [2023-04-07，实用教程详解：模型部署，用DNN模块部署YOLO目标检测（附源代码）](https://mp.weixin.qq.com/s/ny98FTagPQB1-GnHKFu2MA)   
+    - [2023-04-07，实用教程详解：模型部署，用DNN模块部署YOLO目标检测（附源代码）](https://mp.weixin.qq.com/s/ny98FTagPQB1-GnHKFu2MA) 
+    - [2023-04-20，全自动实时移动端AI框架 | YOLO-v4目标检测实时手机端实现](https://mp.weixin.qq.com/s/FPG44PhAxNi7cy_ALcNXmA) 
   - 微信公众号「新机器视觉」
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
@@ -2571,4 +2596,12 @@
     - [2023-01-07，现代目标检测故事 | 40+种网络架构大盘点！从基础架构ResNet到最强检测器Yolov7再到最新部署神器GhostNetV2](https://mp.weixin.qq.com/s/22rRzyZj93-Y4msYwa_LKQ) 
     - [2023-02-19，阿里团队新作 | 探讨 YOLOv5 的高效进阶之路！](https://mp.weixin.qq.com/s/B0yHtFMTO5gwt0B-ra18QA) 
   - 微信公众号「OpenCV中文网」
-    - [2023-04-07，YOLOv8 全家桶再迎新成员！新增Pose Estimation模型!](https://mp.weixin.qq.com/s/wF93AAVnGsQtHdB-DkSTPQ) 
+    - [2023-04-07，YOLOv8 全家桶再迎新成员！新增Pose Estimation模型!](https://mp.weixin.qq.com/s/wF93AAVnGsQtHdB-DkSTPQ)
+  - 微信公众号「深度学习与计算机视觉」
+    - [2023-03-28，使用 YOLO 进行目标检测：如何提取人物图像](https://mp.weixin.qq.com/s/vthdOoy3etZmybMLaGzoFg)  
+  - 微信公众号「机器学习算法工程师」
+    - [2023-04-19，惊呆了！基于Transformer的检测模型RT-DETR竟然比YOLO还快！](https://mp.weixin.qq.com/s/wgBaZ-CTB7B4nvYnobMDvw)  
+  - 微信公众号「计算机视觉与机器学习」
+    - [2023-04-19，RT-DETR | 吊打YOLO系列的 DETR部署教程来啦，优雅而简洁！](https://mp.weixin.qq.com/s/oflfbPkhj3ka2ExK7ZZ0VA)  
+  - 微信公众号「人工智能前沿讲习」
+    - [2023-04-19，【源头活水】CVPR 2023 | AbSViT：拥有自上而下注意力机制的视觉Transformer](https://mp.weixin.qq.com/s/FtVd37tOXMfu92eDSvdvbg)  
