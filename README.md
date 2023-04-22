@@ -121,6 +121,12 @@
 
     - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
+    - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
+
+    - [YOLOF](https://github.com/megvii-model/YOLOF) <img src="https://img.shields.io/github/stars/megvii-model/YOLOF?style=social"/> : "You Only Look One-level Feature". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_You_Only_Look_One-Level_Feature_CVPR_2021_paper.html)**)
+
+    - [YOLOS](https://github.com/hustvl/YOLOS) <img src="https://img.shields.io/github/stars/hustvl/YOLOS?style=social"/> : "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/dc912a253d1e9ba40e2c597ed2376640-Abstract.html)**)
+
     - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**). "微信公众号「美团技术团队」《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"。"微信公众号「美团技术团队」《[目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://mp.weixin.qq.com/s/9FyvWrHErfgJrVXIC_PKqg)》"。"微信公众号「美团技术团队」《[通用目标检测开源框架YOLOv6在美团的量化部署实战 ](https://mp.weixin.qq.com/s/J-3saNkCCAHLjkZQ3VCaeQ)》"。 "微信公众号「集智书童」《[超越YOLOv7 | YOLOv6论文放出，重参+自蒸馏+感知量化+...各种Tricks大放异彩](https://mp.weixin.qq.com/s/DPHC7bO1Q-IKDUqPU7DSJA)》"。"微信公众号「极市平台」《[Repvgg-style ConvNets，硬件友好！详解YOLOv6的高效backbone：EfficientRep](https://mp.weixin.qq.com/s/2Md30QdqgWnWwVR7d4sx1Q)》"。
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**). "微信公众号「CVer」《[CVPR 2023 | YOLOv7强势收录！时隔6年，YOLOv系列再登CVPR！](https://mp.weixin.qq.com/s/HjaszZYPLoV03Z4Rw9KiCg)》"。
@@ -132,6 +138,7 @@
     - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : EdgeYOLO: anchor-free, edge-friendly. an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
 
     - [RT-DETR](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleDetection?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2304.08069)**). "微信公众号「集智书童」《[YOLO超快时代终结了 | RT-DETR用114FPS实现54.8AP，远超YOLOv8](https://mp.weixin.qq.com/s/V3MUXinJhpq8J4UWTUL17w)》"。
+
 
 
 
@@ -196,12 +203,6 @@
   - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
 
   - [EasyCV](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : An all-in-one toolkit for computer vision. "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
-
-  - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
-
-  - [YOLOF](https://github.com/megvii-model/YOLOF) <img src="https://img.shields.io/github/stars/megvii-model/YOLOF?style=social"/> : "You Only Look One-level Feature". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_You_Only_Look_One-Level_Feature_CVPR_2021_paper.html)**)
-
-  - [YOLOS](https://github.com/hustvl/YOLOS) <img src="https://img.shields.io/github/stars/hustvl/YOLOS?style=social"/> : "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/dc912a253d1e9ba40e2c597ed2376640-Abstract.html)**)
 
   - [YOLACT & YOLACT++](https://github.com/dbolya/yolact) <img src="https://img.shields.io/github/stars/dbolya/yolact?style=social"/> : You Only Look At CoefficienTs. (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html), [IEEE TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/9159935)**)
 
