@@ -107,7 +107,7 @@
 
   - ### Official YOLO
 
-    - [YOLO](https://pjreddie.com/darknet/yolov1) ([Darknet](https://github.com/pjreddie/darknet) <img src="https://img.shields.io/github/stars/pjreddie/darknet?style=social"/>) : "You Only Look Once: Unified, Real-Time Object Detection". (**[CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)**)
+    - [YOLOv1](https://pjreddie.com/darknet/yolov1) ([Darknet](https://github.com/pjreddie/darknet) <img src="https://img.shields.io/github/stars/pjreddie/darknet?style=social"/>) : "You Only Look Once: Unified, Real-Time Object Detection". (**[CVPR 2016](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html)**)
 
     - [YOLOv2](https://pjreddie.com/darknet/yolov2) ([Darknet](https://github.com/pjreddie/darknet) <img src="https://img.shields.io/github/stars/pjreddie/darknet?style=social"/>) : "YOLO9000: Better, Faster, Stronger". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Redmon_YOLO9000_Better_Faster_CVPR_2017_paper.html)**)
 
