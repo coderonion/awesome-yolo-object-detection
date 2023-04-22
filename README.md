@@ -2264,6 +2264,8 @@
     - [smartwj/yolov5_pyqt5](https://github.com/smartwj/yolov5_pyqt5) <img src="https://img.shields.io/github/stars/smartwj/yolov5_pyqt5?style=social"/> : 基于yolov5的pyqt5目标检测图形上位机工具。
 
     - [LitChi-bit/YOLOv5-6.0-GUI](https://github.com/LitChi-bit/YOLOv5-6.0-GUI) <img src="https://img.shields.io/github/stars/LitChi-bit/YOLOv5-6.0-GUI?style=social"/> : Qt-GUI implementation of the YOLOv5 algorithm (ver.6).
+    
+    - [PetervanLunteren/EcoAssist](https://github.com/PetervanLunteren/EcoAssist) <img src="https://img.shields.io/github/stars/PetervanLunteren/EcoAssist?style=social"/> : A no-code platform to train and deploy YOLOv5 object detection models.
   
 
 
