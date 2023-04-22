@@ -2371,6 +2371,7 @@
     - [2023-03-31，小目标检测精度优化方式，CEASA模块，即插即用（附论文及源码）](https://mp.weixin.qq.com/s/fXV3rdB_YtSVap0FtK_AeQ)   
     - [2023-04-01，GPU 利用率低常见原因分析及优化](https://mp.weixin.qq.com/s/LCJZqnNB6C15EEMPB1X-hQ)  
     - [2023-04-03，小目标检测算法，Yolov5优化升级 ，即插即用，值得尝试！](https://mp.weixin.qq.com/s/KEdsJO1z19sq7rTtwyC4Rg)   
+    - [2023-04-22，CUDA卷积算子，手写详细实现流程](https://mp.weixin.qq.com/s/3rQQ31LWxvDli_1uwGsHIw)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
