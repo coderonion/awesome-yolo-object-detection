@@ -2572,6 +2572,8 @@
     - [2023-04-07，实用教程详解：模型部署，用DNN模块部署YOLO目标检测（附源代码）](https://mp.weixin.qq.com/s/ny98FTagPQB1-GnHKFu2MA) 
     - [2023-04-20，全自动实时移动端AI框架 | YOLO-v4目标检测实时手机端实现](https://mp.weixin.qq.com/s/FPG44PhAxNi7cy_ALcNXmA)
     - [2023-04-22，CVPR目标检测新框架：不再是YOLO，而是只需要一层特征（干货满满，建议收藏）](https://mp.weixin.qq.com/s/5sTxdjhKIPpQ-rCsWfe80A)
+    - [2023-04-25，GPT-CV：基于Yolov5的半监督目标检测](https://mp.weixin.qq.com/s/wK-5i30X06SfLgASlRdqJw)
+    - [2023-04-25，EdgeYOLO：边缘设备上实时运行的目标检测器及Pytorch实现](https://mp.weixin.qq.com/s/zEFjvUKnrm5Iwa6e9Fy29Q)
   - 微信公众号「新机器视觉」
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
@@ -2613,3 +2615,10 @@
     - [2023-04-19，【源头活水】CVPR 2023 | AbSViT：拥有自上而下注意力机制的视觉Transformer](https://mp.weixin.qq.com/s/FtVd37tOXMfu92eDSvdvbg)  
   - 微信公众号「AIWalker」
     - [2023-03-29，ChatGPT是如何看待YOLO系列算法的贡献呢？~哈哈~ ](https://mp.weixin.qq.com/s/E-TNeTKK5EV70zAenRVbwQ)  
+  - 微信公众号「AI科技与算法编程」
+    - [2023-04-11, YOLOv8 AS-One：目标检测AS-One 来了！（YOLO就是名副其实的卷王之王）](https://mp.weixin.qq.com/s/ofokLwCwgN1GNTqy3NuYmg) 
+  - 微信公众号「董董灿是个攻城狮」
+    - [2023-04-17，万字长文入门神经网络硬件加速](https://mp.weixin.qq.com/s/3aNVGIPf5pLzEv67KI8M5w)
+    - [2023-04-19，CUDA卷积算子手写详细实现](https://mp.weixin.qq.com/s/VlrglazJE54Xnm3tjM0uCg) 
+  - 微信公众号「深度学习与NLP」
+    - [2023-04-24，[万字干货]-如何给模型加入先验知识？](https://mp.weixin.qq.com/s/RmM9ay4arJWBoNP11Bfbsw)  
