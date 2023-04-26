@@ -195,6 +195,8 @@
 
       - [Cver4s](https://github.com/KangChou/Cver4s) <img src="https://img.shields.io/github/stars/KangChou/Cver4s?style=social"/> : Cver4s：Computer vision algorithm code base.
 
+      - [yjh0410/PyTorch_YOLO_Tutorial](https://github.com/yjh0410/PyTorch_YOLO_Tutorial) <img src="https://img.shields.io/github/stars/yjh0410/PyTorch_YOLO_Tutorial?style=social"/> : YOLO Tutorial.
+
       - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
 
@@ -221,7 +223,11 @@
 
   - ### C Implementation
 
+    - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
+
     - [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn) <img src="https://img.shields.io/github/stars/rockcarry/ffcnn?style=social"/> : ffcnn is a cnn neural network inference framework, written in 600 lines C language.
+
+    - [ar7775/Object-Detection-System-Yolo](https://github.com/ar7775/Object-Detection-System-Yolo) <img src="https://img.shields.io/github/stars/ar7775/Object-Detection-System-Yolo?style=social"/> : Object Detection System.
 
     - [lstuma/YOLO_utils](https://github.com/lstuma/YOLO_utils) <img src="https://img.shields.io/github/stars/lstuma/YOLO_utils?style=social"/> : A few utilities for the YOLO project implemented in C for extra speed.
 
@@ -418,6 +424,8 @@
     - [bubbliiiing/yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolox-pytorch?style=social"/> : 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
 
     - [bubbliiiing/yolov7-pytorch](https://github.com/bubbliiiing/yolov7-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov7-pytorch?style=social"/> : 这是一个yolov7的库，可以用于训练自己的数据集。 
+
+    - [bubbliiiing/yolov8-pytorch](https://github.com/bubbliiiing/yolov8-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov8-pytorch?style=social"/> : 这是一个yolov8-pytorch的仓库，可以用于训练自己的数据集。  
 
     - [BobLiu20/YOLOv3_PyTorch](https://github.com/BobLiu20/YOLOv3_PyTorch) <img src="https://img.shields.io/github/stars/BobLiu20/YOLOv3_PyTorch?style=social"/> : Full implementation of YOLOv3 in PyTorch.
 
@@ -1933,6 +1941,9 @@
 
     - [AntroSafin/Fire_Detection_YoloV5](https://github.com/AntroSafin/Fire_Detection_YoloV5) <img src="https://img.shields.io/github/stars/AntroSafin/Fire_Detection_YoloV5?style=social"/> : This is the YoloV5 fire detection application. 
 
+    - [harivams-sai/FireDetectionYOLOv8](https://github.com/harivams-sai/FireDetectionYOLOv8) <img src="https://img.shields.io/github/stars/harivams-sai/FireDetectionYOLOv8?style=social"/> : A fire detection model based on YOLOv8 Ultralytics model for object detection. Tech: Python, Computer Vision, Colab Notebook, Fire-detection, YOLOv8. 
+
+
 
 
   - ### Medical Field Detection
@@ -2403,6 +2414,7 @@
     - [2023-02-26，厦大纪荣嵘团队新作｜OneTeacher: 解锁 YOLOv5 的正确打开方式](https://mp.weixin.qq.com/s/HAfCpECOxccPfj5b7Pprfw)
     - [2023-04-18，Repvgg-style ConvNets，硬件友好！详解YOLOv6的高效backbone：EfficientRep](https://mp.weixin.qq.com/s/2Md30QdqgWnWwVR7d4sx1Q)
     - [2023-04-19，CVPR23 Highlight｜拥有top-down attention能力的vision transformer](https://mp.weixin.qq.com/s/UMA3Vk9L71zUEtNkCshYBg)
+    - [2023-04-26，万字长文，深度全面解读PyTorch内部机制](https://mp.weixin.qq.com/s/JYsJRo8l5-nTFrGwBV-BFA)
   - 微信公众号「WeThinkln」
     - [2022-09-18，【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
     - [2022-07-31，【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
@@ -2576,6 +2588,7 @@
     - [2023-04-22，CVPR目标检测新框架：不再是YOLO，而是只需要一层特征（干货满满，建议收藏）](https://mp.weixin.qq.com/s/5sTxdjhKIPpQ-rCsWfe80A)
     - [2023-04-25，GPT-CV：基于Yolov5的半监督目标检测](https://mp.weixin.qq.com/s/wK-5i30X06SfLgASlRdqJw)
     - [2023-04-25，EdgeYOLO：边缘设备上实时运行的目标检测器及Pytorch实现](https://mp.weixin.qq.com/s/zEFjvUKnrm5Iwa6e9Fy29Q)
+    - [2023-04-26，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/xocZNuIOCgGynjZxX_xKgw)
   - 微信公众号「新机器视觉」
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
