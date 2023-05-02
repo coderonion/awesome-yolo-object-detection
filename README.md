@@ -1605,6 +1605,8 @@
     - ####  Vehicle Detection
       #####  车辆检测
 
+      - [williamhyin/yolov5s_bdd100k](https://github.com/williamhyin/yolov5s_bdd100k) <img src="https://img.shields.io/github/stars/williamhyin/yolov5s_bdd100k?style=social"/> : Train a yolo v5 object detection model on Bdd100k dataset.
+
       - [Gaussian_YOLOv3](https://github.com/jwchoi384/Gaussian_YOLOv3) <img src="https://img.shields.io/github/stars/jwchoi384/Gaussian_YOLOv3?style=social"/> : "Gaussian YOLOv3: An Accurate and Fast Object Detector Using Localization Uncertainty for Autonomous Driving". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Choi_Gaussian_YOLOv3_An_Accurate_and_Fast_Object_Detector_Using_Localization_ICCV_2019_paper.html)**)
 
       - [streamlit/demo-self-driving](https://github.com/streamlit/demo-self-driving) <img src="https://img.shields.io/github/stars/streamlit/demo-self-driving?style=social"/> : Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.
