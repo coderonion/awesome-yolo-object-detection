@@ -2392,6 +2392,10 @@
     - [2023-04-22，CUDA卷积算子，手写详细实现流程](https://mp.weixin.qq.com/s/3rQQ31LWxvDli_1uwGsHIw)   
     - [2023-04-28，深入浅出PyTorch模型，int8量化及原理流程](https://mp.weixin.qq.com/s/pij3APMt_wtyS6St89lbdQ) 
     - [2023-04-29，AI视觉项目，图像标注工具梳理汇总](https://mp.weixin.qq.com/s/SvgTQfKqGlI5DsrsmfKUhA)   
+    - [2023-05-08，Label-Studio X SAM，半自动化标注神器（附源码）](https://mp.weixin.qq.com/s/f-sD8ukV3Nm28_-yHi44BA)   
+    - [2023-05-09，深入浅出多目标跟踪技术的研究与探索](https://mp.weixin.qq.com/s/aYam5aQXJTZ1ysubEfewYA)   
+    - [2023-05-10，超强目标检测器RT-DETR，保姆级部署教程，从入门到精通（附论文及源码）](https://mp.weixin.qq.com/s/NfUWJ5cBTXvuB45l1hnSfw) 
+    - [2023-05-13，YOLOCS目标检测算法，YOLOv5的Backbone/Neck/Head全面改进](https://mp.weixin.qq.com/s/exo2JkLluChvLDSif2JvMQ)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2410,6 +2414,7 @@
     - [2022-07-19，YOLO系列梳理（十）YOLO官方重回江湖 并带来了YOLOv7](https://zhuanlan.zhihu.com/p/543574708) 
     - [2023-03-11，目标跟踪专栏（一）基本任务、常用方法](https://mp.weixin.qq.com/s/DKHOlLtjO2OBtIWlA3cpzg) 
     - [2023-04-17，目标跟踪（二）单、多目标跟踪的基本概念与常用数据集](https://mp.weixin.qq.com/s/N50tOvJwNRZhyoVq6Fc-ig) 
+    - [2023-05-11，全新YOLO模型YOLOCS来啦 | 面面俱到地改进YOLOv5的Backbone/Neck/Head](https://mp.weixin.qq.com/s/wnxOd-DukIpea5j2Dqcpbw) 
   - [知乎「极市平台」| 微信公众号「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
     - [2020-11-17，YOLO算法最全综述：从YOLOv1到YOLOv5](https://zhuanlan.zhihu.com/p/297965943)
     - [2022-08-04，华为轻量级神经网络架构GhostNet再升级，GPU上大显身手的G-GhostNet（IJCV22）](https://mp.weixin.qq.com/s/31Fb3WSBtRUNu8oUkMrBrg)     
@@ -2637,6 +2642,7 @@
     - [2023-04-19，【源头活水】CVPR 2023 | AbSViT：拥有自上而下注意力机制的视觉Transformer](https://mp.weixin.qq.com/s/FtVd37tOXMfu92eDSvdvbg)  
   - 微信公众号「AIWalker」
     - [2023-03-29，ChatGPT是如何看待YOLO系列算法的贡献呢？~哈哈~ ](https://mp.weixin.qq.com/s/E-TNeTKK5EV70zAenRVbwQ)  
+    - [2023-05-07，YOLO-NAS | YOLO新高度，引入NAS，出于YOLOv8而优于YOLOv8](https://mp.weixin.qq.com/s/FsWSRguAn2WZKtmPhMbc6g)  
   - 微信公众号「AI科技与算法编程」
     - [2023-04-11, YOLOv8 AS-One：目标检测AS-One 来了！（YOLO就是名副其实的卷王之王）](https://mp.weixin.qq.com/s/ofokLwCwgN1GNTqy3NuYmg) 
   - 微信公众号「董董灿是个攻城狮」
