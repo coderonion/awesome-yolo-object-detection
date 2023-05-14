@@ -2390,6 +2390,8 @@
     - [2023-04-01，GPU 利用率低常见原因分析及优化](https://mp.weixin.qq.com/s/LCJZqnNB6C15EEMPB1X-hQ)  
     - [2023-04-03，小目标检测算法，Yolov5优化升级 ，即插即用，值得尝试！](https://mp.weixin.qq.com/s/KEdsJO1z19sq7rTtwyC4Rg)   
     - [2023-04-22，CUDA卷积算子，手写详细实现流程](https://mp.weixin.qq.com/s/3rQQ31LWxvDli_1uwGsHIw)   
+    - [2023-04-28，深入浅出PyTorch模型，int8量化及原理流程](https://mp.weixin.qq.com/s/pij3APMt_wtyS6St89lbdQ) 
+    - [2023-04-29，AI视觉项目，图像标注工具梳理汇总](https://mp.weixin.qq.com/s/SvgTQfKqGlI5DsrsmfKUhA)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2444,6 +2446,7 @@
     - [2023-01-10，《YOLOv5全面解析教程》​十四，YOLOv5 autoanchor 机制详解](https://mp.weixin.qq.com/s/qC-E2UbjNZT-c04IpXfoYA)
     - [2023-02-07，《YOLOv5全面解析教程》​十五，YOLOv5 Callback机制解读](https://mp.weixin.qq.com/s/osGwscIawS9q07g21rTQcA)
     - [2023-02-18，《YOLOv5全面解析教程》​十六，val.py 源码解读](https://mp.weixin.qq.com/s/sa2MQIaPIkHHxoVRGYMTAw)
+    - [2023-04-24，简单聊聊目标检测新范式RT-DETR的骨干：HGNetv2](https://mp.weixin.qq.com/s/gF_qfXPMvPKWGNoEFdnpHw)
   - 微信公众号「PandaCVer」
     - [2022-10-18，改进YOLOv5——魔改YOLOv5提升检测精度](https://mp.weixin.qq.com/s/1iP4H3Ri6uBkq24eOO-viw)
     - [2022-10-23，目标检测算法——YOLOv5&无参SimAM！](https://mp.weixin.qq.com/s/X6MIRbE4ZD9xA-c-UtAa_A)
@@ -2549,6 +2552,7 @@
     - [2023-03-15，【YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进NO.59】引入ASPP模块](https://mp.weixin.qq.com/s/_YjOXjxggHGPLg9T5bE2YQ)   
     - [2023-03-30，【YOLOv8/YOLOv7/YOLOv5/YOLOv4系列算法改进】结合NeurIPS 2022年GhostnetV2网络模块](https://mp.weixin.qq.com/s/YgR-hc1aimba3ij9tfaBAw) 
     - [2023-04-08，YOLOv8/YOLOv7/YOLOv5/YOLOv4算法-结合CVPR 2023 即插即用动态稀疏注意力BiFormer模块](https://mp.weixin.qq.com/s/JqDIRqM5XAMzqz-Un2yw8Q)   
+    - [2023-05-05，英文论文（sci）解读复现：基于注意机制的改进YOLOv5s目标检测算法](https://mp.weixin.qq.com/s/4Xu9UIwcpgGvqOkXVDhoYA)   
   - 微信公众号「所向披靡的张大刀」
     - [2022-04-24，【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
     - [2022-07-02，【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -2620,6 +2624,7 @@
   - 微信公众号「CVHub」
     - [2023-01-07，现代目标检测故事 | 40+种网络架构大盘点！从基础架构ResNet到最强检测器Yolov7再到最新部署神器GhostNetV2](https://mp.weixin.qq.com/s/22rRzyZj93-Y4msYwa_LKQ) 
     - [2023-02-19，阿里团队新作 | 探讨 YOLOv5 的高效进阶之路！](https://mp.weixin.qq.com/s/B0yHtFMTO5gwt0B-ra18QA) 
+    - [2023-05-05，超强目标检测器 RT-DETR | Python/C++ 保姆级部署教程，从入门到精通](https://mp.weixin.qq.com/s/W56LHZbZEqqoCPFVf612FA) 
   - 微信公众号「OpenCV中文网」
     - [2023-04-07，YOLOv8 全家桶再迎新成员！新增Pose Estimation模型!](https://mp.weixin.qq.com/s/wF93AAVnGsQtHdB-DkSTPQ)
   - 微信公众号「深度学习与计算机视觉」
@@ -2639,3 +2644,9 @@
     - [2023-04-19，CUDA卷积算子手写详细实现](https://mp.weixin.qq.com/s/VlrglazJE54Xnm3tjM0uCg) 
   - 微信公众号「深度学习与NLP」
     - [2023-04-24，[万字干货]-如何给模型加入先验知识？](https://mp.weixin.qq.com/s/RmM9ay4arJWBoNP11Bfbsw)  
+  - 微信公众号「OpenCV与AI深度学习」
+    - [2023-04-23，基于 YOLOv8 的自定义数据集训练](https://mp.weixin.qq.com/s/NrT7aFurdz5IRr3bCFsHQA)  
+  - 微信公众号「嵌入式视觉」
+    - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)  
+  - 微信公众号「机器学习算法那些事」
+    - [2023-05-02，labelGo：基于 YOLOv5 的辅助标注工具](https://mp.weixin.qq.com/s/4EFTj6RxOCvX2Wn5euhSAQ)  
