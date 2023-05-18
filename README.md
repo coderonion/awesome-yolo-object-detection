@@ -1890,6 +1890,8 @@
   - #### Multispectral Image Fusion Detection
     #### 多光谱图像融合检测
 
+      - [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/Lidar_AI_Solution?style=social"/> : This is a highly optimized solution for self-driving 3D-lidar repository. It does a great job of speeding up sparse convolution/CenterPoint/BEVFusion/OSD/Conversion. A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,). 
+
       - [SuperYOLO](https://github.com/icey-zhang/SuperYOLO) <img src="https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social"/> : "SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery". (**[arXiv 2022](https://arxiv.org/abs/2209.13351)**)
 
       - [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) <img src="https://img.shields.io/github/stars/OrangeSodahub/CRLFnet?style=social"/> : Camera-Radar-Lidar Fusion detection net based on ROS, YOLOv3, OpenPCDet integration. 
