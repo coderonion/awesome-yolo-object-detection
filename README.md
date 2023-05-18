@@ -2398,7 +2398,8 @@
     - [2023-05-08，Label-Studio X SAM，半自动化标注神器（附源码）](https://mp.weixin.qq.com/s/f-sD8ukV3Nm28_-yHi44BA)   
     - [2023-05-09，深入浅出多目标跟踪技术的研究与探索](https://mp.weixin.qq.com/s/aYam5aQXJTZ1ysubEfewYA)   
     - [2023-05-10，超强目标检测器RT-DETR，保姆级部署教程，从入门到精通（附论文及源码）](https://mp.weixin.qq.com/s/NfUWJ5cBTXvuB45l1hnSfw) 
-    - [2023-05-13，YOLOCS目标检测算法，YOLOv5的Backbone/Neck/Head全面改进](https://mp.weixin.qq.com/s/exo2JkLluChvLDSif2JvMQ)   
+    - [2023-05-13，YOLOCS目标检测算法，YOLOv5的Backbone/Neck/Head全面改进](https://mp.weixin.qq.com/s/exo2JkLluChvLDSif2JvMQ) 
+    - [2023-05-17，一文看尽深度学习各种注意力机制，学习推荐！](https://mp.weixin.qq.com/s/PkzzElN1uk2Yzu1DsYnOdQ)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2642,11 +2643,13 @@
     - [2023-04-19，惊呆了！基于Transformer的检测模型RT-DETR竟然比YOLO还快！](https://mp.weixin.qq.com/s/wgBaZ-CTB7B4nvYnobMDvw)  
   - 微信公众号「计算机视觉与机器学习」
     - [2023-04-19，RT-DETR | 吊打YOLO系列的 DETR部署教程来啦，优雅而简洁！](https://mp.weixin.qq.com/s/oflfbPkhj3ka2ExK7ZZ0VA)  
+    - [2023-05-16，超强目标检测器 RT-DETR | Python/C++ 保姆级部署教程，从入门到精通](https://mp.weixin.qq.com/s/XwmQILnaLtWPfo-dysLeAA)  
   - 微信公众号「人工智能前沿讲习」
     - [2023-04-19，【源头活水】CVPR 2023 | AbSViT：拥有自上而下注意力机制的视觉Transformer](https://mp.weixin.qq.com/s/FtVd37tOXMfu92eDSvdvbg)  
   - 微信公众号「AIWalker」
     - [2023-03-29，ChatGPT是如何看待YOLO系列算法的贡献呢？~哈哈~ ](https://mp.weixin.qq.com/s/E-TNeTKK5EV70zAenRVbwQ)  
-    - [2023-05-07，YOLO-NAS | YOLO新高度，引入NAS，出于YOLOv8而优于YOLOv8](https://mp.weixin.qq.com/s/FsWSRguAn2WZKtmPhMbc6g)  
+    - [2023-05-07，YOLO-NAS | YOLO新高度，引入NAS，出于YOLOv8而优于YOLOv8](https://mp.weixin.qq.com/s/FsWSRguAn2WZKtmPhMbc6g)
+    - [2023-05-16，全网唯一复现！手机端 1ms 级延迟的主干网模型 MobileOne](https://mp.weixin.qq.com/s/Wk1sHIQKUe01PqMnpzcCfQ)  
   - 微信公众号「AI科技与算法编程」
     - [2023-04-11, YOLOv8 AS-One：目标检测AS-One 来了！（YOLO就是名副其实的卷王之王）](https://mp.weixin.qq.com/s/ofokLwCwgN1GNTqy3NuYmg) 
   - 微信公众号「董董灿是个攻城狮」
@@ -2658,5 +2661,6 @@
     - [2023-04-23，基于 YOLOv8 的自定义数据集训练](https://mp.weixin.qq.com/s/NrT7aFurdz5IRr3bCFsHQA)  
   - 微信公众号「嵌入式视觉」
     - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)  
+    - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)  
   - 微信公众号「机器学习算法那些事」
     - [2023-05-02，labelGo：基于 YOLOv5 的辅助标注工具](https://mp.weixin.qq.com/s/4EFTj6RxOCvX2Wn5euhSAQ)  
