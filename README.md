@@ -117,7 +117,7 @@
 
     - [Scaled-YOLOv4](https://github.com/AlexeyAB/darknet) <img src="https://img.shields.io/github/stars/AlexeyAB/darknet?style=social"/> ([WongKinYiu/ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4) <img src="https://img.shields.io/github/stars/WongKinYiu/ScaledYOLOv4?style=social"/>) : "Scaled-YOLOv4: Scaling Cross Stage Partial Network". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.html)**)
 
-    - [YOLOv5](https://github.com/ultralytics/yolov5) <img src="https://img.shields.io/github/stars/ultralytics/yolov5?style=social"/> : YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite. YOLOv5 🚀 is the world's most loved vision AI, representing [Ultralytics](https://ultralytics.com/) open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
+    - [YOLOv5](https://github.com/ultralytics/yolov5) <img src="https://img.shields.io/github/stars/ultralytics/yolov5?style=social"/> : YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite. [docs.ultralytics.com](https://docs.ultralytics.com/). YOLOv5 🚀 is the world's most loved vision AI, representing [Ultralytics](https://ultralytics.com/) open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 
     - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
