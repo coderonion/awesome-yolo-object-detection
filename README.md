@@ -173,19 +173,21 @@
 
     - #### Code Review
 
-      - [MMDetection](https://github.com/open-mmlab/mmdetection) <img src="https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social"/> : OpenMMLab Detection Toolbox and Benchmark. (**[arXiv 2019](https://arxiv.org/abs/1906.07155)**)
+      - [MMDetection](https://github.com/open-mmlab/mmdetection) <img src="https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social"/> : OpenMMLab Detection Toolbox and Benchmark. [mmdetection.readthedocs.io](https://mmdetection.readthedocs.io/en/latest/). (**[arXiv 2019](https://arxiv.org/abs/1906.07155)**)
 
-      - [MMYOLO](https://github.com/open-mmlab/mmyolo) <img src="https://img.shields.io/github/stars/open-mmlab/mmyolo?style=social"/> : OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc. 
+      - [MMYOLO](https://github.com/open-mmlab/mmyolo) <img src="https://img.shields.io/github/stars/open-mmlab/mmyolo?style=social"/> : OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, PPYOLOE, etc. [mmyolo.readthedocs.io/zh_CN/dev/](https://mmyolo.readthedocs.io/zh_CN/dev/)
 
-      - [YOLOAir](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> : 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀.  YOLOAir是一个基于PyTorch的YOLO算法库。统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
+      - [YOLOAir](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> :  YOLO Air : Makes improvements easy again. 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀.  YOLOAir是一个基于PyTorch的YOLO算法库。统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
 
-      - [YOLOAir2](https://github.com/iscyy/yoloair2) <img src="https://img.shields.io/github/stars/iscyy/yoloair2?style=social"/> : ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules. YOLOAir2☁️💡🎈 : Makes improvements easy again.
+      - [YOLOAir2](https://github.com/iscyy/yoloair2) <img src="https://img.shields.io/github/stars/iscyy/yoloair2?style=social"/> : YOLOAir2☁️💡🎈 : Makes improvements easy again. ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv8, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules.
 
-      - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6、YOLOv7、YOLOX、YOLOX-Lite、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
+      - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. ​ The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
       - [Yolov5_Magic](https://github.com/WangQvQ/Yolov5_Magic) <img src="https://img.shields.io/github/stars/WangQvQ/Yolov5_Magic?style=social"/> : 🚀🚀🚀一款面向改进Yolov5的开源仓库，提供丰富的魔改Yolov5方法 An open source repository for improving Yolov5, providing rich magic methods.
 
-      - [augmentedstartups/AS-One](https://github.com/augmentedstartups/AS-One) <img src="https://img.shields.io/github/stars/augmentedstartups/AS-One?style=social"/> : Easy & Modular Computer Vision Detectors and Trackers - Run YOLOv8,v7,v6,v5,R,X in under 20 lines of code. 
+      - [positive666/yolo_research](https://github.com/positive666/yolo_research) <img src="https://img.shields.io/github/stars/positive666/yolo_research?style=social"/> : 🚀 yolo_reserach PLUS High-level. based on yolo-high-level project (detect\pose\classify\segment\):include yolov5\yolov7\yolov8\ core ,improvement research ,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment.
+
+      - [augmentedstartups/AS-One](https://github.com/augmentedstartups/AS-One) <img src="https://img.shields.io/github/stars/augmentedstartups/AS-One?style=social"/> : Easy & Modular Computer Vision Detectors and Trackers - Run YOLO-NAS,v8,v7,v6,v5,R,X in under 20 lines of code. [www.augmentedstartups.com](https://www.augmentedstartups.com/) 
 
       - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉. "微信公众号「GiantPandaCV」《[One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)》"
 
@@ -193,12 +195,11 @@
 
       - [BestYOLO](https://github.com/WangRongsheng/BestYOLO) <img src="https://img.shields.io/github/stars/WangRongsheng/BestYOLO?style=social"/> : 🌟Change the world, it will become a better place. | 以科研和竞赛为导向的最好的YOLO实践框架! 
 
-      - [Cver4s](https://github.com/KangChou/Cver4s) <img src="https://img.shields.io/github/stars/KangChou/Cver4s?style=social"/> : Cver4s：Computer vision algorithm code base.
-
       - [yjh0410/PyTorch_YOLO_Tutorial](https://github.com/yjh0410/PyTorch_YOLO_Tutorial) <img src="https://img.shields.io/github/stars/yjh0410/PyTorch_YOLO_Tutorial?style=social"/> : YOLO Tutorial.
 
       - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
 
+      - [Cver4s](https://github.com/KangChou/Cver4s) <img src="https://img.shields.io/github/stars/KangChou/Cver4s?style=social"/> : Cver4s：Computer vision algorithm code base.
 
 
 
@@ -695,8 +696,6 @@
 
     - [jinfagang/yolov7_d2](https://github.com/jinfagang/yolov7_d2) <img src="https://img.shields.io/github/stars/jinfagang/yolov7_d2?style=social"/> : 🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥 
 
-    - [positive666/yolov5_research](https://github.com/positive666/yolov5_research) <img src="https://img.shields.io/github/stars/positive666/yolov5_research?style=social"/> : add yolov7 core ,improvement research based on yolov5,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment C.
-
     - [yang-0201/YOLOv6_pro](https://github.com/yang-0201/YOLOv6_pro) <img src="https://img.shields.io/github/stars/yang-0201/YOLOv6_pro?style=social"/> : Make it easier for yolov6 to change the network structure.
 
     - [j-marple-dev/AYolov2](https://github.com/j-marple-dev/AYolov2) <img src="https://img.shields.io/github/stars/j-marple-dev/AYolov2?style=social"/> : The main goal of this repository is to rewrite the object detection pipeline with a better code structure for better portability and adaptability to apply new experimental methods. The object detection pipeline is based on [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5).
@@ -758,8 +757,6 @@
     - [HuKai97/YOLOX-Annotations](https://github.com/HuKai97/YOLOX-Annotations) <img src="https://img.shields.io/github/stars/HuKai97/YOLOX-Annotations?style=social"/> : 一个YOLOX的中文注释版本，供大家参考学习！
 
     - [isLinXu/YOLOv8_Efficient](https://github.com/isLinXu/YOLOv8_Efficient) <img src="https://img.shields.io/github/stars/isLinXu/YOLOv8_Efficient?style=social"/> : 🚀Simple and efficient use for Ultralytics yolov8🚀
-
-    - [positive666/yolo_research](https://github.com/positive666/yolo_research) <img src="https://img.shields.io/github/stars/positive666/yolo_research?style=social"/> : 🚀 yolo_reserach PLUS High-level.
 
     - [z1069614715/objectdetection_script](https://github.com/z1069614715/objectdetection_script) <img src="https://img.shields.io/github/stars/z1069614715/objectdetection_script?style=social"/> : 一些关于目标检测的脚本的改进思路代码。
 
@@ -1708,6 +1705,8 @@
     - ####  Traffic Sign Detection
       #####  交通标志检测
 
+      - [Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI](https://github.com/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI?style=social"/> : Road Sign Recognition Project Based on YOLOv5. This is a road sign recognition project based on YOLOv5, developed with a PyQt5 interface, YOLOv5 trained model, and MySQL database. 这是一个基于YOLOv5🚀的道路标志识别系统😊，使用了MySQL数据库💽，PyQt5进行界面设计🎨，PyTorch深度学习框架和TensorRT进行加速⚡，同时包含了CSS样式🌈。系统由五个主要模块组成：系统登录模块🔑负责用户登陆；初始化参数模块📋提供YOLOv5模型的初始化参数设置；标志识别模块🔍是系统的核心，负责对道路标志进行识别并将结果导入数据库；数据库模块💾包含基本数据库操作和数据分析两个子模块；图像处理模块🖼️负责单个图像的处理和数据增强。整个系统支持多种数据输入和模型切换，提供了包括mossic和mixup在内的图像增强方法📈。 
+
       - [halftop/TT100K_YOLO_Label](https://github.com/halftop/TT100K_YOLO_Label) <img src="https://img.shields.io/github/stars/halftop/TT100K_YOLO_Label?style=social"/> : Tsinghua-Tencent 100K dataset XML and TXT Label.
 
       - [amazingcodeLYL/Traffic_signs_detection_darket](https://github.com/amazingcodeLYL/Traffic_signs_detection_darket) <img src="https://img.shields.io/github/stars/amazingcodeLYL/Traffic_signs_detection_darket?style=social"/> : darknet交通标志检测&TT100K数据集。
@@ -2075,6 +2074,9 @@
 
     - [leandro-svg/Yolov7_Segmentation_Tensorrt](https://github.com/leandro-svg/Yolov7_Segmentation_Tensorrt) <img src="https://img.shields.io/github/stars/leandro-svg/Yolov7_Segmentation_Tensorrt?style=social"/> : The real-time Instance Segmentation Algorithm Yolov7 running on TensoRT and ONNX.
 
+    - [akashAD98/YOLOV8_SAM](https://github.com/akashAD98/YOLOV8_SAM) <img src="https://img.shields.io/github/stars/akashAD98/YOLOV8_SAM?style=social"/> : Use yolov8 & SAM model to get segmention for custom model.
+
+
 
   - ### Game Field Detection
     #### 游戏领域检测
@@ -2221,6 +2223,8 @@
 
   - ### GUI
     #### 图形用户界面
+
+    - [Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI](https://github.com/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI?style=social"/> : Road Sign Recognition Project Based on YOLOv5. This is a road sign recognition project based on YOLOv5, developed with a PyQt5 interface, YOLOv5 trained model, and MySQL database. 这是一个基于YOLOv5🚀的道路标志识别系统😊，使用了MySQL数据库💽，PyQt5进行界面设计🎨，PyTorch深度学习框架和TensorRT进行加速⚡，同时包含了CSS样式🌈。系统由五个主要模块组成：系统登录模块🔑负责用户登陆；初始化参数模块📋提供YOLOv5模型的初始化参数设置；标志识别模块🔍是系统的核心，负责对道路标志进行识别并将结果导入数据库；数据库模块💾包含基本数据库操作和数据分析两个子模块；图像处理模块🖼️负责单个图像的处理和数据增强。整个系统支持多种数据输入和模型切换，提供了包括mossic和mixup在内的图像增强方法📈。 
 
     - [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) <img src="https://img.shields.io/github/stars/Javacr/PyQt5-YOLOv5?style=social"/> : YOLOv5检测界面-PyQt5实现。
 
@@ -2655,6 +2659,7 @@
   - 微信公众号「AI科技与算法编程」
     - [2023-04-11, YOLOv8 AS-One：目标检测AS-One 来了！（YOLO就是名副其实的卷王之王）](https://mp.weixin.qq.com/s/ofokLwCwgN1GNTqy3NuYmg) 
   - 微信公众号「董董灿是个攻城狮」
+    - [2023-03-20，万字长文解析Resnet50的算法原理](https://mp.weixin.qq.com/s/pA86udkaFzCogi2Qw8vBEA) 
     - [2023-04-17，万字长文入门神经网络硬件加速](https://mp.weixin.qq.com/s/3aNVGIPf5pLzEv67KI8M5w)
     - [2023-04-19，CUDA卷积算子手写详细实现](https://mp.weixin.qq.com/s/VlrglazJE54Xnm3tjM0uCg) 
   - 微信公众号「深度学习与NLP」
@@ -2666,3 +2671,5 @@
     - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)  
   - 微信公众号「机器学习算法那些事」
     - [2023-05-02，labelGo：基于 YOLOv5 的辅助标注工具](https://mp.weixin.qq.com/s/4EFTj6RxOCvX2Wn5euhSAQ)  
+  - 微信公众号「人工智能技术与咨询」
+    - [2023-05-19，基于YOLOv5的光学遥感图像舰船目标检测算法](https://mp.weixin.qq.com/s/Mic_wLbfjQrtX7wLwW1SiA)  
