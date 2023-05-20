@@ -135,6 +135,8 @@
 
     - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
 
+    - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
+
     - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : EdgeYOLO: anchor-free, edge-friendly. an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
 
     - [RT-DETR](https://github.com/PaddlePaddle/PaddleDetection/tree/develop/configs/rtdetr) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleDetection?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2304.08069)**). "微信公众号「集智书童」《[YOLO超快时代终结了 | RT-DETR用114FPS实现54.8AP，远超YOLOv8](https://mp.weixin.qq.com/s/V3MUXinJhpq8J4UWTUL17w)》"。
@@ -204,8 +206,6 @@
 
 
 ## Extensional Frameworks
-
-  - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
 
   - [EasyCV](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : An all-in-one toolkit for computer vision. "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
 
