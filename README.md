@@ -1460,6 +1460,8 @@
   - ### Open World Object Detection
     #### 开放世界目标检测
 
+    - [UniDetector](https://github.com/zhenyuw16/UniDetector) <img src="https://img.shields.io/github/stars/zhenyuw16/UniDetector?style=social"/> : "Detecting Everything in the Open World: Towards Universal Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2303.11749)**). "微信公众号「我爱计算机视觉」《[CVPR 2023 | 标注500类，检测7000类！清华大学等提出通用目标价测算法UniDetector](https://mp.weixin.qq.com/s/r7N8X_8riboCvafl9f1vDQ)》". "微信公众号「自动驾驶之心」《[CVPR 2023｜UniDetector：7000类通用目标检测算法（港大&清华）](https://mp.weixin.qq.com/s/iRe4RhSEm4Oe4DxKX5wu9w)》"
+    
     - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
 
 
