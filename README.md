@@ -199,10 +199,15 @@
 
       - [yjh0410/PyTorch_YOLO_Tutorial](https://github.com/yjh0410/PyTorch_YOLO_Tutorial) <img src="https://img.shields.io/github/stars/yjh0410/PyTorch_YOLO_Tutorial?style=social"/> : YOLO Tutorial.
 
-      - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
-
       - [Cver4s](https://github.com/KangChou/Cver4s) <img src="https://img.shields.io/github/stars/KangChou/Cver4s?style=social"/> : Cver4s：Computer vision algorithm code base.
 
+      - [HuKai97/yolov5-5.x-annotations](https://github.com/HuKai97/yolov5-5.x-annotations) <img src="https://img.shields.io/github/stars/HuKai97/yolov5-5.x-annotations?style=social"/> : 一个基于yolov5-5.0的中文注释版本！ 
+
+      - [crkk-feng/yolov5-annotations](https://github.com/crkk-feng/yolov5-annotations) <img src="https://img.shields.io/github/stars/crkk-feng/yolov5-annotations?style=social"/> : A Chinese annotated version of yolov5-5.0.
+
+      - [XiaoJiNu/yolov5-v6-chinese-comment](https://github.com/XiaoJiNu/yolov5-v6-chinese-comment) <img src="https://img.shields.io/github/stars/XiaoJiNu/yolov5-v6-chinese-comment?style=social"/> : yolov5-v6版本注释。 
+
+      - [1131624548/About-YOLOv5-7-0](https://github.com/1131624548/About-YOLOv5-7-0) <img src="https://img.shields.io/github/stars/XiaoJiNu/yolov5-v6-chinese-comment?style=social"/> : YOLOv5代码注释。 
 
 
 ## Extensional Frameworks
