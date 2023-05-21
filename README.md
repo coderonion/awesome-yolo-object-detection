@@ -744,7 +744,7 @@
 
     - [yl-jiang/YOLOSeries](https://github.com/yl-jiang/YOLOSeries) <img src="https://img.shields.io/github/stars/yl-jiang/YOLOSeries?style=social"/> : YOLO Series.
 
-    - [yjh0410/FreeYOLO](https://github.com/yjh0410/FreeYOLO) <img src="https://img.shields.io/github/stars/yjh0410/FreeYOLO?style=social"/> : Anchor-free YOLO detector.
+    - [yjh0410/FreeYOLO](https://github.com/yjh0410/FreeYOLO) <img src="https://img.shields.io/github/stars/yjh0410/FreeYOLO?style=social"/> : FreeYOLO is inspired by many other excellent works, such as YOLOv7 and YOLOX. 
 
     - [open-yolo/yolov7](https://github.com/open-yolo/yolov7) <img src="https://img.shields.io/github/stars/open-yolo/yolov7?style=social"/> : Improved and packaged version of WongKinYiu/yolov7.
 
@@ -2617,6 +2617,7 @@
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
     - [2023-03-24，YOLO系列的演进，从v1到v7（三）](https://mp.weixin.qq.com/s/Ngz7SYEtQ8jsejKG0IknXg)
+    - [2023-05-20，机器视觉和模式识别库汇总](https://mp.weixin.qq.com/s/UaqBSCWnGbLLCuy8cvJpkQ)
   - 微信公众号「OpenMMLab」
     - [2022-10-20，社区协作，简洁易用，快来开箱新一代 YOLO 系列开源库](https://mp.weixin.qq.com/s/ZK1hzp6QJarS1xiqkBWcrg)
     - [2023-03-28，建议收藏！超实用的 YOLO 训练&测试技巧合集](https://mp.weixin.qq.com/s/iF2Upd2ThMBlWPim8Gj13g)
@@ -2628,6 +2629,7 @@
     - [2022-11-30，达摩院 | DAMO-YOLO：兼顾速度与精度的新目标检测框架](https://mp.weixin.qq.com/s/QYsCzgMhW9Mfsa6CYolVuQ)  
     - [2022-12-23，通用小目标Trick | 深度学习检测小目标常用方法盘点](https://mp.weixin.qq.com/s/WRVjub3ePxWoCBQXKhS__w)  
     - [2023-01-12，纯量产经验 | 谈谈目标检测中正负样本的问题](https://mp.weixin.qq.com/s/esGe2o3_pPXUlrysZoCQKQ)  
+    - [2023-05-21，保姆级开源教程 | 手把手教你部署FreeYOLO ](https://mp.weixin.qq.com/s/AhPaSVl2Gh8zWtJ74IUyzw)  
   - 微信公众号「计算机视觉漫谈」
     - [2020-02-22，YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
     - [2020-03-07，YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
