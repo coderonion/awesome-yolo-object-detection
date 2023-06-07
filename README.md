@@ -15,12 +15,12 @@
   - [Other Versions of YOLO](#other-versions-of-yolo)
     - [C Implementation](#c-implementation)
     - [Rust Implementation](#rust-implementation)
-    - [Go Implementation](#go-implementation)
-    - [Dotnet Implementation](#dotnet-implementation)
-    - [PyTorch Implementation](#pytorch-implementation)
     - [LibTorch Implementation](#libtorch-implementation)
     - [OpenCV Implementation](#opencv-implementation)
     - [ROS Implementation](#ros-implementation)
+    - [Go Implementation](#go-implementation)
+    - [Dotnet Implementation](#dotnet-implementation)
+    - [PyTorch Implementation](#pytorch-implementation)
     - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
     - [PaddlePaddle Implementation](#paddlepaddle-implementation)
     - [Caffe Implementation](#caffe-implementation)
@@ -80,6 +80,7 @@
     - [Emotion Recognition](#emotion-recognition)
     - [Human Pose Estimation](#human-pose-estimation)
     - [Distance Measurement](#distance-measurement)
+    - [Instance and Semantic Segmentation](#instance-and-semantic-segmentation)
     - [3D Object Detection](#3d-object-detection)
     - [SLAM Field Detection](#slam-field-detection)
     - [Industrial Defect Detection](#industrial-defect-detection)
@@ -92,7 +93,6 @@
     - [Sports Field Detection](#sports-field-detection)
     - [Adverse Weather Conditions](#adverse-weather-conditions)
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
-    - [Instance and Semantic Segmentation](#instance-and-semantic-segmentation)
     - [Game Field Detection](#game-field-detection)
     - [Automatic Annotation Tools](#automatic-annotation-tools)
     - [Feature Map Visualization](#feature-map-visualization)
@@ -251,12 +251,6 @@
 
     - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
-    - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference.
-
-    - [Wonnx](https://github.com/webonnx/wonnx) <img src="https://img.shields.io/github/stars/webonnx/wonnx?style=social"/> : Wonnx is a GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
-
-    - [pykeio/ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime.
-
     - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is Darknet compatible neural nets inference engine implemented in Rust.
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
@@ -274,6 +268,95 @@
     - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
 
     - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
+
+
+  - ### LibTorch Implementation
+
+    - [walktree/libtorch-yolov3](https://github.com/walktree/libtorch-yolov3) <img src="https://img.shields.io/github/stars/walktree/libtorch-yolov3?style=social"/> : A Libtorch implementation of the YOLO v3 object detection algorithm, written with pure C++.
+
+    - [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5) <img src="https://img.shields.io/github/stars/yasenh/libtorch-yolov5?style=social"/> : A LibTorch inference implementation of the yolov5.
+
+    - [Nebula4869/YOLOv5-LibTorch](https://github.com/Nebula4869/YOLOv5-LibTorch) <img src="https://img.shields.io/github/stars/Nebula4869/YOLOv5-LibTorch?style=social"/> : Real time object detection with deployment of YOLOv5 through LibTorch C++ API.
+
+    - [ncdhz/YoloV5-LibTorch](https://github.com/ncdhz/YoloV5-LibTorch) <img src="https://img.shields.io/github/stars/ncdhz/YoloV5-LibTorch?style=social"/> : 一个 C++ 版本的 YoloV5 封装库.
+
+    - [Rane2021/yolov5_train_cpp_inference](https://github.com/Rane2021/yolov5_train_cpp_inference) <img src="https://img.shields.io/github/stars/Rane2021/yolov5_train_cpp_inference?style=social"/> : yolov5训练和c++推理代码，效果出色。
+
+
+  - ### OpenCV Implementation
+
+    - [stephanecharette/DarkHelp](https://github.com/stephanecharette/DarkHelp) <img src="https://img.shields.io/github/stars/stephanecharette/DarkHelp?style=social"/> : The DarkHelp C++ API is a wrapper to make it easier to use the Darknet neural network framework within a C++ application.
+
+    - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
+
+    - [UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp?style=social"/> : yolov5 segmentation with onnxruntime and opencv.
+
+    - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
+
+    - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
+
+    - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) <img src="https://img.shields.io/github/stars/hpc203/yolov7-opencv-onnxrun-cpp-py?style=social"/> : 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含12个onnx模型，依然是包含C++和Python两个版本的程序。
+
+    - [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) <img src="https://img.shields.io/github/stars/doleron/yolov5-opencv-cpp-python?style=social"/> : Example of using ultralytics YOLO V5 with OpenCV 4.5.4, C++ and Python.
+
+    - [UNeedCryDear/yolov8-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov8-opencv-onnxruntime-cpp?style=social"/> : detection and instance segmentation of yolov8,use onnxruntime and opencv.
+
+
+  - ### ROS Implementation
+
+    - [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) <img src="https://img.shields.io/github/stars/leggedrobotics/darknet_ros?style=social"/> : Real-Time Object Detection for ROS.
+
+    - [engcang/ros-yolo-sort](https://github.com/engcang/ros-yolo-sort) <img src="https://img.shields.io/github/stars/engcang/ros-yolo-sort?style=social"/> : YOLO and SORT, and ROS versions of them.
+
+    - [chrisgundling/YoloLight](https://github.com/chrisgundling/YoloLight) <img src="https://img.shields.io/github/stars/chrisgundling/YoloLight?style=social"/> : Tiny-YOLO-v2 ROS Node for Traffic Light Detection.
+
+    - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) <img src="https://img.shields.io/github/stars/Ar-Ray-code/YOLOX-ROS?style=social"/> : YOLOX + ROS2 object detection package.
+
+    - [Ar-Ray-code/YOLOv5-ROS](https://github.com/Ar-Ray-code/YOLOv5-ROS) <img src="https://img.shields.io/github/stars/Ar-Ray-code/YOLOv5-ROS?style=social"/> : YOLOv5 + ROS2 object detection package.
+
+    - [Tossy0423/yolov4-for-darknet_ros](https://github.com/Tossy0423/yolov4-for-darknet_ros) <img src="https://img.shields.io/github/stars/Tossy0423/yolov4-for-darknet_ros?style=social"/> : This is the environment in which YOLO V4 is ported to darknet_ros.
+
+    - [qianmin/yolov5_ROS](https://github.com/qianmin/yolov5_ROS) <img src="https://img.shields.io/github/stars/qianmin/yolov5_ROS?style=social"/> : run YOLOv5 in ROS，ROS使用YOLOv5。
+
+    - [ailllist/yolov5_ROS](https://github.com/ailllist/yolov5_ROS) <img src="https://img.shields.io/github/stars/ailllist/yolov5_ROS?style=social"/> : yolov5 for ros, not webcam.
+
+    - [Shua-Kang/ros_pytorch_yolov5](https://github.com/Shua-Kang/ros_pytorch_yolov5) <img src="https://img.shields.io/github/stars/Shua-Kang/ros_pytorch_yolov5?style=social"/> : A ROS wrapper for yolov5. (master branch is v5.0 of yolov5; for v6.1, see branch v6.1).
+
+    - [ziyan0302/Yolov5_DeepSort_Pytorch_ros](https://github.com/ziyan0302/Yolov5_DeepSort_Pytorch_ros) <img src="https://img.shields.io/github/stars/ziyan0302/Yolov5_DeepSort_Pytorch_ros?style=social"/> : Connect Yolov5 detection module and DeepSort tracking module via ROS.
+
+    - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) <img src="https://img.shields.io/github/stars/U07157135/ROS2-with-YOLOv5?style=social"/> : 在無人機上以ROS2技術實現YOLOv5物件偵測。
+
+    - [lukazso/yolov6-ros](https://github.com/lukazso/yolov6-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov6-ros?style=social"/> : ROS package for YOLOv6.
+
+    - [qq44642754a/Yolov5_ros](https://github.com/qq44642754a/Yolov5_ros) <img src="https://img.shields.io/github/stars/qq44642754a/Yolov5_ros?style=social"/> : Real-time object detection with ROS, based on YOLOv5 and PyTorch (基于 YOLOv5的ROS实时对象检测).
+
+    - [lukazso/yolov7-ros](https://github.com/lukazso/yolov7-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov7-ros?style=social"/> : ROS package for official YOLOv7.
+
+    - [phuoc101/yolov7_ros](https://github.com/phuoc101/yolov7_ros) <img src="https://img.shields.io/github/stars/phuoc101/yolov7_ros?style=social"/> : ROS package for official YOLOv7.
+
+    - [ConfusionTechnologies/ros-yolov5-node](https://github.com/ConfusionTechnologies/ros-yolov5-node) <img src="https://img.shields.io/github/stars/ConfusionTechnologies/ros-yolov5-node?style=social"/> : For ROS2, uses ONNX GPU Runtime to inference YOLOv5.
+
+    - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) <img src="https://img.shields.io/github/stars/Ar-Ray-code/darknet_ros_fp16?style=social"/> : darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）.
+
+    - [wk123467/yolov5s_trt_ros](https://github.com/wk123467/yolov5s_trt_ros) <img src="https://img.shields.io/github/stars/wk123467/yolov5s_trt_ros?style=social"/> : 利用TensorRT对yolov5s进行加速，并将其应用于ROS，实现交通标志、红绿灯(直接输出路灯状态)、行人和车辆等交通场景的检测。 
+
+    - [PardisTaghavi/yolov7_strongsort_ros](https://github.com/PardisTaghavi/yolov7_strongsort_ros) <img src="https://img.shields.io/github/stars/PardisTaghavi/yolov7_strongsort_ros?style=social"/> : Integration of "Yolov7 StrongSort" with ROS for real time object tracking.
+
+    - [af-doom/yolov8_ros_tensorrt-](https://github.com/af-doom/yolov8_ros_tensorrt-) <img src="https://img.shields.io/github/stars/af-doom/yolov8_ros_tensorrt-?style=social"/> : This is a YOLOv8 project based on ROS implementation, where YOLOv8 uses Tensorrt acceleration.
+
+    - [KoKoMier/ros_darknet_yolov4](https://github.com/KoKoMier/ros_darknet_yolov4) <img src="https://img.shields.io/github/stars/KoKoMier/ros_darknet_yolov4?style=social"/> : 这是机器人小组视觉与雷达的结合程序，首先通过yolo目标检测识别到物体，然后把识别到的数据发送给ros里面程序，用于雷达数据结合。
+
+    - [YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS](https://github.com/YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS) <img src="https://img.shields.io/github/stars/YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS?style=social"/> : Inference with YOLOv5, OpenCV 4.5.4 DNN, C++, ROS and Python.
+
+    - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : ROS 2 wrap for Ultralytics [YOLOv8](https://github.com/ultralytics/ultralytics) to perform object detection.
+
+    - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) <img src="https://img.shields.io/github/stars/fishros/yolov5_ros2?style=social"/> : 基于YoloV5的ROS2功能包，可以快速完成物体识别与位姿发布。
+
+    - [fateshelled/EdgeYOLO-ROS](https://github.com/fateshelled/EdgeYOLO-ROS) <img src="https://img.shields.io/github/stars/fateshelled/EdgeYOLO-ROS?style=social"/> : EdgeYOLO + ROS2 object detection package.
+
+    - [vivaldini/yolov6-uav](https://github.com/vivaldini/yolov6-uav) <img src="https://img.shields.io/github/stars/vivaldini/yolov6-uav?style=social"/> : This repository contains a ROS noetic package for YOLOv6 to recognize objects from UAV and provide their positions. 
+
+    - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) <img src="https://img.shields.io/github/stars/Alpaca-zip/ultralytics_ros?style=social"/> : ROS/ROS2 package for Ultralytics YOLOv8 real-time object detection. 
 
 
   - ### Go Implementation
@@ -463,92 +546,6 @@
 
     - [theos-ai/easy-yolov7](https://github.com/theos-ai/easy-yolov7) <img src="https://img.shields.io/github/stars/theos-ai/easy-yolov7?style=social"/> : This a clean and easy-to-use implementation of YOLOv7 in PyTorch, made with ❤️ by Theos AI.
 
-
-  - ### LibTorch Implementation
-
-    - [walktree/libtorch-yolov3](https://github.com/walktree/libtorch-yolov3) <img src="https://img.shields.io/github/stars/walktree/libtorch-yolov3?style=social"/> : A Libtorch implementation of the YOLO v3 object detection algorithm, written with pure C++.
-
-    - [yasenh/libtorch-yolov5](https://github.com/yasenh/libtorch-yolov5) <img src="https://img.shields.io/github/stars/yasenh/libtorch-yolov5?style=social"/> : A LibTorch inference implementation of the yolov5.
-
-    - [Nebula4869/YOLOv5-LibTorch](https://github.com/Nebula4869/YOLOv5-LibTorch) <img src="https://img.shields.io/github/stars/Nebula4869/YOLOv5-LibTorch?style=social"/> : Real time object detection with deployment of YOLOv5 through LibTorch C++ API.
-
-    - [ncdhz/YoloV5-LibTorch](https://github.com/ncdhz/YoloV5-LibTorch) <img src="https://img.shields.io/github/stars/ncdhz/YoloV5-LibTorch?style=social"/> : 一个 C++ 版本的 YoloV5 封装库.
-
-    - [Rane2021/yolov5_train_cpp_inference](https://github.com/Rane2021/yolov5_train_cpp_inference) <img src="https://img.shields.io/github/stars/Rane2021/yolov5_train_cpp_inference?style=social"/> : yolov5训练和c++推理代码，效果出色。
-
-
-  - ### OpenCV Implementation
-
-    - [stephanecharette/DarkHelp](https://github.com/stephanecharette/DarkHelp) <img src="https://img.shields.io/github/stars/stephanecharette/DarkHelp?style=social"/> : The DarkHelp C++ API is a wrapper to make it easier to use the Darknet neural network framework within a C++ application.
-
-    - [UNeedCryDear/yolov5-opencv-dnn-cpp](https://github.com/UNeedCryDear/yolov5-opencv-dnn-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-opencv-dnn-cpp?style=social"/> : 使用opencv模块部署yolov5-6.0版本。
-
-    - [UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov5-seg-opencv-onnxruntime-cpp?style=social"/> : yolov5 segmentation with onnxruntime and opencv.
-
-    - [hpc203/yolov5-dnn-cpp-python](https://github.com/hpc203/yolov5-dnn-cpp-python) <img src="https://img.shields.io/github/stars/hpc203/yolov5-dnn-cpp-python?style=social"/> : 用opencv的dnn模块做yolov5目标检测，包含C++和Python两个版本的程序。
-
-    - [hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn) <img src="https://img.shields.io/github/stars/hpc203/yolox-opencv-dnn?style=social"/> : 使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序。
-
-    - [hpc203/yolov7-opencv-onnxrun-cpp-py](https://github.com/hpc203/yolov7-opencv-onnxrun-cpp-py) <img src="https://img.shields.io/github/stars/hpc203/yolov7-opencv-onnxrun-cpp-py?style=social"/> : 分别使用OpenCV、ONNXRuntime部署YOLOV7目标检测，一共包含12个onnx模型，依然是包含C++和Python两个版本的程序。
-
-    - [doleron/yolov5-opencv-cpp-python](https://github.com/doleron/yolov5-opencv-cpp-python) <img src="https://img.shields.io/github/stars/doleron/yolov5-opencv-cpp-python?style=social"/> : Example of using ultralytics YOLO V5 with OpenCV 4.5.4, C++ and Python.
-
-    - [UNeedCryDear/yolov8-opencv-onnxruntime-cpp](https://github.com/UNeedCryDear/yolov8-opencv-onnxruntime-cpp) <img src="https://img.shields.io/github/stars/UNeedCryDear/yolov8-opencv-onnxruntime-cpp?style=social"/> : detection and instance segmentation of yolov8,use onnxruntime and opencv.
-
-
-  - ### ROS Implementation
-
-    - [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) <img src="https://img.shields.io/github/stars/leggedrobotics/darknet_ros?style=social"/> : Real-Time Object Detection for ROS.
-
-    - [engcang/ros-yolo-sort](https://github.com/engcang/ros-yolo-sort) <img src="https://img.shields.io/github/stars/engcang/ros-yolo-sort?style=social"/> : YOLO and SORT, and ROS versions of them.
-
-    - [chrisgundling/YoloLight](https://github.com/chrisgundling/YoloLight) <img src="https://img.shields.io/github/stars/chrisgundling/YoloLight?style=social"/> : Tiny-YOLO-v2 ROS Node for Traffic Light Detection.
-
-    - [Ar-Ray-code/YOLOX-ROS](https://github.com/Ar-Ray-code/YOLOX-ROS) <img src="https://img.shields.io/github/stars/Ar-Ray-code/YOLOX-ROS?style=social"/> : YOLOX + ROS2 object detection package.
-
-    - [Ar-Ray-code/YOLOv5-ROS](https://github.com/Ar-Ray-code/YOLOv5-ROS) <img src="https://img.shields.io/github/stars/Ar-Ray-code/YOLOv5-ROS?style=social"/> : YOLOv5 + ROS2 object detection package.
-
-    - [Tossy0423/yolov4-for-darknet_ros](https://github.com/Tossy0423/yolov4-for-darknet_ros) <img src="https://img.shields.io/github/stars/Tossy0423/yolov4-for-darknet_ros?style=social"/> : This is the environment in which YOLO V4 is ported to darknet_ros.
-
-    - [qianmin/yolov5_ROS](https://github.com/qianmin/yolov5_ROS) <img src="https://img.shields.io/github/stars/qianmin/yolov5_ROS?style=social"/> : run YOLOv5 in ROS，ROS使用YOLOv5。
-
-    - [ailllist/yolov5_ROS](https://github.com/ailllist/yolov5_ROS) <img src="https://img.shields.io/github/stars/ailllist/yolov5_ROS?style=social"/> : yolov5 for ros, not webcam.
-
-    - [Shua-Kang/ros_pytorch_yolov5](https://github.com/Shua-Kang/ros_pytorch_yolov5) <img src="https://img.shields.io/github/stars/Shua-Kang/ros_pytorch_yolov5?style=social"/> : A ROS wrapper for yolov5. (master branch is v5.0 of yolov5; for v6.1, see branch v6.1).
-
-    - [ziyan0302/Yolov5_DeepSort_Pytorch_ros](https://github.com/ziyan0302/Yolov5_DeepSort_Pytorch_ros) <img src="https://img.shields.io/github/stars/ziyan0302/Yolov5_DeepSort_Pytorch_ros?style=social"/> : Connect Yolov5 detection module and DeepSort tracking module via ROS.
-
-    - [U07157135/ROS2-with-YOLOv5](https://github.com/U07157135/ROS2-with-YOLOv5) <img src="https://img.shields.io/github/stars/U07157135/ROS2-with-YOLOv5?style=social"/> : 在無人機上以ROS2技術實現YOLOv5物件偵測。
-
-    - [lukazso/yolov6-ros](https://github.com/lukazso/yolov6-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov6-ros?style=social"/> : ROS package for YOLOv6.
-
-    - [qq44642754a/Yolov5_ros](https://github.com/qq44642754a/Yolov5_ros) <img src="https://img.shields.io/github/stars/qq44642754a/Yolov5_ros?style=social"/> : Real-time object detection with ROS, based on YOLOv5 and PyTorch (基于 YOLOv5的ROS实时对象检测).
-
-    - [lukazso/yolov7-ros](https://github.com/lukazso/yolov7-ros) <img src="https://img.shields.io/github/stars/lukazso/yolov7-ros?style=social"/> : ROS package for official YOLOv7.
-
-    - [phuoc101/yolov7_ros](https://github.com/phuoc101/yolov7_ros) <img src="https://img.shields.io/github/stars/phuoc101/yolov7_ros?style=social"/> : ROS package for official YOLOv7.
-
-    - [ConfusionTechnologies/ros-yolov5-node](https://github.com/ConfusionTechnologies/ros-yolov5-node) <img src="https://img.shields.io/github/stars/ConfusionTechnologies/ros-yolov5-node?style=social"/> : For ROS2, uses ONNX GPU Runtime to inference YOLOv5.
-
-    - [Ar-Ray-code/darknet_ros_fp16](https://github.com/Ar-Ray-code/darknet_ros_fp16) <img src="https://img.shields.io/github/stars/Ar-Ray-code/darknet_ros_fp16?style=social"/> : darknet + ROS2 Humble + OpenCV4 + CUDA 11（cuDNN, Jetson Orin）.
-
-    - [wk123467/yolov5s_trt_ros](https://github.com/wk123467/yolov5s_trt_ros) <img src="https://img.shields.io/github/stars/wk123467/yolov5s_trt_ros?style=social"/> : 利用TensorRT对yolov5s进行加速，并将其应用于ROS，实现交通标志、红绿灯(直接输出路灯状态)、行人和车辆等交通场景的检测。 
-
-    - [PardisTaghavi/yolov7_strongsort_ros](https://github.com/PardisTaghavi/yolov7_strongsort_ros) <img src="https://img.shields.io/github/stars/PardisTaghavi/yolov7_strongsort_ros?style=social"/> : Integration of "Yolov7 StrongSort" with ROS for real time object tracking.
-
-    - [af-doom/yolov8_ros_tensorrt-](https://github.com/af-doom/yolov8_ros_tensorrt-) <img src="https://img.shields.io/github/stars/af-doom/yolov8_ros_tensorrt-?style=social"/> : This is a YOLOv8 project based on ROS implementation, where YOLOv8 uses Tensorrt acceleration.
-
-    - [KoKoMier/ros_darknet_yolov4](https://github.com/KoKoMier/ros_darknet_yolov4) <img src="https://img.shields.io/github/stars/KoKoMier/ros_darknet_yolov4?style=social"/> : 这是机器人小组视觉与雷达的结合程序，首先通过yolo目标检测识别到物体，然后把识别到的数据发送给ros里面程序，用于雷达数据结合。
-
-    - [YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS](https://github.com/YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS) <img src="https://img.shields.io/github/stars/YellowAndGreen/Yolov5-OpenCV-Cpp-Python-ROS?style=social"/> : Inference with YOLOv5, OpenCV 4.5.4 DNN, C++, ROS and Python.
-
-    - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : ROS 2 wrap for Ultralytics [YOLOv8](https://github.com/ultralytics/ultralytics) to perform object detection.
-
-    - [fishros/yolov5_ros2](https://github.com/fishros/yolov5_ros2) <img src="https://img.shields.io/github/stars/fishros/yolov5_ros2?style=social"/> : 基于YoloV5的ROS2功能包，可以快速完成物体识别与位姿发布。
-
-    - [fateshelled/EdgeYOLO-ROS](https://github.com/fateshelled/EdgeYOLO-ROS) <img src="https://img.shields.io/github/stars/fateshelled/EdgeYOLO-ROS?style=social"/> : EdgeYOLO + ROS2 object detection package.
-
-    - [vivaldini/yolov6-uav](https://github.com/vivaldini/yolov6-uav) <img src="https://img.shields.io/github/stars/vivaldini/yolov6-uav?style=social"/> : This repository contains a ROS noetic package for YOLOv6 to recognize objects from UAV and provide their positions. 
 
 
 
@@ -899,6 +896,23 @@
 
         - [ONNXMLTools](https://github.com/onnx/onnxmltools) <img src="https://img.shields.io/github/stars/onnx/onnxmltools?style=social"/> : ONNXMLTools enables you to convert models from different machine learning toolkits into [ONNX](https://github.com/onnx/onnx). [onnx.ai](https://onnx.ai/)
 
+        - [xboot/libonnx](https://github.com/xboot/libonnx) <img src="https://img.shields.io/github/stars/xboot/libonnx?style=social"/> : A lightweight, portable pure C99 onnx inference engine for embedded devices with hardware acceleration support. 
+
+        - [kraiskil/onnx2c](https://github.com/kraiskil/onnx2c) <img src="https://img.shields.io/github/stars/kraiskil/onnx2c?style=social"/> : Open Neural Network Exchange to C compiler. Onnx2c is a [ONNX](https://onnx.ai/) to C compiler. It will read an ONNX file, and generate C code to be included in your project. Onnx2c's target is "Tiny ML", meaning running the inference on microcontrollers. 
+
+        - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+
+        - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
+
+        - [onnxruntime-rs](https://github.com/nbigaouette/onnxruntime-rs) <img src="https://img.shields.io/github/stars/nbigaouette/onnxruntime-rs?style=social"/> : This is an attempt at a Rust wrapper for [Microsoft's ONNX Runtime](https://github.com/microsoft/onnxruntime) (version 1.8).
+
+        - [Wonnx](https://github.com/webonnx/wonnx) <img src="https://img.shields.io/github/stars/webonnx/wonnx?style=social"/> : Wonnx is a GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
+
+        - [altius](https://github.com/maekawatoshiki/altius) <img src="https://img.shields.io/github/stars/maekawatoshiki/altius?style=social"/> : Small ONNX inference runtime written in Rust.
+
+        - [Hyuto/yolo-nas-onnx](https://github.com/Hyuto/yolo-nas-onnx) <img src="https://img.shields.io/github/stars/Hyuto/yolo-nas-onnx?style=social"/> : Inference YOLO-NAS ONNX model. [hyuto.github.io/yolo-nas-onnx/](https://hyuto.github.io/yolo-nas-onnx/)
+
+
 
 
       - ##### TensorRT
@@ -926,6 +940,8 @@
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++.
 
         - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
+
+        - [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) <img src="https://img.shields.io/github/stars/cyrusbehr/YOLOv8-TensorRT-CPP?style=social"/> : YOLOv8 TensorRT C++ Implementation.
 
         - [BlueMirrors/Yolov5-TensorRT](https://github.com/BlueMirrors/Yolov5-TensorRT) <img src="https://img.shields.io/github/stars/BlueMirrors/Yolov5-TensorRT?style=social"/> : Yolov5 TensorRT Implementations.
 
@@ -980,6 +996,7 @@
         - [MadaoFY/yolov5_TensorRT_inference](https://github.com/MadaoFY/yolov5_TensorRT_inference) <img src="https://img.shields.io/github/stars/MadaoFY/yolov5_TensorRT_inference?style=social"/> : 记录yolov5的TensorRT量化及推理代码，经实测可运行于Jetson平台。
 
         - [ervgan/yolov5_tensorrt_inference](https://github.com/ervgan/yolov5_tensorrt_inference) <img src="https://img.shields.io/github/stars/ervgan/yolov5_tensorrt_inference?style=social"/> : TensorRT cpp inference for Yolov5 model. Supports yolov5 v1.0, v2.0, v3.0, v3.1, v4.0, v5.0, v6.0, v6.2, v7.0.
+
 
 
       - ##### OpenVINO
@@ -1840,9 +1857,32 @@
     - [magisystem0408/yolov5-DeepSort-RealSenseD435i](https://github.com/magisystem0408/yolov5-DeepSort-RealSenseD435i) <img src="https://img.shields.io/github/stars/magisystem0408/yolov5-DeepSort-RealSenseD435i?style=social"/> : yolov5+Realsence+DeepSense D435i.
 
 
+  - ### Instance and Semantic Segmentation
+    #### 实例和语义分割
 
+    - [SAM](https://github.com/facebookresearch/segment-anything) <img src="https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social"/> : The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. "Segment Anything". (**[arXiv 2023](https://arxiv.org/abs/2304.02643)**). 
+
+    - [Grounded-SAM](https://github.com/IDEA-Research/Grounded-Segment-Anything) <img src="https://img.shields.io/github/stars/IDEA-Research/Grounded-Segment-Anything?style=social"/> : Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. We plan to create a very interesting demo by combining [Grounding DINO](https://github.com/IDEA-Research/GroundingDINO) and [Segment Anything](https://github.com/facebookresearch/segment-anything) which aims to detect and segment Anything with text inputs!
+    
+    - [Laughing-q/yolov5-q](https://github.com/Laughing-q/yolov5-q) <img src="https://img.shields.io/github/stars/Laughing-q/yolov5-q?style=social"/> : This repo is plan for instance segmentation based on yolov5-6.0 and yolact. 
+
+    - [TomMao23/multiyolov5](https://github.com/TomMao23/multiyolov5) <img src="https://img.shields.io/github/stars/TomMao23/multiyolov5?style=social"/> : Multi YOLO V5——Detection and Semantic Segmentation.
+
+    - [ArtyZe/yolo_segmentation](https://github.com/ArtyZe/yolo_segmentation) <img src="https://img.shields.io/github/stars/ArtyZe/yolo_segmentation?style=social"/> : image (semantic segmentation) instance segmentation by darknet or yolo.
+
+    - [midasklr/yolov5ds](https://github.com/midasklr/yolov5ds) <img src="https://img.shields.io/github/stars/midasklr/yolov5ds?style=social"/> : multi-task yolov5 with detection and segmentation.
+
+    - [RizwanMunawar/yolov7-segmentation](https://github.com/RizwanMunawar/yolov7-segmentation) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=social"/> : YOLOv7 Instance Segmentation using OpenCV and PyTorch.
+
+    - [leandro-svg/Yolov7_Segmentation_Tensorrt](https://github.com/leandro-svg/Yolov7_Segmentation_Tensorrt) <img src="https://img.shields.io/github/stars/leandro-svg/Yolov7_Segmentation_Tensorrt?style=social"/> : The real-time Instance Segmentation Algorithm Yolov7 running on TensoRT and ONNX.
+
+    - [akashAD98/YOLOV8_SAM](https://github.com/akashAD98/YOLOV8_SAM) <img src="https://img.shields.io/github/stars/akashAD98/YOLOV8_SAM?style=social"/> : Use yolov8 & SAM model to get segmention for custom model.
+
+    
   - ### 3D Object Detection
     #### 三维目标检测
+
+    - [SAM3D](https://github.com/DYZhang09/SAM3D) <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**). 
 
     - [maudzung/YOLO3D-YOLOv4-PyTorch](https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch) <img src="https://img.shields.io/github/stars/maudzung/YOLO3D-YOLOv4-PyTorch?style=social"/> : The PyTorch Implementation based on YOLOv4 of the paper: "YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud". (**[ECCV 2018](https://openaccess.thecvf.com/content_eccv_2018_workshops/w18/html/Ali_YOLO3D_End-to-end_real-time_3D_Oriented_Object_Bounding_Box_Detection_from_ECCVW_2018_paper.html)**)
 
@@ -1950,11 +1990,13 @@
 
     - [AI-Expert-04/School_Zone_Eye_Level](https://github.com/AI-Expert-04/School_Zone_Eye_Level) <img src="https://img.shields.io/github/stars/AI-Expert-04/School_Zone_Eye_Level?style=social"/> : Prevention of accidents in school zones using deep learning.
 
-    - [roboflow/supervision](https://github.com/roboflow/supervision) <img src="https://img.shields.io/github/stars/roboflow/supervision?style=social"/> : A set of easy-to-use utils that will come in handy in any Computer Vision project. 
+    - [roboflow/supervision](https://github.com/roboflow/supervision) <img src="https://img.shields.io/github/stars/roboflow/supervision?style=social"/> : We write your reusable computer vision tools. 💜 [roboflow.github.io/supervision](https://roboflow.github.io/supervision/) 
 
     - [AntroSafin/Fire_Detection_YoloV5](https://github.com/AntroSafin/Fire_Detection_YoloV5) <img src="https://img.shields.io/github/stars/AntroSafin/Fire_Detection_YoloV5?style=social"/> : This is the YoloV5 fire detection application. 
 
     - [harivams-sai/FireDetectionYOLOv8](https://github.com/harivams-sai/FireDetectionYOLOv8) <img src="https://img.shields.io/github/stars/harivams-sai/FireDetectionYOLOv8?style=social"/> : A fire detection model based on YOLOv8 Ultralytics model for object detection. Tech: Python, Computer Vision, Colab Notebook, Fire-detection, YOLOv8. 
+
+    - [e-candeloro/SAURUSS-Autonomous-Drone-Surveillance](https://github.com/e-candeloro/SAURUSS-Autonomous-Drone-Surveillance) <img src="https://img.shields.io/github/stars/e-candeloro/SAURUSS-Autonomous-Drone-Surveillance?style=social"/> : An autonomous drone and sensor based surveillance system that use a Tello Drone, an Arduino, a Raspberry Pi and an Android smartphone. 
 
 
 
@@ -2066,24 +2108,6 @@
     - [AdvTexture](https://github.com/WhoTHU/Adversarial_Texture) <img src="https://img.shields.io/github/stars/WhoTHU/Adversarial_Texture?style=social"/> : "Adversarial Texture for Fooling Person Detectors in the Physical World". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html)**).  "知乎「WhoTH」《[CVPR2022 Oral 物理对抗样本 如何做一件“隐形衣”](https://zhuanlan.zhihu.com/p/499854846)》"。
 
 
-  - ### Instance and Semantic Segmentation
-    #### 实例和语义分割
-
-    - [Laughing-q/yolov5-q](https://github.com/Laughing-q/yolov5-q) <img src="https://img.shields.io/github/stars/Laughing-q/yolov5-q?style=social"/> : This repo is plan for instance segmentation based on yolov5-6.0 and yolact. 
-
-    - [TomMao23/multiyolov5](https://github.com/TomMao23/multiyolov5) <img src="https://img.shields.io/github/stars/TomMao23/multiyolov5?style=social"/> : Multi YOLO V5——Detection and Semantic Segmentation.
-
-    - [ArtyZe/yolo_segmentation](https://github.com/ArtyZe/yolo_segmentation) <img src="https://img.shields.io/github/stars/ArtyZe/yolo_segmentation?style=social"/> : image (semantic segmentation) instance segmentation by darknet or yolo.
-
-    - [midasklr/yolov5ds](https://github.com/midasklr/yolov5ds) <img src="https://img.shields.io/github/stars/midasklr/yolov5ds?style=social"/> : multi-task yolov5 with detection and segmentation.
-
-    - [RizwanMunawar/yolov7-segmentation](https://github.com/RizwanMunawar/yolov7-segmentation) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov7-segmentation?style=social"/> : YOLOv7 Instance Segmentation using OpenCV and PyTorch.
-
-    - [leandro-svg/Yolov7_Segmentation_Tensorrt](https://github.com/leandro-svg/Yolov7_Segmentation_Tensorrt) <img src="https://img.shields.io/github/stars/leandro-svg/Yolov7_Segmentation_Tensorrt?style=social"/> : The real-time Instance Segmentation Algorithm Yolov7 running on TensoRT and ONNX.
-
-    - [akashAD98/YOLOV8_SAM](https://github.com/akashAD98/YOLOV8_SAM) <img src="https://img.shields.io/github/stars/akashAD98/YOLOV8_SAM?style=social"/> : Use yolov8 & SAM model to get segmention for custom model.
-
-
 
   - ### Game Field Detection
     #### 游戏领域检测
@@ -2136,7 +2160,10 @@
 
      - [suixin1424/crossfire-yolo-TensorRT](https://github.com/suixin1424/crossfire-yolo-TensorRT) <img src="https://img.shields.io/github/stars/suixin1424/crossfire-yolo-TensorRT?style=social"/> : crossfire-yolo-TensorRT. 基于yolo-trt的穿越火线ai自瞄。
 
+     - [EthanH3514/AL_Yolo](https://github.com/EthanH3514/AL_Yolo) <img src="https://img.shields.io/github/stars/EthanH3514/AL_Yolo?style=social"/> : 基于Yolov5的Apex Legend游戏 AI 辅瞄外挂。
 
+
+     
 
 
   - ### Automatic Annotation Tools
@@ -2299,8 +2326,7 @@
     
     - [PetervanLunteren/EcoAssist](https://github.com/PetervanLunteren/EcoAssist) <img src="https://img.shields.io/github/stars/PetervanLunteren/EcoAssist?style=social"/> : A no-code platform to train and deploy YOLOv5 object detection models.
   
-
-
+    - [BraunGe/YOLOv5-GUI](https://github.com/BraunGe/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/BraunGe/YOLOv5-GUI?style=social"/> : A GUI for YOLOv5, support all the 11 inference formats that YOLOv5 supports. 
   
 
 
@@ -2414,6 +2440,8 @@
     - [2023-05-13，YOLOCS目标检测算法，YOLOv5的Backbone/Neck/Head全面改进](https://mp.weixin.qq.com/s/exo2JkLluChvLDSif2JvMQ) 
     - [2023-05-17，一文看尽深度学习各种注意力机制，学习推荐！](https://mp.weixin.qq.com/s/PkzzElN1uk2Yzu1DsYnOdQ)   
     - [2023-05-26，一文读懂PyTorch显存管理机制，推荐学习！](https://mp.weixin.qq.com/s/a9LK35lLE4yfQkqvBp6ujQ)   
+    - [2023-06-05，两万字长文，目标检测入门看这篇就够了，推荐收藏！](https://mp.weixin.qq.com/s/EBc1JrR5n4BlWGBx8kuiXw)   
+    - [2023-06-07，手把手带你，自己设计实现一个深度学习框架（附代码实现）](https://mp.weixin.qq.com/s/-8A_XaOwHyg653UyRbArQQ)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2606,6 +2634,7 @@
     - [2023-04-13，即插即用模块 | RFAConv助力YOLOv8再涨2个点](https://mp.weixin.qq.com/s/lsOQiq9wXHxagE_uQ_yOiw)
     - [2023-04-19，YOLO超快时代终结了 | RT-DETR用114FPS实现54.8AP，远超YOLOv8](https://mp.weixin.qq.com/s/V3MUXinJhpq8J4UWTUL17w)
     - [2023-04-21，基于YOLOv5改进再设计 | M2S全面提升小目标精度](https://mp.weixin.qq.com/s/FlKgYYGUHtJAxCF2wrh4NA)
+    - [2023-06-06，一文全览 | 2023最新环视自动驾驶3D检测综述！](https://mp.weixin.qq.com/s/4eE5kWGF5FekHHCZOg9rNA)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
@@ -2683,6 +2712,7 @@
     - [2023-05-02，labelGo：基于 YOLOv5 的辅助标注工具](https://mp.weixin.qq.com/s/4EFTj6RxOCvX2Wn5euhSAQ)  
   - 微信公众号「人工智能技术与咨询」
     - [2023-05-19，基于YOLOv5的光学遥感图像舰船目标检测算法](https://mp.weixin.qq.com/s/Mic_wLbfjQrtX7wLwW1SiA)  
+    - [2023-06-06，面向弹载图像的深度学习网络压缩方法研究](https://mp.weixin.qq.com/s/pBXUnMpSmLg1BTDrJ19tgQ)  
   - 微信公众号「OneFlow」
     - [2022-12-13，YOLOv5全面解析教程①：网络结构逐行代码解读](https://mp.weixin.qq.com/s/qfZIKgBdHNwPDp5ng0Y_Qw)  
     - [2022-12-22，YOLOv5全面解析教程②：如何制作训练效果更好的数据集](https://mp.weixin.qq.com/s/t4Ppf2qokpClRwCN52zF-g)  
