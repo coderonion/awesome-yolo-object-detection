@@ -1882,6 +1882,10 @@
   - ### 3D Object Detection
     #### 三维目标检测
 
+    - [ADLab-AutoDrive/BEVFusion](https://github.com/ADLab-AutoDrive/BEVFusion) <img src="https://img.shields.io/github/stars/ADLab-AutoDrive/BEVFusion?style=social"/> : "BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework". (**[NeurIPS 2022](https://arxiv.org/abs/2205.13790)**).
+
+    - [mit-han-lab/bevfusion](https://github.com/mit-han-lab/bevfusion) <img src="https://img.shields.io/github/stars/mit-han-lab/bevfusion?style=social"/> : "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation". (**[ICRA 2023](https://arxiv.org/abs/2205.13542)**). 
+
     - [SAM3D](https://github.com/DYZhang09/SAM3D) <img src="https://img.shields.io/github/stars/DYZhang09/SAM3D?style=social"/> : "SAM3D: Zero-Shot 3D Object Detection via [Segment Anything](https://github.com/facebookresearch/segment-anything) Model". (**[arXiv 2023](https://arxiv.org/abs/2306.02245)**). 
 
     - [maudzung/YOLO3D-YOLOv4-PyTorch](https://github.com/maudzung/YOLO3D-YOLOv4-PyTorch) <img src="https://img.shields.io/github/stars/maudzung/YOLO3D-YOLOv4-PyTorch?style=social"/> : The PyTorch Implementation based on YOLOv4 of the paper: "YOLO3D: End-to-end real-time 3D Oriented Object Bounding Box Detection from LiDAR Point Cloud". (**[ECCV 2018](https://openaccess.thecvf.com/content_eccv_2018_workshops/w18/html/Ali_YOLO3D_End-to-end_real-time_3D_Oriented_Object_Bounding_Box_Detection_from_ECCVW_2018_paper.html)**)
@@ -2169,9 +2173,14 @@
   - ### Automatic Annotation Tools
     #### 自动标注工具
 
+
     - [Label Studio](https://github.com/heartexlabs/label-studio) <img src="https://img.shields.io/github/stars/heartexlabs/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
-    - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+    - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : 🌟 AnyLabeling 🌟. Effortless data labeling with AI support from YOLO and Segment Anything! Effortless data labeling with AI support from YOLO and Segment Anything!
+
+    - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : 💫 X-AnyLabeling 💫. Effortless data labeling with AI support from Segment Anything and other awesome models!
+
+    - [Label Anything](https://github.com/open-mmlab/playground/tree/main/label_anything) <img src="https://img.shields.io/github/stars/open-mmlab/playground?style=social"/> : OpenMMLab PlayGround: Semi-Automated Annotation with Label-Studio and SAM. 
 
     - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
@@ -2604,7 +2613,8 @@
     - [2023-03-30，【YOLOv8/YOLOv7/YOLOv5/YOLOv4系列算法改进】结合NeurIPS 2022年GhostnetV2网络模块](https://mp.weixin.qq.com/s/YgR-hc1aimba3ij9tfaBAw) 
     - [2023-04-08，YOLOv8/YOLOv7/YOLOv5/YOLOv4算法-结合CVPR 2023 即插即用动态稀疏注意力BiFormer模块](https://mp.weixin.qq.com/s/JqDIRqM5XAMzqz-Un2yw8Q)   
     - [2023-05-05，英文论文（sci）解读复现：基于注意机制的改进YOLOv5s目标检测算法](https://mp.weixin.qq.com/s/4Xu9UIwcpgGvqOkXVDhoYA)   
-    - [2023-05-10，英文论文（sci）解读复现：基于注意机制和感受野的YOLOv5在唐卡图像缺陷识别中的应用](https://mp.weixin.qq.com/s/D2yC4Qiztg1FH64f89iJ_A)   
+    - [2023-05-10，英文论文（sci）解读复现：基于注意机制和感受野的YOLOv5在唐卡图像缺陷识别中的应用](https://mp.weixin.qq.com/s/D2yC4Qiztg1FH64f89iJ_A)  
+    - [2023-06-10，算法改进：针对遥感图像目标检测中的小目标进行改进CATnet（ContextAggregation模块）](https://mp.weixin.qq.com/s/T6VWbQJOWoE3kVTQp0cf7w)  
   - 微信公众号「所向披靡的张大刀」
     - [2022-04-24，【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
     - [2022-07-02，【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -2664,7 +2674,11 @@
     - [2022-11-30，达摩院 | DAMO-YOLO：兼顾速度与精度的新目标检测框架](https://mp.weixin.qq.com/s/QYsCzgMhW9Mfsa6CYolVuQ)  
     - [2022-12-23，通用小目标Trick | 深度学习检测小目标常用方法盘点](https://mp.weixin.qq.com/s/WRVjub3ePxWoCBQXKhS__w)  
     - [2023-01-12，纯量产经验 | 谈谈目标检测中正负样本的问题](https://mp.weixin.qq.com/s/esGe2o3_pPXUlrysZoCQKQ)  
-    - [2023-05-21，保姆级开源教程 | 手把手教你部署FreeYOLO ](https://mp.weixin.qq.com/s/AhPaSVl2Gh8zWtJ74IUyzw)  
+    - [2023-05-15，最新！自动驾驶中用于目标检测和语义分割的Radar-Camera融合综述](https://mp.weixin.qq.com/s/EHTXisVDv7SV4UEbo7sdbQ) 
+    - [2023-05-19，25FPS！英伟达首发BEVFusion部署源代码，边缘端实时运行！！！](https://mp.weixin.qq.com/s/79DskdwwSghyldvQF43l6A) 
+    - [2023-05-21，保姆级开源教程 | 手把手教你部署FreeYOLO](https://mp.weixin.qq.com/s/AhPaSVl2Gh8zWtJ74IUyzw) 
+    - [2023-05-29，最新SOTA！BEVFusion4D：BEVFusion升级版3D检测时空新框架！](https://mp.weixin.qq.com/s/i3lLadD3_Q5RX5D0JUocPQ)  
+    - [2023-06-04，万字长文 | Transformer在BEV、2D/3D检测上的应用、量化与加速！](https://mp.weixin.qq.com/s/sEWfs2C62cuThZBXSM0fZA)  
   - 微信公众号「计算机视觉漫谈」
     - [2020-02-22，YOLO v3实战之钢筋数量AI识别（一）](https://mp.weixin.qq.com/s/EElv2Tc73JKS8jpejEGB1w)
     - [2020-03-07，YOLO v3实战之钢筋智能识别改进方案分享（二）](https://mp.weixin.qq.com/s/lOeRqD2orcLw5FR496r4uw) 
@@ -2680,6 +2694,7 @@
     - [2023-01-07，现代目标检测故事 | 40+种网络架构大盘点！从基础架构ResNet到最强检测器Yolov7再到最新部署神器GhostNetV2](https://mp.weixin.qq.com/s/22rRzyZj93-Y4msYwa_LKQ) 
     - [2023-02-19，阿里团队新作 | 探讨 YOLOv5 的高效进阶之路！](https://mp.weixin.qq.com/s/B0yHtFMTO5gwt0B-ra18QA) 
     - [2023-05-05，超强目标检测器 RT-DETR | Python/C++ 保姆级部署教程，从入门到精通](https://mp.weixin.qq.com/s/W56LHZbZEqqoCPFVf612FA) 
+    - [2023-06-04，中科院一区顶刊 TCSVT 2023 | DIAL-Filters: 显著提升模糊夜视场景下的检测和分割性能！](https://mp.weixin.qq.com/s/qPbxjDuPOFSD2zsWAGmLQw) 
   - 微信公众号「OpenCV中文网」
     - [2023-04-07，YOLOv8 全家桶再迎新成员！新增Pose Estimation模型!](https://mp.weixin.qq.com/s/wF93AAVnGsQtHdB-DkSTPQ)
   - 微信公众号「深度学习与计算机视觉」
@@ -2721,8 +2736,12 @@
     - [2023-02-24，YOLOv5全面解析教程⑤：计算mAP用到的Numpy函数详解](https://mp.weixin.qq.com/s/ag7PkcRRSTppEG0GOysqpg)  
     - [2023-03-09，YOLOv5全面解析教程⑥：模型训练流程详解](https://mp.weixin.qq.com/s/RriWDozw7ZHTBg7Rr38dNw)  
     - [2023-05-23，YOLOv5全面解析教程⑦：使用模型融合提升mAP和mAR](https://mp.weixin.qq.com/s/6PjD5k5o1GQO8v7jIydZ_w)
-    - [2023-05-23，YOLOv5全面解析教程⑧：将训练好的YOLOv5权重导为其它框架格式](https://mp.weixin.qq.com/s/4yiN7JZrvAvMi4m5eusbMw)  
-
-
+    - [2023-05-23，YOLOv5全面解析教程⑧：将训练好的YOLOv5权重导为其它框架格式](https://mp.weixin.qq.com/s/4yiN7JZrvAvMi4m5eusbMw) 
+  - 微信公众号「StrongerTang」
+    - [2022-10-07，自动驾驶多模态融合感知详解（研究现状及挑战）](https://mp.weixin.qq.com/s/g3KpWyc0QpLseN5-0CKySQ)   
+  - 微信公众号「北京大学王选计算机研究所」
+    - [2022-10-12，NeurIPS 2022 | 面向自动驾驶多模态感知的激光雷达-相机融合框架](https://mp.weixin.qq.com/s/anth7mIqTGpJ4QWvTDbiSQ)   
+  - 微信公众号「计算机视觉深度学习和自动驾驶」
+    - [2022-05-31，BEVFusion: 基于统一BEV表征的多任务多传感器融合](https://mp.weixin.qq.com/s/maKDU3sXbPxlEFz372qZTA)   
 
 
