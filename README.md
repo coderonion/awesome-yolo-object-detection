@@ -2034,6 +2034,9 @@
 
     - [fahriwps/breast-cancer-detection](https://github.com/fahriwps/breast-cancer-detection) <img src="https://img.shields.io/github/stars/fahriwps/breast-cancer-detection?style=social"/> : Breast cancer mass detection using YOLO object detection algorithm and GUI.
 
+    - [mkang315/CST-YOLO](https://github.com/mkang315/CST-YOLO) <img src="https://img.shields.io/github/stars/mkang315/CST-YOLO?style=social"/> : Official implementation of "CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer".
+
+
 
 
 
@@ -2451,6 +2454,8 @@
     - [2023-05-26，一文读懂PyTorch显存管理机制，推荐学习！](https://mp.weixin.qq.com/s/a9LK35lLE4yfQkqvBp6ujQ)   
     - [2023-06-05，两万字长文，目标检测入门看这篇就够了，推荐收藏！](https://mp.weixin.qq.com/s/EBc1JrR5n4BlWGBx8kuiXw)   
     - [2023-06-07，手把手带你，自己设计实现一个深度学习框架（附代码实现）](https://mp.weixin.qq.com/s/-8A_XaOwHyg653UyRbArQQ)   
+    - [2023-06-12，MMDetection目标检测框架详解，及训练自有数据集教程](https://mp.weixin.qq.com/s/U3irSW9UTKt0gY0HCV9slQ)   
+    - [2023-06-19，万字长文，彻底搞懂YOLOv8网络结构及代码实战！](https://mp.weixin.qq.com/s/vXIx7dBRxgxnvh5BoIRQZw)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2658,6 +2663,7 @@
     - [2023-04-25，GPT-CV：基于Yolov5的半监督目标检测](https://mp.weixin.qq.com/s/wK-5i30X06SfLgASlRdqJw)
     - [2023-04-25，EdgeYOLO：边缘设备上实时运行的目标检测器及Pytorch实现](https://mp.weixin.qq.com/s/zEFjvUKnrm5Iwa6e9Fy29Q)
     - [2023-04-26，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/xocZNuIOCgGynjZxX_xKgw)
+    - [2023-06-22，RestoreDet：低分辨率图像中目标检测](https://mp.weixin.qq.com/s/FqBq9gy-NKfp3W2qgKHb5w)
   - 微信公众号「新机器视觉」
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
@@ -2719,7 +2725,8 @@
   - 微信公众号「深度学习与NLP」
     - [2023-04-24，[万字干货]-如何给模型加入先验知识？](https://mp.weixin.qq.com/s/RmM9ay4arJWBoNP11Bfbsw)  
   - 微信公众号「OpenCV与AI深度学习」
-    - [2023-04-23，基于 YOLOv8 的自定义数据集训练](https://mp.weixin.qq.com/s/NrT7aFurdz5IRr3bCFsHQA)  
+    - [2023-04-23，基于 YOLOv8 的自定义数据集训练](https://mp.weixin.qq.com/s/NrT7aFurdz5IRr3bCFsHQA)
+    - [2023-06-19，一文彻底搞懂YOLOv8【网络结构+代码+实操】](https://mp.weixin.qq.com/s/HldcdtBXzh5YawcS0Bb4KQ)  
   - 微信公众号「嵌入式视觉」
     - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)  
     - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)  
@@ -2743,5 +2750,11 @@
     - [2022-10-12，NeurIPS 2022 | 面向自动驾驶多模态感知的激光雷达-相机融合框架](https://mp.weixin.qq.com/s/anth7mIqTGpJ4QWvTDbiSQ)   
   - 微信公众号「计算机视觉深度学习和自动驾驶」
     - [2022-05-31，BEVFusion: 基于统一BEV表征的多任务多传感器融合](https://mp.weixin.qq.com/s/maKDU3sXbPxlEFz372qZTA)   
+  - 微信公众号「人工智能感知信息处理算法研究院」
+    - [2023-06-15，改进YOLOV5小目标检测之VisDrone2019数据集](https://mp.weixin.qq.com/s/GJza38BBYTl6XAWiiEzpHA)  
+    - [2023-06-16，改进YOLOV5小目标检测之数据预处理之一](https://mp.weixin.qq.com/s/BXueTqerYFtGg9MOhJ7YYA)
+    - [2023-06-17，改进YOLOV5小目标检测之数据预处理之二](https://mp.weixin.qq.com/s/NblhcYo-JWZuJkMS5015sw)  
+    - [2023-06-22，改进YOLOV5小目标检测消融实验之一](https://mp.weixin.qq.com/s/3_03EmF0wo4hmbes5o37NQ)
+    - [2023-06-23，改进YOLOV5小目标检测消融实验之二](https://mp.weixin.qq.com/s/iEEGkLFICJT03kXWQwR_sA)  
 
 
