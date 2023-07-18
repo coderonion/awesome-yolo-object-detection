@@ -1787,6 +1787,11 @@
 
     - [SaiSwarup27/Animal-Intrusion-Detection](https://github.com/SaiSwarup27/Animal-Intrusion-Detection) <img src="https://img.shields.io/github/stars/SaiSwarup27/Animal-Intrusion-Detection?style=social"/> : Animal Detection using YOLOv5.
 
+    - [xcapt0/animal_recognition](https://github.com/xcapt0/animal_recognition) <img src="https://img.shields.io/github/stars/xcapt0/animal_recognition?style=social"/> : 🦁 Let the robot recognize the animal instead of you | YOLOv5.
+
+    - [PhamDangNguyen/YOLOv5_Animals](https://github.com/PhamDangNguyen/YOLOv5_Animals) <img src="https://img.shields.io/github/stars/PhamDangNguyen/YOLOv5_Animals?style=social"/> : YOLOv5 for detection Animals.
+
+    - [Sabuj-CSE11/AnimalDetection](https://github.com/Sabuj-CSE11/AnimalDetection) <img src="https://img.shields.io/github/stars/Sabuj-CSE11/AnimalDetection?style=social"/> : Cat and Dogs detection using YoloV5. 
 
 
 
