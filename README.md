@@ -73,6 +73,7 @@
       - [Crosswalk Detection](#crosswalk-detection)
       - [Traffic Accidents Detection](#traffic-accidents-detection)
       - [Road Damage Detection](#road-damage-detection)
+    - [Animal Detection](#animal-detection)
     - [Helmet Detection](#helmet-detection)
     - [Hand Detection](#hand-detection)
     - [Gesture Recognition](#gesture-recognition)
@@ -249,13 +250,25 @@
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch. 
 
+    - [candle](https://github.com/LaurentMazare/candle) <img src="https://img.shields.io/github/stars/LaurentMazare/candle?style=social"/> : Minimalist ML framework for Rust. 
+
+    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
+
     - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
-    - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is Darknet compatible neural nets inference engine implemented in Rust.
+    - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
 
-    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : yolov5-api-rust.
+    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : Rust API to run predictions with YoloV5 models. 
+
+    - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_rust?style=social"/> : YOLOv8 inference using Rust.
+
+    - [igor-yusupov/rusty-yolo](https://github.com/igor-yusupov/rusty-yolo) <img src="https://img.shields.io/github/stars/igor-yusupov/rusty-yolo?style=social"/> : rusty-yolo.
+
+    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
+
+    - [alianse777/darknet-rust](https://github.com/alianse777/darknet-rust) <img src="https://img.shields.io/github/stars/alianse777/darknet-rust?style=social"/> : A Rust wrapper for Darknet, an open source neural network framework written in C and CUDA. [pjreddie.com/darknet/](https://pjreddie.com/darknet/)
 
     - [12101111/yolo-rs](https://github.com/12101111/yolo-rs) <img src="https://img.shields.io/github/stars/12101111/yolo-rs?style=social"/> : Yolov3 & Yolov4 with TVM and rust.
 
@@ -265,9 +278,10 @@
 
     - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
 
-    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
-
     - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
+
+    - [metobom/tchrs-opencv-webcam-inference](https://github.com/metobom/tchrs-opencv-webcam-inference) <img src="https://img.shields.io/github/stars/metobom/tchrs-opencv-webcam-inference?style=social"/> : This example shows steps for running a Python trained model on webcam feed with opencv and tch-rs. Model will run on GPU.
+
 
 
   - ### LibTorch Implementation
@@ -1763,6 +1777,18 @@
       - [adnanmushtaq1996/Yolov4_Road_Damage_Detection](https://github.com/adnanmushtaq1996/Yolov4_Road_Damage_Detection) <img src="https://img.shields.io/github/stars/adnanmushtaq1996/Yolov4_Road_Damage_Detection?style=social"/> : A Repository to Train a Custom Yolov4 based object detector for road damage detection using the RDD2020 dataset. 
 
       - [E-Kozyreva/detection_potholes_yolov8n](https://github.com/E-Kozyreva/detection_potholes_yolov8n) <img src="https://img.shields.io/github/stars/E-Kozyreva/detection_potholes_yolov8n?style=social"/> : Поиск выбоин на дорогах с использованием YOLOv8 Nano.
+
+
+
+
+
+  - ### Animal Detection
+    #### 动物检测
+
+    - [SaiSwarup27/Animal-Intrusion-Detection](https://github.com/SaiSwarup27/Animal-Intrusion-Detection) <img src="https://img.shields.io/github/stars/SaiSwarup27/Animal-Intrusion-Detection?style=social"/> : Animal Detection using YOLOv5.
+
+
+
 
 
 
