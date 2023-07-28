@@ -1198,6 +1198,11 @@
 
         - [vseasky/yolo-for-k210](https://github.com/vseasky/yolo-for-k210) <img src="https://img.shields.io/github/stars/vseasky/yolo-for-k210?style=social"/> : Yolo-for-k210.
 
+        - [InnoIPA/dpu-sc](https://github.com/InnoIPA/dpu-sc) <img src="https://img.shields.io/github/stars/innoipa/dpu-sc?style=social"/> : dpu-sc presented how to create quick demos to run AI inference(YOLOv4-Tiny, LPRNet) on DPU with MPSoC.
+
+        - [InnoIPA/vaiGO](https://github.com/InnoIPA/vaiGo) <img src="https://img.shields.io/github/stars/innoipa/vaiGO?style=social"/> : vaiGO means Vitis-ai GO. We provide utility and tutorial that make it easy to convert a trained AI model into a bitstream that can be deployed on an FPGA Edge AI Box.
+
+        - [InnoIPA/EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual) <img src="https://img.shields.io/github/stars/innoipa/exmu-x261-usermanual?style=social"/> : We have built more defect detection solutions with YOLOv4-tiny on EXMU-X261.
 
       - ##### Other Hardware
 
