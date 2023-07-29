@@ -175,6 +175,8 @@
 
     - #### Code Review
 
+      - [KuiperInfer (自制深度学习推理框架)](https://github.com/zjhellofss/KuiperInfer) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperInfer?style=social"/> : 带你从零实现一个高性能的深度学习推理库，Implement a high-performance deep learning inference library step by step.
+    
       - [MMDetection](https://github.com/open-mmlab/mmdetection) <img src="https://img.shields.io/github/stars/open-mmlab/mmdetection?style=social"/> : OpenMMLab Detection Toolbox and Benchmark. [mmdetection.readthedocs.io](https://mmdetection.readthedocs.io/en/latest/). (**[arXiv 2019](https://arxiv.org/abs/1906.07155)**)
 
       - [MMYOLO](https://github.com/open-mmlab/mmyolo) <img src="https://img.shields.io/github/stars/open-mmlab/mmyolo?style=social"/> : OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, PPYOLOE, etc. [mmyolo.readthedocs.io/zh_CN/dev/](https://mmyolo.readthedocs.io/zh_CN/dev/)
@@ -208,6 +210,8 @@
       - [XiaoJiNu/yolov5-v6-chinese-comment](https://github.com/XiaoJiNu/yolov5-v6-chinese-comment) <img src="https://img.shields.io/github/stars/XiaoJiNu/yolov5-v6-chinese-comment?style=social"/> : yolov5-v6版本注释。 
 
       - [1131624548/About-YOLOv5-7-0](https://github.com/1131624548/About-YOLOv5-7-0) <img src="https://img.shields.io/github/stars/XiaoJiNu/yolov5-v6-chinese-comment?style=social"/> : YOLOv5代码注释。 
+
+
 
 
 ## Extensional Frameworks
@@ -286,8 +290,6 @@
 
 
   - ### CPP Implementation
-
-    - [KuiperInfer (自制深度学习推理框架)](https://github.com/zjhellofss/KuiperInfer) <img src="https://img.shields.io/github/stars/zjhellofss/KuiperInfer?style=social"/> : 带你从零实现一个高性能的深度学习推理库，Implement a high-performance deep learning inference library step by step.
 
     - [walktree/libtorch-yolov3](https://github.com/walktree/libtorch-yolov3) <img src="https://img.shields.io/github/stars/walktree/libtorch-yolov3?style=social"/> : A Libtorch implementation of the YOLO v3 object detection algorithm, written with pure C++.
 
@@ -2832,7 +2834,8 @@
     - [2023-07-15，KAYOLO网络模型](https://mp.weixin.qq.com/s/rYrdJPHYE57Kc8QzVDxUfg)
     - [2023-07-19，Yolov8n-IOU损失函数的改进](https://mp.weixin.qq.com/s/x1WRIC9MNQWMTup9XHkwWg)
     - [2023-07-26，YOLOV7算法原理](https://mp.weixin.qq.com/s/KnLwHIWqespSxO0v82cJ3A)
-
+  - [bilibili](https://wallstreetcn.com/)
+    - [2023-06-02，从零自制深度学习推理框架](https://www.bilibili.com/video/BV118411f7yM/?spm_id_from=333.999.0.0)   
 
 
 
