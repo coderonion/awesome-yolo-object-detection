@@ -2819,6 +2819,9 @@
     - [2023-07-06，YOLOv5训练自己的数据集(超详细)](https://mp.weixin.qq.com/s/UshIczcC8l7eHNf2CSrMKw) 
   - 微信公众号「Streamlit」
     - [2023-05-18，Streamlit+Opencv打造人脸实时识别功能](https://mp.weixin.qq.com/s/I1HQ_E4UerZLkDT2-ch2SQ) 
+  - 微信公众号「FightingCV」
+    - [2022-08-17，YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg) 
+    - [2023-07-29，自动驾驶新方法登Nature封面：让黑夜如白昼般清晰，浙大博士一作](https://mp.weixin.qq.com/s/bCUMjzc-Ws0_qjusFjM5Xw) 
   - 微信公众号「人工智能感知信息处理算法研究院」
     - [2023-06-15，改进YOLOV5小目标检测之VisDrone2019数据集](https://mp.weixin.qq.com/s/GJza38BBYTl6XAWiiEzpHA)  
     - [2023-06-16，改进YOLOV5小目标检测之数据预处理之一](https://mp.weixin.qq.com/s/BXueTqerYFtGg9MOhJ7YYA)
