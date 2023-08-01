@@ -943,6 +943,8 @@
 
         - [TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥《TensorRT-Alpha》🔥supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. It implements 🚀 CUDA C++🚀 accelerated deployment models.🍎CUDA IS ALL YOU NEED🍎.Best Wish!
 
+        - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++. tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support.
+        
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs. 
 
         - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.  
@@ -954,8 +956,6 @@
         - [enazoe/yolo-tensorrt](https://github.com/enazoe/yolo-tensorrt) <img src="https://img.shields.io/github/stars/enazoe/yolo-tensorrt?style=social"/> : TensorRT8.Support Yolov5n,s,m,l,x .darknet -> tensorrt. Yolov4 Yolov3 use raw darknet *.weights and *.cfg fils. If the wrapper is useful to you,please Star it.
 
         - [guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot) <img src="https://img.shields.io/github/stars/guojianyang/cv-detect-robot?style=social"/> : 🔥🔥🔥🔥🔥🔥Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX for High-performance deployment(高性能部署)。
-
-        - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++.
 
         - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
 
@@ -2674,6 +2674,7 @@
     - [2023-07-18，YOLOv8/YOLOv7/YOLOv5/YOLOv4/Faster-rcnn系列算法改进：添加渐近特征金字塔网络](https://mp.weixin.qq.com/s/sdZq3AGcqc4rVywqaEmlYw)  
     - [2023-07-27，中科大提出PE-YOLO | 让YOLO家族算法直击黑夜目标检测](https://mp.weixin.qq.com/s/7_6wCWbjqLsv09pd_m2NIQ)  
     - [2023-07-28，YOLOv8/YOLOv7/YOLOv5/YOLOv4等系列算法改进：改进边框位置回归损失函数（MPDIoU损失函数）](https://mp.weixin.qq.com/s/hKdFzeEvgOI-IkZebDxORQ)  
+    - [2023-07-31，远超YOLOP | 超轻超快的TwinLiteNet实现多任务自动驾驶感知](https://mp.weixin.qq.com/s/qXFQeYOrdBNWEblVgodcfg)  
   - 微信公众号「所向披靡的张大刀」
     - [2022-04-24，【小白入坑篇】目标检测的评价指标map](https://mp.weixin.qq.com/s/q308cHT0XliCK3NtIRjyqA)
     - [2022-07-02，【yolov6系列】细节拆解网络框架](https://mp.weixin.qq.com/s/DFSROue8InARk-96I_Kptg)
@@ -2763,6 +2764,7 @@
     - [2023-05-05，超强目标检测器 RT-DETR | Python/C++ 保姆级部署教程，从入门到精通](https://mp.weixin.qq.com/s/W56LHZbZEqqoCPFVf612FA) 
     - [2023-06-04，中科院一区顶刊 TCSVT 2023 | DIAL-Filters: 显著提升模糊夜视场景下的检测和分割性能！](https://mp.weixin.qq.com/s/qPbxjDuPOFSD2zsWAGmLQw) 
     - [2023-07-12，北航新作 | Q-YOLO: 基于 TensorRT 和 OpenVIVO 的目标检测量化实战方案](https://mp.weixin.qq.com/s/Us7IiYXFtUoQJ6btpcG1lw) 
+    - [2023-07-30，大连理工联合阿里达摩院发布HQTrack | 高精度视频多目标跟踪大模型](https://mp.weixin.qq.com/s/Jl2mr7tszulZX19Fx4ZNgw) 
   - 微信公众号「OpenCV中文网」
     - [2023-04-07，YOLOv8 全家桶再迎新成员！新增Pose Estimation模型!](https://mp.weixin.qq.com/s/wF93AAVnGsQtHdB-DkSTPQ)
   - 微信公众号「深度学习与计算机视觉」
@@ -2837,6 +2839,7 @@
     - [2023-07-15，KAYOLO网络模型](https://mp.weixin.qq.com/s/rYrdJPHYE57Kc8QzVDxUfg)
     - [2023-07-19，Yolov8n-IOU损失函数的改进](https://mp.weixin.qq.com/s/x1WRIC9MNQWMTup9XHkwWg)
     - [2023-07-26，YOLOV7算法原理](https://mp.weixin.qq.com/s/KnLwHIWqespSxO0v82cJ3A)
+    - [2023-07-30，Flask 部署 YOLOV5](https://mp.weixin.qq.com/s/9dwrXEAi5tht4-tNyZ4tYw)
   - [bilibili](https://wallstreetcn.com/)
     - [2023-06-02，从零自制深度学习推理框架](https://www.bilibili.com/video/BV118411f7yM/?spm_id_from=333.999.0.0)   
 
