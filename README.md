@@ -2506,6 +2506,8 @@
     - [2023-06-27，TensorRT模型部署，添加自己插件的落地方式](https://mp.weixin.qq.com/s/E-Iebdd4Es5UK-TrBUJcjA)   
     - [2023-06-29，YOLOv7+Transformer部署，TensorRT应用实战（附代码）](https://mp.weixin.qq.com/s/znxT8nsfkq0s5NHRnAxYaw)   
     - [2023-07-06，万字长文，基于PyTorch的多种卷积神经网络BackBone代码实现](https://mp.weixin.qq.com/s/TQ88Oex6YTKAkUZL3kLu3A)   
+    - [2023-07-21，万字长文，YOLOv5手势识别训练转换及模型部署！（附代码）](https://mp.weixin.qq.com/s/1yvJIObEs9H4C9Qd3tb9kA)   
+    - [2023-08-03，TensorRT模型INT8量化，Python代码部署实现](https://mp.weixin.qq.com/s/Phu7UmPKuSrUOhCQDV2xEQ)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2528,6 +2530,7 @@
   - [知乎「极市平台」| 微信公众号「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
     - [2020-11-17，YOLO算法最全综述：从YOLOv1到YOLOv5](https://zhuanlan.zhihu.com/p/297965943)
     - [2022-08-04，华为轻量级神经网络架构GhostNet再升级，GPU上大显身手的G-GhostNet（IJCV22）](https://mp.weixin.qq.com/s/31Fb3WSBtRUNu8oUkMrBrg)     
+    - [2022-10-17，Backbone篇｜YOLOv1-v7全系列大解析](https://mp.weixin.qq.com/s/SQ-ojaRlinLY5PsLTZhz2w)
     - [2022-11-15，NeurIPS'22 Spotlight｜华为诺亚GhostNetV2出炉：长距离注意力机制增强廉价操作](https://mp.weixin.qq.com/s/RBpC-0HqzgtHy5xsoBce8Q)
     - [2022-11-21，轻量级的CNN模块！RepGhost：重参数化技术构建硬件高效的 Ghost 模块](https://mp.weixin.qq.com/s/mV2Bl4tBZwZ7n-YleMUE4g) 
     - [2023-02-26，厦大纪荣嵘团队新作｜OneTeacher: 解锁 YOLOv5 的正确打开方式](https://mp.weixin.qq.com/s/HAfCpECOxccPfj5b7Pprfw)
@@ -2708,6 +2711,8 @@
     - [2023-06-06，一文全览 | 2023最新环视自动驾驶3D检测综述！](https://mp.weixin.qq.com/s/4eE5kWGF5FekHHCZOg9rNA)
     - [2023-06-21，AI模型部署实战 | 利用CV-CUDA加速视觉模型部署流程](https://mp.weixin.qq.com/s/kdxz3zn77031MDNxVm_k0Q)
     - [2023-07-20，Q-YOLOP来啦 | 一个具有量化感知全景驾驶感知模型](https://mp.weixin.qq.com/s/kaAoqp-8af0bUA7byYKKPA)
+    - [2023-07-29，TensorRT部署系列 | 如何将模型从 PyTorch 转换为 TensorRT 并加速推理？](https://mp.weixin.qq.com/s/F0ZV9yTW8_UHJrvNew8qOA)
+    - [2023-08-03，YOLO落地部署 | 一文全览YOLOv5最新的剪枝、量化的进展【必读】](https://mp.weixin.qq.com/s/AzwdSKNs8SnIIRsdG0cZAg)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
@@ -2824,6 +2829,20 @@
   - 微信公众号「FightingCV」
     - [2022-08-17，YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg) 
     - [2023-07-29，自动驾驶新方法登Nature封面：让黑夜如白昼般清晰，浙大博士一作](https://mp.weixin.qq.com/s/bCUMjzc-Ws0_qjusFjM5Xw) 
+  - 微信公众号「AILab笔记」
+    - [2023-06-08，【文献】视觉transformer研究进展——史上最全综述](https://mp.weixin.qq.com/s/zCbFEl8pvPIfjnfIgv8Hqw)
+  - 微信公众号「CVer」
+    - [2023-08-02，ICCV 2023｜目标检测新突破！AlignDet：支持各类检测器完全自监督预训练的框架](https://mp.weixin.qq.com/s/t7jlTyUP6UxplpythX0dOw)
+  - 微信公众号「我爱计算机视觉」
+    - [2023-06-09，[实践]YOLOv5提升10倍推理速度：利用TensorRT 在Jetson NX上的模型部署](https://mp.weixin.qq.com/s/jWZuNKpVM4k5aDe2JmB-Tg)
+  - 微信公众号「英特尔物联网」
+    - [2022-08-11，基于 OpenVINO™️ 2022.1 POT API 实现 YOLOv5 模型 INT8 量化 | 开发者实战](https://mp.weixin.qq.com/s/DTXVXwf_tPxwsWbSxBv9Sw)
+  - 微信公众号「英特尔物联网」
+    - [2022-08-11，基于 OpenVINO™️ 2022.1 POT API 实现 YOLOv5 模型 INT8 量化 | 开发者实战](https://mp.weixin.qq.com/s/v4y-vjsUrlow5EaP_VrF0A)
+  - 微信公众号「郭小喵玩AI」
+    - [2023-06-22，Win10环境下OpenVINO部署YOLOv5模型：从理论到实践](https://mp.weixin.qq.com/s/v4y-vjsUrlow5EaP_VrF0A)
+  - 微信公众号「郭小喵玩AI」
+    - [2023-02-13，如何用OpenVINO™让YOLOv8获得1000+ FPS性能？](https://mp.weixin.qq.com/s/CroC5jiTh6OXGtFUbWLZwQ)
   - 微信公众号「人工智能感知信息处理算法研究院」
     - [2023-06-15，改进YOLOV5小目标检测之VisDrone2019数据集](https://mp.weixin.qq.com/s/GJza38BBYTl6XAWiiEzpHA)  
     - [2023-06-16，改进YOLOV5小目标检测之数据预处理之一](https://mp.weixin.qq.com/s/BXueTqerYFtGg9MOhJ7YYA)
