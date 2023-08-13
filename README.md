@@ -2508,6 +2508,7 @@
     - [2023-07-06，万字长文，基于PyTorch的多种卷积神经网络BackBone代码实现](https://mp.weixin.qq.com/s/TQ88Oex6YTKAkUZL3kLu3A)   
     - [2023-07-21，万字长文，YOLOv5手势识别训练转换及模型部署！（附代码）](https://mp.weixin.qq.com/s/1yvJIObEs9H4C9Qd3tb9kA)   
     - [2023-08-03，TensorRT模型INT8量化，Python代码部署实现](https://mp.weixin.qq.com/s/Phu7UmPKuSrUOhCQDV2xEQ)   
+    - [2023-08-12，目标检测算法，检测框位置优化总结](https://mp.weixin.qq.com/s/_JDPP7Yq8E4bXxZtWlOy6Q)   
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2713,6 +2714,7 @@
     - [2023-07-20，Q-YOLOP来啦 | 一个具有量化感知全景驾驶感知模型](https://mp.weixin.qq.com/s/kaAoqp-8af0bUA7byYKKPA)
     - [2023-07-29，TensorRT部署系列 | 如何将模型从 PyTorch 转换为 TensorRT 并加速推理？](https://mp.weixin.qq.com/s/F0ZV9yTW8_UHJrvNew8qOA)
     - [2023-08-03，YOLO落地部署 | 一文全览YOLOv5最新的剪枝、量化的进展【必读】](https://mp.weixin.qq.com/s/AzwdSKNs8SnIIRsdG0cZAg)
+    - [2023-08-11，YOLOD也来啦 | 优化YOLOv5样本匹配，顺带设计了全新的模块](https://mp.weixin.qq.com/s/erkyca0OtJoyXAXI_I6RmQ)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A) 
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg) 
@@ -2859,10 +2861,17 @@
     - [2023-07-19，Yolov8n-IOU损失函数的改进](https://mp.weixin.qq.com/s/x1WRIC9MNQWMTup9XHkwWg)
     - [2023-07-26，YOLOV7算法原理](https://mp.weixin.qq.com/s/KnLwHIWqespSxO0v82cJ3A)
     - [2023-07-30，Flask 部署 YOLOV5](https://mp.weixin.qq.com/s/9dwrXEAi5tht4-tNyZ4tYw)
+    - [2023-08-13，目标检测算法的应用](https://mp.weixin.qq.com/s/cX1WlVJqDNePZW18Jlf_Kg)
   - [bilibili](https://wallstreetcn.com/)
     - [2023-06-02，从零自制深度学习推理框架](https://www.bilibili.com/video/BV118411f7yM/?spm_id_from=333.999.0.0)   
 
 
 
 
+
+
+
+## Star History
+
+<img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sjinzh/awesome-yolo-object-detection&type=Date" />
 
