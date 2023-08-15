@@ -875,6 +875,8 @@
 
         - [chumingqian/Model_Compression_For_YOLOV3-V4](https://github.com/chumingqian/Model_Compression_For_YOLOV3-V4) <img src="https://img.shields.io/github/stars/chumingqian/Model_Compression_For_YOLOV3-V4?style=social"/> : In this repository using the dynamic sparse training( variable sparse rate s which can speed up the sparse training process), channel pruning and knowledge distilling for YOLOV3 and YOLOV4.
 
+        - [xhwNobody/yolov5_prune_sfp](https://github.com/xhwNobody/yolov5_prune_sfp) <img src="https://img.shields.io/github/stars/xhwNobody/yolov5_prune_sfp?style=social"/> : 基于SFP和FPGM的yolov5的软剪枝实现。
+
 
 
 
