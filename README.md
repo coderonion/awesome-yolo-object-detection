@@ -18,7 +18,7 @@
     - [CPP Implementation](#cpp-implementation)
     - [ROS Implementation](#ros-implementation)
     - [Go Implementation](#go-implementation)
-    - [Dotnet Implementation](#dotnet-implementation)
+    - [Csharp Implementation](#Csharp-implementation)
     - [PyTorch Implementation](#pytorch-implementation)
     - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
     - [PaddlePaddle Implementation](#paddlepaddle-implementation)
@@ -391,9 +391,7 @@
 
 
 
-  - ### Dotnet Implementation
-
-    - [SynapseML](https://github.com/microsoft/SynapseML) <img src="https://img.shields.io/github/stars/microsoft/SynapseML?style=social"/> : SynapseML (previously known as MMLSpark), is an open-source library that simplifies the creation of massively scalable machine learning (ML) pipelines. SynapseML provides simple, composable, and distributed APIs for a wide variety of different machine learning tasks such as text analytics, vision, anomaly detection, and many others.  
+  - ### Csharp Implementation
   
     - [ML.NET](https://github.com/dotnet/machinelearning) <img src="https://img.shields.io/github/stars/dotnet/machinelearning?style=social"/> : ML.NET is an open source and cross-platform machine learning framework for .NET. 
 
@@ -405,14 +403,14 @@
 
     - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
 
-    - [Microsoft-Rocket-Video-Analytics-Platform](https://github.com/microsoft/Microsoft-Rocket-Video-Analytics-Platform) <img src="https://img.shields.io/github/stars/microsoft/Microsoft-Rocket-Video-Analytics-Platform?style=social"/> : A highly extensible software stack to empower everyone to build practical real-world live video analytics applications for object detection and counting with cutting edge machine learning algorithms. 
-
-    - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
+    - [dme-compunet/YOLOv8](https://github.com/dme-compunet/YOLOv8) <img src="https://img.shields.io/github/stars/dme-compunet/YOLOv8?style=social"/> : Use YOLOv8 in real-time, for object detection, instance segmentation, pose estimation and image classification, via ONNX Runtime. 
 
     - [techwingslab/yolov5-net](https://github.com/techwingslab/yolov5-net) <img src="https://img.shields.io/github/stars/techwingslab/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
     - [sstainba/Yolov8.Net](https://github.com/sstainba/Yolov8.Net) <img src="https://img.shields.io/github/stars/sstainba/Yolov8.Net?style=social"/> : A .net 6 implementation to use Yolov5 and Yolov8 models via the ONNX Runtime.
 
+    - [Alturos.Yolo](https://github.com/AlturosDestinations/Alturos.Yolo) <img src="https://img.shields.io/github/stars/AlturosDestinations/Alturos.Yolo?style=social"/> : C# Yolo Darknet Wrapper (real-time object detection).
+    
     - [ivilson/Yolov7net](https://github.com/ivilson/Yolov7net) <img src="https://img.shields.io/github/stars/ivilson/Yolov7net?style=social"/> : Yolov7 Detector for .Net 6.
 
     - [sangyuxiaowu/ml_yolov7](https://github.com/sangyuxiaowu/ml_yolov7) <img src="https://img.shields.io/github/stars/sangyuxiaowu/ml_yolov7?style=social"/> : ML.NET Yolov7. "微信公众号「桑榆肖物」《[YOLOv7 在 ML.NET 中使用 ONNX 检测对象](https://mp.weixin.qq.com/s/vXz6gavYJR2mh5KuJO_slA)》"
@@ -2789,6 +2787,7 @@
     - [2023-03-29，ChatGPT是如何看待YOLO系列算法的贡献呢？~哈哈~ ](https://mp.weixin.qq.com/s/E-TNeTKK5EV70zAenRVbwQ)  
     - [2023-05-07，YOLO-NAS | YOLO新高度，引入NAS，出于YOLOv8而优于YOLOv8](https://mp.weixin.qq.com/s/FsWSRguAn2WZKtmPhMbc6g)
     - [2023-05-16，全网唯一复现！手机端 1ms 级延迟的主干网模型 MobileOne](https://mp.weixin.qq.com/s/Wk1sHIQKUe01PqMnpzcCfQ)  
+    - [2023-08-15，南开大学提出YOLO-MS | 超越YOLOv8与RTMDet，即插即用打破性能瓶颈](https://mp.weixin.qq.com/s/FfG9vNM_a2k_zflWfuimsw)  
   - 微信公众号「AI科技与算法编程」
     - [2023-04-11, YOLOv8 AS-One：目标检测AS-One 来了！（YOLO就是名副其实的卷王之王）](https://mp.weixin.qq.com/s/ofokLwCwgN1GNTqy3NuYmg) 
   - 微信公众号「董董灿是个攻城狮」
