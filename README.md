@@ -185,7 +185,7 @@
 
       - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. ​ The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
-      - [Yolov5_Magic](https://github.com/WangQvQ/Yolov5_Magic) <img src="https://img.shields.io/github/stars/WangQvQ/Yolov5_Magic?style=social"/> : YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
+      - [YOLOMagic](https://github.com/WangQvQ/Yolov5_Magic) <img src="https://img.shields.io/github/stars/WangQvQ/Yolov5_Magic?style=social"/> : YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
 
       - [positive666/yolo_research](https://github.com/positive666/yolo_research) <img src="https://img.shields.io/github/stars/positive666/yolo_research?style=social"/> : 🚀 yolo_reserach PLUS High-level. based on yolo-high-level project (detect\pose\classify\segment\):include yolov5\yolov7\yolov8\ core ,improvement research ,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment.
 
