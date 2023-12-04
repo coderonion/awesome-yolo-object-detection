@@ -31,7 +31,8 @@
     - [Lighter and Faster](#lighter-and-faster)
       - [Lightweight Backbones and FPN](#lightweight-backbones-and-fpn)
       - [Pruning Knoweldge-Distillation Quantization](#pruning-knoweldge-distillation-quantization)
-        - [Pruning and Quantization](#pruning-and-quantization)
+        - [Pruning](#pruning)
+        - [Quantization](#quantization)
         - [Knoweldge-Distillation](#knoweldge-distillation)
       - [High-performance Inference Engine](#high-performance-inference-engine)
         - [ONNX](#onnx)
@@ -99,6 +100,10 @@
     - [Feature Map Visualization](#feature-map-visualization)
     - [Object Detection Evaluation Metrics](#object-detection-evaluation-metrics)
     - [GUI](#gui)
+        - [QT-Related](#qt-related)
+        - [Streamlit-Related](#streamlit-related)
+        - [Flutter-Related](#flutter-related)
+        - [Slint-Related](#slint-related)
     - [Other Applications](#other-applications)
   - [Blogs](#blogs)
 
@@ -256,17 +261,27 @@
 
   - ### Rust Implementation
 
+    - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
+
+    - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
+
+    - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
+
+    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
+
     - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
 
     - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
 
-    - [candle](https://github.com/LaurentMazare/candle) <img src="https://img.shields.io/github/stars/LaurentMazare/candle?style=social"/> : Minimalist ML framework for Rust.
-
-    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
-
     - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
 
-    - [pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
+    - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+
+    - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
+
+    - [sjinzh/yolov5-gui-slint](https://github.com/sjinzh/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
+
+    - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
     - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
 
@@ -830,28 +845,12 @@
 
     - #### Pruning Knoweldge-Distillation Quantization
 
-      - ##### Pruning and Quantization
-        ##### 剪枝与量化
+      - ##### Pruning
+        ##### 剪枝
 
         - [SparseML](https://github.com/neuralmagic/sparseml) <img src="https://img.shields.io/github/stars/neuralmagic/sparseml?style=social"/> : Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models. "Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks". (**[PMLR 2020](http://proceedings.mlr.press/v119/kurtz20a.html)**). "Woodfisher: Efficient second-order approximation for neural network compression". (**[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)**)
 
         - [SparseZoo](https://github.com/neuralmagic/sparsezoo) <img src="https://img.shields.io/github/stars/neuralmagic/sparsezoo?style=social"/> : Neural network model repository for highly sparse and sparse-quantized models with matching sparsification recipes.
-
-        - [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSlim?style=social"/> : PaddleSlim is an open-source library for deep model compression and architecture search. PaddleSlim是一个专注于深度学习模型压缩的工具库，提供低比特量化、知识蒸馏、稀疏化和模型结构搜索等模型压缩策略，帮助用户快速实现模型的小型化。
-
-        - [PPL量化工具](https://github.com/openppl-public/ppq) <img src="https://img.shields.io/github/stars/openppl-public/ppq?style=social"/> : PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool. PPL QuantTool 是一个高效的工业级神经网络量化工具。
-
-        - [PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) <img src="https://img.shields.io/github/stars/PINTO0309/PINTO_model_zoo?style=social"/> : A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.
-
-        - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~
-
-        - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. "知乎「马雪浩」《[FastestDet: 比yolo-fastest更快！更强！更简单！全新设计的超实时Anchor-free目标检测算法](https://zhuanlan.zhihu.com/p/536500269)》"。 "微信公众号「计算机视觉研究院」《[FastestDet：比yolov5更快！更强！全新设计的超实时Anchor-free目标检测算法（附源代码下载）](https://mp.weixin.qq.com/s/Bskc5WQd8ujy16Jl4qekjQ)》"。
-
-        - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-Fastest?style=social"/> : Yolo-Fastest：超超超快的开源ARM实时目标检测算法。 [Zenodo 2021](http://doi.org/10.5281/zenodo.5131532). "知乎「马雪浩」《[Yolo-Fastest：超超超快的开源ARM实时目标检测算法](https://zhuanlan.zhihu.com/p/234506503)》"。
-
-        - [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-FastestV2?style=social"/> : Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k。 "知乎「马雪浩」《[Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k](https://zhuanlan.zhihu.com/p/400474142)》"。
-
-        - [YOLObile](https://github.com/nightsnack/YOLObile) <img src="https://img.shields.io/github/stars/nightsnack/YOLObile?style=social"/> : "YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-7561.CaiY.pdf)**)
 
         - [Gumpest/YOLOv5-Multibackbone-Compression](https://github.com/Gumpest/YOLOv5-Multibackbone-Compression) <img src="https://img.shields.io/github/stars/Gumpest/YOLOv5-Multibackbone-Compression?style=social"/> : YOLOv5 Series Multi-backbone(TPH-YOLOv5, Ghostnet, ShuffleNetv2, Mobilenetv3Small, EfficientNetLite, PP-LCNet, SwinTransformer YOLO), Module(CBAM, DCN), Pruning (EagleEye, Network Slimming) and Quantization (MQBench) Compression Tool Box.
 
@@ -877,7 +876,6 @@
 
         - [talebolano/yolov3-network-slimming](https://github.com/talebolano/yolov3-network-slimming) <img src="https://img.shields.io/github/stars/talebolano/yolov3-network-slimming?style=social"/> : yolov3 network slimming剪枝的一种实现。
 
-        - [AlexeyAB/yolo2_light](https://github.com/AlexeyAB/yolo2_light) <img src="https://img.shields.io/github/stars/AlexeyAB/yolo2_light?style=social"/> : Light version of convolutional neural network Yolo v3 & v2 for objects detection with a minimum of dependencies (INT8-inference, BIT1-XNOR-inference).
 
         - [Bigtuo/YOLOX-Lite](https://github.com/Bigtuo/YOLOX-Lite) <img src="https://img.shields.io/github/stars/Bigtuo/YOLOX-Lite?style=social"/> : 将YOLOv5-Lite代码中的head更换为YOLOX head。
 
@@ -886,6 +884,29 @@
         - [chumingqian/Model_Compression_For_YOLOV3-V4](https://github.com/chumingqian/Model_Compression_For_YOLOV3-V4) <img src="https://img.shields.io/github/stars/chumingqian/Model_Compression_For_YOLOV3-V4?style=social"/> : In this repository using the dynamic sparse training( variable sparse rate s which can speed up the sparse training process), channel pruning and knowledge distilling for YOLOV3 and YOLOV4.
 
         - [xhwNobody/yolov5_prune_sfp](https://github.com/xhwNobody/yolov5_prune_sfp) <img src="https://img.shields.io/github/stars/xhwNobody/yolov5_prune_sfp?style=social"/> : 基于SFP和FPGM的yolov5的软剪枝实现。
+
+
+
+      - ##### Quantization
+        ##### 量化
+
+        - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. "知乎「马雪浩」《[FastestDet: 比yolo-fastest更快！更强！更简单！全新设计的超实时Anchor-free目标检测算法](https://zhuanlan.zhihu.com/p/536500269)》"。 "微信公众号「计算机视觉研究院」《[FastestDet：比yolov5更快！更强！全新设计的超实时Anchor-free目标检测算法（附源代码下载）](https://mp.weixin.qq.com/s/Bskc5WQd8ujy16Jl4qekjQ)》"。
+
+        - [dog-qiuqiu/Yolo-Fastest](https://github.com/dog-qiuqiu/Yolo-Fastest) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-Fastest?style=social"/> : Yolo-Fastest：超超超快的开源ARM实时目标检测算法。 [Zenodo 2021](http://doi.org/10.5281/zenodo.5131532). "知乎「马雪浩」《[Yolo-Fastest：超超超快的开源ARM实时目标检测算法](https://zhuanlan.zhihu.com/p/234506503)》"。
+
+        - [dog-qiuqiu/Yolo-FastestV2](https://github.com/dog-qiuqiu/Yolo-FastestV2) <img src="https://img.shields.io/github/stars/dog-qiuqiu/Yolo-FastestV2?style=social"/> : Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k。 "知乎「马雪浩」《[Yolo-FastestV2:更快，更轻，移动端可达300FPS，参数量仅250k](https://zhuanlan.zhihu.com/p/400474142)》"。
+
+        - [YOLObile](https://github.com/nightsnack/YOLObile) <img src="https://img.shields.io/github/stars/nightsnack/YOLObile?style=social"/> : "YOLObile: Real-Time Object Detection on Mobile Devices via Compression-Compilation Co-Design". (**[AAAI 2021](https://www.aaai.org/AAAI21Papers/AAAI-7561.CaiY.pdf)**)
+
+        - [PaddleSlim](https://github.com/PaddlePaddle/PaddleSlim) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleSlim?style=social"/> : PaddleSlim is an open-source library for deep model compression and architecture search. PaddleSlim是一个专注于深度学习模型压缩的工具库，提供低比特量化、知识蒸馏、稀疏化和模型结构搜索等模型压缩策略，帮助用户快速实现模型的小型化。
+
+        - [PPL量化工具](https://github.com/openppl-public/ppq) <img src="https://img.shields.io/github/stars/openppl-public/ppq?style=social"/> : PPL Quantization Tool (PPQ) is a powerful offline neural network quantization tool. PPL QuantTool 是一个高效的工业级神经网络量化工具。
+
+        - [PINTO_model_zoo](https://github.com/PINTO0309/PINTO_model_zoo) <img src="https://img.shields.io/github/stars/PINTO0309/PINTO_model_zoo?style=social"/> : A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.
+
+        - [ppogg/YOLOv5-Lite](https://github.com/ppogg/YOLOv5-Lite) <img src="https://img.shields.io/github/stars/ppogg/YOLOv5-Lite?style=social"/> : 🍅🍅🍅YOLOv5-Lite: lighter, faster and easier to deploy. Evolved from yolov5 and the size of model is only 930+kb (int8) and 1.7M (fp16). It can reach 10+ FPS on the Raspberry Pi 4B when the input size is 320×320~
+
+        - [AlexeyAB/yolo2_light](https://github.com/AlexeyAB/yolo2_light) <img src="https://img.shields.io/github/stars/AlexeyAB/yolo2_light?style=social"/> : Light version of convolutional neural network Yolo v3 & v2 for objects detection with a minimum of dependencies (INT8-inference, BIT1-XNOR-inference).
 
 
 
@@ -2339,82 +2360,100 @@
   - ### GUI
     #### 图形用户界面
 
-    - [Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI](https://github.com/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI?style=social"/> : Road Sign Recognition Project Based on YOLOv5. This is a road sign recognition project based on YOLOv5, developed with a PyQt5 interface, YOLOv5 trained model, and MySQL database. 这是一个基于YOLOv5🚀的道路标志识别系统😊，使用了MySQL数据库💽，PyQt5进行界面设计🎨，PyTorch深度学习框架和TensorRT进行加速⚡，同时包含了CSS样式🌈。系统由五个主要模块组成：系统登录模块🔑负责用户登陆；初始化参数模块📋提供YOLOv5模型的初始化参数设置；标志识别模块🔍是系统的核心，负责对道路标志进行识别并将结果导入数据库；数据库模块💾包含基本数据库操作和数据分析两个子模块；图像处理模块🖼️负责单个图像的处理和数据增强。整个系统支持多种数据输入和模型切换，提供了包括mossic和mixup在内的图像增强方法📈。
+    - #### QT-Related
 
-    - [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) <img src="https://img.shields.io/github/stars/Javacr/PyQt5-YOLOv5?style=social"/> : YOLOv5检测界面-PyQt5实现。
+        - [Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI](https://github.com/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI?style=social"/> : Road Sign Recognition Project Based on YOLOv5. This is a road sign recognition project based on YOLOv5, developed with a PyQt5 interface, YOLOv5 trained model, and MySQL database. 这是一个基于YOLOv5🚀的道路标志识别系统😊，使用了MySQL数据库💽，PyQt5进行界面设计🎨，PyTorch深度学习框架和TensorRT进行加速⚡，同时包含了CSS样式🌈。系统由五个主要模块组成：系统登录模块🔑负责用户登陆；初始化参数模块📋提供YOLOv5模型的初始化参数设置；标志识别模块🔍是系统的核心，负责对道路标志进行识别并将结果导入数据库；数据库模块💾包含基本数据库操作和数据分析两个子模块；图像处理模块🖼️负责单个图像的处理和数据增强。整个系统支持多种数据输入和模型切换，提供了包括mossic和mixup在内的图像增强方法📈。
 
-    - [zstar1003/yolov5_pyqt5](https://github.com/zstar1003/yolov5_pyqt5) <img src="https://img.shields.io/github/stars/zstar1003/yolov5_pyqt5?style=social"/> : 这是一个使用pyqt5搭建YOLOv5目标检测可视化程序。
+        - [parker-int64/yolov5-RGBD](https://github.com/parker-int64/yolov5-RGBD) <img src="https://img.shields.io/github/stars/parker-int64/yolov5-RGBD?style=social"/> : Qt QML based yolov5 + RGBD camera program.
 
-    - [scutlrr/Yolov4-QtGUI](https://github.com/scutlrr/Yolov4-QtGUI) <img src="https://img.shields.io/github/stars/scutlrr/Yolov4-QtGUI?style=social"/> : Yolov4-QtGUI是基于[QtGuiDemo](https://github.com/jmu201521121021/QtGuiDemo)项目开发的可视化目标检测界面，可以简便选择本地图片、摄像头来展示图像处理算法的结果。
+        - [Aimol-l/qml_with_yolov7](https://github.com/Aimol-l/qml_with_yolov7) <img src="https://img.shields.io/github/stars/Aimol-l/qml_with_yolov7?style=social"/> : 用YOLOV7+ByteTrack的方法识别视频/视频流，用QML绘制GUI，并带有统计信息。
 
-    - [xugaoxiang/yolov5-pyqt5](https://github.com/xugaoxiang/yolov5-pyqt5) <img src="https://img.shields.io/github/stars/xugaoxiang/yolov5-pyqt5?style=social"/> : 给yolov5加个gui界面，使用pyqt5，yolov5是5.0版本。
+        - [xietx1995/YOLO-QT-Camera-Tool](https://github.com/xietx1995/YOLO-QT-Camera-Tool) <img src="https://img.shields.io/github/stars/xietx1995/YOLO-QT-Camera-Tool?style=social"/> : Detecting objects from camera or local video files vi qt and yolo.
 
-    - [mxy493/YOLOv5-Qt](https://github.com/mxy493/YOLOv5-Qt) <img src="https://img.shields.io/github/stars/mxy493/YOLOv5-Qt?style=social"/> : 基于YOLOv5的GUI程序，支持选择要使用的权重文件，设置是否使用GPU，设置置信度阈值等参数。
+        - [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) <img src="https://img.shields.io/github/stars/Javacr/PyQt5-YOLOv5?style=social"/> : YOLOv5检测界面-PyQt5实现。
 
-    - [BonesCat/YoloV5_PyQt5](https://github.com/BonesCat/YoloV5_PyQt5) <img src="https://img.shields.io/github/stars/BonesCat/YoloV5_PyQt5?style=social"/> : Add gui for YoloV5 using PyQt5.
+        - [zstar1003/yolov5_pyqt5](https://github.com/zstar1003/yolov5_pyqt5) <img src="https://img.shields.io/github/stars/zstar1003/yolov5_pyqt5?style=social"/> : 这是一个使用pyqt5搭建YOLOv5目标检测可视化程序。
 
-    - [LuckyBoy1798/yolov5-pyqt](https://github.com/LuckyBoy1798/yolov5-pyqt) <img src="https://img.shields.io/github/stars/LuckyBoy1798/yolov5-pyqt?style=social"/> : 基于yolov5+pyqt的甲骨文图形化检测工具。
+        - [scutlrr/Yolov4-QtGUI](https://github.com/scutlrr/Yolov4-QtGUI) <img src="https://img.shields.io/github/stars/scutlrr/Yolov4-QtGUI?style=social"/> : Yolov4-QtGUI是基于[QtGuiDemo](https://github.com/jmu201521121021/QtGuiDemo)项目开发的可视化目标检测界面，可以简便选择本地图片、摄像头来展示图像处理算法的结果。
 
-    - [PySimpleGUI/PySimpleGUI-YOLO](https://github.com/PySimpleGUI/PySimpleGUI-YOLO) <img src="https://img.shields.io/github/stars/PySimpleGUI/PySimpleGUI-YOLO?style=social"/> : A YOLO Artificial Intelligence algorithm demonstration using PySimpleGUI.
+        - [xugaoxiang/yolov5-pyqt5](https://github.com/xugaoxiang/yolov5-pyqt5) <img src="https://img.shields.io/github/stars/xugaoxiang/yolov5-pyqt5?style=social"/> : 给yolov5加个gui界面，使用pyqt5，yolov5是5.0版本。
 
-    - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) <img src="https://img.shields.io/github/stars/prabindh/qt5-opencv3-darknet?style=social"/> : Qt5 + Darknet/Yolo + OpenCV3.
+        - [mxy493/YOLOv5-Qt](https://github.com/mxy493/YOLOv5-Qt) <img src="https://img.shields.io/github/stars/mxy493/YOLOv5-Qt?style=social"/> : 基于YOLOv5的GUI程序，支持选择要使用的权重文件，设置是否使用GPU，设置置信度阈值等参数。
 
-    - [GinkgoX/YOLOv3GUI_Pytorch_PyQt5](https://github.com/GinkgoX/YOLOv3GUI_Pytorch_PyQt5) <img src="https://img.shields.io/github/stars/GinkgoX/YOLOv3GUI_Pytorch_PyQt5?style=social"/> : This is a GUI project for Deep Learning Object Detection based on YOLOv3 model.
+        - [BonesCat/YoloV5_PyQt5](https://github.com/BonesCat/YoloV5_PyQt5) <img src="https://img.shields.io/github/stars/BonesCat/YoloV5_PyQt5?style=social"/> : Add gui for YoloV5 using PyQt5.
 
-    - [xietx1995/YOLO-QT-Camera-Tool](https://github.com/xietx1995/YOLO-QT-Camera-Tool) <img src="https://img.shields.io/github/stars/xietx1995/YOLO-QT-Camera-Tool?style=social"/> : Detecting objects from camera or local video files vi qt and yolo.
+        - [LuckyBoy1798/yolov5-pyqt](https://github.com/LuckyBoy1798/yolov5-pyqt) <img src="https://img.shields.io/github/stars/LuckyBoy1798/yolov5-pyqt?style=social"/> : 基于yolov5+pyqt的甲骨文图形化检测工具。
 
-    - [FatemeZamanian/Yolov5-Fruit-Detector](https://github.com/FatemeZamanian/Yolov5-Fruit-Detector) <img src="https://img.shields.io/github/stars/FatemeZamanian/Yolov5-Fruit-Detector?style=social"/> : A program to recognize fruits on pictures or videos using yolov5.
+        - [PySimpleGUI/PySimpleGUI-YOLO](https://github.com/PySimpleGUI/PySimpleGUI-YOLO) <img src="https://img.shields.io/github/stars/PySimpleGUI/PySimpleGUI-YOLO?style=social"/> : A YOLO Artificial Intelligence algorithm demonstration using PySimpleGUI.
 
-    - [BioMeasure/PyQt5_YoLoV5_DeepSort](https://github.com/BioMeasure/PyQt5_YoLoV5_DeepSort) <img src="https://img.shields.io/github/stars/BioMeasure/PyQt5_YoLoV5_DeepSort?style=social"/> : This is a PyQt5 GUI program, which is based on YoloV5 and DeepSort to track person.
+        - [prabindh/qt5-opencv3-darknet](https://github.com/prabindh/qt5-opencv3-darknet) <img src="https://img.shields.io/github/stars/prabindh/qt5-opencv3-darknet?style=social"/> : Qt5 + Darknet/Yolo + OpenCV3.
 
-    - [DongLizhong/YOLO_SORT_QT](https://github.com/DongLizhong/YOLO_SORT_QT) <img src="https://img.shields.io/github/stars/DongLizhong/YOLO_SORT_QT?style=social"/> : This code uses the opencv dnn module to load the darknet model for detection and add SORT for multi-object tracking(MOT).
+        - [GinkgoX/YOLOv3GUI_Pytorch_PyQt5](https://github.com/GinkgoX/YOLOv3GUI_Pytorch_PyQt5) <img src="https://img.shields.io/github/stars/GinkgoX/YOLOv3GUI_Pytorch_PyQt5?style=social"/> : This is a GUI project for Deep Learning Object Detection based on YOLOv3 model.
 
-    - [Whu-wxy/yolov5_deepsort_ncnn_qt](https://github.com/Whu-wxy/yolov5_deepsort_ncnn_qt) <img src="https://img.shields.io/github/stars/Whu-wxy/yolov5_deepsort_ncnn_qt?style=social"/> : 用ncnn调用yolov5和deep sort模型，opencv读取视频。
 
-    - [jeswanthgalla/PyQt4_GUI_darknet_yolov4](https://github.com/jeswanthgalla/PyQt4_GUI_darknet_yolov4) <img src="https://img.shields.io/github/stars/jeswanthgalla/PyQt4_GUI_darknet_yolov4?style=social"/> : GUI App using PyQt4. Multithreading to process multiple camera streams and using darknet yolov4 model for object detection.
 
-    - [barleo01/yoloobjectdetector](https://github.com/barleo01/yoloobjectdetector) <img src="https://img.shields.io/github/stars/barleo01/yoloobjectdetector?style=social"/> : The pupose of this application is to capture video from a camera, apply a YOLO Object detector and display it on a simple Qt Gui.
+        - [FatemeZamanian/Yolov5-Fruit-Detector](https://github.com/FatemeZamanian/Yolov5-Fruit-Detector) <img src="https://img.shields.io/github/stars/FatemeZamanian/Yolov5-Fruit-Detector?style=social"/> : A program to recognize fruits on pictures or videos using yolov5.
 
-    - [Eagle104fred/PyQt5-Yolov5](https://github.com/Eagle104fred/PyQt5-Yolov5) <img src="https://img.shields.io/github/stars/Eagle104fred/PyQt5-Yolov5?style=social"/> : 把YOLOv5的视频显示到pyqt5ui上。
+        - [BioMeasure/PyQt5_YoLoV5_DeepSort](https://github.com/BioMeasure/PyQt5_YoLoV5_DeepSort) <img src="https://img.shields.io/github/stars/BioMeasure/PyQt5_YoLoV5_DeepSort?style=social"/> : This is a PyQt5 GUI program, which is based on YoloV5 and DeepSort to track person.
 
-    - [cnyvfang/YOLOv5-GUI](https://github.com/cnyvfang/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Eagle104fred/PyQt5-Yolov5?style=social"/> : Qt-GUI implementation of the YOLOv5 algorithm (ver.6 and ver.5). YOLOv5算法(ver.6及ver.5)的Qt-GUI实现。
+        - [DongLizhong/YOLO_SORT_QT](https://github.com/DongLizhong/YOLO_SORT_QT) <img src="https://img.shields.io/github/stars/DongLizhong/YOLO_SORT_QT?style=social"/> : This code uses the opencv dnn module to load the darknet model for detection and add SORT for multi-object tracking(MOT).
 
-    - [WeNN-Artificial-Intelligence/PyQT-Object-Detection-App](https://github.com/WeNN-Artificial-Intelligence/PyQT-Object-Detection-App) <img src="https://img.shields.io/github/stars/WeNN-Artificial-Intelligence/PyQT-Object-Detection-App?style=social"/> : Real-time object detection app with Python and PyQt framework.
+        - [Whu-wxy/yolov5_deepsort_ncnn_qt](https://github.com/Whu-wxy/yolov5_deepsort_ncnn_qt) <img src="https://img.shields.io/github/stars/Whu-wxy/yolov5_deepsort_ncnn_qt?style=social"/> : 用ncnn调用yolov5和deep sort模型，opencv读取视频。
 
-    - [Powercube7/YOLOv5-GUI](https://github.com/Powercube7/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Powercube7/YOLOv5-GUI?style=social"/> : A simple GUI made for creating jobs in YOLOv5.
+        - [jeswanthgalla/PyQt4_GUI_darknet_yolov4](https://github.com/jeswanthgalla/PyQt4_GUI_darknet_yolov4) <img src="https://img.shields.io/github/stars/jeswanthgalla/PyQt4_GUI_darknet_yolov4?style=social"/> : GUI App using PyQt4. Multithreading to process multiple camera streams and using darknet yolov4 model for object detection.
 
-    - [cdmstrong/yolov5-pyqt-moke](https://github.com/cdmstrong/yolov5-pyqt-moke) <img src="https://img.shields.io/github/stars/cdmstrong/yolov5-pyqt-moke?style=social"/> : 利用yolov5和pyqt做可视化检测。
+        - [barleo01/yoloobjectdetector](https://github.com/barleo01/yoloobjectdetector) <img src="https://img.shields.io/github/stars/barleo01/yoloobjectdetector?style=social"/> : The pupose of this application is to capture video from a camera, apply a YOLO Object detector and display it on a simple Qt Gui.
 
-    - [GHigher12/Pyqt5_yolov5_unet_centernet](https://github.com/GHigher12/Pyqt5_yolov5_unet_centernet) <img src="https://img.shields.io/github/stars/GHigher12/Pyqt5_yolov5_unet_centernet?style=social"/> : 集yolov5、centernet、unet算法的pyqt5界面，可实现图片目标检测和语义分割。
+        - [Eagle104fred/PyQt5-Yolov5](https://github.com/Eagle104fred/PyQt5-Yolov5) <img src="https://img.shields.io/github/stars/Eagle104fred/PyQt5-Yolov5?style=social"/> : 把YOLOv5的视频显示到pyqt5ui上。
 
-    - [chenanga/qt5_yolov5_2.0](https://github.com/chenanga/qt5_yolov5_2.0) <img src="https://img.shields.io/github/stars/chenanga/qt5_yolov5_2.0?style=social"/> : Pyqt搭建YOLOV5目标检测界面-第一次优化后的版本。
+        - [cnyvfang/YOLOv5-GUI](https://github.com/cnyvfang/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Eagle104fred/PyQt5-Yolov5?style=social"/> : Qt-GUI implementation of the YOLOv5 algorithm (ver.6 and ver.5). YOLOv5算法(ver.6及ver.5)的Qt-GUI实现。
 
-    - [xun-xh/yolov5-onnx-pyqt-exe](https://github.com/xun-xh/yolov5-onnx-pyqt-exe) <img src="https://img.shields.io/github/stars/xun-xh/yolov5-onnx-pyqt-exe?style=social"/> : 基于Yolov5 + PyQt5 + onnxruntime的目标检测部署。
+        - [WeNN-Artificial-Intelligence/PyQT-Object-Detection-App](https://github.com/WeNN-Artificial-Intelligence/PyQT-Object-Detection-App) <img src="https://img.shields.io/github/stars/WeNN-Artificial-Intelligence/PyQT-Object-Detection-App?style=social"/> : Real-time object detection app with Python and PyQt framework.
 
-    - [LPC1616/pyqt-yolox-modbus](https://github.com/LPC1616/pyqt-yolox-modbus) <img src="https://img.shields.io/github/stars/LPC1616/pyqt-yolox-modbus?style=social"/> : qt界面+yolox识别算法+modbus通信。
+        - [Powercube7/YOLOv5-GUI](https://github.com/Powercube7/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Powercube7/YOLOv5-GUI?style=social"/> : A simple GUI made for creating jobs in YOLOv5.
 
-    - [SwimmingLiu/yolov7-Pyside6](https://github.com/SwimmingLiu/yolov7-Pyside6) <img src="https://img.shields.io/github/stars/SwimmingLiu/yolov7-Pyside6?style=social"/> : PySide6 implementation of YOLOv7 GUI.
+        - [cdmstrong/yolov5-pyqt-moke](https://github.com/cdmstrong/yolov5-pyqt-moke) <img src="https://img.shields.io/github/stars/cdmstrong/yolov5-pyqt-moke?style=social"/> : 利用yolov5和pyqt做可视化检测。
 
-    - [zawawiAI/yolo_gpt](https://github.com/zawawiAI/yolo_gpt) <img src="https://img.shields.io/github/stars/zawawiAI/yolo_gpt?style=social"/> : This is a GUI application that integrates YOLOv8 object recognition with OpenAI's GPT-3 language generation model.
+        - [GHigher12/Pyqt5_yolov5_unet_centernet](https://github.com/GHigher12/Pyqt5_yolov5_unet_centernet) <img src="https://img.shields.io/github/stars/GHigher12/Pyqt5_yolov5_unet_centernet?style=social"/> : 集yolov5、centernet、unet算法的pyqt5界面，可实现图片目标检测和语义分割。
 
-    - [LSH9832/yolov5_training_tool](https://github.com/LSH9832/yolov5_training_tool) <img src="https://img.shields.io/github/stars/LSH9832/yolov5_training_tool?style=social"/> : 本工具使用PYQT5编写界面。通过使用该工具可以快速部署相应数据集并训练，目前仍在不断更新中，较大的缺点是目前只支持PascalVOC格式的xml标签文件，所以其它格式的标签文件需要先转换为PascalVOC的格式，且目前仅适用于Linux系统且仅在Ubuntu16.04-20.04试运行。
+        - [chenanga/qt5_yolov5_2.0](https://github.com/chenanga/qt5_yolov5_2.0) <img src="https://img.shields.io/github/stars/chenanga/qt5_yolov5_2.0?style=social"/> : Pyqt搭建YOLOV5目标检测界面-第一次优化后的版本。
 
-    - [Egrt/YOLO_PyQt5](https://github.com/Egrt/YOLO_PyQt5) <img src="https://img.shields.io/github/stars/Egrt/YOLO_PyQt5?style=social"/> : 使用Pyqt5搭建YOLO系列多线程目标检测系统。
+        - [xun-xh/yolov5-onnx-pyqt-exe](https://github.com/xun-xh/yolov5-onnx-pyqt-exe) <img src="https://img.shields.io/github/stars/xun-xh/yolov5-onnx-pyqt-exe?style=social"/> : 基于Yolov5 + PyQt5 + onnxruntime的目标检测部署。
 
-    - [smartwj/yolov5_pyqt5](https://github.com/smartwj/yolov5_pyqt5) <img src="https://img.shields.io/github/stars/smartwj/yolov5_pyqt5?style=social"/> : 基于yolov5的pyqt5目标检测图形上位机工具。
+        - [LPC1616/pyqt-yolox-modbus](https://github.com/LPC1616/pyqt-yolox-modbus) <img src="https://img.shields.io/github/stars/LPC1616/pyqt-yolox-modbus?style=social"/> : qt界面+yolox识别算法+modbus通信。
 
-    - [LitChi-bit/YOLOv5-6.0-GUI](https://github.com/LitChi-bit/YOLOv5-6.0-GUI) <img src="https://img.shields.io/github/stars/LitChi-bit/YOLOv5-6.0-GUI?style=social"/> : Qt-GUI implementation of the YOLOv5 algorithm (ver.6).
+        - [zawawiAI/yolo_gpt](https://github.com/zawawiAI/yolo_gpt) <img src="https://img.shields.io/github/stars/zawawiAI/yolo_gpt?style=social"/> : This is a GUI application that integrates YOLOv8 object recognition with OpenAI's GPT-3 language generation model.
 
-    - [PetervanLunteren/EcoAssist](https://github.com/PetervanLunteren/EcoAssist) <img src="https://img.shields.io/github/stars/PetervanLunteren/EcoAssist?style=social"/> : A no-code platform to train and deploy YOLOv5 object detection models.
+        - [LSH9832/yolov5_training_tool](https://github.com/LSH9832/yolov5_training_tool) <img src="https://img.shields.io/github/stars/LSH9832/yolov5_training_tool?style=social"/> : 本工具使用PYQT5编写界面。通过使用该工具可以快速部署相应数据集并训练，目前仍在不断更新中，较大的缺点是目前只支持PascalVOC格式的xml标签文件，所以其它格式的标签文件需要先转换为PascalVOC的格式，且目前仅适用于Linux系统且仅在Ubuntu16.04-20.04试运行。
 
-    - [BraunGe/YOLOv5-GUI](https://github.com/BraunGe/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/BraunGe/YOLOv5-GUI?style=social"/> : A GUI for YOLOv5, support all the 11 inference formats that YOLOv5 supports.
+        - [Egrt/YOLO_PyQt5](https://github.com/Egrt/YOLO_PyQt5) <img src="https://img.shields.io/github/stars/Egrt/YOLO_PyQt5?style=social"/> : 使用Pyqt5搭建YOLO系列多线程目标检测系统。
 
-    - [JackDance/YOLOv8-streamlit-app](https://github.com/JackDance/YOLOv8-streamlit-app) <img src="https://img.shields.io/github/stars/JackDance/YOLOv8-streamlit-app?style=social"/> : 🔥🔥🔥 Use streamlit framework to increase yolov8 front-end page interaction function. "知乎「Mr.Luyao」《[深度学习/机器学习项目的前端展示利器--Streamlit](https://zhuanlan.zhihu.com/p/630029493)》"。
+        - [smartwj/yolov5_pyqt5](https://github.com/smartwj/yolov5_pyqt5) <img src="https://img.shields.io/github/stars/smartwj/yolov5_pyqt5?style=social"/> : 基于yolov5的pyqt5目标检测图形上位机工具。
 
-    - [sjinzh/yolov5-rs-app](https://github.com/sjinzh/yolov5-rs-app) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-rs-app?style=social"/> : A inference framework with GUI for YOLOv5 written in Rust.
+        - [LitChi-bit/YOLOv5-6.0-GUI](https://github.com/LitChi-bit/YOLOv5-6.0-GUI) <img src="https://img.shields.io/github/stars/LitChi-bit/YOLOv5-6.0-GUI?style=social"/> : Qt-GUI implementation of the YOLOv5 algorithm (ver.6).
 
-    - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
+        - [BraunGe/YOLOv5-GUI](https://github.com/BraunGe/YOLOv5-GUI) <img src="https://img.shields.io/github/stars/BraunGe/YOLOv5-GUI?style=social"/> : A GUI for YOLOv5, support all the 11 inference formats that YOLOv5 supports.
 
+        - [PetervanLunteren/EcoAssist](https://github.com/PetervanLunteren/EcoAssist) <img src="https://img.shields.io/github/stars/PetervanLunteren/EcoAssist?style=social"/> : A no-code platform to train and deploy YOLOv5 object detection models.
+
+        - [SwimmingLiu/yolov7-Pyside6](https://github.com/SwimmingLiu/yolov7-Pyside6) <img src="https://img.shields.io/github/stars/SwimmingLiu/yolov7-Pyside6?style=social"/> : PySide6 implementation of YOLOv7 GUI.
+
+
+    - #### Streamlit-Related
+
+        - [JackDance/YOLOv8-streamlit-app](https://github.com/JackDance/YOLOv8-streamlit-app) <img src="https://img.shields.io/github/stars/JackDance/YOLOv8-streamlit-app?style=social"/> : 🔥🔥🔥 Use streamlit framework to increase yolov8 front-end page interaction function. "知乎「Mr.Luyao」《[深度学习/机器学习项目的前端展示利器--Streamlit](https://zhuanlan.zhihu.com/p/630029493)》"。
+
+
+
+    - #### Flutter-Related
+
+        - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
+
+
+
+    - #### Slint-Related
+
+        - [sjinzh/yolov5-gui-slint](https://github.com/sjinzh/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/sjinzh/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
 
 
 
