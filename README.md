@@ -152,7 +152,7 @@
 
     - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
-    - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**).
+    - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**)
 
 
 
