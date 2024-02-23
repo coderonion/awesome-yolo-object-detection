@@ -222,6 +222,8 @@
 
     - [kuiperdatawhale](https://github.com/zjhellofss/kuiperdatawhale) <img src="https://img.shields.io/github/stars/zjhellofss/kuiperdatawhale?style=social"/> :  从零自制深度学习推理框架。
 
+    - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
+
     - [roboflow/notebooks](https://github.com/roboflow/notebooks) <img src="https://img.shields.io/github/stars/roboflow/notebooks?style=social"/> : Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM. [roboflow.com/models](https://roboflow.com/models)
 
     - [yjh0410/PyTorch_YOLO_Tutorial](https://github.com/yjh0410/PyTorch_YOLO_Tutorial) <img src="https://img.shields.io/github/stars/yjh0410/PyTorch_YOLO_Tutorial?style=social"/> : YOLO Tutorial.
@@ -2587,6 +2589,7 @@
     - [2023-08-12，目标检测算法，检测框位置优化总结](https://mp.weixin.qq.com/s/_JDPP7Yq8E4bXxZtWlOy6Q)
     - [2023-09-01，基于Yolo算法的AI数钢筋，整体解决方案汇总](https://mp.weixin.qq.com/s/plWUuEVkbK-nDycqVDFU8A)
     - [2024-01-26，深入浅出，YOLOv8算法使用指南](https://mp.weixin.qq.com/s/9naZZ7wXugppelcmPHGVlQ)
+    - [2024-02-23，目标检测YOLOv9算法，重磅开源！（附论文及源码）](https://mp.weixin.qq.com/s/RVG-9h8zKsWACMr6dDRpUQ)
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2797,6 +2800,7 @@
     - [2024-02-01，太强！AI没有落下的腾讯出YOLO-World爆款 | 开集目标检测速度提升20倍，效果不减](https://mp.weixin.qq.com/s/Fj6wzARTo1l7UEwKxDAh6w)
     - [2024-02-14，YOLOPoint开源 | 新年YOLO依然坚挺，通过结合YOLOv5&SuperPoint，成就多任务SOTA](https://mp.weixin.qq.com/s/8Lkl3aMwjESRyeZfLMu7Tw)
     - [2024-02-23，Focaler-IoU开源 | 高于SIoU+关注困难样本，让YOLOv5再涨1.9%，YOLOv8再涨点0.3%](https://mp.weixin.qq.com/s/A_BABGHKp5Icdmlk3q3lIA)
+    - [2024-02-23，YOLOv9开源 | 架构图&模块改进&正负样本匹配&损失函数解读，5分钟即可理解YOLOv9](https://mp.weixin.qq.com/s/31NlBknx4PcXipfuV2w6hw)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A)
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg)
@@ -2881,6 +2885,7 @@
     - [2023-05-16，全网唯一复现！手机端 1ms 级延迟的主干网模型 MobileOne](https://mp.weixin.qq.com/s/Wk1sHIQKUe01PqMnpzcCfQ)
     - [2023-08-15，南开大学提出YOLO-MS | 超越YOLOv8与RTMDet，即插即用打破性能瓶颈](https://mp.weixin.qq.com/s/FfG9vNM_a2k_zflWfuimsw)
     - [2024-02-19，U版YOLO-World来了，YOLOv8再度升级，三行代码上手YOLO-World](https://mp.weixin.qq.com/s/yepStVzyrOE4MsgFFuwo0Q)
+    - [2024-02-23，YOLOv9来了，可编程梯度信息与广义高效层聚合网络 助力全新检测SOTA前沿](https://mp.weixin.qq.com/s/tFavH5_Sqtnq1_NMRt_AUg)
   - 微信公众号「董董灿是个攻城狮」
     - [2023-03-20，万字长文解析Resnet50的算法原理](https://mp.weixin.qq.com/s/pA86udkaFzCogi2Qw8vBEA)
     - [2023-04-17，万字长文入门神经网络硬件加速](https://mp.weixin.qq.com/s/3aNVGIPf5pLzEv67KI8M5w)
@@ -2959,6 +2964,19 @@
     - [2024-01-19，YOLOv4与卷积注意力以及ViT结合的进化版本YOLO-Former，精度稳步提升！](https://mp.weixin.qq.com/s/N-5nYylqOTx7tEISJYOuuw)
   - 微信公众号「小白玩转Python」
     - [2023-12-22，基于 YOLOv8 的疲劳状态检测 | 附源码](https://mp.weixin.qq.com/s/L_-Ii5QvnGgJwo5WYSUcVg)
+    - [2024-01-22，YOLO-NAS 如何将 YOLO-v8 甩在身后？](https://mp.weixin.qq.com/s/pc7TzlZSULNJwIS-liCdzg)
+  - 微信公众号「机器之心」
+    - [2024-02-23，目标检测新SOTA：YOLOv9问世，新架构让传统卷积重焕生机](https://mp.weixin.qq.com/s/HFyADfWKkyw0TivsqH6kXA)
+  - 微信公众号「码科智能」
+    - [2024-01-30，模型部署系列：10x速度提升，YoloV8目标检测模型稀疏化—CPU上超500FPS](https://mp.weixin.qq.com/s/cWRObjaRvL6RgabSdSxVBQ)
+    - [2024-02-19，基于YOLO-World+EfficientSAM的零样本目标检测与实例分割Demo](https://mp.weixin.qq.com/s/u4QBbOeNR48aF9YHWdCQsw)
+    - [2024-02-23，YOLOv9来了! 抛开损失函数和网络结构，换个可编程梯度信息角度继续升级，目标检测新SOTA！](https://mp.weixin.qq.com/s/TAv_GY3d-tPOX9fKZNBwig)
+  - 微信公众号「自动驾驶Daily」
+    - [2024-02-23，YOLOv9终于来了！远超现有实时目标检测器！使用PGI学你想学！](https://mp.weixin.qq.com/s/1i76NbtC5DD1lPMIMa9f8w)
+  - 微信公众号「3D视觉工坊」
+    - [2024-02-23，YOLOv9震撼来袭！使用可编程梯度信息学习你想学习的内容！](https://mp.weixin.qq.com/s/Fbd-jarVO4LyjlhdxgmnsA)
+
+
 
 ## Videos
 
