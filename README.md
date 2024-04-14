@@ -14,37 +14,38 @@
     - [Learning Resources](#learning-resources)
   - [Extensional Frameworks](#extensional-frameworks)
   - [Other Versions of YOLO](#other-versions-of-yolo)
+    - [PyTorch Implementation](#pytorch-implementation)
     - [C Implementation](#c-implementation)
-    - [Rust Implementation](#rust-implementation)
     - [CPP Implementation](#cpp-implementation)
     - [ROS Implementation](#ros-implementation)
+    - [Mojo Implementation](#mojo-implementation)
+    - [Rust Implementation](#rust-implementation)
     - [Go Implementation](#go-implementation)
-    - [Csharp Implementation](#Csharp-implementation)
-    - [PyTorch Implementation](#pytorch-implementation)
+    - [CSharp Implementation](#csharp-implementation)
     - [Tensorflow and Keras Implementation](#tensorflow-and-keras-implementation)
     - [PaddlePaddle Implementation](#paddlepaddle-implementation)
     - [Caffe Implementation](#caffe-implementation)
     - [MXNet Implementation](#mxnet-implementation)
     - [Web Implementation](#web-implementation)
     - [Others](#others)
+  - [Lighter and Deployment Frameworks](#lighter-and-deployment-frameworks)
+    - [Lightweight Backbones and FPN](#lightweight-backbones-and-fpn)
+    - [Pruning Knoweldge-Distillation Quantization](#pruning-knoweldge-distillation-quantization)
+      - [Pruning](#pruning)
+      - [Quantization](#quantization)
+      - [Knoweldge-Distillation](#knoweldge-distillation)
+    - [High-performance Inference Engine](#high-performance-inference-engine)
+      - [ONNX](#onnx)
+      - [TensorRT](#tensorrt)
+      - [OpenVINO](#openvino)
+      - [NCNN](#ncnn)
+      - [MNN](#mnn)
+      - [DeepStream](#deepstream)
+      - [Other Engine](#other-engine)
+    - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
+      - [FPGA](#fpga)
+      - [Other Hardware](#other-hardware)
   - [Applications](#applications)
-    - [Lighter and Faster](#lighter-and-faster)
-      - [Lightweight Backbones and FPN](#lightweight-backbones-and-fpn)
-      - [Pruning Knoweldge-Distillation Quantization](#pruning-knoweldge-distillation-quantization)
-        - [Pruning](#pruning)
-        - [Quantization](#quantization)
-        - [Knoweldge-Distillation](#knoweldge-distillation)
-      - [High-performance Inference Engine](#high-performance-inference-engine)
-        - [ONNX](#onnx)
-        - [TensorRT](#tensorrt)
-        - [OpenVINO](#openvino)
-        - [NCNN](#ncnn)
-        - [MNN](#mnn)
-        - [DeepStream](#deepstream)
-        - [Other Engine](#other-engine)
-      - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
-        - [FPGA](#fpga)
-        - [Other Hardware](#other-hardware)
     - [Video Object Detection](#video-object-detection)
     - [Object Tracking](#object-tracking)
       - [Multi-Object Tracking](#multi-object-tracking)
@@ -100,8 +101,9 @@
     - [Feature Map Visualization](#feature-map-visualization)
     - [Object Detection Evaluation Metrics](#object-detection-evaluation-metrics)
     - [GUI](#gui)
-        - [QT-Related](#qt-related)
         - [Streamlit-Related](#streamlit-related)
+        - [QT-Related](#qt-related)
+        - [PySide-Related](#pyside-related)
         - [Flutter-Related](#flutter-related)
         - [Slint-Related](#slint-related)
     - [Other Applications](#other-applications)
@@ -138,8 +140,6 @@
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**). "微信公众号「CVer」《[CVPR 2023 | YOLOv7强势收录！时隔6年，YOLOv系列再登CVPR！](https://mp.weixin.qq.com/s/HjaszZYPLoV03Z4Rw9KiCg)》"。
 
-    - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. [Ultralytics](https://ultralytics.com/) [YOLOv8](https://github.com/ultralytics/ultralytics) is a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks. [docs.ultralytics.com](https://docs.ultralytics.com/)
-
     - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
 
     - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
@@ -151,6 +151,8 @@
     - [YOLO-NAS](https://github.com/Deci-AI/super-gradients) <img src="https://img.shields.io/github/stars/Deci-AI/super-gradients?style=social"/> : Easily train or fine-tune SOTA computer vision models with one open source training library. The home of [Yolo-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md). [www.supergradients.com](https://www.supergradients.com/). YOLO-NAS: A Next-Generation, Object Detection Foundational Model generated by Deci’s Neural Architecture Search Technology. Deci is thrilled to announce the release of a new object detection model, YOLO-NAS - a game-changer in the world of object detection, providing superior real-time object detection capabilities and production-ready performance. Deci's mission is to provide AI teams with tools to remove development barriers and attain efficient inference performance more quickly. The new YOLO-NAS delivers state-of-the-art (SOTA) performance with the unparalleled accuracy-speed performance, outperforming other models such as YOLOv5, YOLOv6, YOLOv7 and YOLOv8.
 
     - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+
+    - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. [Ultralytics](https://ultralytics.com/) [YOLOv8](https://github.com/ultralytics/ultralytics) is a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
     - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**)
 
@@ -256,6 +258,68 @@
 
 ## Other Versions of YOLO
 
+  - ### PyTorch Implementation
+
+    - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) <img src="https://img.shields.io/github/stars/ultralytics/yolov3?style=social"/> : YOLOv3 in PyTorch > ONNX > CoreML > TFLite.
+
+    - [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) <img src="https://img.shields.io/github/stars/eriklindernoren/PyTorch-YOLOv3?style=social"/> : Minimal PyTorch implementation of YOLOv3.
+
+    - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) <img src="https://img.shields.io/github/stars/Tianxiaomo/pytorch-YOLOv4?style=social"/> : PyTorch ,ONNX and TensorRT implementation of YOLOv4.
+
+    - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) <img src="https://img.shields.io/github/stars/ayooshkathuria/pytorch-yolo-v3?style=social"/> : A PyTorch implementation of the YOLO v3 object detection algorithm.
+
+    - [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) <img src="https://img.shields.io/github/stars/WongKinYiu/PyTorch_YOLOv4?style=social"/> : PyTorch implementation of YOLOv4.
+
+    - [argusswift/YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) <img src="https://img.shields.io/github/stars/argusswift/YOLOv4-pytorch?style=social"/> : This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO.
+
+    - [longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch) <img src="https://img.shields.io/github/stars/longcw/yolo2-pytorch?style=social"/> : YOLOv2 in PyTorch.
+
+    - [bubbliiiing/yolov5-v6.1-pytorch](https://github.com/bubbliiiing/yolov5-v6.1-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov5-v6.1-pytorch?style=social"/> : 这是一个yolov5-v6.1-pytorch的源码，可以用于训练自己的模型。
+
+    - [bubbliiiing/yolov5-pytorch](https://github.com/bubbliiiing/yolov5-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov5-pytorch?style=social"/> : 这是一个YoloV5-pytorch的源码，可以用于训练自己的模型。
+
+    - [bubbliiiing/yolov4-pytorch](https://github.com/bubbliiiing/yolov4-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov4-pytorch?style=social"/> : 这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。
+
+    - [bubbliiiing/yolov4-tiny-pytorch](https://github.com/bubbliiiing/yolov4-tiny-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov4-tiny-pytorch?style=social"/> : 这是一个YoloV4-tiny-pytorch的源码，可以用于训练自己的模型。
+
+    - [bubbliiiing/yolov3-pytorch](https://github.com/bubbliiiing/yolo3-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolo3-pytorch?style=social"/> : 这是一个yolo3-pytorch的源码，可以用于训练自己的模型。
+
+    - [bubbliiiing/yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolox-pytorch?style=social"/> : 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
+
+    - [bubbliiiing/yolov7-pytorch](https://github.com/bubbliiiing/yolov7-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov7-pytorch?style=social"/> : 这是一个yolov7的库，可以用于训练自己的数据集。
+
+    - [bubbliiiing/yolov8-pytorch](https://github.com/bubbliiiing/yolov8-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov8-pytorch?style=social"/> : 这是一个yolov8-pytorch的仓库，可以用于训练自己的数据集。
+
+    - [BobLiu20/YOLOv3_PyTorch](https://github.com/BobLiu20/YOLOv3_PyTorch) <img src="https://img.shields.io/github/stars/BobLiu20/YOLOv3_PyTorch?style=social"/> : Full implementation of YOLOv3 in PyTorch.
+
+    - [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) <img src="https://img.shields.io/github/stars/ruiminshen/yolo2-pytorch?style=social"/> : PyTorch implementation of the YOLO (You Only Look Once) v2.
+
+    - [DeNA/PyTorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3) <img src="https://img.shields.io/github/stars/DeNA/PyTorch_YOLOv3?style=social"/> : Implementation of YOLOv3 in PyTorch.
+
+    - [abeardear/pytorch-YOLO-v1](https://github.com/abeardear/pytorch-YOLO-v1) <img src="https://img.shields.io/github/stars/abeardear/pytorch-YOLO-v1?style=social"/> : an experiment for yolo-v1, including training and testing.
+
+    - [wuzhihao7788/yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch) <img src="https://img.shields.io/github/stars/wuzhihao7788/yolodet-pytorch?style=social"/> : reproduce the YOLO series of papers in pytorch, including YOLOv4, PP-YOLO, YOLOv5，YOLOv3, etc.
+
+    - [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) <img src="https://img.shields.io/github/stars/uvipen/Yolo-v2-pytorch?style=social"/> : YOLO for object detection tasks.
+
+    - [Peterisfar/YOLOV3](https://github.com/Peterisfar/YOLOV3) <img src="https://img.shields.io/github/stars/Peterisfar/YOLOV3?style=social"/> : yolov3 by pytorch.
+
+    - [misads/easy_detection](https://github.com/misads/easy_detection) <img src="https://img.shields.io/github/stars/misads/easy_detection?style=social"/> : 一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Yolo系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等经典网络。
+
+    - [miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on.
+
+    - [pjh5672/YOLOv1](https://github.com/pjh5672/YOLOv1) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv1?style=social"/> : YOLOv1 implementation using PyTorch.
+
+    - [pjh5672/YOLOv2](https://github.com/pjh5672/YOLOv2) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv2?style=social"/> : YOLOv2 implementation using PyTorch.
+
+    - [pjh5672/YOLOv3](https://github.com/pjh5672/YOLOv3) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv3?style=social"/> : YOLOv3 implementation using PyTorch.
+
+    - [Iywie/pl_YOLO](https://github.com/Iywie/pl_YOLO) <img src="https://img.shields.io/github/stars/Iywie/pl_YOLO?style=social"/> : YOLOv7, YOLOX and YOLOv5 are working right now.
+
+    - [DavidLandup0/deepvision](https://github.com/DavidLandup0/deepvision) <img src="https://img.shields.io/github/stars/DavidLandup0/deepvision?style=social"/> : PyTorch and TensorFlow/Keras image models with automatic weight conversions and equal API/implementations - Vision Transformer (ViT), ResNetV2, EfficientNetV2, (planned...) DeepLabV3+, ConvNeXtV2, YOLO, NeRF, etc.
+
+    - [theos-ai/easy-yolov7](https://github.com/theos-ai/easy-yolov7) <img src="https://img.shields.io/github/stars/theos-ai/easy-yolov7?style=social"/> : This a clean and easy-to-use implementation of YOLOv7 in PyTorch, made with ❤️ by Theos AI.
+
   - ### C Implementation
 
     - [ggml](https://github.com/ggerganov/ggml) <img src="https://img.shields.io/github/stars/ggerganov/ggml?style=social"/> : Tensor library for machine learning. Written in C.
@@ -272,53 +336,7 @@
 
 
 
-  - ### Rust Implementation
 
-    - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
-
-    - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
-
-    - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
-
-    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
-
-    - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
-
-    - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
-
-    - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
-
-    - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
-
-    - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
-
-    - [codingonion/yolov5-gui-slint](https://github.com/codingonion/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/codingonion/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
-
-    - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
-
-    - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
-
-    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : Rust API to run predictions with YoloV5 models.
-
-    - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_rust?style=social"/> : YOLOv8 inference using Rust.
-
-    - [igor-yusupov/rusty-yolo](https://github.com/igor-yusupov/rusty-yolo) <img src="https://img.shields.io/github/stars/igor-yusupov/rusty-yolo?style=social"/> : rusty-yolo.
-
-    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
-
-    - [alianse777/darknet-rust](https://github.com/alianse777/darknet-rust) <img src="https://img.shields.io/github/stars/alianse777/darknet-rust?style=social"/> : A Rust wrapper for Darknet, an open source neural network framework written in C and CUDA. [pjreddie.com/darknet/](https://pjreddie.com/darknet/)
-
-    - [12101111/yolo-rs](https://github.com/12101111/yolo-rs) <img src="https://img.shields.io/github/stars/12101111/yolo-rs?style=social"/> : Yolov3 & Yolov4 with TVM and rust.
-
-    - [TKGgunter/yolov4_tiny_rs](https://github.com/TKGgunter/yolov4_tiny_rs) <img src="https://img.shields.io/github/stars/TKGgunter/yolov4_tiny_rs?style=social"/> : A rust implementation of yolov4_tiny algorithm.
-
-    - [flixstn/You-Only-Look-Once](https://github.com/flixstn/You-Only-Look-Once) <img src="https://img.shields.io/github/stars/flixstn/You-Only-Look-Once?style=social"/> : A Rust implementation of Yolo for object detection and tracking.
-
-    - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
-
-    - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
-
-    - [metobom/tchrs-opencv-webcam-inference](https://github.com/metobom/tchrs-opencv-webcam-inference) <img src="https://img.shields.io/github/stars/metobom/tchrs-opencv-webcam-inference?style=social"/> : This example shows steps for running a Python trained model on webcam feed with opencv and tch-rs. Model will run on GPU.
 
 
 
@@ -356,6 +374,8 @@
 
 
   - ### ROS Implementation
+
+    - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : Ultralytics YOLOv8 and YOLOv9 object detections for ROS 2.
 
     - [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) <img src="https://img.shields.io/github/stars/leggedrobotics/darknet_ros?style=social"/> : Real-Time Object Detection for ROS.
 
@@ -412,8 +432,58 @@
     - [Alpaca-zip/ultralytics_ros](https://github.com/Alpaca-zip/ultralytics_ros) <img src="https://img.shields.io/github/stars/Alpaca-zip/ultralytics_ros?style=social"/> : ROS/ROS2 package for Ultralytics YOLOv8 real-time object detection.
 
 
+- ### Mojo Implementation
+
+    - [taalhaataahir0102/Mojo-Yolo](https://github.com/taalhaataahir0102/Mojo-Yolo) <img src="https://img.shields.io/github/stars/taalhaataahir0102/Mojo-Yolo?style=social"/> : Mojo-Yolo.
 
 
+- ### Rust Implementation
+
+    - [Candle](https://github.com/huggingface/candle) <img src="https://img.shields.io/github/stars/huggingface/candle?style=social"/> : Minimalist ML framework for Rust.
+
+    - [Tokenizers](https://github.com/huggingface/tokenizers) <img src="https://img.shields.io/github/stars/huggingface/tokenizers?style=social"/> : 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production. [huggingface.co/docs/tokenizers](https://huggingface.co/docs/tokenizers/index)
+
+    - [Safetensors](https://github.com/huggingface/safetensors) <img src="https://img.shields.io/github/stars/huggingface/safetensors?style=social"/> : Simple, safe way to store and distribute tensors. [huggingface.co/docs/safetensors](https://huggingface.co/docs/safetensors/index)
+
+    - [Burn](https://github.com/burn-rs/burn) <img src="https://img.shields.io/github/stars/burn-rs/burn?style=social"/> : Burn - A Flexible and Comprehensive Deep Learning Framework in Rust. [burn-rs.github.io/](https://burn-rs.github.io/)
+
+    - [TensorFlow Rust](https://github.com/tensorflow/rust) <img src="https://img.shields.io/github/stars/tensorflow/rust?style=social"/> : Rust language bindings for TensorFlow.
+
+    - [tch-rs](https://github.com/LaurentMazare/tch-rs) <img src="https://img.shields.io/github/stars/LaurentMazare/tch-rs?style=social"/> : Rust bindings for the C++ api of PyTorch.
+
+    - [dfdx](https://github.com/coreylowman/dfdx) <img src="https://img.shields.io/github/stars/coreylowman/dfdx?style=social"/> : Deep learning in Rust, with shape checked tensors and neural networks.
+
+    - [tract](https://github.com/sonos/tract) <img src="https://img.shields.io/github/stars/sonos/tract?style=social"/> : Sonos' Neural Network inference engine. Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+
+    - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
+
+    - [codingonion/yolov5-gui-slint](https://github.com/codingonion/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/codingonion/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
+
+    - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
+
+    - [bencevans/rust-opencv-yolov5](https://github.com/bencevans/rust-opencv-yolov5) <img src="https://img.shields.io/github/stars/bencevans/rust-opencv-yolov5?style=social"/> : YOLOv5 Inference with ONNX & OpenCV in Rust.
+
+    - [masc-it/yolov5-api-rust](https://github.com/masc-it/yolov5-api-rust) <img src="https://img.shields.io/github/stars/masc-it/yolov5-api-rust?style=social"/> : Rust API to run predictions with YoloV5 models.
+
+    - [AndreyGermanov/yolov8_onnx_rust](https://github.com/AndreyGermanov/yolov8_onnx_rust) <img src="https://img.shields.io/github/stars/AndreyGermanov/yolov8_onnx_rust?style=social"/> : YOLOv8 inference using Rust.
+
+    - [igor-yusupov/rusty-yolo](https://github.com/igor-yusupov/rusty-yolo) <img src="https://img.shields.io/github/stars/igor-yusupov/rusty-yolo?style=social"/> : rusty-yolo.
+
+    - [gsuyemoto/yolo-rust](https://github.com/gsuyemoto/yolo-rust) <img src="https://img.shields.io/github/stars/gsuyemoto/yolo-rust?style=social"/> : Run YOLO computer vision model using Rust and OpenCV and/or Torch.
+
+    - [alianse777/darknet-rust](https://github.com/alianse777/darknet-rust) <img src="https://img.shields.io/github/stars/alianse777/darknet-rust?style=social"/> : A Rust wrapper for Darknet, an open source neural network framework written in C and CUDA. [pjreddie.com/darknet/](https://pjreddie.com/darknet/)
+
+    - [12101111/yolo-rs](https://github.com/12101111/yolo-rs) <img src="https://img.shields.io/github/stars/12101111/yolo-rs?style=social"/> : Yolov3 & Yolov4 with TVM and rust.
+
+    - [TKGgunter/yolov4_tiny_rs](https://github.com/TKGgunter/yolov4_tiny_rs) <img src="https://img.shields.io/github/stars/TKGgunter/yolov4_tiny_rs?style=social"/> : A rust implementation of yolov4_tiny algorithm.
+
+    - [flixstn/You-Only-Look-Once](https://github.com/flixstn/You-Only-Look-Once) <img src="https://img.shields.io/github/stars/flixstn/You-Only-Look-Once?style=social"/> : A Rust implementation of Yolo for object detection and tracking.
+
+    - [lenna-project/yolo-plugin](https://github.com/lenna-project/yolo-plugin) <img src="https://img.shields.io/github/stars/lenna-project/yolo-plugin?style=social"/> : Yolo Object Detection Plugin for Lenna.
+
+    - [laclouis5/globox-rs](https://github.com/laclouis5/globox-rs) <img src="https://img.shields.io/github/stars/laclouis5/globox-rs?style=social"/> : Object detection toolbox for parsing, converting and evaluating bounding box annotations.
+
+    - [metobom/tchrs-opencv-webcam-inference](https://github.com/metobom/tchrs-opencv-webcam-inference) <img src="https://img.shields.io/github/stars/metobom/tchrs-opencv-webcam-inference?style=social"/> : This example shows steps for running a Python trained model on webcam feed with opencv and tch-rs. Model will run on GPU.
 
 
 
@@ -431,7 +501,7 @@
 
 
 
-  - ### Csharp Implementation
+  - ### CSharp Implementation
 
     - [ML.NET](https://github.com/dotnet/machinelearning) <img src="https://img.shields.io/github/stars/dotnet/machinelearning?style=social"/> : ML.NET is an open source and cross-platform machine learning framework for .NET.
 
@@ -537,70 +607,12 @@
 
     - [hsysfan/YOLOv5-Seg-OnnxRuntime](https://github.com/hsysfan/YOLOv5-Seg-OnnxRuntime) <img src="https://img.shields.io/github/stars/hsysfan/YOLOv5-Seg-OnnxRuntime?style=social"/> : YOLOv5 Segmenation Implementation in C# and OnnxRuntime.
 
+    - [dme-compunet/YOLOv8](https://github.com/dme-compunet/YOLOv8) <img src="https://img.shields.io/github/stars/dme-compunet/YOLOv8?style=social"/> : Use YOLOv8 in real-time, for object detection, instance segmentation, pose estimation and image classification, via ONNX Runtime.
 
 
 
-  - ### PyTorch Implementation
 
-    - [ultralytics/yolov3](https://github.com/ultralytics/yolov3) <img src="https://img.shields.io/github/stars/ultralytics/yolov3?style=social"/> : YOLOv3 in PyTorch > ONNX > CoreML > TFLite.
 
-    - [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3) <img src="https://img.shields.io/github/stars/eriklindernoren/PyTorch-YOLOv3?style=social"/> : Minimal PyTorch implementation of YOLOv3.
-
-    - [Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4) <img src="https://img.shields.io/github/stars/Tianxiaomo/pytorch-YOLOv4?style=social"/> : PyTorch ,ONNX and TensorRT implementation of YOLOv4.
-
-    - [ayooshkathuria/pytorch-yolo-v3](https://github.com/ayooshkathuria/pytorch-yolo-v3) <img src="https://img.shields.io/github/stars/ayooshkathuria/pytorch-yolo-v3?style=social"/> : A PyTorch implementation of the YOLO v3 object detection algorithm.
-
-    - [WongKinYiu/PyTorch_YOLOv4](https://github.com/WongKinYiu/PyTorch_YOLOv4) <img src="https://img.shields.io/github/stars/WongKinYiu/PyTorch_YOLOv4?style=social"/> : PyTorch implementation of YOLOv4.
-
-    - [argusswift/YOLOv4-pytorch](https://github.com/argusswift/YOLOv4-pytorch) <img src="https://img.shields.io/github/stars/argusswift/YOLOv4-pytorch?style=social"/> : This is a pytorch repository of YOLOv4, attentive YOLOv4 and mobilenet YOLOv4 with PASCAL VOC and COCO.
-
-    - [longcw/yolo2-pytorch](https://github.com/longcw/yolo2-pytorch) <img src="https://img.shields.io/github/stars/longcw/yolo2-pytorch?style=social"/> : YOLOv2 in PyTorch.
-
-    - [bubbliiiing/yolov5-v6.1-pytorch](https://github.com/bubbliiiing/yolov5-v6.1-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov5-v6.1-pytorch?style=social"/> : 这是一个yolov5-v6.1-pytorch的源码，可以用于训练自己的模型。
-
-    - [bubbliiiing/yolov5-pytorch](https://github.com/bubbliiiing/yolov5-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov5-pytorch?style=social"/> : 这是一个YoloV5-pytorch的源码，可以用于训练自己的模型。
-
-    - [bubbliiiing/yolov4-pytorch](https://github.com/bubbliiiing/yolov4-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov4-pytorch?style=social"/> : 这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。
-
-    - [bubbliiiing/yolov4-tiny-pytorch](https://github.com/bubbliiiing/yolov4-tiny-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov4-tiny-pytorch?style=social"/> : 这是一个YoloV4-tiny-pytorch的源码，可以用于训练自己的模型。
-
-    - [bubbliiiing/yolov3-pytorch](https://github.com/bubbliiiing/yolo3-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolo3-pytorch?style=social"/> : 这是一个yolo3-pytorch的源码，可以用于训练自己的模型。
-
-    - [bubbliiiing/yolox-pytorch](https://github.com/bubbliiiing/yolox-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolox-pytorch?style=social"/> : 这是一个yolox-pytorch的源码，可以用于训练自己的模型。
-
-    - [bubbliiiing/yolov7-pytorch](https://github.com/bubbliiiing/yolov7-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov7-pytorch?style=social"/> : 这是一个yolov7的库，可以用于训练自己的数据集。
-
-    - [bubbliiiing/yolov8-pytorch](https://github.com/bubbliiiing/yolov8-pytorch) <img src="https://img.shields.io/github/stars/bubbliiiing/yolov8-pytorch?style=social"/> : 这是一个yolov8-pytorch的仓库，可以用于训练自己的数据集。
-
-    - [BobLiu20/YOLOv3_PyTorch](https://github.com/BobLiu20/YOLOv3_PyTorch) <img src="https://img.shields.io/github/stars/BobLiu20/YOLOv3_PyTorch?style=social"/> : Full implementation of YOLOv3 in PyTorch.
-
-    - [ruiminshen/yolo2-pytorch](https://github.com/ruiminshen/yolo2-pytorch) <img src="https://img.shields.io/github/stars/ruiminshen/yolo2-pytorch?style=social"/> : PyTorch implementation of the YOLO (You Only Look Once) v2.
-
-    - [DeNA/PyTorch_YOLOv3](https://github.com/DeNA/PyTorch_YOLOv3) <img src="https://img.shields.io/github/stars/DeNA/PyTorch_YOLOv3?style=social"/> : Implementation of YOLOv3 in PyTorch.
-
-    - [abeardear/pytorch-YOLO-v1](https://github.com/abeardear/pytorch-YOLO-v1) <img src="https://img.shields.io/github/stars/abeardear/pytorch-YOLO-v1?style=social"/> : an experiment for yolo-v1, including training and testing.
-
-    - [wuzhihao7788/yolodet-pytorch](https://github.com/wuzhihao7788/yolodet-pytorch) <img src="https://img.shields.io/github/stars/wuzhihao7788/yolodet-pytorch?style=social"/> : reproduce the YOLO series of papers in pytorch, including YOLOv4, PP-YOLO, YOLOv5，YOLOv3, etc.
-
-    - [uvipen/Yolo-v2-pytorch](https://github.com/uvipen/Yolo-v2-pytorch) <img src="https://img.shields.io/github/stars/uvipen/Yolo-v2-pytorch?style=social"/> : YOLO for object detection tasks.
-
-    - [Peterisfar/YOLOV3](https://github.com/Peterisfar/YOLOV3) <img src="https://img.shields.io/github/stars/Peterisfar/YOLOV3?style=social"/> : yolov3 by pytorch.
-
-    - [misads/easy_detection](https://github.com/misads/easy_detection) <img src="https://img.shields.io/github/stars/misads/easy_detection?style=social"/> : 一个简单方便的目标检测框架(PyTorch环境可直接运行，不需要cuda编译)，支持Faster_RCNN、Yolo系列(v2~v5)、EfficientDet、RetinaNet、Cascade-RCNN等经典网络。
-
-    - [miemiedetection](https://github.com/miemie2013/miemiedetection) <img src="https://img.shields.io/github/stars/miemie2013/miemiedetection?style=social"/> : Pytorch and ncnn implementation of PPYOLOE、YOLOX、PPYOLO、PPYOLOv2、SOLOv2 an so on.
-
-    - [pjh5672/YOLOv1](https://github.com/pjh5672/YOLOv1) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv1?style=social"/> : YOLOv1 implementation using PyTorch.
-
-    - [pjh5672/YOLOv2](https://github.com/pjh5672/YOLOv2) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv2?style=social"/> : YOLOv2 implementation using PyTorch.
-
-    - [pjh5672/YOLOv3](https://github.com/pjh5672/YOLOv3) <img src="https://img.shields.io/github/stars/pjh5672/YOLOv3?style=social"/> : YOLOv3 implementation using PyTorch.
-
-    - [Iywie/pl_YOLO](https://github.com/Iywie/pl_YOLO) <img src="https://img.shields.io/github/stars/Iywie/pl_YOLO?style=social"/> : YOLOv7, YOLOX and YOLOv5 are working right now.
-
-    - [DavidLandup0/deepvision](https://github.com/DavidLandup0/deepvision) <img src="https://img.shields.io/github/stars/DavidLandup0/deepvision?style=social"/> : PyTorch and TensorFlow/Keras image models with automatic weight conversions and equal API/implementations - Vision Transformer (ViT), ResNetV2, EfficientNetV2, (planned...) DeepLabV3+, ConvNeXtV2, YOLO, NeRF, etc.
-
-    - [theos-ai/easy-yolov7](https://github.com/theos-ai/easy-yolov7) <img src="https://img.shields.io/github/stars/theos-ai/easy-yolov7?style=social"/> : This a clean and easy-to-use implementation of YOLOv7 in PyTorch, made with ❤️ by Theos AI.
 
 
 
@@ -792,7 +804,7 @@
 
     - [DataXujing/YOLOv7](https://github.com/DataXujing/YOLOv7) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv7?style=social"/> : 🔥🔥🔥 Official YOLOv7训练自己的数据集并实现端到端的TensorRT模型加速推断。
 
-    - [DataXujing/YOLOv8](https://github.com/DataXujing/YOLOv8) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv8?style=social"/> : 🔥 Official YOLOv8模型训练和部署。
+    - [DataXujing/YOLOv8](https://github.com/DataXujing/YOLOv8) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv8?style=social"/> : 🔥 Official YOLOv8模型训练和部署。Official YOLOv8 训练自己的数据集并基于NVIDIA TensorRT和华为昇腾端到端模型加速以及安卓手机端部署。
 
     - [Code-keys/yolov5-darknet](https://github.com/Code-keys/yolov5-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolov5-darknet?style=social"/> : yolov5-darknet support yaml && cfg.
 
@@ -819,12 +831,12 @@
     - [z1069614715/objectdetection_script](https://github.com/z1069614715/objectdetection_script) <img src="https://img.shields.io/github/stars/z1069614715/objectdetection_script?style=social"/> : 一些关于目标检测的脚本的改进思路代码。
 
 
-## Applications
 
-  - ### Lighter and Faster
 
-    - #### Lightweight Backbones and FPN
-      #### 轻量级骨干网络和特征金字塔网络
+## Lighter and Deployment Frameworks
+
+  - ### Lightweight Backbones and FPN
+    #### 轻量级骨干网络和特征金字塔网络
 
       - [murufeng/awesome_lightweight_networks](https://github.com/murufeng/awesome_lightweight_networks) <img src="https://img.shields.io/github/stars/murufeng/awesome_lightweight_networks?style=social"/> : The implementation of various lightweight networks by using PyTorch. such as：MobileNetV2，MobileNeXt，GhostNet，ParNet，MobileViT、AdderNet，ShuffleNetV1-V2，LCNet，ConvNeXt，etc. ⭐⭐⭐⭐⭐
 
@@ -856,10 +868,12 @@
 
 
 
-    - #### Pruning Knoweldge-Distillation Quantization
+  - ### Pruning Knoweldge-Distillation Quantization
 
-      - ##### Pruning
-        ##### 剪枝
+    - ##### Pruning
+      ###### 剪枝
+
+        - [Torch-Pruning](https://github.com/VainF/Torch-Pruning) <img src="https://img.shields.io/github/stars/VainF/Torch-Pruning?style=social"/> : Towards Any Structural Pruning; LLMs / SAM / Diffusion / Transformers / YOLOv8 / CNNs. "Towards Any Structural Pruning". (**[CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.html)**)
 
         - [SparseML](https://github.com/neuralmagic/sparseml) <img src="https://img.shields.io/github/stars/neuralmagic/sparseml?style=social"/> : Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models. "Inducing and Exploiting Activation Sparsity for Fast Inference on Deep Neural Networks". (**[PMLR 2020](http://proceedings.mlr.press/v119/kurtz20a.html)**). "Woodfisher: Efficient second-order approximation for neural network compression". (**[NeurIPS 2020](https://proceedings.neurips.cc/paper/2020/hash/d1ff1ec86b62cd5f3903ff19c3a326b2-Abstract.html)**)
 
@@ -900,8 +914,8 @@
 
 
 
-      - ##### Quantization
-        ##### 量化
+    - ##### Quantization
+      ###### 量化
 
         - [dog-qiuqiu/FastestDet](https://github.com/dog-qiuqiu/FastestDet) <img src="https://img.shields.io/github/stars/dog-qiuqiu/FastestDet?style=social"/> : ⚡ A newly designed ultra lightweight anchor free target detection algorithm， weight only 250K parameters， reduces the time consumption by 10% compared with yolo-fastest, and the post-processing is simpler. "知乎「马雪浩」《[FastestDet: 比yolo-fastest更快！更强！更简单！全新设计的超实时Anchor-free目标检测算法](https://zhuanlan.zhihu.com/p/536500269)》"。 "微信公众号「计算机视觉研究院」《[FastestDet：比yolov5更快！更强！全新设计的超实时Anchor-free目标检测算法（附源代码下载）](https://mp.weixin.qq.com/s/Bskc5WQd8ujy16Jl4qekjQ)》"。
 
@@ -924,8 +938,8 @@
 
 
 
-      - ##### Knoweldge-Distillation
-        ##### 知识蒸馏
+    - ##### Knoweldge-Distillation
+      ###### 知识蒸馏
 
         - [torchdistill](https://github.com/yoshitomo-matsubara/torchdistill) <img src="https://img.shields.io/github/stars/yoshitomo-matsubara/torchdistill?style=social"/> : torchdistill: A Modular, Configuration-Driven Framework for Knowledge Distillation. A coding-free framework built on PyTorch for reproducible deep learning studies. 🏆20 knowledge distillation methods presented at CVPR, ICLR, ECCV, NeurIPS, ICCV, etc are implemented so far. 🎁 Trained models, training logs and configurations are available for ensuring the reproducibiliy and benchmark.
 
@@ -948,11 +962,10 @@
 
 
 
-    - #### High-performance Inference Engine
-      #### 高性能推理引擎
+  - ### High-performance Inference Engine
+    #### 高性能推理引擎
 
-
-      - ##### ONNX
+    - ##### ONNX
 
         - [ONNX Runtime](https://github.com/microsoft/onnxruntime) <img src="https://img.shields.io/github/stars/microsoft/onnxruntime?style=social"/> : ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator. [onnxruntime.ai](https://onnxruntime.ai/)
 
@@ -979,17 +992,21 @@
 
 
 
-      - ##### TensorRT
+    - ##### TensorRT
 
         - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
 
         - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRTTensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
-        - [torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
+        - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
+
+        - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
+
+        - [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) <img src="https://img.shields.io/github/stars/cyrusbehr/YOLOv8-TensorRT-CPP?style=social"/> : YOLOv8 TensorRT C++ Implementation. A C++ Implementation of YoloV8 using TensorRT Supports object detection, semantic segmentation, and body pose estimation.
+
+        - [VIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
 
         - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) <img src="https://img.shields.io/github/stars/zhiqwang/yolort?style=social"/> : yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn. [zhiqwang.com/yolort](https://zhiqwang.com/yolort/)
-
-        - [TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥《TensorRT-Alpha》🔥supports YOLOv8, YOLOv7, YOLOv6, YOLOv5, YOLOv4, YOLOv3, YOLOX, YOLOR and so on. It implements 🚀 CUDA C++🚀 accelerated deployment models.🍎CUDA IS ALL YOU NEED🍎.Best Wish!
 
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++. tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support.
 
@@ -1005,7 +1022,7 @@
 
         - [guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot) <img src="https://img.shields.io/github/stars/guojianyang/cv-detect-robot?style=social"/> : 🔥🔥🔥🔥🔥🔥Docker NVIDIA Docker2 YOLOV5 YOLOX YOLO Deepsort TensorRT ROS Deepstream Jetson Nano TX2 NX for High-performance deployment(高性能部署)。
 
-        - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
+
 
         - [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) <img src="https://img.shields.io/github/stars/cyrusbehr/YOLOv8-TensorRT-CPP?style=social"/> : YOLOv8 TensorRT C++ Implementation.
 
@@ -1063,9 +1080,12 @@
 
         - [ervgan/yolov5_tensorrt_inference](https://github.com/ervgan/yolov5_tensorrt_inference) <img src="https://img.shields.io/github/stars/ervgan/yolov5_tensorrt_inference?style=social"/> : TensorRT cpp inference for Yolov5 model. Supports yolov5 v1.0, v2.0, v3.0, v3.1, v4.0, v5.0, v6.0, v6.2, v7.0.
 
+        - [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) <img src="https://img.shields.io/github/stars/DeployAI/nndeploy?style=social"/> : nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework in complex deployment environments and focus on performance. nndeploy一款跨平台、高性能、简单易用的模型端到端部署框架。我们致力于屏蔽不同推理框架的差异，提供一致且用户友好的编程体验，同时专注于部署全流程的性能。
+
+        - [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) <img src="https://img.shields.io/github/stars/yhwang-hub/dl_model_infer?style=social"/> : his is a c++ version of the AI reasoning library. Currently, it only supports the reasoning of the tensorrt model. The follow-up plan supports the c++ reasoning of frameworks such as Openvino, NCNN, and MNN. There are two versions for pre- and post-processing, c++ version and cuda version. It is recommended to use the cuda version., This repository provides accelerated deployment cases of deep learning CV popular models, and cuda c supports dynamic-batch image process, infer, decode, NMS.
 
 
-      - ##### OpenVINO
+    - ##### OpenVINO
 
         - [OpenVINO](https://github.com/openvinotoolkit/openvino) <img src="https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social"/> : This open source version includes several components: namely Model Optimizer, OpenVINO™ Runtime, Post-Training Optimization Tool, as well as CPU, GPU, MYRIAD, multi device and heterogeneous plugins to accelerate deep learning inferencing on Intel® CPUs and Intel® Processor Graphics.
 
@@ -1085,7 +1105,7 @@
 
 
 
-      - ##### NCNN
+    - ##### NCNN
 
         - [NCNN](https://github.com/Tencent/ncnn) <img src="https://img.shields.io/github/stars/Tencent/ncnn?style=social"/> : ncnn is a high-performance neural network inference framework optimized for the mobile platform.
 
@@ -1130,7 +1150,7 @@
         - [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) <img src="https://img.shields.io/github/stars/FeiGeChuanShu/ncnn-android-yolov8?style=social"/> : Real time yolov8 Android demo by ncnn.
 
 
-      - ##### MNN
+    - ##### MNN
 
         - [MNN](https://github.com/alibaba/MNN) <img src="https://img.shields.io/github/stars/alibaba/MNN?style=social"/> : MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. (**[MLSys 2020](https://proceedings.mlsys.org/paper/2020/hash/8f14e45fceea167a5a36dedd4bea2543-Abstract.html)**)
 
@@ -1138,7 +1158,7 @@
 
 
 
-      - ##### DeepStream
+    - ##### DeepStream
 
         - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_reference_apps?style=social"/> : Reference Apps using DeepStream 6.1.
 
@@ -1160,7 +1180,7 @@
 
 
 
-      - ##### Other Engine
+    - ##### Other Engine
 
         - [TVM](https://github.com/apache/tvm) <img src="https://img.shields.io/github/stars/apache/tvm?style=social"/> : Open deep learning compiler stack for cpu, gpu and specialized accelerators.
 
@@ -1183,10 +1203,10 @@
 
 
 
-    - #### FPGA TPU NPU Hardware Deployment
-      #### FPGA TPU NPU 硬件部署
+  - ### FPGA TPU NPU Hardware Deployment
+    #### FPGA TPU NPU 硬件部署
 
-      - ##### FPGA
+    - ##### FPGA
 
         - [Xilinx/Vitis-AI](https://github.com/Xilinx/Vitis-AI/tree/master/demo) <img src="https://img.shields.io/github/stars/Xilinx/Vitis-AI?style=social"/> : Vitis AI offers a unified set of high-level C++/Python programming APIs to run AI applications across edge-to-cloud platforms, including DPU for Alveo, and DPU for Zynq Ultrascale+ MPSoC and Zynq-7000. It brings the benefits to easily port AI applications from cloud to edge and vice versa. 10 samples in [VART Samples](https://github.com/Xilinx/Vitis-AI/tree/master/demo/VART) are available to help you get familiar with the unfied programming APIs. [Vitis-AI-Library](https://github.com/Xilinx/Vitis-AI/tree/master/demo/Vitis-AI-Library) provides an easy-to-use and unified interface by encapsulating many efficient and high-quality neural networks.
 
@@ -1254,7 +1274,7 @@
 
         - [InnoIPA/EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual) <img src="https://img.shields.io/github/stars/innoipa/exmu-x261-usermanual?style=social"/> : We have built more defect detection solutions with YOLOv4-tiny on EXMU-X261.
 
-      - ##### Other Hardware
+    - ##### Other Hardware
 
         - [guichristmann/edge-tpu-tiny-yolo](https://github.com/guichristmann/edge-tpu-tiny-yolo) <img src="https://img.shields.io/github/stars/guichristmann/edge-tpu-tiny-yolo?style=social"/> : Run Tiny YOLO-v3 on Google's Edge TPU USB Accelerator.
 
@@ -1292,6 +1312,8 @@
 
 
 
+## Applications
+
   - ### Video Object Detection
     #### 视频目标检测
 
@@ -1311,9 +1333,11 @@
     - ####  Multi-Object Tracking
       #####  多目标跟踪
 
-      - [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolo_tracking?style=social"/> : A collection of SOTA real-time, multi-object tracking algorithms for object detectors. BoxMOT: pluggable SOTA tracking modules for object detectors. Yolov8, YoloX, YoloNAS supported.
+      - [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolo_tracking?style=social"/> : BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models.
 
       - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using [YOLOv7](https://github.com/WongKinYiu/yolov7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with [OSNet](https://github.com/KaiyangZhou/deep-person-reid).
+
+      - [RizwanMunawar/yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?style=social"/> : YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics.
 
       - [xuarehere/yolo_series_deepsort_pytorch](https://github.com/xuarehere/yolo_series_deepsort_pytorch) <img src="https://img.shields.io/github/stars/xuarehere/yolo_series_deepsort_pytorch?style=social"/> : Deepsort with yolo series. This project support the existing yolo detection model algorithm (YOLOv3, YOLOV4, YOLOV4Scaled, YOLOV5, YOLOV6, YOLOV7, YOLOV8, YOLOX, YOLOR, PPYOLOE ).
 
@@ -1401,7 +1425,6 @@
 
       - [Naughty-Galileo/YoloV5_MCMOT](https://github.com/Naughty-Galileo/YoloV5_MCMOT) <img src="https://img.shields.io/github/stars/Naughty-Galileo/YoloV5_MCMOT?style=social"/> : 多类别多目标跟踪YoloV5+sort/deepsort/bytetrack/BotSort/motdt.
 
-      - [RizwanMunawar/yolov8-object-tracking](https://github.com/RizwanMunawar/yolov8-object-tracking) <img src="https://img.shields.io/github/stars/RizwanMunawar/yolov8-object-tracking?style=social"/> : YOLOv8 Object Tracking Using PyTorch, OpenCV and Ultralytics.
 
       - [MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking](https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking) <img src="https://img.shields.io/github/stars/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking?style=social"/> : YOLOv8 Object Tracking using PyTorch, OpenCV and DeepSORT.
 
@@ -1414,6 +1437,9 @@
       #####  动态目标跟踪
 
       - [PolyU-AIRO-Lab/AUTO](https://github.com/PolyU-AIRO-Lab/AUTO) <img src="https://img.shields.io/github/stars/PolyU-AIRO-Lab/AUTO?style=social"/> : "Dynamic Object Tracking on Autonomous UAV System for Surveillance Applications". (**[Sensors 2021](https://www.mdpi.com/1424-8220/21/23/7888)**)
+
+
+
 
 
 
@@ -1444,6 +1470,14 @@
 
   - #### Spiking Neural Network
     #### SNN, 脉冲神经网络
+
+    - [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
+
+    - [Attention-SNN](https://github.com/BICLab/Attention-SNN) <img src="https://img.shields.io/github/stars/BICLab/Attention-SNN?style=social"/> : Offical implementation of "Attention Spiking Neural Networks" (**[IEEE TPAMI 2023](https://ieeexplore.ieee.org/abstract/document/10032591)**)
+
+    - [Spike-Driven-Transformer](https://github.com/BICLab/Spike-Driven-Transformer) <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer?style=social"/> : Offical implementation of "Spike-driven Transformer" (**[NeurIPS 2023](https://openreview.net/forum?id=9FmolyOHi5)**)
+
+    - [Spike-Driven-Transformer-V2](https://github.com/BICLab/Spike-Driven-Transformer-V2) <img src="https://img.shields.io/github/stars/BICLab/Spike-Driven-Transformer-V2?style=social"/> : Offical implementation of "Spike-driven Transformer V2: Meta Spiking Neural Network Architecture Inspiring the Design of Next-generation Neuromorphic Chips" (**[ICLR 2024](https://openreview.net/forum?id=1SIBN5Xyw7)**)
 
     - [Spiking-YOLOv3](https://github.com/cwq159/PyTorch-Spiking-YOLOv3) <img src="https://img.shields.io/github/stars/cwq159/PyTorch-Spiking-YOLOv3?style=social"/> : A PyTorch implementation of Spiking-YOLOv3. Two branches are provided, based on two common PyTorch implementation of YOLOv3([ultralytics/yolov3](https://github.com/ultralytics/yolov3) & [eriklindernoren/PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)), with support for Spiking-YOLOv3-Tiny at present. (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6787)**)
 
@@ -2215,9 +2249,12 @@
 
     - [IQTLabs/camolo](https://github.com/IQTLabs/camolo) <img src="https://img.shields.io/github/stars/IQTLabs/camolo?style=social"/> : Camouflage YOLO - (CAMOLO) trains adversarial patches to confuse the YOLO family of object detectors.
 
-    - [tsm55555/adversarial-yolov5](https://github.com/tsm55555/adversarial-yolov5) <img src="https://img.shields.io/github/stars/tsm55555/adversarial-yolov5?style=social"/> : The code is modified from [Adversarial YOLO](https://gitlab.com/EAVISE/adversarial-yolo)
-
     - [AdvTexture](https://github.com/WhoTHU/Adversarial_Texture) <img src="https://img.shields.io/github/stars/WhoTHU/Adversarial_Texture?style=social"/> : "Adversarial Texture for Fooling Person Detectors in the Physical World". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Hu_Adversarial_Texture_for_Fooling_Person_Detectors_in_the_Physical_World_CVPR_2022_paper.html)**).  "知乎「WhoTH」《[CVPR2022 Oral 物理对抗样本 如何做一件“隐形衣”](https://zhuanlan.zhihu.com/p/499854846)》"。
+
+    - [SamSamhuns/yolov5_adversarial](https://github.com/SamSamhuns/yolov5_adversarial) <img src="https://img.shields.io/github/stars/SamSamhuns/yolov5_adversarial?style=social"/> : Generate adversarial patches against YOLOv5 🚀
+
+
+
 
 
 
@@ -2273,6 +2310,8 @@
      - [suixin1424/crossfire-yolo-TensorRT](https://github.com/suixin1424/crossfire-yolo-TensorRT) <img src="https://img.shields.io/github/stars/suixin1424/crossfire-yolo-TensorRT?style=social"/> : crossfire-yolo-TensorRT. 基于yolo-trt的穿越火线ai自瞄。
 
      - [EthanH3514/AL_Yolo](https://github.com/EthanH3514/AL_Yolo) <img src="https://img.shields.io/github/stars/EthanH3514/AL_Yolo?style=social"/> : 基于Yolov5的Apex Legend游戏 AI 辅瞄外挂。
+
+     - [SunOner/yolov8_aimbot](https://github.com/SunOner/yolov8_aimbot) <img src="https://img.shields.io/github/stars/SunOner/yolov8_aimbot?style=social"/> : Aim-bot based on AI for all FPS games.
 
 
 
@@ -2375,6 +2414,13 @@
   - ### GUI
     #### 图形用户界面
 
+    - #### Streamlit-Related
+
+        - [CodingMantras/yolov8-streamlit-detection-tracking](https://github.com/CodingMantras/yolov8-streamlit-detection-tracking) <img src="https://img.shields.io/github/stars/CodingMantras/yolov8-streamlit-detection-tracking?style=social"/> : Object detection and tracking algorithm implemented for Real-Time video streams and static images.
+
+        - [JackDance/YOLOv8-streamlit-app](https://github.com/JackDance/YOLOv8-streamlit-app) <img src="https://img.shields.io/github/stars/JackDance/YOLOv8-streamlit-app?style=social"/> : 🔥🔥🔥 Use streamlit framework to increase yolov8 front-end page interaction function. "知乎「Mr.Luyao」《[深度学习/机器学习项目的前端展示利器--Streamlit](https://zhuanlan.zhihu.com/p/630029493)》"。
+
+
     - #### QT-Related
 
         - [Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI](https://github.com/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI) <img src="https://img.shields.io/github/stars/Ai-trainee/Traffic-Sign-Recognition-PyQt5-YOLOv5-GUI?style=social"/> : Road Sign Recognition Project Based on YOLOv5. This is a road sign recognition project based on YOLOv5, developed with a PyQt5 interface, YOLOv5 trained model, and MySQL database. 这是一个基于YOLOv5🚀的道路标志识别系统😊，使用了MySQL数据库💽，PyQt5进行界面设计🎨，PyTorch深度学习框架和TensorRT进行加速⚡，同时包含了CSS样式🌈。系统由五个主要模块组成：系统登录模块🔑负责用户登陆；初始化参数模块📋提供YOLOv5模型的初始化参数设置；标志识别模块🔍是系统的核心，负责对道路标志进行识别并将结果导入数据库；数据库模块💾包含基本数据库操作和数据分析两个子模块；图像处理模块🖼️负责单个图像的处理和数据增强。整个系统支持多种数据输入和模型切换，提供了包括mossic和mixup在内的图像增强方法📈。
@@ -2454,9 +2500,12 @@
         - [SwimmingLiu/yolov7-Pyside6](https://github.com/SwimmingLiu/yolov7-Pyside6) <img src="https://img.shields.io/github/stars/SwimmingLiu/yolov7-Pyside6?style=social"/> : PySide6 implementation of YOLOv7 GUI.
 
 
-    - #### Streamlit-Related
 
-        - [JackDance/YOLOv8-streamlit-app](https://github.com/JackDance/YOLOv8-streamlit-app) <img src="https://img.shields.io/github/stars/JackDance/YOLOv8-streamlit-app?style=social"/> : 🔥🔥🔥 Use streamlit framework to increase yolov8 front-end page interaction function. "知乎「Mr.Luyao」《[深度学习/机器学习项目的前端展示利器--Streamlit](https://zhuanlan.zhihu.com/p/630029493)》"。
+
+    - #### PySide-Related
+
+        - [Jai-wei/YOLOv8-PySide6-GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI) <img src="https://img.shields.io/github/stars/Jai-wei/YOLOv8-PySide6-GUI?style=social"/> : YoloSide - YOLOv8 GUI By PySide6.
+
 
 
 
