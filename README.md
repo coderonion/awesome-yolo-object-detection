@@ -195,6 +195,8 @@
 
       - [MMYOLO](https://github.com/open-mmlab/mmyolo) <img src="https://img.shields.io/github/stars/open-mmlab/mmyolo?style=social"/> : OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, PPYOLOE, etc. [mmyolo.readthedocs.io/zh_CN/dev/](https://mmyolo.readthedocs.io/zh_CN/dev/)
 
+      - [ultralyticsPro](https://github.com/iscyy/ultralyticsPro) <img src="https://img.shields.io/github/stars/iscyy/ultralyticsPro?style=social"/> : 🔥🔥🔥专注于改进YOLOv8模型，NEW - YOLOv8 🚀 RT-DETR 🥇 in PyTorch >, Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+
       - [YOLOAir](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> :  YOLO Air : Makes improvements easy again. 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀.  YOLOAir是一个基于PyTorch的YOLO算法库。统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
 
       - [YOLOAir2](https://github.com/iscyy/yoloair2) <img src="https://img.shields.io/github/stars/iscyy/yoloair2?style=social"/> : YOLOAir2☁️💡🎈 : Makes improvements easy again. ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv8, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules.
@@ -806,6 +808,8 @@
 
     - [DataXujing/YOLOv8](https://github.com/DataXujing/YOLOv8) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv8?style=social"/> : 🔥 Official YOLOv8模型训练和部署。Official YOLOv8 训练自己的数据集并基于NVIDIA TensorRT和华为昇腾端到端模型加速以及安卓手机端部署。
 
+    - [DataXujing/YOLOv9](https://github.com/DataXujing/YOLOv9) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv9?style=social"/> : 🔥 YOLOv9 paper解析，训练自己的数据集，TensorRT端到端部署， NCNN安卓手机部署。
+
     - [Code-keys/yolov5-darknet](https://github.com/Code-keys/yolov5-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolov5-darknet?style=social"/> : yolov5-darknet support yaml && cfg.
 
     - [Code-keys/yolo-darknet](https://github.com/Code-keys/yolo-darknet) <img src="https://img.shields.io/github/stars/Code-keys/yolo-darknet?style=social"/> : YOLO-family complemented by darknet. yolov5 yolov7 et al ...
@@ -1187,7 +1191,7 @@
         - [DeployAI/nndeploy](https://github.com/DeployAI/nndeploy) <img src="https://img.shields.io/github/stars/DeployAI/nndeploy?style=social"/> : nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework in complex deployment environments and focus on performance. nndeploy一款跨平台、高性能、简单易用的模型端到端部署框架。我们致力于屏蔽不同推理框架的差异，提供一致且用户友好的编程体验，同时专注于部署全流程的性能。
 
         - [yhwang-hub/dl_model_infer](https://github.com/yhwang-hub/dl_model_infer) <img src="https://img.shields.io/github/stars/yhwang-hub/dl_model_infer?style=social"/> : his is a c++ version of the AI reasoning library. Currently, it only supports the reasoning of the tensorrt model. The follow-up plan supports the c++ reasoning of frameworks such as Openvino, NCNN, and MNN. There are two versions for pre- and post-processing, c++ version and cuda version. It is recommended to use the cuda version., This repository provides accelerated deployment cases of deep learning CV popular models, and cuda c supports dynamic-batch image process, infer, decode, NMS.
-        
+
         - [hollance/YOLO-CoreML-MPSNNGraph](https://github.com/hollance/YOLO-CoreML-MPSNNGraph) <img src="https://img.shields.io/github/stars/hollance/YOLO-CoreML-MPSNNGraph?style=social"/> : Tiny YOLO for iOS implemented using CoreML but also using the new MPS graph API.
 
         - [r4ghu/iOS-CoreML-Yolo](https://github.com/r4ghu/iOS-CoreML-Yolo) <img src="https://img.shields.io/github/stars/r4ghu/iOS-CoreML-Yolo?style=social"/> : This is the implementation of Object Detection using Tiny YOLO v1 model on Apple's CoreML Framework.
