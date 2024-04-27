@@ -2660,6 +2660,7 @@
     - [2023-03-11，目标跟踪专栏（一）基本任务、常用方法](https://mp.weixin.qq.com/s/DKHOlLtjO2OBtIWlA3cpzg)
     - [2023-04-17，目标跟踪（二）单、多目标跟踪的基本概念与常用数据集](https://mp.weixin.qq.com/s/N50tOvJwNRZhyoVq6Fc-ig)
     - [2023-05-11，全新YOLO模型YOLOCS来啦 | 面面俱到地改进YOLOv5的Backbone/Neck/Head](https://mp.weixin.qq.com/s/wnxOd-DukIpea5j2Dqcpbw)
+    - [2024-04-16，YOLC 来袭 | 遥遥领先 ！YOLO与CenterNet思想火花碰撞，让小目标的检测性能原地起飞，落地价值极大 !](https://mp.weixin.qq.com/s/cCegxKb1VWxmhpZZwCk1WA)
   - [知乎「极市平台」| 微信公众号「极市平台」](https://www.zhihu.com/org/ji-shi-jiao-14)
     - [2020-11-17，YOLO算法最全综述：从YOLOv1到YOLOv5](https://zhuanlan.zhihu.com/p/297965943)
     - [2022-08-04，华为轻量级神经网络架构GhostNet再升级，GPU上大显身手的G-GhostNet（IJCV22）](https://mp.weixin.qq.com/s/31Fb3WSBtRUNu8oUkMrBrg)
@@ -2852,6 +2853,7 @@
     - [2024-02-14，YOLOPoint开源 | 新年YOLO依然坚挺，通过结合YOLOv5&SuperPoint，成就多任务SOTA](https://mp.weixin.qq.com/s/8Lkl3aMwjESRyeZfLMu7Tw)
     - [2024-02-23，Focaler-IoU开源 | 高于SIoU+关注困难样本，让YOLOv5再涨1.9%，YOLOv8再涨点0.3%](https://mp.weixin.qq.com/s/A_BABGHKp5Icdmlk3q3lIA)
     - [2024-02-23，YOLOv9开源 | 架构图&模块改进&正负样本匹配&损失函数解读，5分钟即可理解YOLOv9](https://mp.weixin.qq.com/s/31NlBknx4PcXipfuV2w6hw)
+    - [2024-04-15，YOLC 来袭 | 遥遥领先 ！YOLO与CenterNet思想火花碰撞，让小目标的检测性能原地起飞，落地价值极大 !](https://mp.weixin.qq.com/s/6UzdFFKeNOCLK8YdhPYCaQ)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A)
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg)
