@@ -3050,7 +3050,8 @@
     - [2024-05-25，YOLOv10来啦！真正实时端到端目标检测](https://mp.weixin.qq.com/s/xxgvub-Y4RJLjbpY6YNxCQ)
   - 微信公众号「3D视觉工坊」
     - [2024-02-23，YOLOv9震撼来袭！使用可编程梯度信息学习你想学习的内容！](https://mp.weixin.qq.com/s/Fbd-jarVO4LyjlhdxgmnsA)
-
+  - 微信公众号「DeepDriving」
+        - [2023-07-21，AI模型部署 | TensorRT模型INT8量化的Python实现](https://mp.weixin.qq.com/s/IQTCUs8CcfgHxJCyV6cm3w)
 
 
 ## Videos
