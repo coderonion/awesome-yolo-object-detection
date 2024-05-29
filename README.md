@@ -227,8 +227,6 @@
 
     - [kuiperdatawhale](https://github.com/zjhellofss/kuiperdatawhale) <img src="https://img.shields.io/github/stars/zjhellofss/kuiperdatawhale?style=social"/> :  从零自制深度学习推理框架。
 
-    - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
-
     - [roboflow/notebooks](https://github.com/roboflow/notebooks) <img src="https://img.shields.io/github/stars/roboflow/notebooks?style=social"/> : Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM. [roboflow.com/models](https://roboflow.com/models)
 
     - [yjh0410/PyTorch_YOLO_Tutorial](https://github.com/yjh0410/PyTorch_YOLO_Tutorial) <img src="https://img.shields.io/github/stars/yjh0410/PyTorch_YOLO_Tutorial?style=social"/> : YOLO Tutorial.
@@ -1004,6 +1002,16 @@
 
         - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRTTensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
+        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 TensorRT-YOLO: Support YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, PP-YOLOE using TensorRT acceleration with EfficientNMS! TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数来加速前处理过程。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+
+        - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on shouxieai/tensorRT_Pro, with adjustments to support YOLOv8.
+
+        - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
+
+        - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
+
+        - [shouxieai/infer](https://github.com/shouxieai/infer) <img src="https://img.shields.io/github/stars/shouxieai/infer?style=social"/> : A new tensorrt integrate. Easy to integrate many tasks.
+
         - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
 
         - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
@@ -1018,7 +1026,7 @@
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs.
 
-        - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
+
 
         - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime. “🛠Lite.Ai.ToolKit: 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。”
 
@@ -1312,8 +1320,9 @@
 
         - [liuyuan000/Rv1126_YOLOv5-Lite](https://github.com/liuyuan000/Rv1126_YOLOv5-Lite) <img src="https://img.shields.io/github/stars/liuyuan000/Rv1126_YOLOv5-Lite?style=social"/> : YOLOv5-Lite在Rv1126部署。
 
+        - [cqu20160901/yolov10_rknn_Cplusplus](https://github.com/cqu20160901/yolov10_rknn_Cplusplus) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_rknn_Cplusplus?style=social"/> : yolov10 瑞芯微 rknn 板端 C++部署，使用平台 rk3588。
 
-
+        - [cqu20160901/yolov10_onnx_rknn_horizon_tensorRT](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT?style=social"/> : yolov10 目标检测部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon），全网部署最简单、运行速度最快的部署方式（全网首发）。 
 
 
 ## Applications
@@ -1336,6 +1345,8 @@
 
     - ####  Multi-Object Tracking
       #####  多目标跟踪
+
+      - [ujanshresstha/YOLOv10_DeepSORT](https://github.com/sujanshresstha/YOLOv10_DeepSORT) <img src="https://img.shields.io/github/stars/ujanshresstha/YOLOv10_DeepSORT?style=social"/> : This repository contains code for object detection and tracking in videos using the YOLOv10 object detection model and the DeepSORT algorithm.
 
       - [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolo_tracking?style=social"/> : BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models.
 
@@ -2523,6 +2534,8 @@
 
 
     - #### PySide-Related
+
+        - [JSwimmingLiu/YOLOSHOW](https://github.com/SwimmingLiu/YOLOSHOW) <img src="https://img.shields.io/github/stars/SwimmingLiu/YOLOSHOW?style=social"/> : YOLO SHOW - YOLOv10 / YOLOv9 / YOLOv8 / YOLOv7 / YOLOv5 / RTDETR GUI based on Pyside6.[swimmingliu.cn/posts/diary/yoloshow](https://swimmingliu.cn/posts/diary/yoloshow)
 
         - [Jai-wei/YOLOv8-PySide6-GUI](https://github.com/Jai-wei/YOLOv8-PySide6-GUI) <img src="https://img.shields.io/github/stars/Jai-wei/YOLOv8-PySide6-GUI?style=social"/> : YoloSide - YOLOv8 GUI By PySide6.
 
