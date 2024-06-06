@@ -1000,7 +1000,7 @@
 
         - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
 
-        - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRTTensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
+        - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
         - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 TensorRT-YOLO: Support YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, PP-YOLOE using TensorRT acceleration with EfficientNMS! TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数来加速前处理过程。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
 
@@ -1322,7 +1322,7 @@
 
         - [cqu20160901/yolov10_rknn_Cplusplus](https://github.com/cqu20160901/yolov10_rknn_Cplusplus) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_rknn_Cplusplus?style=social"/> : yolov10 瑞芯微 rknn 板端 C++部署，使用平台 rk3588。
 
-        - [cqu20160901/yolov10_onnx_rknn_horizon_tensorRT](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT?style=social"/> : yolov10 目标检测部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon），全网部署最简单、运行速度最快的部署方式（全网首发）。 
+        - [cqu20160901/yolov10_onnx_rknn_horizon_tensorRT](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT?style=social"/> : yolov10 目标检测部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon），全网部署最简单、运行速度最快的部署方式（全网首发）。
 
 
 ## Applications
@@ -2703,6 +2703,7 @@
     - [2023-04-18，Repvgg-style ConvNets，硬件友好！详解YOLOv6的高效backbone：EfficientRep](https://mp.weixin.qq.com/s/2Md30QdqgWnWwVR7d4sx1Q)
     - [2023-04-19，CVPR23 Highlight｜拥有top-down attention能力的vision transformer](https://mp.weixin.qq.com/s/UMA3Vk9L71zUEtNkCshYBg)
     - [2023-04-26，万字长文，深度全面解读PyTorch内部机制](https://mp.weixin.qq.com/s/JYsJRo8l5-nTFrGwBV-BFA)
+    - [2023-05-28，YOLOv10开源｜清华用端到端YOLOv10在速度精度上都生吃YOLOv8和YOLOv9](https://mp.weixin.qq.com/s/VG9itVaOwCpmb48ZAa8Mjw)
   - 微信公众号「WeThinkln」
     - [2022-09-18，【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
     - [2022-07-31，【Make YOLO Great Again】YOLOv1-v7全系列大解析（Neck篇）](https://mp.weixin.qq.com/s/nEWL9ZAYuVngoejf-muFRw)
@@ -3007,6 +3008,8 @@
     - [2023-04-23，基于 YOLOv8 的自定义数据集训练](https://mp.weixin.qq.com/s/NrT7aFurdz5IRr3bCFsHQA)
     - [2023-06-19，一文彻底搞懂YOLOv8【网络结构+代码+实操】](https://mp.weixin.qq.com/s/HldcdtBXzh5YawcS0Bb4KQ)
     - [2023-07-04，保姆教程 | YOLOv5在建筑工地中安全帽佩戴检测的应用](https://mp.weixin.qq.com/s/g6jEP5Y2R_DhrI30DBol5Q)
+    - [2024-06-05，实战 | YOLOv10 自定义数据集训练实现车牌检测 (数据集+训练+预测 保姆级教程)](https://mp.weixin.qq.com/s/3WSmGP7xdQJc-5YdQXBPFg)
+
   - 微信公众号「嵌入式视觉」
     - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)
     - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)
