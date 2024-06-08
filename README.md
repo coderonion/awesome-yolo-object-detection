@@ -993,6 +993,8 @@
 
         - [Hyuto/yolo-nas-onnx](https://github.com/Hyuto/yolo-nas-onnx) <img src="https://img.shields.io/github/stars/Hyuto/yolo-nas-onnx?style=social"/> : Inference YOLO-NAS ONNX model. [hyuto.github.io/yolo-nas-onnx/](https://hyuto.github.io/yolo-nas-onnx/)
 
+        - [DanielSarmiento04/yolov10cpp](https://github.com/DanielSarmiento04/yolov10cpp) <img src="https://img.shields.io/github/stars/DanielSarmiento04/yolov10cpp?style=social"/> : Implementation of yolo v10 in c++ std 17 over opencv and onnxruntime.
+
 
 
 
@@ -1004,13 +1006,17 @@
 
         - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 TensorRT-YOLO: Support YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, PP-YOLOE using TensorRT acceleration with EfficientNMS! TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数来加速前处理过程。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
 
-        - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on shouxieai/tensorRT_Pro, with adjustments to support YOLOv8.
+        - [l-sf/Linfer](https://github.com/l-sf/Linfer) <img src="https://img.shields.io/github/stars/l-sf/Linfer?style=social"/> : 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
 
-        - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
+        - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro), with adjustments to support YOLOv8. 目前已支持 YOLOv8、YOLOv8-Cls、YOLOv8-Seg、YOLOv8-OBB、YOLOv8-Pose、RT-DETR、ByteTrack、YOLOv9、YOLOv10、RTMO 高性能推理！！！🚀🚀🚀
 
         - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
 
         - [shouxieai/infer](https://github.com/shouxieai/infer) <img src="https://img.shields.io/github/stars/shouxieai/infer?style=social"/> : A new tensorrt integrate. Easy to integrate many tasks.
+
+        - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
+
+        - [hamdiboukamcha/yolov10-tensorrt](https://github.com/hamdiboukamcha/yolov10-tensorrt) <img src="https://img.shields.io/github/stars/hamdiboukamcha/yolov10-tensorrt?style=social"/> : YOLOv10 C++ TensorRT : Real-Time End-to-End Object Detection.
 
         - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
 
@@ -1025,7 +1031,6 @@
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++. tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support.
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs.
-
 
 
         - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime. “🛠Lite.Ai.ToolKit: 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。”
@@ -1090,7 +1095,7 @@
 
         - [ervgan/yolov5_tensorrt_inference](https://github.com/ervgan/yolov5_tensorrt_inference) <img src="https://img.shields.io/github/stars/ervgan/yolov5_tensorrt_inference?style=social"/> : TensorRT cpp inference for Yolov5 model. Supports yolov5 v1.0, v2.0, v3.0, v3.1, v4.0, v5.0, v6.0, v6.2, v7.0.
 
-
+        - [AlbinZhu/easy-trt](https://github.com/AlbinZhu/easy-trt) <img src="https://img.shields.io/github/stars/AlbinZhu/easy-trt?style=social"/> : TensorRT for YOLOv10 with CUDA.
 
 
     - ##### OpenVINO
@@ -1110,6 +1115,9 @@
         - [shungfu/openvino_yolov5v7](https://github.com/shungfu/openvino_yolov5v7) <img src="https://img.shields.io/github/stars/shungfu/openvino_yolov5v7?style=social"/> : YOLOv5 YOLOv7 INT8 quantization using OpenVINO.
 
         - [dacquaviva/yolov5-openvino-cpp-python](https://github.com/dacquaviva/yolov5-openvino-cpp-python) <img src="https://img.shields.io/github/stars/dacquaviva/yolov5-openvino-cpp-python?style=social"/> : Example of using ultralytics YOLOv5 with Openvino in C++ and Python.
+
+        - [rlggyp/YOLOv10-OpenVINO-CPP-Inference](https://github.com/rlggyp/YOLOv10-OpenVINO-CPP-Inference) <img src="https://img.shields.io/github/stars/rlggyp/YOLOv10-OpenVINO-CPP-Inference?style=social"/> : YOLOv10 C++ implementation using OpenVINO for efficient and accurate real-time object detection.
+
 
 
 
@@ -1156,6 +1164,8 @@
         - [Qengineering/YoloV8-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV8-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV8-ncnn-Raspberry-Pi-4?style=social"/> : YoloV8 for a bare Raspberry Pi 4.
 
         - [FeiGeChuanShu/ncnn-android-yolov8](https://github.com/FeiGeChuanShu/ncnn-android-yolov8) <img src="https://img.shields.io/github/stars/FeiGeChuanShu/ncnn-android-yolov8?style=social"/> : Real time yolov8 Android demo by ncnn.
+
+        - [FLamefiREz/yolov10-android-ncnn](https://github.com/FLamefiREz/yolov10-android-ncnn) <img src="https://img.shields.io/github/stars/FLamefiREz/yolov10-android-ncnn?style=social"/> : yolov10-android-ncnn.
 
 
     - ##### MNN
@@ -2209,6 +2219,10 @@
 
     - [WoodratTradeCo/crop-rows-detection](https://github.com/WoodratTradeCo/crop-rows-detection) <img src="https://img.shields.io/github/stars/WoodratTradeCo/crop-rows-detection?style=social"/> : It is an real-time crop rows detection method using YOLOv5.
 
+    - [denghv/Vegetables_Fruit_Detection](https://github.com/denghv/Vegetables_Fruit_Detection) <img src="https://img.shields.io/github/stars/denghv/Vegetables_Fruit_Detection?style=social"/> : Using YOLOv10 to detect vegetables & fruit.
+
+
+
   - ### Sports Field Detection
     #### 体育领域检测
 
@@ -2328,6 +2342,9 @@
 
      - [SunOner/yolov8_aimbot](https://github.com/SunOner/yolov8_aimbot) <img src="https://img.shields.io/github/stars/SunOner/yolov8_aimbot?style=social"/> : Aim-bot based on AI for all FPS games.
 
+     - [bigQY/calabiyau-cheat](https://github.com/bigQY/calabiyau-cheat) <img src="https://img.shields.io/github/stars/bigQY/calabiyau-cheat?style=social"/> : 基于yolov10的卡拉彼丘自瞄。
+
+
 
 
 
@@ -2430,6 +2447,8 @@
     #### 图形用户界面
 
     - #### Streamlit-Related
+
+        - [wjnwjn59/YOLOv10_Streamlit_Demo](https://github.com/wjnwjn59/YOLOv10_Streamlit_Demo) <img src="https://img.shields.io/github/stars/wjnwjn59/YOLOv10_Streamlit_Demo?style=social"/> : A simple object detection web demo using YOLOv10 and Streamlit.
 
         - [streamlit/demo-self-driving](https://github.com/streamlit/demo-self-driving) <img src="https://img.shields.io/github/stars/streamlit/demo-self-driving?style=social"/> : Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.
 
@@ -2620,7 +2639,7 @@
 
     - [eternal-echo/picking](https://github.com/eternal-echo/picking) <img src="https://img.shields.io/github/stars/eternal-echo/picking?style=social"/> : 基于YOLO v5视觉分拣零件系统设计。
 
-
+    - [swordswind/yolo_ocr_api_server](https://github.com/swordswind/yolo_ocr_api_server) <img src="https://img.shields.io/github/stars/swordswind/yolo_ocr_api_server?style=social"/> : YOLOv10&EasyOCR融合图像识别API服务器。
 
 
 
@@ -2910,6 +2929,7 @@
     - [2023-09-04，CRAS-YOLO：多类别船舶检测与分类模型](https://mp.weixin.qq.com/s/ztdYjDbWzpx2LnWTiVWdrQ)
     - [2023-09-04，Drone-YOLO：一种有效的无人机图像目标检测](https://mp.weixin.qq.com/s/X4HGQhWaxy1bQssrQIYBmQ)
     - [2023-09-05，BFD-YOLO：基于YOLOv7的建筑外墙缺陷检测](https://mp.weixin.qq.com/s/BaqXo4uTeqoY5FhD2jVuxA)
+    - [2024-05-26，Yolov10：详解、部署、应用一站式齐全！](https://mp.weixin.qq.com/s/damt3VWade0we1MSCe9_QA)
   - 微信公众号「新机器视觉」
     - [​2023-03-22，YOLO系列的演进，从v1到v7](https://mp.weixin.qq.com/s/0ALtok0vleMif-5_rgCycQ)
     - [2023-03-23，​YOLO系列的演进，从v1到v7（二）](https://mp.weixin.qq.com/s/_aVWQ-NxGwZthA_D_drTRw)
@@ -3067,7 +3087,15 @@
   - 微信公众号「3D视觉工坊」
     - [2024-02-23，YOLOv9震撼来袭！使用可编程梯度信息学习你想学习的内容！](https://mp.weixin.qq.com/s/Fbd-jarVO4LyjlhdxgmnsA)
   - 微信公众号「DeepDriving」
-        - [2023-07-21，AI模型部署 | TensorRT模型INT8量化的Python实现](https://mp.weixin.qq.com/s/IQTCUs8CcfgHxJCyV6cm3w)
+    - [2023-07-21，AI模型部署 | TensorRT模型INT8量化的Python实现](https://mp.weixin.qq.com/s/IQTCUs8CcfgHxJCyV6cm3w)
+  - 微信公众号「CSharp与边缘模型部署」
+    - [2024-06-04，使用 TensorRT C++ API 调用GPU加速部署 YOLOv10 实现 500FPS 推理速度——快到飞起！！](https://mp.weixin.qq.com/s/yijeZtkRhbQxuSE1AsyUhA)
+  - 微信公众号「BestSongC」
+    - [2024-05-24，基于YOLO系列算法（YOLOv5、YOLOv6、YOLOv8以及YOLOv9）和Streamlit框架的行人头盔检测系统](https://mp.weixin.qq.com/s/STAVjII8kAk3MMPbB9vJfQ)
+    - [2024-05-30，基于YOLO系列算法和Streamlit框架的六类水果目标检测系统](https://mp.weixin.qq.com/s/ZIH1afBpKBa5DgvtHZU1Vg)
+  - 微信公众号「人工智能学习指南」
+    - [2024-05-28，用自己的数据集实测YOLOv10效果！](https://mp.weixin.qq.com/s/JlGvYGvPa5NyxjEXHLO6uA)
+
 
 
 ## Videos
