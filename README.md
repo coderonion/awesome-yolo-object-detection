@@ -159,6 +159,7 @@
 
     - [YOLOv10](https://github.com/THU-MIG/yolov10) <img src="https://img.shields.io/github/stars/THU-MIG/yolov10?style=social"/> : "YOLOv10: Real-Time End-to-End Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2405.14458v1)**)
 
+    - [LeYOLO](https://github.com/LilianHollard/LeYOLO) <img src="https://img.shields.io/github/stars/LilianHollard/LeYOLO?style=social"/> : "LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2406.14239)**)
 
 
 
