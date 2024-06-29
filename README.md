@@ -2693,6 +2693,7 @@
     - [2024-01-26，深入浅出，YOLOv8算法使用指南](https://mp.weixin.qq.com/s/9naZZ7wXugppelcmPHGVlQ)
     - [2024-02-23，目标检测YOLOv9算法，重磅开源！（附论文及源码）](https://mp.weixin.qq.com/s/RVG-9h8zKsWACMr6dDRpUQ)
     - [2024-04-12，深入浅出，PyTorch模型int8量化原理拆解](https://mp.weixin.qq.com/s/j2QS3LdudrrlyZYQkVrl5Q)
+    - [2024-06-18，Mamba-YOLO开源，超越 YOLO ，创新SSM 技术，提升目标检测性能！（附论文及源码）](https://mp.weixin.qq.com/s/UREcCHvyl7yIEv_si9KOjQ)
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -3030,7 +3031,7 @@
     - [2023-06-19，一文彻底搞懂YOLOv8【网络结构+代码+实操】](https://mp.weixin.qq.com/s/HldcdtBXzh5YawcS0Bb4KQ)
     - [2023-07-04，保姆教程 | YOLOv5在建筑工地中安全帽佩戴检测的应用](https://mp.weixin.qq.com/s/g6jEP5Y2R_DhrI30DBol5Q)
     - [2024-06-05，实战 | YOLOv10 自定义数据集训练实现车牌检测 (数据集+训练+预测 保姆级教程)](https://mp.weixin.qq.com/s/3WSmGP7xdQJc-5YdQXBPFg)
-
+    - [2024-06-21，YOLOv10在PyTorch和OpenVINO中推理对比](https://mp.weixin.qq.com/s/xZ4HlfBPXFbf8OPxmXwbrQ)
   - 微信公众号「嵌入式视觉」
     - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)
     - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)
@@ -3087,16 +3088,28 @@
     - [2024-05-25，YOLOv10来啦！真正实时端到端目标检测](https://mp.weixin.qq.com/s/xxgvub-Y4RJLjbpY6YNxCQ)
   - 微信公众号「3D视觉工坊」
     - [2024-02-23，YOLOv9震撼来袭！使用可编程梯度信息学习你想学习的内容！](https://mp.weixin.qq.com/s/Fbd-jarVO4LyjlhdxgmnsA)
+    - [2024-06-18，YOLO跌落神坛？Mamba YOLO干翻YOLO系列模型！](https://mp.weixin.qq.com/s/MeFXqAyU_OAGnh7qEIb3yQ)
   - 微信公众号「DeepDriving」
     - [2023-07-21，AI模型部署 | TensorRT模型INT8量化的Python实现](https://mp.weixin.qq.com/s/IQTCUs8CcfgHxJCyV6cm3w)
+    - [2024-05-29，YOLOv10来啦！ONNX模型部署和性能对比了解一下](https://mp.weixin.qq.com/s/w0Ss9vcseNCEoK2UWugCNw)
   - 微信公众号「CSharp与边缘模型部署」
     - [2024-06-04，使用 TensorRT C++ API 调用GPU加速部署 YOLOv10 实现 500FPS 推理速度——快到飞起！！](https://mp.weixin.qq.com/s/yijeZtkRhbQxuSE1AsyUhA)
   - 微信公众号「BestSongC」
     - [2024-05-24，基于YOLO系列算法（YOLOv5、YOLOv6、YOLOv8以及YOLOv9）和Streamlit框架的行人头盔检测系统](https://mp.weixin.qq.com/s/STAVjII8kAk3MMPbB9vJfQ)
+    - [2024-05-29，基于YOLO系列算法YOLOv5、YOLOv6、YOLOv8以及YOLOv9和Streamlit框架的工人头盔和安全背心检测系统](https://mp.weixin.qq.com/s/Cuhwf2exVWFmoyZPQE_HmQ)
     - [2024-05-30，基于YOLO系列算法和Streamlit框架的六类水果目标检测系统](https://mp.weixin.qq.com/s/ZIH1afBpKBa5DgvtHZU1Vg)
+    - [2024-06-11，基于YOLO系列算法（YOLOv5、YOLOv6、YOLOv8)以及YOLOv9）和Streamlit框架的五类动物目标检测系统](https://mp.weixin.qq.com/s/cEhgZYp7rUBFz2BukacQQg)
   - 微信公众号「人工智能学习指南」
     - [2024-05-28，用自己的数据集实测YOLOv10效果！](https://mp.weixin.qq.com/s/JlGvYGvPa5NyxjEXHLO6uA)
-
+  - 微信公众号「跨模态AGI」
+    - [2024-06-12，YOLO-NAS：开启实时目标检测新纪元](https://mp.weixin.qq.com/s/ASahqSAHoMFvRvBlnq5OzQ)
+  - 微信公众号「魔方AI空间」
+    - [2024-05-26，CV再放大招 | YOLOv10：毫秒级实时端到端目标检测开源模型](https://mp.weixin.qq.com/s/yQlkvlYnCz1H3JWTXCKc_A)
+  - 微信公众号「槿墨AI」
+    - [2024-06-05，清华接棒YOLOv10开源，卷出毫秒级实时检测！](https://mp.weixin.qq.com/s/2DkhzmEllF5tom9FWHPz3g)
+    - [2024-06-12，【超全解读】Drone-YOLO：无人机图像中的实时目标检测](https://mp.weixin.qq.com/s/XQh4MxPwfsWzDnUoiW4jww)
+  - 微信公众号「计算机视觉工坊」
+    - [2024-06-21，目标检测的极限在哪里？LW-DETR：干翻YOLOv10！](https://mp.weixin.qq.com/s/64HnNUs7r133hTFsmgWpEA)
 
 
 ## Videos
