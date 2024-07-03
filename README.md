@@ -2692,6 +2692,7 @@
     - [2023-09-01，基于Yolo算法的AI数钢筋，整体解决方案汇总](https://mp.weixin.qq.com/s/plWUuEVkbK-nDycqVDFU8A)
     - [2024-01-26，深入浅出，YOLOv8算法使用指南](https://mp.weixin.qq.com/s/9naZZ7wXugppelcmPHGVlQ)
     - [2024-02-23，目标检测YOLOv9算法，重磅开源！（附论文及源码）](https://mp.weixin.qq.com/s/RVG-9h8zKsWACMr6dDRpUQ)
+    - [2024-04-04，CPU推理1ms的Backbone开源，精度速度碾压MobileNet/ShuffleNet等轻量模型！](https://mp.weixin.qq.com/s/FC9KtCPpwEraYuj4qnw_oQ)
     - [2024-04-12，深入浅出，PyTorch模型int8量化原理拆解](https://mp.weixin.qq.com/s/j2QS3LdudrrlyZYQkVrl5Q)
     - [2024-06-18，Mamba-YOLO开源，超越 YOLO ，创新SSM 技术，提升目标检测性能！（附论文及源码）](https://mp.weixin.qq.com/s/UREcCHvyl7yIEv_si9KOjQ)
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
@@ -3103,6 +3104,7 @@
     - [2024-05-28，用自己的数据集实测YOLOv10效果！](https://mp.weixin.qq.com/s/JlGvYGvPa5NyxjEXHLO6uA)
   - 微信公众号「跨模态AGI」
     - [2024-06-12，YOLO-NAS：开启实时目标检测新纪元](https://mp.weixin.qq.com/s/ASahqSAHoMFvRvBlnq5OzQ)
+    - [2024-07-02，YOLOv10：实时目标检测的新星，引领AI视觉识别新纪元](https://mp.weixin.qq.com/s/JMPBJfMhUHg0472javPlpg)
   - 微信公众号「魔方AI空间」
     - [2024-05-26，CV再放大招 | YOLOv10：毫秒级实时端到端目标检测开源模型](https://mp.weixin.qq.com/s/yQlkvlYnCz1H3JWTXCKc_A)
   - 微信公众号「槿墨AI」
@@ -3110,6 +3112,10 @@
     - [2024-06-12，【超全解读】Drone-YOLO：无人机图像中的实时目标检测](https://mp.weixin.qq.com/s/XQh4MxPwfsWzDnUoiW4jww)
   - 微信公众号「计算机视觉工坊」
     - [2024-06-21，目标检测的极限在哪里？LW-DETR：干翻YOLOv10！](https://mp.weixin.qq.com/s/64HnNUs7r133hTFsmgWpEA)
+  - 微信公众号「遥感与深度学习」
+    - [2024-06-28，论文赏读 | 结合YOLOv9和Mamba的遥感小目标检测](https://mp.weixin.qq.com/s/FqFDS2Ih0uA9nuWMpbBDEA)
+
+
 
 
 ## Videos
