@@ -44,6 +44,7 @@
       - [Other Engine](#other-engine)
     - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
       - [FPGA](#fpga)
+      - [NPU](#npu)
       - [Other Hardware](#other-hardware)
   - [Applications](#applications)
     - [Video Object Detection](#video-object-detection)
@@ -157,10 +158,9 @@
 
     - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**)
 
-    - [YOLOv10](https://github.com/THU-MIG/yolov10) <img src="https://img.shields.io/github/stars/THU-MIG/yolov10?style=social"/> : "YOLOv10: Real-Time End-to-End Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2405.14458v1)**)
-
     - [LeYOLO](https://github.com/LilianHollard/LeYOLO) <img src="https://img.shields.io/github/stars/LilianHollard/LeYOLO?style=social"/> : "LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2406.14239)**)
 
+    - [YOLOv10](https://github.com/THU-MIG/yolov10) <img src="https://img.shields.io/github/stars/THU-MIG/yolov10?style=social"/> : "YOLOv10: Real-Time End-to-End Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2405.14458v1)**)
 
 
   - ### Awesome List
@@ -1005,31 +1005,30 @@
 
         - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
-        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 TensorRT-YOLO: Support YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, PP-YOLOE using TensorRT acceleration with EfficientNMS! TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数来加速前处理过程。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 TensorRT-YOLO: Supports YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, and PP-YOLOE using TensorRT acceleration with EfficientNMS, CUDA Kernels and CUDA Graphs! TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数以及 CUDA 图来加速推理。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+
+        - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : tensorrt for yolo series (YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support.
 
         - [l-sf/Linfer](https://github.com/l-sf/Linfer) <img src="https://img.shields.io/github/stars/l-sf/Linfer?style=social"/> : 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
-
-        - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro), with adjustments to support YOLOv8. 目前已支持 YOLOv8、YOLOv8-Cls、YOLOv8-Seg、YOLOv8-OBB、YOLOv8-Pose、RT-DETR、ByteTrack、YOLOv9、YOLOv10、RTMO 高性能推理！！！🚀🚀🚀
 
         - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
 
         - [shouxieai/infer](https://github.com/shouxieai/infer) <img src="https://img.shields.io/github/stars/shouxieai/infer?style=social"/> : A new tensorrt integrate. Easy to integrate many tasks.
+        - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
 
         - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
 
-        - [hamdiboukamcha/yolov10-tensorrt](https://github.com/hamdiboukamcha/yolov10-tensorrt) <img src="https://img.shields.io/github/stars/hamdiboukamcha/yolov10-tensorrt?style=social"/> : YOLOv10 C++ TensorRT : Real-Time End-to-End Object Detection.
+        - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro), with adjustments to support YOLOv8. 目前已支持 YOLOv8、YOLOv8-Cls、YOLOv8-Seg、YOLOv8-OBB、YOLOv8-Pose、RT-DETR、ByteTrack、YOLOv9、YOLOv10、RTMO 高性能推理！！！🚀🚀🚀
 
         - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
 
-        - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
-
         - [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) <img src="https://img.shields.io/github/stars/cyrusbehr/YOLOv8-TensorRT-CPP?style=social"/> : YOLOv8 TensorRT C++ Implementation. A C++ Implementation of YoloV8 using TensorRT Supports object detection, semantic segmentation, and body pose estimation.
+
+        - [hamdiboukamcha/yolov10-tensorrt](https://github.com/hamdiboukamcha/yolov10-tensorrt) <img src="https://img.shields.io/github/stars/hamdiboukamcha/yolov10-tensorrt?style=social"/> : YOLOv10 C++ TensorRT : Real-Time End-to-End Object Detection.
 
         - [VIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
 
         - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) <img src="https://img.shields.io/github/stars/zhiqwang/yolort?style=social"/> : yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn. [zhiqwang.com/yolort](https://zhiqwang.com/yolort/)
-
-        - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : YOLO Series TensorRT Python/C++. tensorrt for yolo series (YOLOv8, YOLOv7, YOLOv6....), nms plugin support.
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs.
 
@@ -1127,6 +1126,8 @@
         - [NCNN](https://github.com/Tencent/ncnn) <img src="https://img.shields.io/github/stars/Tencent/ncnn?style=social"/> : ncnn is a high-performance neural network inference framework optimized for the mobile platform.
 
         - [Baiyuetribe/ncnn-models](https://github.com/Baiyuetribe/ncnn-models) <img src="https://img.shields.io/github/stars/Baiyuetribe/ncnn-models?style=social"/> : awesome AI models with NCNN, and how they were converted ✨✨✨
+
+        - [Qengineering/YoloV10-ncnn-Raspberry-Pi-4](https://github.com/Qengineering/YoloV10-ncnn-Raspberry-Pi-4) <img src="https://img.shields.io/github/stars/Qengineering/YoloV10-ncnn-Raspberry-Pi-4?style=social"/> : YoloV10 for a bare Raspberry Pi 4 or 5.
 
         - [cmdbug/YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN) <img src="https://img.shields.io/github/stars/cmdbug/YOLOv5_NCNN?style=social"/> : 🍅 Deploy ncnn on mobile phones. Support Android and iOS. 移动端ncnn部署，支持Android与iOS。
 
@@ -1296,6 +1297,15 @@
         - [InnoIPA/vaiGO](https://github.com/InnoIPA/vaiGo) <img src="https://img.shields.io/github/stars/innoipa/vaiGO?style=social"/> : vaiGO means Vitis-ai GO. We provide utility and tutorial that make it easy to convert a trained AI model into a bitstream that can be deployed on an FPGA Edge AI Box.
 
         - [InnoIPA/EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual) <img src="https://img.shields.io/github/stars/innoipa/exmu-x261-usermanual?style=social"/> : We have built more defect detection solutions with YOLOv4-tiny on EXMU-X261.
+
+    - ##### NPU
+
+        - [Qengineering/YoloV10-NPU](https://github.com/Qengineering/YoloV10-NPU) <img src="https://img.shields.io/github/stars/Qengineering/YoloV10-NPU?style=social"/> : YoloV10 NPU for the RK3566/68/88.
+
+        - [cqu20160901/yolov10_rknn_Cplusplus](https://github.com/cqu20160901/yolov10_rknn_Cplusplus) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_rknn_Cplusplus?style=social"/> : yolov10 瑞芯微 rknn 板端 C++部署，使用平台 rk3588。
+
+
+
 
     - ##### Other Hardware
 
@@ -1769,6 +1779,8 @@
 
     - ####  Vehicle Detection
       #####  车辆检测
+
+      - [jason-li-831202/Vehicle-CV-ADAS](https://github.com/jason-li-831202/Vehicle-CV-ADAS) <img src="https://img.shields.io/github/stars/jason-li-831202/Vehicle-CV-ADAS?style=social"/> : The project can achieve FCWS, LDWS, and LKAS functions solely using only visual sensors. using YOLOv5 / YOLOv5-lite / YOLOv6 / YOLOv7 / YOLOv8 / YOLOv9 / EfficientDet and Ultra-Fast-Lane-Detection-v2.
 
       - [williamhyin/yolov5s_bdd100k](https://github.com/williamhyin/yolov5s_bdd100k) <img src="https://img.shields.io/github/stars/williamhyin/yolov5s_bdd100k?style=social"/> : Train a yolo v5 object detection model on Bdd100k dataset.
 
@@ -2291,6 +2303,8 @@
   - ### Game Field Detection
     #### 游戏领域检测
 
+    - [SunOner/sunone_aimbot](https://github.com/SunOner/sunone_aimbot) <img src="https://img.shields.io/github/stars/SunOner/sunone_aimbot?style=social"/> : 🌲Aim-bot based on AI for all FPS games. [boosty.to/sunone](https://boosty.to/sunone)
+
     - [petercunha/Pine](https://github.com/petercunha/Pine) <img src="https://img.shields.io/github/stars/petercunha/Pine?style=social"/> : 🌲 Aimbot powered by real-time object detection with neural networks, GPU accelerated with Nvidia. Optimized for use with CS:GO.
 
     - [chaoyu1999/FPSAutomaticAiming](https://github.com/chaoyu1999/FPSAutomaticAiming) <img src="https://img.shields.io/github/stars/chaoyu1999/FPSAutomaticAiming?style=social"/> : 基于yolov5的FPS类游戏AI自瞄AI。
@@ -2451,11 +2465,11 @@
 
         - [wjnwjn59/YOLOv10_Streamlit_Demo](https://github.com/wjnwjn59/YOLOv10_Streamlit_Demo) <img src="https://img.shields.io/github/stars/wjnwjn59/YOLOv10_Streamlit_Demo?style=social"/> : A simple object detection web demo using YOLOv10 and Streamlit.
 
-        - [streamlit/demo-self-driving](https://github.com/streamlit/demo-self-driving) <img src="https://img.shields.io/github/stars/streamlit/demo-self-driving?style=social"/> : Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.
-
-        - [CodingMantras/yolov8-streamlit-detection-tracking](https://github.com/CodingMantras/yolov8-streamlit-detection-tracking) <img src="https://img.shields.io/github/stars/CodingMantras/yolov8-streamlit-detection-tracking?style=social"/> : Object detection and tracking algorithm implemented for Real-Time video streams and static images.
+        - [rampal-punia/yolov8-streamlit-detection-tracking](https://github.com/rampal-punia/yolov8-streamlit-detection-tracking) <img src="https://img.shields.io/github/stars/rampal-punia/yolov8-streamlit-detection-tracking?style=social"/> : Object detection and tracking algorithm implemented for Real-Time video streams and static images.
 
         - [JackDance/YOLOv8-streamlit-app](https://github.com/JackDance/YOLOv8-streamlit-app) <img src="https://img.shields.io/github/stars/JackDance/YOLOv8-streamlit-app?style=social"/> : 🔥🔥🔥 Use streamlit framework to increase yolov8 front-end page interaction function. "知乎「Mr.Luyao」《[深度学习/机器学习项目的前端展示利器--Streamlit](https://zhuanlan.zhihu.com/p/630029493)》"。
+
+        - [streamlit/demo-self-driving](https://github.com/streamlit/demo-self-driving) <img src="https://img.shields.io/github/stars/streamlit/demo-self-driving?style=social"/> : Streamlit app demonstrating an image browser for the Udacity self-driving-car dataset with realtime object detection using YOLO.
 
         - [xugaoxiang/yolov5-streamlit](https://github.com/xugaoxiang/yolov5-streamlit) <img src="https://img.shields.io/github/stars/xugaoxiang/yolov5-streamlit?style=social"/> : Deploy YOLOv5 detection with Streamlit.
 
