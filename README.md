@@ -91,6 +91,7 @@
     - [SAR Image Detection](#sar-image-detection)
     - [Multispectral Image Fusion Detection](#multispectral-image-fusion-detection)
     - [Safety Monitoring Field Detection](#safety-monitoring-field-detection)
+    - [Anti-UAV Field Detection](#anti-uav-field-detection)
     - [Medical Field Detection](#medical-field-detection)
     - [Chemistry Field Detection](#chemistry-field-detection)
     - [Agricultural Field Detection](#agricultural-field-detection)
@@ -2181,6 +2182,12 @@
 
 
 
+  - ### Anti-UAV Field Detection
+    #### 反无人机领域检测
+
+    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+
+
 
   - ### Medical Field Detection
     #### 医学领域检测
@@ -3119,6 +3126,7 @@
   - 微信公众号「跨模态AGI」
     - [2024-06-12，YOLO-NAS：开启实时目标检测新纪元](https://mp.weixin.qq.com/s/ASahqSAHoMFvRvBlnq5OzQ)
     - [2024-07-02，YOLOv10：实时目标检测的新星，引领AI视觉识别新纪元](https://mp.weixin.qq.com/s/JMPBJfMhUHg0472javPlpg)
+    - [2024-07-05，揭秘YOLO-World：颠覆传统，开启实时开放词汇检测新时代](https://mp.weixin.qq.com/s/WGMNf4u8bA-t534avapJQw)
   - 微信公众号「魔方AI空间」
     - [2024-05-26，CV再放大招 | YOLOv10：毫秒级实时端到端目标检测开源模型](https://mp.weixin.qq.com/s/yQlkvlYnCz1H3JWTXCKc_A)
   - 微信公众号「槿墨AI」
