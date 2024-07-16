@@ -198,15 +198,15 @@
 
       - [MMYOLO](https://github.com/open-mmlab/mmyolo) <img src="https://img.shields.io/github/stars/open-mmlab/mmyolo?style=social"/> : OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, RTMDet-Rotated,YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, PPYOLOE, etc. [mmyolo.readthedocs.io/zh_CN/dev/](https://mmyolo.readthedocs.io/zh_CN/dev/)
 
-      - [ultralyticsPro](https://github.com/iscyy/ultralyticsPro) <img src="https://img.shields.io/github/stars/iscyy/ultralyticsPro?style=social"/> : 🔥🔥🔥专注于改进YOLOv8模型，NEW - YOLOv8 🚀 RT-DETR 🥇 in PyTorch >, Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
+      - [iscyy/ultralyticsPro](https://github.com/iscyy/ultralyticsPro) <img src="https://img.shields.io/github/stars/iscyy/ultralyticsPro?style=social"/> : 🔥🔥🔥专注于改进YOLOv8模型，NEW - YOLOv8 🚀 RT-DETR 🥇 in PyTorch >, Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀
 
-      - [YOLOAir](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> :  YOLO Air : Makes improvements easy again. 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀.  YOLOAir是一个基于PyTorch的YOLO算法库。统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
+      - [iscyy/yoloair](https://github.com/iscyy/yoloair) <img src="https://img.shields.io/github/stars/iscyy/yoloair?style=social"/> :  YOLO Air : Makes improvements easy again. 🔥🔥🔥YOLOv5, YOLOv6, YOLOv7, YOLOv8, PPYOLOE, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention, TOOD and Improved-YOLOv5-YOLOv7... Support to improve backbone, neck, head, loss, IoU, NMS and other modules🚀.  YOLOAir是一个基于PyTorch的YOLO算法库。统一模型代码框架、统一应用、统一改进、易于模块组合、构建更强大的网络模型。 "微信公众号「FightingCV」《[YOLOAir | 面向小白的目标检测库，更快更方便更完整的YOLO库](https://mp.weixin.qq.com/s/smwx-Ievs3rWMw_D4lSwqg)》"。 "微信公众号「我爱计算机视觉」《[集成多种YOLO改进点，面向小白科研的YOLO检测代码库YOLOAir](https://mp.weixin.qq.com/s/EEJrnfnTn7wAcEpVPx06BQ)》"
 
-      - [YOLOAir2](https://github.com/iscyy/yoloair2) <img src="https://img.shields.io/github/stars/iscyy/yoloair2?style=social"/> : YOLOAir2☁️💡🎈 : Makes improvements easy again. ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv8, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules.
+      - [iscyy/yoloair2](https://github.com/iscyy/yoloair2) <img src="https://img.shields.io/github/stars/iscyy/yoloair2?style=social"/> : YOLOAir2☁️💡🎈 : Makes improvements easy again. ☁️💡🎈YOLOAir2 is the second version of the YOLOAir series, The framework is based on YOLOv7, including YOLOv7, YOLOv8, YOLOv6, YOLOv5, YOLOX, YOLOR, YOLOv4, YOLOv3, Transformer, Attention and Improved-YOLOv7... Support to improve Backbone, Neck, Head, Loss, IoU, NMS and other modules.
 
-      - [YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. ​ The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
+      - [jizhishutong/YOLOU](https://github.com/jizhishutong/YOLOU) <img src="https://img.shields.io/github/stars/jizhishutong/YOLOU?style=social"/> : YOLOU：United, Study and easier to Deploy. ​ The purpose of our creation of YOLOU is to better learn the algorithms of the YOLO series and pay tribute to our predecessors. YOLOv3、YOLOv4、YOLOv5、YOLOv5-Lite、YOLOv6-v1、YOLOv6-v2、YOLOv7、YOLOX、YOLOX-Lite、PP-YOLOE、PP-PicoDet-Plus、YOLO-Fastest v2、FastestDet、YOLOv5-SPD、TensorRT、NCNN、Tengine、OpenVINO. "微信公众号「集智书童」《[YOLOU开源 | 汇集YOLO系列所有算法，集算法学习、科研改进、落地于一身！](https://mp.weixin.qq.com/s/clupheQ8iHnhR4FJcTtB8A)》"
 
-      - [YOLOMagic](https://github.com/WangQvQ/Yolov5_Magic) <img src="https://img.shields.io/github/stars/WangQvQ/Yolov5_Magic?style=social"/> : YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
+      - [WangQvQ/Yolov5_Magic](https://github.com/WangQvQ/Yolov5_Magic) <img src="https://img.shields.io/github/stars/WangQvQ/Yolov5_Magic?style=social"/> : YOLO Magic🪄 is an extension based on Ultralytics' YOLOv5, designed to provide more powerful functionality and simpler operations for visual tasks.
 
       - [positive666/yolo_research](https://github.com/positive666/yolo_research) <img src="https://img.shields.io/github/stars/positive666/yolo_research?style=social"/> : 🚀 yolo_reserach PLUS High-level. based on yolo-high-level project (detect\pose\classify\segment\):include yolov5\yolov7\yolov8\ core ,improvement research ,SwintransformV2 and Attention Series. training skills, business customization, engineering deployment.
 
@@ -214,11 +214,18 @@
 
       - [Oneflow-Inc/one-yolov5](https://github.com/Oneflow-Inc/one-yolov5) <img src="https://img.shields.io/github/stars/Oneflow-Inc/one-yolov5?style=social"/> : A more efficient yolov5 with oneflow backend 🎉🎉🎉. "微信公众号「GiantPandaCV」《[One-YOLOv5 发布，一个训得更快的YOLOv5](https://mp.weixin.qq.com/s/tZ7swUd0biz7G3CiRkHHfw)》"
 
-      - [PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> :  🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, YOLOv5u, YOLOv7u, RTMDet and so on. 🚀🚀🚀
+      - [PaddlePaddle/PaddleYOLO](https://github.com/PaddlePaddle/PaddleYOLO) <img src="https://img.shields.io/github/stars/PaddlePaddle/PaddleYOLO?style=social"/> :  🚀🚀🚀 YOLO series of PaddlePaddle implementation, PP-YOLOE+, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOX, YOLOv5u, YOLOv7u, RTMDet and so on. 🚀🚀🚀
 
-      - [BestYOLO](https://github.com/WangRongsheng/BestYOLO) <img src="https://img.shields.io/github/stars/WangRongsheng/BestYOLO?style=social"/> : 🌟Change the world, it will become a better place. | 以科研和竞赛为导向的最好的YOLO实践框架!
+      - [WangRongsheng/BestYOLO](https://github.com/WangRongsheng/BestYOLO) <img src="https://img.shields.io/github/stars/WangRongsheng/BestYOLO?style=social"/> : 🌟Change the world, it will become a better place. | 以科研和竞赛为导向的最好的YOLO实践框架!
 
-      - [Cver4s](https://github.com/KangChou/Cver4s) <img src="https://img.shields.io/github/stars/KangChou/Cver4s?style=social"/> : Cver4s：Computer vision algorithm code base.
+      - [KangChou/Cver4s](https://github.com/KangChou/Cver4s) <img src="https://img.shields.io/github/stars/KangChou/Cver4s?style=social"/> : Cver4s：Computer vision algorithm code base.
+
+      - [chaizwj/yolov8-tricks](https://github.com/chaizwj/yolov8-tricks) <img src="https://img.shields.io/github/stars/chaizwj/yolov8-tricks?style=social"/> : 目标检测，采用yolov8作为基准模型，数据集采用VisDrone2019，带有自己的改进策略。
+
+
+
+
+
 
 
 
@@ -1368,7 +1375,7 @@
     - ####  Multi-Object Tracking
       #####  多目标跟踪
 
-      - [ujanshresstha/YOLOv10_DeepSORT](https://github.com/sujanshresstha/YOLOv10_DeepSORT) <img src="https://img.shields.io/github/stars/ujanshresstha/YOLOv10_DeepSORT?style=social"/> : This repository contains code for object detection and tracking in videos using the YOLOv10 object detection model and the DeepSORT algorithm.
+      - [sujanshresstha/YOLOv10_DeepSORT](https://github.com/sujanshresstha/YOLOv10_DeepSORT) <img src="https://img.shields.io/github/stars/sujanshresstha/YOLOv10_DeepSORT?style=social"/> : This repository contains code for object detection and tracking in videos using the YOLOv10 object detection model and the DeepSORT algorithm.
 
       - [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolo_tracking?style=social"/> : BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models.
 
@@ -2185,7 +2192,7 @@
   - ### Anti-UAV Field Detection
     #### 反无人机领域检测
 
-    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
 
 
 
@@ -2716,6 +2723,7 @@
     - [2024-04-04，CPU推理1ms的Backbone开源，精度速度碾压MobileNet/ShuffleNet等轻量模型！](https://mp.weixin.qq.com/s/FC9KtCPpwEraYuj4qnw_oQ)
     - [2024-04-12，深入浅出，PyTorch模型int8量化原理拆解](https://mp.weixin.qq.com/s/j2QS3LdudrrlyZYQkVrl5Q)
     - [2024-06-18，Mamba-YOLO开源，超越 YOLO ，创新SSM 技术，提升目标检测性能！（附论文及源码）](https://mp.weixin.qq.com/s/UREcCHvyl7yIEv_si9KOjQ)
+    - [2024-07-13，YOLOv5、YOLOv8与YOLOv10，性能分析与边缘部署梳理，YOLO算法进化史！](https://mp.weixin.qq.com/s/wTwjDESVipFg2Tnh9Mgp6A)
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -3054,6 +3062,8 @@
     - [2023-07-04，保姆教程 | YOLOv5在建筑工地中安全帽佩戴检测的应用](https://mp.weixin.qq.com/s/g6jEP5Y2R_DhrI30DBol5Q)
     - [2024-06-05，实战 | YOLOv10 自定义数据集训练实现车牌检测 (数据集+训练+预测 保姆级教程)](https://mp.weixin.qq.com/s/3WSmGP7xdQJc-5YdQXBPFg)
     - [2024-06-21，YOLOv10在PyTorch和OpenVINO中推理对比](https://mp.weixin.qq.com/s/xZ4HlfBPXFbf8OPxmXwbrQ)
+    - [2024-07-08，实战 | YOLOv8使用TensorRT加速推理教程（步骤 + 代码）](https://mp.weixin.qq.com/s/VcUifHycY9aw99d3WD1h1w)
+    - [2024-07-10，OpenCV使用CUDA加速资料汇总(pdf+视频+源码)](https://mp.weixin.qq.com/s/o-AECBLDucxVLr1Q0yxZ_g)
   - 微信公众号「嵌入式视觉」
     - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)
     - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)
@@ -3129,6 +3139,7 @@
     - [2024-07-05，揭秘YOLO-World：颠覆传统，开启实时开放词汇检测新时代](https://mp.weixin.qq.com/s/WGMNf4u8bA-t534avapJQw)
   - 微信公众号「魔方AI空间」
     - [2024-05-26，CV再放大招 | YOLOv10：毫秒级实时端到端目标检测开源模型](https://mp.weixin.qq.com/s/yQlkvlYnCz1H3JWTXCKc_A)
+    - [2024-07-03，2万字长文｜YOLOv10的起源：YOLO系列的十年全面综述【YOLOv1-YOLOv10】(建议收藏)](https://mp.weixin.qq.com/s/1DYhy-flED1HwUX8YCQUPg)
   - 微信公众号「槿墨AI」
     - [2024-06-05，清华接棒YOLOv10开源，卷出毫秒级实时检测！](https://mp.weixin.qq.com/s/2DkhzmEllF5tom9FWHPz3g)
     - [2024-06-12，【超全解读】Drone-YOLO：无人机图像中的实时目标检测](https://mp.weixin.qq.com/s/XQh4MxPwfsWzDnUoiW4jww)
@@ -3136,6 +3147,11 @@
     - [2024-06-21，目标检测的极限在哪里？LW-DETR：干翻YOLOv10！](https://mp.weixin.qq.com/s/64HnNUs7r133hTFsmgWpEA)
   - 微信公众号「遥感与深度学习」
     - [2024-06-28，论文赏读 | 结合YOLOv9和Mamba的遥感小目标检测](https://mp.weixin.qq.com/s/FqFDS2Ih0uA9nuWMpbBDEA)
+    - [2024-07-11，论文赏读 | Mamba YOLO: 基于SSM的YOLO 用于目标检测](https://mp.weixin.qq.com/s/Td-hwr-4UkIUheF7RJAi7Q)
+  - 微信公众号「算法美食屋」
+    - [2024-06-08，30分钟吃掉pytorch转onnx及推理](https://mp.weixin.qq.com/s/A1TCBqRJxXWzZKG1_KauMA)
+  - 微信公众号「人工智能学起来」
+    - [2024-06-25，小目标检测重大进展！速度提升10倍，GPU内存占用少73.4％](https://mp.weixin.qq.com/s/xbUKj3mHOyou5KpCi-04xw)
 
 
 
