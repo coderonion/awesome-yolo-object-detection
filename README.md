@@ -98,6 +98,7 @@
     - [Sports Field Detection](#sports-field-detection)
     - [Adverse Weather Conditions](#adverse-weather-conditions)
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
+    - [Camouflaged Detection](#camouflaged-detection)
     - [Game Field Detection](#game-field-detection)
     - [Automatic Annotation Tools](#automatic-annotation-tools)
     - [Feature Map Visualization](#feature-map-visualization)
@@ -2320,6 +2321,12 @@
 
 
 
+
+
+  - ### Camouflaged Detection
+    #### 伪装目标检测
+
+    - [Ap1rate/yolov8-SIM](https://github.com/Ap1rate/yolov8-SIM) <img src="https://img.shields.io/github/stars/Ap1rate/yolov8-SIM?style=social"/> : Link to Journal of Ecological Informatics paper ' Camouflaged Detection: Optimization-Based Computer Vision for Alligator sinensis with Low Detectability in Complex Wild Environments '.
 
 
 
