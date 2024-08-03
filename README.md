@@ -44,7 +44,7 @@
       - [Other Engine](#other-engine)
     - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
       - [FPGA](#fpga)
-      - [NPU](#npu)
+      - [RK3588](#rk3588)
       - [Other Hardware](#other-hardware)
   - [Applications](#applications)
     - [Video Object Detection](#video-object-detection)
@@ -1013,18 +1013,23 @@
 
         - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
 
-        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 TensorRT-YOLO: Supports YOLOv3, YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, and PP-YOLOE using TensorRT acceleration with EfficientNMS, CUDA Kernels and CUDA Graphs! TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数以及 CUDA 图来加速推理。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+        - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
+
+        - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs.
+
+        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数以及 CUDA 图来加速推理。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+
+        - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
+
+        - [shouxieai/infer](https://github.com/shouxieai/infer) <img src="https://img.shields.io/github/stars/shouxieai/infer?style=social"/> : A new tensorrt integrate. Easy to integrate many tasks.
 
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : tensorrt for yolo series (YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support.
 
         - [l-sf/Linfer](https://github.com/l-sf/Linfer) <img src="https://img.shields.io/github/stars/l-sf/Linfer?style=social"/> : 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
 
-        - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
+        - [1461521844lijin/trt_yolo_video_pipeline](https://github.com/1461521844lijin/trt_yolo_video_pipeline) <img src="https://img.shields.io/github/stars/1461521844lijin/trt_yolo_video_pipeline?style=social"/> : TensorRT+YOLO系列的 多路 多卡 多实例 并行视频分析处理案例。
 
-        - [shouxieai/infer](https://github.com/shouxieai/infer) <img src="https://img.shields.io/github/stars/shouxieai/infer?style=social"/> : A new tensorrt integrate. Easy to integrate many tasks.
         - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
-
-        - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
 
         - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro), with adjustments to support YOLOv8. 目前已支持 YOLOv8、YOLOv8-Cls、YOLOv8-Seg、YOLOv8-OBB、YOLOv8-Pose、RT-DETR、ByteTrack、YOLOv9、YOLOv10、RTMO 高性能推理！！！🚀🚀🚀
 
@@ -1037,9 +1042,6 @@
         - [VIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
 
         - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) <img src="https://img.shields.io/github/stars/zhiqwang/yolort?style=social"/> : yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn. [zhiqwang.com/yolort](https://zhiqwang.com/yolort/)
-
-        - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs.
-
 
         - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime. “🛠Lite.Ai.ToolKit: 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。”
 
@@ -1104,6 +1106,10 @@
         - [ervgan/yolov5_tensorrt_inference](https://github.com/ervgan/yolov5_tensorrt_inference) <img src="https://img.shields.io/github/stars/ervgan/yolov5_tensorrt_inference?style=social"/> : TensorRT cpp inference for Yolov5 model. Supports yolov5 v1.0, v2.0, v3.0, v3.1, v4.0, v5.0, v6.0, v6.2, v7.0.
 
         - [AlbinZhu/easy-trt](https://github.com/AlbinZhu/easy-trt) <img src="https://img.shields.io/github/stars/AlbinZhu/easy-trt?style=social"/> : TensorRT for YOLOv10 with CUDA.
+
+        - [PrinceP/tensorrt-cpp-for-onnx](https://github.com/PrinceP/tensorrt-cpp-for-onnx) <img src="https://img.shields.io/github/stars/PrinceP/tensorrt-cpp-for-onnx?style=social"/> : Tensorrt codebase to inference in c++ for all major neural arch using onnx.
+
+
 
 
     - ##### OpenVINO
@@ -1306,11 +1312,15 @@
 
         - [InnoIPA/EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual) <img src="https://img.shields.io/github/stars/innoipa/exmu-x261-usermanual?style=social"/> : We have built more defect detection solutions with YOLOv4-tiny on EXMU-X261.
 
-    - ##### NPU
+    - ##### RK3588
 
         - [Qengineering/YoloV10-NPU](https://github.com/Qengineering/YoloV10-NPU) <img src="https://img.shields.io/github/stars/Qengineering/YoloV10-NPU?style=social"/> : YoloV10 NPU for the RK3566/68/88.
 
         - [cqu20160901/yolov10_rknn_Cplusplus](https://github.com/cqu20160901/yolov10_rknn_Cplusplus) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_rknn_Cplusplus?style=social"/> : yolov10 瑞芯微 rknn 板端 C++部署，使用平台 rk3588。
+
+        - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) <img src="https://img.shields.io/github/stars/Zhou-sx/yolov5_Deepsort_rknn?style=social"/> : Track vehicles and persons on rk3588 / rk3399pro.
+
+        - [Applied-Deep-Learning-Lab/Yolov5_RK3588](https://github.com/Applied-Deep-Learning-Lab/Yolov5_RK3588) <img src="https://img.shields.io/github/stars/Applied-Deep-Learning-Lab/Yolov5_RK3588?style=social"/> : Yolov5_RK3588.
 
 
 
@@ -1335,23 +1345,18 @@
 
         - [OpenVINO-dev-contest/YOLOv7_OpenVINO](https://github.com/OpenVINO-dev-contest/YOLOv7_OpenVINO) <img src="https://img.shields.io/github/stars/OpenVINO-dev-contest/YOLOv7_OpenVINO?style=social"/> : This repository will demostrate how to deploy a offical YOLOv7 pre-trained model with OpenVINO runtime api.
 
-        - [Zhou-sx/yolov5_Deepsort_rknn](https://github.com/Zhou-sx/yolov5_Deepsort_rknn) <img src="https://img.shields.io/github/stars/Zhou-sx/yolov5_Deepsort_rknn?style=social"/> : Track vehicles and persons on rk3588 / rk3399pro.
-
         - [littledeep/YOLOv5-RK3399Pro](https://github.com/littledeep/YOLOv5-RK3399Pro) <img src="https://img.shields.io/github/stars/littledeep/YOLOv5-RK3399Pro?style=social"/> : PyTorch-->ONNX-->RKNN.
 
         - [jnulzl/YOLOV5_RK1126](https://github.com/jnulzl/YOLOV5_RK1126) <img src="https://img.shields.io/github/stars/jnulzl/YOLOV5_RK1126?style=social"/> : yolov5 rk1126 cpp code.
 
         - [Qengineering/YoloCam](https://github.com/Qengineering/YoloCam) <img src="https://img.shields.io/github/stars/Qengineering/YoloCam?style=social"/> : AI camera with live feed, email notification, Gdrive storage and event-triggered GPIO. Raspberry Pi stand-alone AI-powered camera with live feed, email notification and event-triggered cloud storage.
 
-        - [Applied-Deep-Learning-Lab/Yolov5_RK3588](https://github.com/Applied-Deep-Learning-Lab/Yolov5_RK3588) <img src="https://img.shields.io/github/stars/Applied-Deep-Learning-Lab/Yolov5_RK3588?style=social"/> : Yolov5_RK3588.
-
         - [LSH9832/edgeyolo](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance.
 
         - [liuyuan000/Rv1126_YOLOv5-Lite](https://github.com/liuyuan000/Rv1126_YOLOv5-Lite) <img src="https://img.shields.io/github/stars/liuyuan000/Rv1126_YOLOv5-Lite?style=social"/> : YOLOv5-Lite在Rv1126部署。
 
-        - [cqu20160901/yolov10_rknn_Cplusplus](https://github.com/cqu20160901/yolov10_rknn_Cplusplus) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_rknn_Cplusplus?style=social"/> : yolov10 瑞芯微 rknn 板端 C++部署，使用平台 rk3588。
-
         - [cqu20160901/yolov10_onnx_rknn_horizon_tensorRT](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT?style=social"/> : yolov10 目标检测部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon），全网部署最简单、运行速度最快的部署方式（全网首发）。
+
 
 
 ## Applications
@@ -1881,6 +1886,7 @@
 
       - [anil2k/smart-car-parking-yolov5](https://github.com/anil2k/smart-car-parking-yolov5) <img src="https://img.shields.io/github/stars/anil2k/smart-car-parking-yolov5?style=social"/> : Detect free parking lot available for cars.
 
+
     - ####  Traffic Light Detection
       #####  交通灯检测
 
@@ -1889,6 +1895,9 @@
       - [mihir-m-gandhi/Adaptive-Traffic-Signal-Timer](https://github.com/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer) <img src="https://img.shields.io/github/stars/mihir-m-gandhi/Adaptive-Traffic-Signal-Timer?style=social"/> : This Adaptive Traffic Signal Timer uses live images from the cameras at traffic junctions for real-time traffic density calculation using YOLO object detection and sets the signal timers accordingly.
 
       - [wade0125/Traffic_Light_Detection_Yolo](https://github.com/wade0125/Traffic_Light_Detection_Yolo) <img src="https://img.shields.io/github/stars/wade0125/Traffic_Light_Detection_Yolo?style=social"/> : Traffic Light Detection Yolo.
+
+      - [LIU42/PassingRules](https://github.com/LIU42/PassingRules) <img src="https://img.shields.io/github/stars/LIU42/PassingRules?style=social"/> : 一种基于 YOLOv8 的路口交通信号灯通行规则识别模型及算法.
+
 
 
     - ####  Traffic Sign Detection
@@ -2496,6 +2505,8 @@
         - [zyds/yolov5-code](https://github.com/zyds/yolov5-code) <img src="https://img.shields.io/github/stars/zyds/yolov5-code?style=social"/> : 手把手带你实战 YOLOv5。
 
         - [KdaiP/yolov8-deepsort-tracking](https://github.com/KdaiP/yolov8-deepsort-tracking) <img src="https://img.shields.io/github/stars/KdaiP/yolov8-deepsort-tracking?style=social"/> : opencv+yolov8+deepsort行人检测与跟踪,以及可选的WebUI界面（基于gradio）。
+
+        - [pengxiang1998/YOLOv8](https://github.com/pengxiang1998/YOLOv8) <img src="https://img.shields.io/github/stars/pengxiang1998/YOLOv8?style=social"/> : 基于Gradio搭建的YOLOv8目标检测推理部署。
 
 
 
