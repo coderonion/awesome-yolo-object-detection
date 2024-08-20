@@ -1032,6 +1032,8 @@
 
         - [l-sf/Linfer](https://github.com/l-sf/Linfer) <img src="https://img.shields.io/github/stars/l-sf/Linfer?style=social"/> : 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
 
+        - [taifyang/yolo-inference](https://github.com/taifyang/yolo-inference) <img src="https://img.shields.io/github/stars/taifyang/yolo-inference?style=social"/> : C++ and Python implementations of YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9 and YOLOv10 inference.
+
         - [1461521844lijin/trt_yolo_video_pipeline](https://github.com/1461521844lijin/trt_yolo_video_pipeline) <img src="https://img.shields.io/github/stars/1461521844lijin/trt_yolo_video_pipeline?style=social"/> : TensorRT+YOLO系列的 多路 多卡 多实例 并行视频分析处理案例。
 
         - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
@@ -1039,6 +1041,8 @@
         - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
 
         - [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) <img src="https://img.shields.io/github/stars/cyrusbehr/YOLOv8-TensorRT-CPP?style=social"/> : YOLOv8 TensorRT C++ Implementation. A C++ Implementation of YoloV8 using TensorRT Supports object detection, semantic segmentation, and body pose estimation.
+
+        - [emptysoal/TensorRT-YOLOv8](https://github.com/emptysoal/TensorRT-YOLOv8) <img src="https://img.shields.io/github/stars/emptysoal/TensorRT-YOLOv8?style=social"/> : Based on tensorrt v8.0+, deploy detect, pose, segment, tracking of YOLOv8 with C++ and python api.
 
         - [hamdiboukamcha/yolov10-tensorrt](https://github.com/hamdiboukamcha/yolov10-tensorrt) <img src="https://img.shields.io/github/stars/hamdiboukamcha/yolov10-tensorrt?style=social"/> : YOLOv10 C++ TensorRT : Real-Time End-to-End Object Detection.
 
@@ -1112,6 +1116,7 @@
 
         - [PrinceP/tensorrt-cpp-for-onnx](https://github.com/PrinceP/tensorrt-cpp-for-onnx) <img src="https://img.shields.io/github/stars/PrinceP/tensorrt-cpp-for-onnx?style=social"/> : Tensorrt codebase to inference in c++ for all major neural arch using onnx.
 
+        - [hamdiboukamcha/Yolo-V10-cpp-TensorRT](https://github.com/hamdiboukamcha/Yolo-V10-cpp-TensorRT) <img src="https://img.shields.io/github/stars/hamdiboukamcha/Yolo-V10-cpp-TensorRT?style=social"/> : The YOLOv10 C++ TensorRT Project in C++ and optimized using NVIDIA TensorRT.
 
 
 
@@ -1316,6 +1321,18 @@
         - [InnoIPA/EXMU-X261-usermanual](https://github.com/InnoIPA/EXMU-X261-usermanual) <img src="https://img.shields.io/github/stars/innoipa/exmu-x261-usermanual?style=social"/> : We have built more defect detection solutions with YOLOv4-tiny on EXMU-X261.
 
     - ##### RK3588
+
+        - [leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading) <img src="https://img.shields.io/github/stars/leafqycc/rknn-cpp-Multithreading?style=social"/> : A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。
+
+        - [leafqycc/rknn-multi-threaded](https://github.com/leafqycc/rknn-multi-threaded) <img src="https://img.shields.io/github/stars/leafqycc/rknn-multi-threaded?style=social"/> : A simple demo of yolov5s running on rk3588/3588s using Python (about 72 frames). / 一个使用Python在rk3588/3588s上运行的yolov5s简单demo(大约72帧/s)。
+
+        - [wzxzhuxi/rknn-3588-npu-yolo-accelerate](https://github.com/wzxzhuxi/rknn-3588-npu-yolo-accelerate) <img src="https://img.shields.io/github/stars/wzxzhuxi/rknn-3588-npu-yolo-accelerate?style=social"/> : rknn-3588部署yolov5，利用线程池实现npu推理加速；Deploying YOLOv5 on RKNN-3588, utilizing a thread pool to achieve NPU inference acceleration.
+
+        - [kaylorchen/rk3588-yolo-demo](https://github.com/kaylorchen/rk3588-yolo-demo) <img src="https://img.shields.io/github/stars/kaylorchen/rk3588-yolo-demo?style=social"/> : The project is a multi-threaded inference demo of Yolo running on the RK3588 platform, which has been adapted for reading video files and camera feeds. The demo uses the Yolov8n model for file inference, with a maximum inference frame rate of up to 100 frames per second.
+
+        - [MontaukLaw/yolov5_3588_multi_thread](https://github.com/MontaukLaw/yolov5_3588_multi_thread) <img src="https://img.shields.io/github/stars/MontaukLaw/yolov5_3588_multi_thread?style=social"/> : 启动多线程, relu激活, 3588的yolo部署, 帧率150以上.
+
+        - [crab2rab/RKNN-YOLOV5-BatchInference-MultiThreading](https://github.com/crab2rab/RKNN-YOLOV5-BatchInference-MultiThreading) <img src="https://img.shields.io/github/stars/crab2rab/RKNN-YOLOV5-BatchInference-MultiThreading?style=social"/> : RKNN-YOLOV5-BatchInference-MultiThreadingYOLOV5多张图片多线程C++推理。
 
         - [Qengineering/YoloV10-NPU](https://github.com/Qengineering/YoloV10-NPU) <img src="https://img.shields.io/github/stars/Qengineering/YoloV10-NPU?style=social"/> : YoloV10 NPU for the RK3566/68/88.
 
@@ -1623,7 +1640,7 @@
 
     - [zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023](https://github.com/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023) <img src="https://img.shields.io/github/stars/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023?style=social"/> : 2023年西交利物浦大学动云科技GMaster战队雷达yolo小目标检测。
 
-
+    - [quantumxiaol/yolov8-small-target-detection](https://github.com/quantumxiaol/yolov8-small-target-detection) <img src="https://img.shields.io/github/stars/quantumxiaol/yolov8-small-target-detection?style=social"/> : 基于yolov8实现小目标检测，在NWPU VHR-10和DOTA上测试。
 
 
 
@@ -2239,7 +2256,7 @@
 
     - [mkang315/CST-YOLO](https://github.com/mkang315/CST-YOLO) <img src="https://img.shields.io/github/stars/mkang315/CST-YOLO?style=social"/> : Official implementation of "CST-YOLO: A Novel Method for Blood Cell Detection Based on Improved YOLOv7 and CNN-Swin Transformer".
 
-
+    - [mkang315/BGF-YOLO](https://github.com/mkang315/BGF-YOLO) <img src="https://img.shields.io/github/stars/mkang315/BGF-YOLO?style=social"/> : [MICCAI'24] Official implementation of "BGF-YOLO: Enhanced YOLOv8 with Multiscale Attentional Feature Fusion for Brain Tumor Detection".
 
 
 
@@ -2336,6 +2353,8 @@
     #### 游戏领域检测
 
     - [SunOner/sunone_aimbot](https://github.com/SunOner/sunone_aimbot) <img src="https://img.shields.io/github/stars/SunOner/sunone_aimbot?style=social"/> : 🌲Aim-bot based on AI for all FPS games. [boosty.to/sunone](https://boosty.to/sunone)
+
+    - [Passer1072/RookieAI_yolov8](https://github.com/Passer1072/RookieAI_yolov8) <img src="https://img.shields.io/github/stars/Passer1072/RookieAI_yolov8?style=social"/> : 基于yolov8实现的AI自瞄项目 AI self-aiming project based on yolov8.
 
     - [petercunha/Pine](https://github.com/petercunha/Pine) <img src="https://img.shields.io/github/stars/petercunha/Pine?style=social"/> : 🌲 Aimbot powered by real-time object detection with neural networks, GPU accelerated with Nvidia. Optimized for use with CS:GO.
 
