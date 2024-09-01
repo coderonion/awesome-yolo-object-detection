@@ -469,7 +469,7 @@
 
     - [ort](https://github.com/pykeio/ort) <img src="https://img.shields.io/github/stars/pykeio/ort?style=social"/> : A Rust wrapper for ONNX Runtime. [docs.rs/ort](https://docs.rs/ort/latest/ort/)
 
-    - [codingonion/yolov5-gui-slint](https://github.com/codingonion/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/codingonion/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
+    - [usls](https://github.com/jamjamjon/usls) <img src="https://img.shields.io/github/stars/jamjamjon/usls?style=social"/> : A Rust library integrated with ONNXRuntime, providing a collection of Computer Vison and Vision-Language models.
 
     - [ptaxom/pnn](https://github.com/ptaxom/pnn) <img src="https://img.shields.io/github/stars/ptaxom/pnn?style=social"/> : pnn is [Darknet](https://github.com/alexeyAB/darknet) compatible neural nets inference engine implemented in Rust. By optimizing was achieved significant performance increment(especially in FP16 mode). pnn provide CUDNN-based and TensorRT-based inference engines.
 
@@ -525,7 +525,7 @@
 
     - [DiffSharp](https://github.com/DiffSharp/DiffSharp) <img src="https://img.shields.io/github/stars/DiffSharp/DiffSharp?style=social"/> : DiffSharp: Differentiable Functional Programming.
 
-    - [dme-compunet/YOLOv8](https://github.com/dme-compunet/YOLOv8) <img src="https://img.shields.io/github/stars/dme-compunet/YOLOv8?style=social"/> : Use YOLOv8 in real-time, for object detection, instance segmentation, pose estimation and image classification, via ONNX Runtime.
+    - [dme-compunet/YOLOv8](https://github.com/dme-compunet/YOLOv8) <img src="https://img.shields.io/github/stars/dme-compunet/YOLOv8?style=social"/> : Use YOLOv8 in real-time, for object detection, instance segmentation, pose estimation and image classification, via ONNX Runtime. [www.nuget.org/packages/YoloV8](https://www.nuget.org/packages/YoloV8)
 
     - [techwingslab/yolov5-net](https://github.com/techwingslab/yolov5-net) <img src="https://img.shields.io/github/stars/techwingslab/yolov5-net?style=social"/> : YOLOv5 object detection with C#, ML.NET, ONNX.
 
@@ -1539,6 +1539,8 @@
 
   - #### Spiking Neural Network
     #### SNN, 脉冲神经网络
+
+    - [SpikeYOLO](https://github.com/BICLab/SpikeYOLO) <img src="https://img.shields.io/github/stars/BICLab/SpikeYOLO?style=social"/> :  Offical implementation of "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection" (**[ECCV 2024 Oral](https://arxiv.org/abs/2407.20708)**)
 
     - [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
 
