@@ -104,12 +104,12 @@
     - [Feature Map Visualization](#feature-map-visualization)
     - [Object Detection Evaluation Metrics](#object-detection-evaluation-metrics)
     - [GUI](#gui)
+        - [Flutter-Related](#flutter-related)
+        - [Swift-Related](#swift-related)
         - [Streamlit-Related](#streamlit-related)
         - [Gradio-Related](#gradio-related)
         - [QT-Related](#qt-related)
         - [PySide-Related](#pyside-related)
-        - [Flutter-Related](#flutter-related)
-        - [Slint-Related](#slint-related)
     - [Other Applications](#other-applications)
   - [Blogs](#blogs)
   - [Videos](#videos)
@@ -2516,6 +2516,21 @@
   - ### GUI
     #### 图形用户界面
 
+
+    - #### Flutter-Related
+
+        - [ultralytics/yolo-flutter-app](https://github.com/ultralytics/yolo-flutter-app) <img src="https://img.shields.io/github/stars/ultralytics/yolo-flutter-app?style=social"/> : A Flutter plugin for Ultralytics YOLO computer vision models. [ultralytics.com](https://ultralytics.com/)
+
+        - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
+
+
+    - #### Swift-Related
+
+        - [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) <img src="https://img.shields.io/github/stars/ultralytics/yolo-ios-app?style=social"/> : Ultralytics YOLO iOS App source code for running YOLOv8 in your own iOS apps 🌟. [ultralytics.com/yolo](https://ultralytics.com/yolo)
+
+        - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
+
+
     - #### Streamlit-Related
 
         - [wjnwjn59/YOLOv10_Streamlit_Demo](https://github.com/wjnwjn59/YOLOv10_Streamlit_Demo) <img src="https://img.shields.io/github/stars/wjnwjn59/YOLOv10_Streamlit_Demo?style=social"/> : A simple object detection web demo using YOLOv10 and Streamlit.
@@ -2622,8 +2637,6 @@
         - [SwimmingLiu/yolov7-Pyside6](https://github.com/SwimmingLiu/yolov7-Pyside6) <img src="https://img.shields.io/github/stars/SwimmingLiu/yolov7-Pyside6?style=social"/> : PySide6 implementation of YOLOv7 GUI.
 
 
-
-
     - #### PySide-Related
 
         - [JSwimmingLiu/YOLOSHOW](https://github.com/SwimmingLiu/YOLOSHOW) <img src="https://img.shields.io/github/stars/SwimmingLiu/YOLOSHOW?style=social"/> : YOLO SHOW - YOLOv10 / YOLOv9 / YOLOv8 / YOLOv7 / YOLOv5 / RTDETR GUI based on Pyside6.[swimmingliu.cn/posts/diary/yoloshow](https://swimmingliu.cn/posts/diary/yoloshow)
@@ -2632,16 +2645,6 @@
 
 
 
-
-    - #### Flutter-Related
-
-        - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
-
-
-
-    - #### Slint-Related
-
-        - [codingonion/yolov5-gui-slint](https://github.com/codingonion/yolov5-gui-slint) <img src="https://img.shields.io/github/stars/codingonion/yolov5-gui-slint?style=social"/> : YOLOv5 GUI inference framework built with Slint.
 
 
 
