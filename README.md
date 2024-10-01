@@ -37,10 +37,10 @@
     - [High-performance Inference Engine](#high-performance-inference-engine)
       - [ONNX](#onnx)
       - [TensorRT](#tensorrt)
+      - [DeepStream](#deepstream)
       - [OpenVINO](#openvino)
       - [NCNN](#ncnn)
       - [MNN](#mnn)
-      - [DeepStream](#deepstream)
       - [Other Engine](#other-engine)
     - [FPGA TPU NPU Hardware Deployment](#fpga-tpu-npu-hardware-deployment)
       - [FPGA](#fpga)
@@ -104,8 +104,8 @@
     - [Feature Map Visualization](#feature-map-visualization)
     - [Object Detection Evaluation Metrics](#object-detection-evaluation-metrics)
     - [GUI](#gui)
-        - [Flutter-Related](#flutter-related)
         - [Swift-Related](#swift-related)
+        - [Flutter-Related](#flutter-related)
         - [Streamlit-Related](#streamlit-related)
         - [Gradio-Related](#gradio-related)
         - [QT-Related](#qt-related)
@@ -389,7 +389,7 @@
 
   - ### ROS Implementation
 
-    - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : Ultralytics YOLOv8 and YOLOv9 object detections for ROS 2.
+    - [mgonzs13/yolov8_ros](https://github.com/mgonzs13/yolov8_ros) <img src="https://img.shields.io/github/stars/mgonzs13/yolov8_ros?style=social"/> : Ultralytics YOLOv8, YOLOv9, YOLOv10, YOLOv11 for ROS 2.
 
     - [leggedrobotics/darknet_ros](https://github.com/leggedrobotics/darknet_ros) <img src="https://img.shields.io/github/stars/leggedrobotics/darknet_ros?style=social"/> : Real-Time Object Detection for ROS.
 
@@ -1020,7 +1020,11 @@
 
         - [wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx) <img src="https://img.shields.io/github/stars/wang-xinyu/tensorrtx?style=social"/> : TensorRTx aims to implement popular deep learning networks with tensorrt network definition APIs.
 
-        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 EfficientNMS TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数以及 CUDA 图来加速推理。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+        - [laugh12321/TensorRT-YOLO](https://github.com/laugh12321/TensorRT-YOLO) <img src="https://img.shields.io/github/stars/laugh12321/TensorRT-YOLO?style=social"/> : 🚀 你的YOLO部署神器。TensorRT Plugin、CUDA Kernel、CUDA Graphs三管齐下，享受闪电般的推理速度。| Your YOLO Deployment Powerhouse. With the synergy of TensorRT Plugins, CUDA Kernels, and CUDA Graphs, experience lightning-fast inference speeds. TensorRT-YOLO 是一个支持 YOLOv3、YOLOv5、YOLOv6、YOLOv7、YOLOv8、YOLOv9、YOLOv10、YOLO11、PP-YOLOE 和 PP-YOLOE+ 的推理加速项目，使用 NVIDIA TensorRT 进行优化。项目不仅集成了 TensorRT 插件以增强后处理效果，还使用了 CUDA 核函数以及 CUDA 图来加速推理。TensorRT-YOLO 提供了 C++ 和 Python 推理的支持，旨在提供快速而优化的目标检测解决方案。
+
+        - [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) <img src="https://img.shields.io/github/stars/olibartfast/object-detection-inference?style=social"/> : C++ object detection inference from video or image input source. Inference for object detection from a video or image input source, with support for multiple switchable frameworks to manage the inference process, and optional GStreamer integration for video capture.
+
+        - [spacewalk01/yolov11-tensorrt](https://github.com/spacewalk01/yolov11-tensorrt) <img src="https://img.shields.io/github/stars/spacewalk01/yolov11-tensorrt?style=social"/> : C++ implementation of YOLOv11 using TensorRT API.
 
         - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
 
@@ -1122,6 +1126,29 @@
 
 
 
+    - ##### DeepStream
+
+        - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_reference_apps?style=social"/> : Reference Apps using DeepStream 6.1.
+
+        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social"/> : DeepStream SDK Python bindings and sample applications.
+
+        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/yolov5_gpu_optimization?style=social"/> : This repository provides YOLOV5 GPU optimization sample.
+
+        - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.1.1 / 6.1 / 6.0.1 / 6.0 implementation for YOLO models.
+
+        - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
+
+        - [ozinc/Deepstream6_YoloV5_Kafka](https://github.com/ozinc/Deepstream6_YoloV5_Kafka) <img src="https://img.shields.io/github/stars/ozinc/Deepstream6_YoloV5_Kafka?style=social"/> : This repository gives a detailed explanation on making custom trained deepstream-Yolo models predict and send message over kafka.
+
+        - [kn1ghtf1re/yolov8-deepstream-6-1](https://github.com/kn1ghtf1re/yolov8-deepstream-6-1) <img src="https://img.shields.io/github/stars/kn1ghtf1re/yolov8-deepstream-6-1?style=social"/> : YOLOv8 by Ultralytics in DeepStream 6.1.
+
+        - [bharath5673/Deepstream](https://github.com/bharath5673/Deepstream) <img src="https://img.shields.io/github/stars/bharath5673/Deepstream?style=social"/> : yolov2 ,yolov5 ,yolov6 ,yolov7 ,yolov7,yolovR ,yolovX on deepstream.
+
+        - [Savant](https://github.com/insight-platform/Savant) <img src="https://img.shields.io/github/stars/insight-platform/Savant?style=social"/> : Python Computer Vision & Video Analytics Framework With Batteries Included. [savant-ai.io](https://savant-ai.io/)
+
+        - [Savant](https://github.com/quangdungluong/DeepStream-YOLOv11) <img src="https://img.shields.io/github/stars/quangdungluong/DeepStream-YOLOv11?style=social"/> : Plug-and-Play Custom Parsers for AI Models in NVIDIA DeepStream SDK. Supported YOLOv11 model.
+
+
     - ##### OpenVINO
 
         - [OpenVINO](https://github.com/openvinotoolkit/openvino) <img src="https://img.shields.io/github/stars/openvinotoolkit/openvino?style=social"/> : This open source version includes several components: namely Model Optimizer, OpenVINO™ Runtime, Post-Training Optimization Tool, as well as CPU, GPU, MYRIAD, multi device and heterogeneous plugins to accelerate deep learning inferencing on Intel® CPUs and Intel® Processor Graphics.
@@ -1202,25 +1229,7 @@
 
 
 
-    - ##### DeepStream
 
-        - [NVIDIA-AI-IOT/deepstream_reference_apps](https://github.com/NVIDIA-AI-IOT/deepstream_reference_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_reference_apps?style=social"/> : Reference Apps using DeepStream 6.1.
-
-        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/deepstream_python_apps) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/deepstream_python_apps?style=social"/> : DeepStream SDK Python bindings and sample applications.
-
-        - [NVIDIA-AI-IOT/deepstream_python_apps](https://github.com/NVIDIA-AI-IOT/yolov5_gpu_optimization) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/yolov5_gpu_optimization?style=social"/> : This repository provides YOLOV5 GPU optimization sample.
-
-        - [marcoslucianops/DeepStream-Yolo](https://github.com/marcoslucianops/DeepStream-Yolo) <img src="https://img.shields.io/github/stars/marcoslucianops/DeepStream-Yolo?style=social"/> : NVIDIA DeepStream SDK 6.1.1 / 6.1 / 6.0.1 / 6.0 implementation for YOLO models.
-
-        - [DanaHan/Yolov5-in-Deepstream-5.0](https://github.com/DanaHan/Yolov5-in-Deepstream-5.0) <img src="https://img.shields.io/github/stars/DanaHan/Yolov5-in-Deepstream-5.0?style=social"/> : Describe how to use yolov5 in Deepstream 5.0.
-
-        - [ozinc/Deepstream6_YoloV5_Kafka](https://github.com/ozinc/Deepstream6_YoloV5_Kafka) <img src="https://img.shields.io/github/stars/ozinc/Deepstream6_YoloV5_Kafka?style=social"/> : This repository gives a detailed explanation on making custom trained deepstream-Yolo models predict and send message over kafka.
-
-        - [kn1ghtf1re/yolov8-deepstream-6-1](https://github.com/kn1ghtf1re/yolov8-deepstream-6-1) <img src="https://img.shields.io/github/stars/kn1ghtf1re/yolov8-deepstream-6-1?style=social"/> : YOLOv8 by Ultralytics in DeepStream 6.1.
-
-        - [bharath5673/Deepstream](https://github.com/bharath5673/Deepstream) <img src="https://img.shields.io/github/stars/bharath5673/Deepstream?style=social"/> : yolov2 ,yolov5 ,yolov6 ,yolov7 ,yolov7,yolovR ,yolovX on deepstream.
-
-        - [Savant](https://github.com/insight-platform/Savant) <img src="https://img.shields.io/github/stars/insight-platform/Savant?style=social"/> : Python Computer Vision & Video Analytics Framework With Batteries Included. [savant-ai.io](https://savant-ai.io/)
 
 
 
@@ -1594,7 +1603,7 @@
 
     - [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : 🕶 A curated list of Tiny Object Detection papers and related resources.
 
-    - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
+    - [Koldim2001/YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) <img src="https://img.shields.io/github/stars/Koldim2001/YOLO-Patch-Based-Inference?style=social"/> : Python library for YOLO small object detection and instance segmentation. This Python library simplifies SAHI-like inference for instance segmentation tasks, enabling the detection of small objects in images. It caters to both object detection and instance segmentation tasks, supporting a wide range of Ultralytics models.
 
     - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**). A lightweight vision library for performing large scale object detection/ instance segmentation. SAHI currently supports [YOLOv5 models](https://github.com/ultralytics/yolov5/releases), [MMDetection models](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/model_zoo.md), [Detectron2 models](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md), [HuggingFace models](https://huggingface.co/models?pipeline_tag=object-detection&sort=downloads) and [TorchVision models](https://pytorch.org/docs/stable/torchvision/models.html).
 
@@ -1646,7 +1655,7 @@
 
     - [quantumxiaol/yolov8-small-target-detection](https://github.com/quantumxiaol/yolov8-small-target-detection) <img src="https://img.shields.io/github/stars/quantumxiaol/yolov8-small-target-detection?style=social"/> : 基于yolov8实现小目标检测，在NWPU VHR-10和DOTA上测试。
 
-
+    - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
 
 
 
@@ -1962,7 +1971,7 @@
 
       - [E-Kozyreva/detection_potholes_yolov8n](https://github.com/E-Kozyreva/detection_potholes_yolov8n) <img src="https://img.shields.io/github/stars/E-Kozyreva/detection_potholes_yolov8n?style=social"/> : Поиск выбоин на дорогах с использованием YOLOv8 Nano.
 
-
+      - [mounishvatti/pothole_detection_yolov8](https://github.com/mounishvatti/pothole_detection_yolov8) <img src="https://img.shields.io/github/stars/mounishvatti/pothole_detection_yolov8?style=social"/> : Pothole Detection using Ultralytics YOLOv8
 
 
 
@@ -2516,6 +2525,10 @@
   - ### GUI
     #### 图形用户界面
 
+    - #### Swift-Related
+
+        - [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) <img src="https://img.shields.io/github/stars/ultralytics/yolo-ios-app?style=social"/> : Ultralytics YOLO iOS App source code for running YOLOv8 in your own iOS apps 🌟. [ultralytics.com/yolo](https://ultralytics.com/yolo)
+
 
     - #### Flutter-Related
 
@@ -2524,11 +2537,7 @@
         - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
 
 
-    - #### Swift-Related
 
-        - [ultralytics/yolo-ios-app](https://github.com/ultralytics/yolo-ios-app) <img src="https://img.shields.io/github/stars/ultralytics/yolo-ios-app?style=social"/> : Ultralytics YOLO iOS App source code for running YOLOv8 in your own iOS apps 🌟. [ultralytics.com/yolo](https://ultralytics.com/yolo)
-
-        - [hiennguyen92/flutter_realtime_object_detection](https://github.com/hiennguyen92/flutter_realtime_object_detection) <img src="https://img.shields.io/github/stars/hiennguyen92/flutter_realtime_object_detection?style=social"/> : Flutter App real-time object detection with Tensorflow Lite.
 
 
     - #### Streamlit-Related
