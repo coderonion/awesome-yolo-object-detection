@@ -156,13 +156,15 @@
 
     - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
-    - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite. [Ultralytics](https://ultralytics.com/) [YOLOv8](https://github.com/ultralytics/ultralytics) is a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLOv8 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks. [docs.ultralytics.com](https://docs.ultralytics.com/)
+    - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
     - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**)
 
     - [LeYOLO](https://github.com/LilianHollard/LeYOLO) <img src="https://img.shields.io/github/stars/LilianHollard/LeYOLO?style=social"/> : "LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2406.14239)**)
 
     - [YOLOv10](https://github.com/THU-MIG/yolov10) <img src="https://img.shields.io/github/stars/THU-MIG/yolov10?style=social"/> : "YOLOv10: Real-Time End-to-End Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2405.14458v1)**)
+
+    - [YOLOv11](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite. [Ultralytics](https://www.ultralytics.com/) [YOLOv11](https://github.com/ultralytics/ultralytics) s a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLO11 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
 
   - ### Awesome List
@@ -1540,7 +1542,7 @@
   - #### Spiking Neural Network
     #### SNN, 脉冲神经网络
 
-    - [SpikeYOLO](https://github.com/BICLab/SpikeYOLO) <img src="https://img.shields.io/github/stars/BICLab/SpikeYOLO?style=social"/> :  Offical implementation of "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection" (**[ECCV 2024 Oral](https://arxiv.org/abs/2407.20708)**)
+    - [SpikeYOLO](https://github.com/BICLab/SpikeYOLO) <img src="https://img.shields.io/github/stars/BICLab/SpikeYOLO?style=social"/> : Offical implementation of "Integer-Valued Training and Spike-Driven Inference Spiking Neural Network for High-performance and Energy-efficient Object Detection" (**[ECCV 2024 Oral](https://arxiv.org/abs/2407.20708)**)
 
     - [EMS-YOLO](https://github.com/BICLab/EMS-YOLO) <img src="https://img.shields.io/github/stars/BICLab/EMS-YOLO?style=social"/> : Offical implementation of "Deep Directly-Trained Spiking Neural Networks for Object Detection" (**[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Su_Deep_Directly-Trained_Spiking_Neural_Networks_for_Object_Detection_ICCV_2023_paper.html)**)
 
@@ -3034,6 +3036,7 @@
     - [2023-06-04，中科院一区顶刊 TCSVT 2023 | DIAL-Filters: 显著提升模糊夜视场景下的检测和分割性能！](https://mp.weixin.qq.com/s/qPbxjDuPOFSD2zsWAGmLQw)
     - [2023-07-12，北航新作 | Q-YOLO: 基于 TensorRT 和 OpenVIVO 的目标检测量化实战方案](https://mp.weixin.qq.com/s/Us7IiYXFtUoQJ6btpcG1lw)
     - [2023-07-30，大连理工联合阿里达摩院发布HQTrack | 高精度视频多目标跟踪大模型](https://mp.weixin.qq.com/s/Jl2mr7tszulZX19Fx4ZNgw)
+    - [2024-09-30，Ultrylytics 官宣: YOLO11 全新发布！](https://mp.weixin.qq.com/s/IfOCnuvFCTIzKIQEFWFLdA)
   - 微信公众号「人工智能感知信息处理算法研究院」
     - [2023-06-15，改进YOLOV5小目标检测之VisDrone2019数据集](https://mp.weixin.qq.com/s/GJza38BBYTl6XAWiiEzpHA)
     - [2023-06-16，改进YOLOV5小目标检测之数据预处理之一](https://mp.weixin.qq.com/s/BXueTqerYFtGg9MOhJ7YYA)
@@ -3105,6 +3108,7 @@
     - [2024-06-21，YOLOv10在PyTorch和OpenVINO中推理对比](https://mp.weixin.qq.com/s/xZ4HlfBPXFbf8OPxmXwbrQ)
     - [2024-07-08，实战 | YOLOv8使用TensorRT加速推理教程（步骤 + 代码）](https://mp.weixin.qq.com/s/VcUifHycY9aw99d3WD1h1w)
     - [2024-07-10，OpenCV使用CUDA加速资料汇总(pdf+视频+源码)](https://mp.weixin.qq.com/s/o-AECBLDucxVLr1Q0yxZ_g)
+    - [2024-09-30，YOLOv11来了：将重新定义AI的可能性](https://mp.weixin.qq.com/s/S_yjuxHb8PD3B472mvizfg)
   - 微信公众号「嵌入式视觉」
     - [2023-04-28，深度学习模型压缩方法概述](https://mp.weixin.qq.com/s/m4gZ1beM8QRzNegFPf3Mbg)
     - [2023-05-12，模型压缩-剪枝算法详解](https://mp.weixin.qq.com/s/7BCQD1s_1AZJoowivTnxOg)
