@@ -2735,6 +2735,8 @@
 
 ## Blogs
 
+  - 微信公众号「IDEA数字经济研究院」
+    - [2024-11-22，IDEA研究院发布DINO-X目标检测视觉大模型：万物识别，开放世界](https://mp.weixin.qq.com/s/bT_SbHlkyGaas-J6MkugPw)
   - [知乎「江大白」| 微信公众号「江大白」](https://www.zhihu.com/people/nan-yang-8-13)
     - [2020-05-27，深入浅出Yolo系列之Yolov3&Yolov4&Yolov5&Yolox核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/143747206)
     - [2020-08-10，深入浅出Yolo系列之Yolov5核心基础知识完整讲解](https://zhuanlan.zhihu.com/p/172121380)
@@ -2787,8 +2789,6 @@
     - [2024-07-13，YOLOv5、YOLOv8与YOLOv10，性能分析与边缘部署梳理，YOLO算法进化史！](https://mp.weixin.qq.com/s/wTwjDESVipFg2Tnh9Mgp6A)
     - [2024-09-07，YOLOv8算法模型深度解析：架构创新、性能提升与用户友好性改进！](https://mp.weixin.qq.com/s/aYWq8CDXATrk4KAwWQqvIg)
 
-
-
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
     - [2022-09-21，YOLO内卷时期该如何选模型？](https://zhuanlan.zhihu.com/p/566469003)
@@ -2820,6 +2820,7 @@
     - [2023-04-19，CVPR23 Highlight｜拥有top-down attention能力的vision transformer](https://mp.weixin.qq.com/s/UMA3Vk9L71zUEtNkCshYBg)
     - [2023-04-26，万字长文，深度全面解读PyTorch内部机制](https://mp.weixin.qq.com/s/JYsJRo8l5-nTFrGwBV-BFA)
     - [2023-05-28，YOLOv10开源｜清华用端到端YOLOv10在速度精度上都生吃YOLOv8和YOLOv9](https://mp.weixin.qq.com/s/VG9itVaOwCpmb48ZAa8Mjw)
+    - [2023-10-27，「项目经验掏心窝」第二期：真实上手算法开发后的经验总结&心得体会](https://mp.weixin.qq.com/s/raTAXapLK0mquvC1c6S2Iw)
     - [2024-12-03，注意力机制比矩阵分解更好吗？](https://mp.weixin.qq.com/s/UawQkuRqo-phGvtbC5stQg)
   - 微信公众号「WeThinkln」
     - [2022-09-18，【Make YOLO Great Again】YOLOv1-v7全系列大解析（输入侧篇）](https://mp.weixin.qq.com/s/JLYFP8IA7RcIMSeBKekQlw)
@@ -3178,6 +3179,7 @@
   - 微信公众号「小白玩转Python」
     - [2023-12-22，基于 YOLOv8 的疲劳状态检测 | 附源码](https://mp.weixin.qq.com/s/L_-Ii5QvnGgJwo5WYSUcVg)
     - [2024-01-22，YOLO-NAS 如何将 YOLO-v8 甩在身后？](https://mp.weixin.qq.com/s/pc7TzlZSULNJwIS-liCdzg)
+    - [2024-04-28，小目标检测实战](https://mp.weixin.qq.com/s/42TqNGeaYpoZLBvBmeeAkg)
   - 微信公众号「机器之心」
     - [2024-02-23，目标检测新SOTA：YOLOv9问世，新架构让传统卷积重焕生机](https://mp.weixin.qq.com/s/HFyADfWKkyw0TivsqH6kXA)
   - 微信公众号「码科智能」
@@ -3234,6 +3236,8 @@
     - [2024-11-23，超详细！YOLO11模型架构详解、性能对比](https://mp.weixin.qq.com/s/gnoknU8iBjfbLo77vIbasw)
     - [2024-11-24，【深度好文】目标检测技术深度剖析：发展历程、关键技术、常用目标检测算法说明及应用](https://mp.weixin.qq.com/s/-1q0SMdUkklGu7PsrOKpGQ)
     - [2024-12-02，【实战】使用GroundingDino实现零样本自动标注【附源码】](https://mp.weixin.qq.com/s/dH5wFyOhevz37Lt4frVp0w)
+    - [2024-12-04，【实战教程】小目标检测利器：使用YOLOv8和SAHI进行视频检测，检测效果真心不错](https://mp.weixin.qq.com/s/KTL-NeFO-eVmSm2RaLxYsw)
+    - [2024-12-07，【实战教程】使用YOLOv8 OBB进行旋转框目标检测的数据集定义与训练【附源码】](https://mp.weixin.qq.com/s/LOD1xCKY08HVraxM-UDxvQ)
   - 微信公众号「人工智能与图像处理」
     - [2023-05-26，目标检测算法-YOLOV5解析（附论文与源码）](https://mp.weixin.qq.com/s/lfulLTp5SDrpim7nU1ZebA)
     - [2023-05-27，目标检测算法-YOLOV6解析（附论文与源码）](https://mp.weixin.qq.com/s/bG8KkDhs0ex8QZYS6QO5NA)
@@ -3255,4 +3259,4 @@
 
 ## Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=codingonion/awesome-yolo-object-detection&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=coderonion/awesome-yolo-object-detection&type=Date)
