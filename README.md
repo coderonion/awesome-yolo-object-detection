@@ -1030,27 +1030,29 @@
 
         - [olibartfast/object-detection-inference](https://github.com/olibartfast/object-detection-inference) <img src="https://img.shields.io/github/stars/olibartfast/object-detection-inference?style=social"/> : C++ object detection inference from video or image input source. Inference for object detection from a video or image input source, with support for multiple switchable frameworks to manage the inference process, and optional GStreamer integration for video capture.
 
-        - [spacewalk01/yolov11-tensorrt](https://github.com/spacewalk01/yolov11-tensorrt) <img src="https://img.shields.io/github/stars/spacewalk01/yolov11-tensorrt?style=social"/> : C++ implementation of YOLOv11 using TensorRT API.
-
         - [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro) <img src="https://img.shields.io/github/stars/shouxieai/tensorRT_Pro?style=social"/> : C++ library based on tensorrt integration.
 
         - [shouxieai/infer](https://github.com/shouxieai/infer) <img src="https://img.shields.io/github/stars/shouxieai/infer?style=social"/> : A new tensorrt integrate. Easy to integrate many tasks.
 
         - [Melody-Zhou/tensorRT_Pro-YOLOv8](https://github.com/Melody-Zhou/tensorRT_Pro-YOLOv8) <img src="https://img.shields.io/github/stars/Melody-Zhou/tensorRT_Pro-YOLOv8?style=social"/> : This repository is based on [shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro), with adjustments to support YOLOv8. 前已支持 YOLOv8、YOLOv8-Cls、YOLOv8-Seg、YOLOv8-OBB、YOLOv8-Pose、RT-DETR、ByteTrack、YOLOv9、YOLOv10、RTMO、PP-OCRv4、LaneATT 高性能推理！！！🚀🚀🚀
 
+        - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
+
+        - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) <img src="https://img.shields.io/github/stars/zhiqwang/yolort?style=social"/> : yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn. [zhiqwang.com/yolort](https://zhiqwang.com/yolort/)
+
+        - [1461521844lijin/trt_yolo_video_pipeline](https://github.com/1461521844lijin/trt_yolo_video_pipeline) <img src="https://img.shields.io/github/stars/1461521844lijin/trt_yolo_video_pipeline?style=social"/> : TensorRT+YOLO系列的 多路 多卡 多实例 并行视频分析处理案例。
+
+        - [l-sf/Linfer](https://github.com/l-sf/Linfer) <img src="https://img.shields.io/github/stars/l-sf/Linfer?style=social"/> : 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
+
+        - [taifyang/yolo-inference](https://github.com/taifyang/yolo-inference) <img src="https://img.shields.io/github/stars/taifyang/yolo-inference?style=social"/> : C++ and Python implementations of YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9, YOLOv10, YOLOv11 inference.
+
+        - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
+
         - [emptysoal/TensorRT-YOLOv8-ByteTrack](https://github.com/emptysoal/TensorRT-YOLOv8-ByteTrack) <img src="https://img.shields.io/github/stars/emptysoal/TensorRT-YOLOv8-ByteTrack?style=social"/> : An object tracking project with YOLOv8 and ByteTrack, speed up by C++ and TensorRT.
 
         - [Linaom1214/TensorRT-For-YOLO-Series](https://github.com/Linaom1214/TensorRT-For-YOLO-Series) <img src="https://img.shields.io/github/stars/Linaom1214/TensorRT-For-YOLO-Series?style=social"/> : tensorrt for yolo series (YOLOv10,YOLOv9,YOLOv8,YOLOv7,YOLOv6,YOLOX,YOLOv5), nms plugin support.
 
-        - [l-sf/Linfer](https://github.com/l-sf/Linfer) <img src="https://img.shields.io/github/stars/l-sf/Linfer?style=social"/> : 基于TensorRT的C++高性能推理库，Yolov10, YoloPv2，Yolov5/7/X/8，RT-DETR，单目标跟踪OSTrack、LightTrack。
-
-        - [taifyang/yolo-inference](https://github.com/taifyang/yolo-inference) <img src="https://img.shields.io/github/stars/taifyang/yolo-inference?style=social"/> : C++ and Python implementations of YOLOv5, YOLOv6, YOLOv7, YOLOv8, YOLOv9 and YOLOv10 inference.
-
-        - [1461521844lijin/trt_yolo_video_pipeline](https://github.com/1461521844lijin/trt_yolo_video_pipeline) <img src="https://img.shields.io/github/stars/1461521844lijin/trt_yolo_video_pipeline?style=social"/> : TensorRT+YOLO系列的 多路 多卡 多实例 并行视频分析处理案例。
-
-        - [FeiYull/TensorRT-Alpha](https://github.com/FeiYull/TensorRT-Alpha) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : 🔥🔥🔥TensorRT for YOLOv8、YOLOv8-Pose、YOLOv8-Seg、YOLOv8-Cls、YOLOv7、YOLOv6、YOLOv5、YOLONAS......🚀🚀🚀CUDA IS ALL YOU NEED.🍎🍎🍎
-
-        - [triple-Mu/YOLOv8-TensorRT](https://github.com/triple-Mu/YOLOv8-TensorRT) <img src="https://img.shields.io/github/stars/triple-Mu/YOLOv8-TensorRT?style=social"/> : YOLOv8 using TensorRT accelerate !
+        - [spacewalk01/yolov11-tensorrt](https://github.com/spacewalk01/yolov11-tensorrt) <img src="https://img.shields.io/github/stars/spacewalk01/yolov11-tensorrt?style=social"/> : C++ implementation of YOLOv11 using TensorRT API.
 
         - [cyrusbehr/YOLOv8-TensorRT-CPP](https://github.com/cyrusbehr/YOLOv8-TensorRT-CPP) <img src="https://img.shields.io/github/stars/cyrusbehr/YOLOv8-TensorRT-CPP?style=social"/> : YOLOv8 TensorRT C++ Implementation. A C++ Implementation of YoloV8 using TensorRT Supports object detection, semantic segmentation, and body pose estimation.
 
@@ -1059,8 +1061,6 @@
         - [hamdiboukamcha/yolov10-tensorrt](https://github.com/hamdiboukamcha/yolov10-tensorrt) <img src="https://img.shields.io/github/stars/hamdiboukamcha/yolov10-tensorrt?style=social"/> : YOLOv10 C++ TensorRT : Real-Time End-to-End Object Detection.
 
         - [VIDIA-AI-IOT/torch2trt](https://github.com/NVIDIA-AI-IOT/torch2trt) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/torch2trt?style=social"/> : An easy to use PyTorch to TensorRT converter.
-
-        - [zhiqwang/yolort](https://github.com/zhiqwang/yolort) <img src="https://img.shields.io/github/stars/zhiqwang/yolort?style=social"/> : yolort is a runtime stack for yolov5 on specialized accelerators such as tensorrt, libtorch, onnxruntime, tvm and ncnn. [zhiqwang.com/yolort](https://zhiqwang.com/yolort/)
 
         - [DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit) <img src="https://img.shields.io/github/stars/DefTruth/lite.ai.toolkit?style=social"/> : 🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv5. MNN, NCNN, TNN, ONNXRuntime. “🛠Lite.Ai.ToolKit: 一个轻量级的C++ AI模型工具箱，用户友好（还行吧），开箱即用。已经包括 100+ 流行的开源模型。这是一个根据个人兴趣整理的C++工具箱，, 涵盖目标检测、人脸检测、人脸识别、语义分割、抠图等领域。”
 
@@ -3008,6 +3008,7 @@
     - [2024-02-23，YOLOv9开源 | 架构图&模块改进&正负样本匹配&损失函数解读，5分钟即可理解YOLOv9](https://mp.weixin.qq.com/s/31NlBknx4PcXipfuV2w6hw)
     - [2024-03-18，D-YOLO解决落地困难 | 关注特征融合模块+无雾特征子网络，让YOLO家族无惧雨雾和风雪](https://mp.weixin.qq.com/s/2Hlp_zaHN8TKyzk-1f1yjw)
     - [2024-04-15，YOLC 来袭 | 遥遥领先 ！YOLO与CenterNet思想火花碰撞，让小目标的检测性能原地起飞，落地价值极大 !](https://mp.weixin.qq.com/s/6UzdFFKeNOCLK8YdhPYCaQ)
+    - [2024-12-14，高效小目标识别，多帧运动检测与YOLO结合提高 UAV 检测精度 !](https://mp.weixin.qq.com/s/6h7FY0U4hwbpOQ6AkH4IEg)
   - 微信公众号「计算机视觉研究院」
     - [2022-10-30，YoloV：视频中目标实时检测依然很棒（附源代码下载）](https://mp.weixin.qq.com/s/Ytr1m2EOJMWF6WmHDmai2A)
     - [2022-11-04，改进的YOLO：AF-FPN替换金字塔模块提升目标检测精度](https://mp.weixin.qq.com/s/JVr1C9nPTYlHS4aei-Zqrg)
@@ -3061,6 +3062,7 @@
     - [2023-06-04，中科院一区顶刊 TCSVT 2023 | DIAL-Filters: 显著提升模糊夜视场景下的检测和分割性能！](https://mp.weixin.qq.com/s/qPbxjDuPOFSD2zsWAGmLQw)
     - [2023-07-12，北航新作 | Q-YOLO: 基于 TensorRT 和 OpenVIVO 的目标检测量化实战方案](https://mp.weixin.qq.com/s/Us7IiYXFtUoQJ6btpcG1lw)
     - [2023-07-30，大连理工联合阿里达摩院发布HQTrack | 高精度视频多目标跟踪大模型](https://mp.weixin.qq.com/s/Jl2mr7tszulZX19Fx4ZNgw)
+    - [2024-03-24，SeeClick: 手把手教你如何基于Qwen-VL搭建一个多模态智能体！](https://mp.weixin.qq.com/s/foF9JDyAIk5pLN5F_6dw2g)
     - [2024-09-30，Ultrylytics 官宣: YOLO11 全新发布！](https://mp.weixin.qq.com/s/IfOCnuvFCTIzKIQEFWFLdA)
   - 微信公众号「人工智能感知信息处理算法研究院」
     - [2023-06-15，改进YOLOV5小目标检测之VisDrone2019数据集](https://mp.weixin.qq.com/s/GJza38BBYTl6XAWiiEzpHA)
@@ -3245,7 +3247,9 @@
     - [2023-05-29，目标检测算法-YOLOV8解析（附论文和源码）](https://mp.weixin.qq.com/s/QwQhpEFX4Pxfik7PNOpwIA)
     - [2024-04-13，目标检测算法-YOLOV9解析（附论文和源码）](https://mp.weixin.qq.com/s/u8x6ePRmWV6z_FFnGUfUYA)
     - [2024-10-28，模型轻量化之模型剪枝-Pruning](https://mp.weixin.qq.com/s/3fffqlYLit30dI34TRZ5dw)
-
+  - 微信公众号「地瓜机器人」
+    - [2023-12-28，技术敲黑板 | 基于地平线RDK X3高效部署YOLOv5](https://mp.weixin.qq.com/s/IroAN_R7IvIxKHw8i-_1XQ)
+    - [2024-06-27，技术敲黑板 | YOLOv8目标检测算法在地平线RDK X3上高效部署](https://mp.weixin.qq.com/s/zq4wLfEP3k5cns7xK4iSOg)
 
 
 
