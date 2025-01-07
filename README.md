@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🚀🚀🚀 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects and the related Datasets.
+🚀🚀🚀 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects and the related object detection datasets.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
@@ -112,11 +112,11 @@
         - [PySide-Related](#pyside-related)
     - [Other Applications](#other-applications)
   - [Datasets](#datasets)
+    - [Datasets Share Platform](#datasets-share-platform)
     - [Datasets Tools](#datasets-tools)
         - [Data Annotation](#data-annotation)
         - [Data Augmentation](#data-augmentation)
         - [Data Management](#data-management)
-    - [Datasets Share Platform](#datasets-share-platform)
     - [General Detection and Recognition Datasets](#general-detection-and-recognition-datasets)
         - [Object Detection Datasets](#object-detection-datasets)
         - [Objecgt Recognition Datasets](#objecgt-recognition-datasets)
@@ -2793,6 +2793,21 @@
 
 ## Datasets
 
+- ### Datasets Share Platform
+
+    - [OpenDataLab](https://opendatalab.org.cn/) : OpenDataLab 是上海人工智能实验室的大模型数据基座团队打造的数据开放平台，现已成为中国大模型语料数据联盟开源数据服务指定平台，为开发者提供全链条的 AI 数据支持，应对和解决数据处理中的风险与挑战，推动 AI 研究及应用。
+
+    - [Science Data Bank(ScienceDB)](https://www.scidb.cn/en) : Make your research data citable, discoverable and persistently accessible Satisfy flexible data sharing requirements Dedicate to facilitating data dissemination and reusing. Science Data Bank (ScienceDB) is a public, general-purpose data repository aiming to provide data services (e.g. data acquisition, long-term preservation, publishing, sharing and access) for researchers, research projects/teams, journals, institutions, universities, etc. It supports a variety of data acquisition and data licenses. ScienceDB is dedicated to promoting data findable, citable and reusable on the prerequisite of protecting the rights and interests of data owners and it is built and operated by Computer Network Information Center, Chinese Academy of Sciences.
+
+    - [中国科学数据](http://www.csdata.org/) : 《中国科学数据（中英文网络版）》（China Scientific Data）（CN11-6035/N，ISSN 2096-2223）是目前中国唯一的专门面向多学科领域科学数据出版的学术期刊，作为国家网络连续型出版物的首批试点之一，由中国科学院主管，中国科学院计算机网络信息中心和ISC CODATA中国全国委员会合办，国家科技基础条件平台中心、中国科学院网络安全和信息化领导小组办公室指导，国内外公开发行，中英文，季刊。 中国科学引文数据库（CSCD）来源期刊，中国科技核心期刊 ，收录于中国科协高质量科技期刊分级目录。
+
+    - [飞桨AI Studio](https://aistudio.baidu.com/aistudio/datasetoverview) : 飞桨AI Studio开放数据集。
+
+    - [极市开发者平台](https://www.cvmart.net/dataSets) : 极市开发者平台开放数据集。
+
+    - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
+
+    
 - ### Datasets Tools
 
     - #### Data Annotation
@@ -2865,21 +2880,6 @@
 
       - [YOLOExplorer](https://github.com/lancedb/yoloexplorer) <img src="https://img.shields.io/github/stars/lancedb/yoloexplorer?style=social"/> : YOLOExplorer : Iterate on your YOLO / CV datasets using SQL, Vector semantic search, and more within seconds. Explore, manipulate and iterate on Computer Vision datasets with precision using simple APIs. Supports SQL filters, vector similarity search, native interface with Pandas and more.
 
-
-
-- ### Datasets Share Platform
-
-    - [OpenDataLab](https://opendatalab.org.cn/) : OpenDataLab 是上海人工智能实验室的大模型数据基座团队打造的数据开放平台，现已成为中国大模型语料数据联盟开源数据服务指定平台，为开发者提供全链条的 AI 数据支持，应对和解决数据处理中的风险与挑战，推动 AI 研究及应用。
-
-    - [Science Data Bank(ScienceDB)](https://www.scidb.cn/en) : Make your research data citable, discoverable and persistently accessible Satisfy flexible data sharing requirements Dedicate to facilitating data dissemination and reusing. Science Data Bank (ScienceDB) is a public, general-purpose data repository aiming to provide data services (e.g. data acquisition, long-term preservation, publishing, sharing and access) for researchers, research projects/teams, journals, institutions, universities, etc. It supports a variety of data acquisition and data licenses. ScienceDB is dedicated to promoting data findable, citable and reusable on the prerequisite of protecting the rights and interests of data owners and it is built and operated by Computer Network Information Center, Chinese Academy of Sciences.
-
-    - [中国科学数据](http://www.csdata.org/) : 《中国科学数据（中英文网络版）》（China Scientific Data）（CN11-6035/N，ISSN 2096-2223）是目前中国唯一的专门面向多学科领域科学数据出版的学术期刊，作为国家网络连续型出版物的首批试点之一，由中国科学院主管，中国科学院计算机网络信息中心和ISC CODATA中国全国委员会合办，国家科技基础条件平台中心、中国科学院网络安全和信息化领导小组办公室指导，国内外公开发行，中英文，季刊。 中国科学引文数据库（CSCD）来源期刊，中国科技核心期刊 ，收录于中国科协高质量科技期刊分级目录。
-
-    - [飞桨AI Studio](https://aistudio.baidu.com/aistudio/datasetoverview) : 飞桨AI Studio开放数据集。
-
-    - [极市开发者平台](https://www.cvmart.net/dataSets) : 极市开发者平台开放数据集。
-
-    - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
 
 - ### General Detection and Recognition Datasets
