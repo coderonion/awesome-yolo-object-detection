@@ -193,9 +193,11 @@
 
     - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
+    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
+
     - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
 
-    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
+    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
 
 
 
@@ -2807,7 +2809,7 @@
 
     - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
-    
+
 - ### Datasets Tools
 
     - #### Data Annotation
@@ -3576,6 +3578,7 @@
     - [2023-08-02，ICCV 2023｜目标检测新突破！AlignDet：支持各类检测器完全自监督预训练的框架](https://mp.weixin.qq.com/s/t7jlTyUP6UxplpythX0dOw)
   - 微信公众号「我爱计算机视觉」
     - [2023-06-09，[实践]YOLOv5提升10倍推理速度：利用TensorRT 在Jetson NX上的模型部署](https://mp.weixin.qq.com/s/jWZuNKpVM4k5aDe2JmB-Tg)
+    - [2025-01-08，开放词汇检测新晋SOTA：地瓜机器人开源DOSOD实时检测算法](https://mp.weixin.qq.com/s/LhodjnA87KrmqXV1ioUIng)
   - 微信公众号「英特尔物联网」
     - [2022-08-11，基于 OpenVINO™️ 2022.1 POT API 实现 YOLOv5 模型 INT8 量化 | 开发者实战](https://mp.weixin.qq.com/s/DTXVXwf_tPxwsWbSxBv9Sw)
   - 微信公众号「数据科学与AI」
