@@ -47,6 +47,9 @@
       - [Knoweldge-Distillation](#knoweldge-distillation)
     - [Lightweight Backbones and FPN](#lightweight-backbones-and-fpn)
   - [Applications](#applications)
+    - [Open World Object Detection](#open-world-object-detection)
+    - [Few-shot Object Detection](#few-shot-object-detection)
+    - [Small Object Detection](#small-object-detection)
     - [Video Object Detection](#video-object-detection)
     - [Object Tracking](#object-tracking)
       - [Multi-Object Tracking](#multi-object-tracking)
@@ -56,9 +59,6 @@
     - [Super-Resolution Field](#super-resolution-field)
     - [Spiking Neural Network](#spiking-neural-network)
     - [Attention and Transformer](#attention-and-transformer)
-    - [Small Object Detection](#small-object-detection)
-    - [Few-shot Object Detection](#few-shot-object-detection)
-    - [Open World Object Detection](#open-world-object-detection)
     - [Oriented Object Detection](#oriented-object-detection)
     - [Face Detection and Recognition](#face-detection-and-recognition)
       - [Face Detection](#face-detection)
@@ -159,45 +159,47 @@
 
     - [YOLOv5](https://github.com/ultralytics/yolov5) <img src="https://img.shields.io/github/stars/ultralytics/yolov5?style=social"/> : YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite. [docs.ultralytics.com](https://docs.ultralytics.com/). YOLOv5 🚀 is the world's most loved vision AI, representing [Ultralytics](https://ultralytics.com/) open-source research into future vision AI methods, incorporating lessons learned and best practices evolved over thousands of hours of research and development.
 
-    - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
+    - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**).
 
-    - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
+    - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**).
 
-    - [YOLOF](https://github.com/megvii-model/YOLOF) <img src="https://img.shields.io/github/stars/megvii-model/YOLOF?style=social"/> : "You Only Look One-level Feature". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_You_Only_Look_One-Level_Feature_CVPR_2021_paper.html)**). "微信公众号「计算机视觉研究院」《[CVPR目标检测新框架：不再是YOLO，而是只需要一层特征（干货满满，建议收藏）](https://mp.weixin.qq.com/s/5sTxdjhKIPpQ-rCsWfe80A)》"。
-
-    - [YOLOS](https://github.com/hustvl/YOLOS) <img src="https://img.shields.io/github/stars/hustvl/YOLOS?style=social"/> : "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/dc912a253d1e9ba40e2c597ed2376640-Abstract.html)**)
-
-    - [YOLOv6](https://github.com/meituan/YOLOv6) <img src="https://img.shields.io/github/stars/meituan/YOLOv6?style=social"/> : "YOLOv6: A Single-Stage Object Detection Framework for Industrial Applications". (**[arXiv 2022](https://arxiv.org/abs/2209.02976)**). "微信公众号「美团技术团队」《[YOLOv6：又快又准的目标检测框架开源啦](https://mp.weixin.qq.com/s/RrQCP4pTSwpTmSgvly9evg)》"。"微信公众号「美团技术团队」《[目标检测开源框架YOLOv6全面升级，更快更准的2.0版本来啦](https://mp.weixin.qq.com/s/9FyvWrHErfgJrVXIC_PKqg)》"。"微信公众号「美团技术团队」《[通用目标检测开源框架YOLOv6在美团的量化部署实战 ](https://mp.weixin.qq.com/s/J-3saNkCCAHLjkZQ3VCaeQ)》"。 "微信公众号「集智书童」《[超越YOLOv7 | YOLOv6论文放出，重参+自蒸馏+感知量化+...各种Tricks大放异彩](https://mp.weixin.qq.com/s/DPHC7bO1Q-IKDUqPU7DSJA)》"。"微信公众号「极市平台」《[Repvgg-style ConvNets，硬件友好！详解YOLOv6的高效backbone：EfficientRep](https://mp.weixin.qq.com/s/2Md30QdqgWnWwVR7d4sx1Q)》"。
-
-    - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**). "微信公众号「CVer」《[CVPR 2023 | YOLOv7强势收录！时隔6年，YOLOv系列再登CVPR！](https://mp.weixin.qq.com/s/HjaszZYPLoV03Z4Rw9KiCg)》"。
-
-    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
-
-    - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
-
-    - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : EdgeYOLO: anchor-free, edge-friendly. an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
-
-    - [YOLO-NAS](https://github.com/Deci-AI/super-gradients) <img src="https://img.shields.io/github/stars/Deci-AI/super-gradients?style=social"/> : Easily train or fine-tune SOTA computer vision models with one open source training library. The home of [Yolo-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md). [www.supergradients.com](https://www.supergradients.com/). YOLO-NAS: A Next-Generation, Object Detection Foundational Model generated by Deci’s Neural Architecture Search Technology. Deci is thrilled to announce the release of a new object detection model, YOLO-NAS - a game-changer in the world of object detection, providing superior real-time object detection capabilities and production-ready performance. Deci's mission is to provide AI teams with tools to remove development barriers and attain efficient inference performance more quickly. The new YOLO-NAS delivers state-of-the-art (SOTA) performance with the unparalleled accuracy-speed performance, outperforming other models such as YOLOv5, YOLOv6, YOLOv7 and YOLOv8.
 
     - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
     - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**)
 
-    - [LeYOLO](https://github.com/LilianHollard/LeYOLO) <img src="https://img.shields.io/github/stars/LilianHollard/LeYOLO?style=social"/> : "LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2406.14239)**)
+    - [MultimediaTechLab/YOLO](https://github.com/MultimediaTechLab/YOLO) <img src="https://img.shields.io/github/stars/MultimediaTechLab/YOLO?style=social"/> : YOLO: Official Implementation of YOLOv9, YOLOv7, YOLO-RD. Welcome to the official implementation of YOLOv7 and YOLOv9, YOLO-RD. This repository will contains the complete codebase, pre-trained models, and detailed instructions for training and deploying YOLOv9.
 
     - [YOLOv10](https://github.com/THU-MIG/yolov10) <img src="https://img.shields.io/github/stars/THU-MIG/yolov10?style=social"/> : "YOLOv10: Real-Time End-to-End Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2405.14458v1)**)
 
     - [YOLOv11](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite. [Ultralytics](https://www.ultralytics.com/) [YOLOv11](https://github.com/ultralytics/ultralytics) s a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLO11 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
-    - [RT-DETR|RT-DETRv2](https://github.com/lyuwenyu/RT-DETR) <img src="https://img.shields.io/github/stars/lyuwenyu/RT-DETR?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2304.08069)**). "RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer". (**[arXiv 2024](https://arxiv.org/abs/2407.17140)**).
 
-    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
-    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
+
+    - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
+
+    - [YOLOR](https://github.com/WongKinYiu/yolor) <img src="https://img.shields.io/github/stars/WongKinYiu/yolor?style=social"/> : "You Only Learn One Representation: Unified Network for Multiple Tasks". (**[arXiv 2021](https://arxiv.org/abs/2105.04206)**)
+
+    - [YOLOF](https://github.com/megvii-model/YOLOF) <img src="https://img.shields.io/github/stars/megvii-model/YOLOF?style=social"/> : "You Only Look One-level Feature". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_You_Only_Look_One-Level_Feature_CVPR_2021_paper.html)**).
+
+    - [YOLOS](https://github.com/hustvl/YOLOS) <img src="https://img.shields.io/github/stars/hustvl/YOLOS?style=social"/> : "You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/dc912a253d1e9ba40e2c597ed2376640-Abstract.html)**)
+
+    - [DAMO-YOLO](https://github.com/tinyvision/DAMO-YOLO) <img src="https://img.shields.io/github/stars/tinyvision/DAMO-YOLO?style=social"/> : DAMO-YOLO: a fast and accurate object detection method with some new techs, including NAS backbones, efficient RepGFPN, ZeroHead, AlignedOTA, and distillation enhancement. "DAMO-YOLO : A Report on Real-Time Object Detection Design". (**[arXiv 2022](https://arxiv.org/abs/2211.15444)**)
+
+    - [YOLO-NAS](https://github.com/Deci-AI/super-gradients) <img src="https://img.shields.io/github/stars/Deci-AI/super-gradients?style=social"/> : Easily train or fine-tune SOTA computer vision models with one open source training library. The home of [Yolo-NAS](https://github.com/Deci-AI/super-gradients/blob/master/YOLONAS.md). [www.supergradients.com](https://www.supergradients.com/). YOLO-NAS and YOLO-NAS-POSE architectures are out! The new YOLO-NAS delivers state-of-the-art performance with the unparalleled accuracy-speed performance, outperforming other models such as YOLOv5, YOLOv6, YOLOv7 and YOLOv8.
+
+    - [LeYOLO](https://github.com/LilianHollard/LeYOLO) <img src="https://img.shields.io/github/stars/LilianHollard/LeYOLO?style=social"/> : "LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2406.14239)**)
+
+    - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
 
     - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
 
     - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
+
+    - [RT-DETR|RT-DETRv2](https://github.com/lyuwenyu/RT-DETR) <img src="https://img.shields.io/github/stars/lyuwenyu/RT-DETR?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2304.08069)**). "RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer". (**[arXiv 2024](https://arxiv.org/abs/2407.17140)**).
+
+    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
     - Florence-2 : "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks". (**[CVPR 2024](https://arxiv.org/abs/2311.06242)**).
 
@@ -205,7 +207,14 @@
 
     - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
 
-    - [MultimediaTechLab/YOLO](https://github.com/MultimediaTechLab/YOLO) <img src="https://img.shields.io/github/stars/MultimediaTechLab/YOLO?style=social"/> : YOLO: Official Implementation of YOLOv9, YOLOv7, YOLO-RD. Welcome to the official implementation of YOLOv7 and YOLOv9, YOLO-RD. This repository will contains the complete codebase, pre-trained models, and detailed instructions for training and deploying YOLOv9.
+
+    - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
+
+
+
+
+
+
 
 
 
@@ -954,9 +963,11 @@
 
     - ##### TensorRT
 
-        - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
+        - [TensorRT](https://github.com/NVIDIA/TensorRT) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT?style=social"/> : NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT. [developer.nvidia.com/tensorrt](https://developer.nvidia.com/tensorrt)
 
-        - [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
+        - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM?style=social"/> : TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines. [nvidia.github.io/TensorRT-LLM](https://nvidia.github.io/TensorRT-LLM)
+
+        - [NVIDIA/TensorRT-Model-Optimizer](https://github.com/NVIDIA/TensorRT-Model-Optimizer) <img src="https://img.shields.io/github/stars/NVIDIA/TensorRT-Model-Optimizer?style=social"/> : TensorRT Model Optimizer is a unified library of state-of-the-art model optimization techniques such as quantization, pruning, distillation, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM or TensorRT to optimize inference speed on NVIDIA GPUs. [nvidia.github.io/TensorRT-Model-Optimizer](https://nvidia.github.io/TensorRT-Model-Optimizer/)
 
         - [kalfazed/tensorrt_starter](https://github.com/kalfazed/tensorrt_starter) <img src="https://img.shields.io/github/stars/kalfazed/tensorrt_starter?style=social"/> : This repository give a guidline to learn CUDA and TensorRT from the beginning.
 
@@ -1237,6 +1248,8 @@
 
         - [cqu20160901/yolov10_onnx_rknn_horizon_tensorRT](https://github.com/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT) <img src="https://img.shields.io/github/stars/cqu20160901/yolov10_onnx_rknn_horizon_tensorRT?style=social"/> : yolov10 目标检测部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon），全网部署最简单、运行速度最快的部署方式（全网首发）。
 
+        - [icetd/RkYoloRtspServer](https://github.com/icetd/RkYoloRtspServer) <img src="https://img.shields.io/github/stars/icetd/RkYoloRtspServer?style=social"/> : simple yolov5 rtspserver for rk3588.
+
 
     - ##### FPGA
 
@@ -1487,6 +1500,102 @@
 
 ## Applications
 
+
+  - ### Open World Object Detection
+    #### 开放世界目标检测
+
+    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+
+    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
+
+    - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
+
+    - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
+
+    - Florence-2 : "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks". (**[CVPR 2024](https://arxiv.org/abs/2311.06242)**).
+
+    - [maestro](https://github.com/roboflow/maestro) <img src="https://img.shields.io/github/stars/roboflow/maestro?style=social"/> : VLM fine-tuning for everyone. maestro is a streamlined tool to accelerate the fine-tuning of multimodal models. By encapsulating best practices from our core modules, maestro handles configuration, data loading, reproducibility, and training loop setup. It currently offers ready-to-use recipes for popular vision-language models such as [Florence-2](https://arxiv.org/abs/2311.06242), PaliGemma 2, and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL). [maestro.roboflow.com](https://maestro.roboflow.com/latest/)
+
+    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
+
+    - [UniDetector](https://github.com/zhenyuw16/UniDetector) <img src="https://img.shields.io/github/stars/zhenyuw16/UniDetector?style=social"/> : "Detecting Everything in the Open World: Towards Universal Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2303.11749)**).
+
+    - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
+
+
+  - ### Few-shot Object Detection
+    #### 少样本目标检测
+
+    - [bingykang/Fewshot_Detection](https://github.com/bingykang/Fewshot_Detection) <img src="https://img.shields.io/github/stars/bingykang/Fewshot_Detection?style=social"/> : "Few-shot Object Detection via Feature Reweighting". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)**).
+
+    - [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) <img src="https://img.shields.io/github/stars/hnuzhy/SSDA-YOLO?style=social"/> : Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection". (**[Computer Vision and Image Understanding, 2023](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000292)**).
+
+    - [OneTeacher](https://github.com/luogen1996/OneTeacher) <img src="https://img.shields.io/github/stars/luogen1996/OneTeacher?style=social"/> : "Towards End-to-end Semi-supervised Learning for One-stage Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2302.11299)**).
+
+    - [Efficient Teacher](https://github.com/AlibabaResearch/efficientteacher) <img src="https://img.shields.io/github/stars/AlibabaResearch/efficientteacher?style=social"/> : "Efficient Teacher: Semi-Supervised Object Detection for YOLOv5". (**[arXiv 2023](https://arxiv.org/abs/2302.07577)**).
+
+
+  - ### Small Object Detection
+    #### 小目标检测
+
+    - [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : 🕶 A curated list of Tiny Object Detection papers and related resources.
+
+    - [Koldim2001/YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) <img src="https://img.shields.io/github/stars/Koldim2001/YOLO-Patch-Based-Inference?style=social"/> : Python library for YOLO small object detection and instance segmentation. This Python library simplifies SAHI-like inference for instance segmentation tasks, enabling the detection of small objects in images. It caters to both object detection and instance segmentation tasks, supporting a wide range of Ultralytics models.
+
+    - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**). A lightweight vision library for performing large scale object detection/ instance segmentation. SAHI currently supports [YOLOv5 models](https://github.com/ultralytics/yolov5/releases), [MMDetection models](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/model_zoo.md), [Detectron2 models](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md), [HuggingFace models](https://huggingface.co/models?pipeline_tag=object-detection&sort=downloads) and [TorchVision models](https://pytorch.org/docs/stable/torchvision/models.html).
+
+    - [Slim-neck by GSConv](https://github.com/AlanLi1997/slim-neck-by-gsconv) <img src="https://img.shields.io/github/stars/AlanLi1997/slim-neck-by-gsconv?style=social"/> : "Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles". (**[arXiv 2022](https://arxiv.org/abs/2206.02424)**)
+
+    - [hustvl/TinyDet](https://github.com/hustvl/TinyDet) <img src="https://img.shields.io/github/stars/hustvl/TinyDet?style=social"/> : "TinyDet: accurately detecting small objects within 1 GFLOPs". (**[Science China Information Sciences, 2023](https://link.springer.com/article/10.1007/s11432-021-3504-4)**)
+
+    - [QueryDet](https://github.com/ChenhongyiYang/QueryDet-PyTorch) <img src="https://img.shields.io/github/stars/ChenhongyiYang/QueryDet-PyTorch?style=social"/> : "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_QueryDet_Cascaded_Sparse_Query_for_Accelerating_High-Resolution_Small_Object_Detection_CVPR_2022_paper.html)**)
+
+    - [RFLA](https://github.com/Chasel-Tsui/mmdet-rfla) <img src="https://img.shields.io/github/stars/Chasel-Tsui/mmdet-rfla?style=social"/> : "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection". (**[ECCV 2022](https://arxiv.org/abs/2208.08738)**). "微信公众号「CV技术指南」《[ECCV 2022 | RFLA：基于高斯感受野的微小目标检测标签分配](https://mp.weixin.qq.com/s/h0J775I3D6zoTIeaJRnFgQ)》"
+
+    - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "微信公众号「江大白」《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498265&idx=1&sn=1eee95f8f4d09d761dc7b94f4ac55c34&source=41#wechat_redirect)》"
+
+    - [SIMRDWN](https://github.com/avanetten/simrdwn) <img src="https://img.shields.io/github/stars/avanetten/simrdwn?style=social"/> : "Satellite Imagery Multiscale Rapid Detection with Windowed Networks". (**[arXiv 2018](https://arxiv.org/abs/1809.09978), [WACV 2019](https://ieeexplore.ieee.org/abstract/document/8659155)**)
+
+    - [YOLTv5](https://github.com/avanetten/yoltv5) <img src="https://img.shields.io/github/stars/avanetten/yoltv5?style=social"/> : YOLTv5 builds upon [YOLT](https://github.com/avanetten/yolt) and [SIMRDWN](https://github.com/avanetten/simrdwn), and updates these frameworks to use the [ultralytics/yolov5](https://github.com/ultralytics/yolov5) version of the YOLO object detection family.
+
+    - [TPH-YOLOv5](https://github.com/cv516Buaa/tph-yolov5) <img src="https://img.shields.io/github/stars/cv516Buaa/tph-yolov5?style=social"/> : "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)**)
+
+    - [mwaseema/Drone-Detection](https://github.com/mwaseema/Drone-Detection) <img src="https://img.shields.io/github/stars/mwaseema/Drone-Detection?style=social"/> : "Dogfight: Detecting Drones from Drones Videos". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.html)**)
+
+    - [CEASA](https://github.com/cuogeihong/ceasc) <img src="https://img.shields.io/github/stars/cuogeihong/ceasc?style=social"/> : "Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images". (**[arXiv 2023](https://arxiv.org/abs/2303.14488)**). "微信公众号「集智书童」《[即插即用 | CEASA模块给你所有，小目标精度提升的同时速度也变快了](https://mp.weixin.qq.com/s/-a4Wz04jLHFiAU88pUyDNQ)》"
+
+    - [KevinMuyaoGuo/yolov5s_for_satellite_imagery](https://github.com/KevinMuyaoGuo/yolov5s_for_satellite_imagery) <img src="https://img.shields.io/github/stars/KevinMuyaoGuo/yolov5s_for_satellite_imagery?style=social"/> : 基于YOLOv5的卫星图像目标检测demo | A demo for satellite imagery object detection based on YOLOv5。
+
+    - [Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget) <img src="https://img.shields.io/github/stars/Hongyu-Yue/yoloV5_modify_smalltarget?style=social"/> : YOLOV5 小目标检测修改版。
+
+    - [muyuuuu/Self-Supervise-Object-Detection](https://github.com/muyuuuu/Self-Supervise-Object-Detection) <img src="https://img.shields.io/github/stars/muyuuuu/Self-Supervise-Object-Detection?style=social"/> : Self-Supervised Object Detection. 水面漂浮垃圾目标检测，分析源码改善 yolox 检测小目标的缺陷，提出自监督算法预训练无标签数据，提升检测性能。
+
+    - [swricci/small-boat-detector](https://github.com/swricci/small-boat-detector) <img src="https://img.shields.io/github/stars/swricci/small-boat-detector?style=social"/> : Trained yolo v3 model weights and configuration file to detect small boats in satellite imagery.
+
+    - [Resham-Sundar/sahi-yolox](https://github.com/Resham-Sundar/sahi-yolox) <img src="https://img.shields.io/github/stars/Resham-Sundar/sahi-yolox?style=social"/> : YoloX with SAHI Implementation.
+
+    - YOLO-Z : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "微信公众号「计算机视觉研究院」《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
+
+    - M2S : "A novel Multi to Single Module for small object detection". (**[arXiv 2023](https://arxiv.org/abs/2303.14977)**). "微信公众号「集智书童」《[基于YOLOv5改进再设计 | M2S全面提升小目标精度](https://mp.weixin.qq.com/s/FlKgYYGUHtJAxCF2wrh4NA)》".
+
+    - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) <img src="https://img.shields.io/github/stars/ultralytics/xview-yolov3?style=social"/> : xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
+
+    - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
+
+    - [AllenSquirrel/YOLOv3_ReSAM](https://github.com/AllenSquirrel/YOLOv3_ReSAM) <img src="https://img.shields.io/github/stars/AllenSquirrel/YOLOv3_ReSAM?style=social"/> : YOLOv3_ReSAM:A Small Target Detection Method With Spatial Attention Module.
+
+    - [kadirnar/yolov5-sahi](https://github.com/kadirnar/yolov5-sahi) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-sahi?style=social"/> : Yolov5 Modelini Kullanarak Özel Nesne Eğitimi ve SAHI Kullanımı.
+
+    - [kadirnar/Yolov6-SAHI](https://github.com/kadirnar/Yolov6-SAHI) <img src="https://img.shields.io/github/stars/kadirnar/Yolov6-SAHI?style=social"/> : Yolov6-SAHI.
+
+    - [zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023](https://github.com/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023) <img src="https://img.shields.io/github/stars/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023?style=social"/> : 2023年西交利物浦大学动云科技GMaster战队雷达yolo小目标检测。
+
+    - [quantumxiaol/yolov8-small-target-detection](https://github.com/quantumxiaol/yolov8-small-target-detection) <img src="https://img.shields.io/github/stars/quantumxiaol/yolov8-small-target-detection?style=social"/> : 基于yolov8实现小目标检测，在NWPU VHR-10和DOTA上测试。
+
+    - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
+
+
+
   - ### Video Object Detection
     #### 视频目标检测
 
@@ -1693,102 +1802,14 @@
 
 
 
-  - ### Small Object Detection
-    #### 小目标检测
-
-    - [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : 🕶 A curated list of Tiny Object Detection papers and related resources.
-
-    - [Koldim2001/YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) <img src="https://img.shields.io/github/stars/Koldim2001/YOLO-Patch-Based-Inference?style=social"/> : Python library for YOLO small object detection and instance segmentation. This Python library simplifies SAHI-like inference for instance segmentation tasks, enabling the detection of small objects in images. It caters to both object detection and instance segmentation tasks, supporting a wide range of Ultralytics models.
-
-    - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**). A lightweight vision library for performing large scale object detection/ instance segmentation. SAHI currently supports [YOLOv5 models](https://github.com/ultralytics/yolov5/releases), [MMDetection models](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/model_zoo.md), [Detectron2 models](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md), [HuggingFace models](https://huggingface.co/models?pipeline_tag=object-detection&sort=downloads) and [TorchVision models](https://pytorch.org/docs/stable/torchvision/models.html).
-
-    - [Slim-neck by GSConv](https://github.com/AlanLi1997/slim-neck-by-gsconv) <img src="https://img.shields.io/github/stars/AlanLi1997/slim-neck-by-gsconv?style=social"/> : "Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles". (**[arXiv 2022](https://arxiv.org/abs/2206.02424)**)
-
-    - [hustvl/TinyDet](https://github.com/hustvl/TinyDet) <img src="https://img.shields.io/github/stars/hustvl/TinyDet?style=social"/> : "TinyDet: accurately detecting small objects within 1 GFLOPs". (**[Science China Information Sciences, 2023](https://link.springer.com/article/10.1007/s11432-021-3504-4)**)
-
-    - [QueryDet](https://github.com/ChenhongyiYang/QueryDet-PyTorch) <img src="https://img.shields.io/github/stars/ChenhongyiYang/QueryDet-PyTorch?style=social"/> : "QueryDet: Cascaded Sparse Query for Accelerating High-Resolution Small Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Yang_QueryDet_Cascaded_Sparse_Query_for_Accelerating_High-Resolution_Small_Object_Detection_CVPR_2022_paper.html)**)
-
-    - [RFLA](https://github.com/Chasel-Tsui/mmdet-rfla) <img src="https://img.shields.io/github/stars/Chasel-Tsui/mmdet-rfla?style=social"/> : "RFLA: Gaussian Receptive Field based Label Assignment for Tiny Object Detection". (**[ECCV 2022](https://arxiv.org/abs/2208.08738)**). "微信公众号「CV技术指南」《[ECCV 2022 | RFLA：基于高斯感受野的微小目标检测标签分配](https://mp.weixin.qq.com/s/h0J775I3D6zoTIeaJRnFgQ)》"
-
-    - [YOLT](https://github.com/avanetten/yolt) <img src="https://img.shields.io/github/stars/avanetten/yolt?style=social"/> : "You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery". (**[arXiv 2018](https://arxiv.org/abs/1805.09512)**). "微信公众号「江大白」《[基于大尺寸图像的小目标检测竞赛经验总结](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498265&idx=1&sn=1eee95f8f4d09d761dc7b94f4ac55c34&source=41#wechat_redirect)》"
-
-    - [SIMRDWN](https://github.com/avanetten/simrdwn) <img src="https://img.shields.io/github/stars/avanetten/simrdwn?style=social"/> : "Satellite Imagery Multiscale Rapid Detection with Windowed Networks". (**[arXiv 2018](https://arxiv.org/abs/1809.09978), [WACV 2019](https://ieeexplore.ieee.org/abstract/document/8659155)**)
-
-    - [YOLTv5](https://github.com/avanetten/yoltv5) <img src="https://img.shields.io/github/stars/avanetten/yoltv5?style=social"/> : YOLTv5 builds upon [YOLT](https://github.com/avanetten/yolt) and [SIMRDWN](https://github.com/avanetten/simrdwn), and updates these frameworks to use the [ultralytics/yolov5](https://github.com/ultralytics/yolov5) version of the YOLO object detection family.
-
-    - [TPH-YOLOv5](https://github.com/cv516Buaa/tph-yolov5) <img src="https://img.shields.io/github/stars/cv516Buaa/tph-yolov5?style=social"/> : "TPH-YOLOv5: Improved YOLOv5 Based on Transformer Prediction Head for Object Detection on Drone-Captured Scenarios". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/VisDrone/html/Zhu_TPH-YOLOv5_Improved_YOLOv5_Based_on_Transformer_Prediction_Head_for_Object_ICCVW_2021_paper.html)**)
-
-    - [mwaseema/Drone-Detection](https://github.com/mwaseema/Drone-Detection) <img src="https://img.shields.io/github/stars/mwaseema/Drone-Detection?style=social"/> : "Dogfight: Detecting Drones from Drones Videos". (**[CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Ashraf_Dogfight_Detecting_Drones_From_Drones_Videos_CVPR_2021_paper.html)**)
-
-    - [CEASA](https://github.com/cuogeihong/ceasc) <img src="https://img.shields.io/github/stars/cuogeihong/ceasc?style=social"/> : "Adaptive Sparse Convolutional Networks with Global Context Enhancement for Faster Object Detection on Drone Images". (**[arXiv 2023](https://arxiv.org/abs/2303.14488)**). "微信公众号「集智书童」《[即插即用 | CEASA模块给你所有，小目标精度提升的同时速度也变快了](https://mp.weixin.qq.com/s/-a4Wz04jLHFiAU88pUyDNQ)》"
-
-    - [KevinMuyaoGuo/yolov5s_for_satellite_imagery](https://github.com/KevinMuyaoGuo/yolov5s_for_satellite_imagery) <img src="https://img.shields.io/github/stars/KevinMuyaoGuo/yolov5s_for_satellite_imagery?style=social"/> : 基于YOLOv5的卫星图像目标检测demo | A demo for satellite imagery object detection based on YOLOv5。
-
-    - [Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget) <img src="https://img.shields.io/github/stars/Hongyu-Yue/yoloV5_modify_smalltarget?style=social"/> : YOLOV5 小目标检测修改版。
-
-    - [muyuuuu/Self-Supervise-Object-Detection](https://github.com/muyuuuu/Self-Supervise-Object-Detection) <img src="https://img.shields.io/github/stars/muyuuuu/Self-Supervise-Object-Detection?style=social"/> : Self-Supervised Object Detection. 水面漂浮垃圾目标检测，分析源码改善 yolox 检测小目标的缺陷，提出自监督算法预训练无标签数据，提升检测性能。
-
-    - [swricci/small-boat-detector](https://github.com/swricci/small-boat-detector) <img src="https://img.shields.io/github/stars/swricci/small-boat-detector?style=social"/> : Trained yolo v3 model weights and configuration file to detect small boats in satellite imagery.
-
-    - [Resham-Sundar/sahi-yolox](https://github.com/Resham-Sundar/sahi-yolox) <img src="https://img.shields.io/github/stars/Resham-Sundar/sahi-yolox?style=social"/> : YoloX with SAHI Implementation.
-
-    - YOLO-Z : "YOLO-Z: Improving small object detection in YOLOv5 for autonomous vehicles". (**[arXiv 2021](https://arxiv.org/abs/2112.11798)**). "微信公众号「计算机视觉研究院」《[Yolo-Z：改进的YOLOv5用于小目标检测（附原论文下载）](https://mp.weixin.qq.com/s/ehkUapLOMdDghF2kAoAV4w)》".
-
-    - M2S : "A novel Multi to Single Module for small object detection". (**[arXiv 2023](https://arxiv.org/abs/2303.14977)**). "微信公众号「集智书童」《[基于YOLOv5改进再设计 | M2S全面提升小目标精度](https://mp.weixin.qq.com/s/FlKgYYGUHtJAxCF2wrh4NA)》".
-
-    - [ultralytics/xview-yolov3](https://github.com/ultralytics/xview-yolov3) <img src="https://img.shields.io/github/stars/ultralytics/xview-yolov3?style=social"/> : xView 2018 Object Detection Challenge: YOLOv3 Training and Inference.
-
-    - [inderpreet1390/yolov5-small-target](https://github.com/inderpreet1390/yolov5-small-target) <img src="https://img.shields.io/github/stars/inderpreet1390/yolov5-small-target?style=social"/> : Repository for improved yolov5 for small target detection.
-
-    - [AllenSquirrel/YOLOv3_ReSAM](https://github.com/AllenSquirrel/YOLOv3_ReSAM) <img src="https://img.shields.io/github/stars/AllenSquirrel/YOLOv3_ReSAM?style=social"/> : YOLOv3_ReSAM:A Small Target Detection Method With Spatial Attention Module.
-
-    - [kadirnar/yolov5-sahi](https://github.com/kadirnar/yolov5-sahi) <img src="https://img.shields.io/github/stars/kadirnar/yolov5-sahi?style=social"/> : Yolov5 Modelini Kullanarak Özel Nesne Eğitimi ve SAHI Kullanımı.
-
-    - [kadirnar/Yolov6-SAHI](https://github.com/kadirnar/Yolov6-SAHI) <img src="https://img.shields.io/github/stars/kadirnar/Yolov6-SAHI?style=social"/> : Yolov6-SAHI.
-
-    - [zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023](https://github.com/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023) <img src="https://img.shields.io/github/stars/zRzRzRzRzRzRzR/Mult-YOLO-alogorithm-of-RoboMaster-Radar-Detection-2023?style=social"/> : 2023年西交利物浦大学动云科技GMaster战队雷达yolo小目标检测。
-
-    - [quantumxiaol/yolov8-small-target-detection](https://github.com/quantumxiaol/yolov8-small-target-detection) <img src="https://img.shields.io/github/stars/quantumxiaol/yolov8-small-target-detection?style=social"/> : 基于yolov8实现小目标检测，在NWPU VHR-10和DOTA上测试。
-
-    - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
 
 
 
 
-  - ### Few-shot Object Detection
-    #### 少样本目标检测
-
-    - [bingykang/Fewshot_Detection](https://github.com/bingykang/Fewshot_Detection) <img src="https://img.shields.io/github/stars/bingykang/Fewshot_Detection?style=social"/> : "Few-shot Object Detection via Feature Reweighting". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)**).
-
-    - [SSDA-YOLO](https://github.com/hnuzhy/SSDA-YOLO) <img src="https://img.shields.io/github/stars/hnuzhy/SSDA-YOLO?style=social"/> : Codes for my paper "SSDA-YOLO: Semi-supervised Domain Adaptive YOLO for Cross-Domain Object Detection". (**[Computer Vision and Image Understanding, 2023](https://www.sciencedirect.com/science/article/abs/pii/S1077314223000292)**).
-
-    - [OneTeacher](https://github.com/luogen1996/OneTeacher) <img src="https://img.shields.io/github/stars/luogen1996/OneTeacher?style=social"/> : "Towards End-to-end Semi-supervised Learning for One-stage Object Detection". (**[arXiv 2023](https://arxiv.org/abs/2302.11299)**).
-
-    - [Efficient Teacher](https://github.com/AlibabaResearch/efficientteacher) <img src="https://img.shields.io/github/stars/AlibabaResearch/efficientteacher?style=social"/> : "Efficient Teacher: Semi-Supervised Object Detection for YOLOv5". (**[arXiv 2023](https://arxiv.org/abs/2302.07577)**).
 
 
 
 
-  - ### Open World Object Detection
-    #### 开放世界目标检测
-
-    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
-
-    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
-
-    - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
-
-    - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
-
-    - Florence-2 : "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks". (**[CVPR 2024](https://arxiv.org/abs/2311.06242)**).
-
-    - [maestro](https://github.com/roboflow/maestro) <img src="https://img.shields.io/github/stars/roboflow/maestro?style=social"/> : VLM fine-tuning for everyone. maestro is a streamlined tool to accelerate the fine-tuning of multimodal models. By encapsulating best practices from our core modules, maestro handles configuration, data loading, reproducibility, and training loop setup. It currently offers ready-to-use recipes for popular vision-language models such as [Florence-2](https://arxiv.org/abs/2311.06242), PaliGemma 2, and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL). [maestro.roboflow.com](https://maestro.roboflow.com/latest/)
-
-    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
-
-    - [UniDetector](https://github.com/zhenyuw16/UniDetector) <img src="https://img.shields.io/github/stars/zhenyuw16/UniDetector?style=social"/> : "Detecting Everything in the Open World: Towards Universal Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2303.11749)**).
-
-    - [buxihuo/OW-YOLO](https://github.com/buxihuo/OW-YOLO) <img src="https://img.shields.io/github/stars/buxihuo/OW-YOLO?style=social"/> : Detect known and unknown objects in the open world（具有区分已知与未知能力的全新检测器））.
 
 
 
@@ -2859,6 +2880,8 @@
         - [Label Studio](https://github.com/HumanSignal/label-studio) <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
         - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+
+        - [SAMLabelerPro](https://github.com/LSH9832/SAMLabelerPro) <img src="https://img.shields.io/github/stars/LSH9832/SAMLabelerPro?style=social"/> : label your image with Segment Anything Model or MobileSAM, support remote labeling for multiple persons。使用Segment Anything Model或MobileSAM辅助标注的工具，支持多人远程标注。
 
         - [LabelImg](https://github.com/heartexlabs/labelImg) <img src="https://img.shields.io/github/stars/heartexlabs/labelImg?style=social"/> : 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images.
 
