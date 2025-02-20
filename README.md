@@ -7,12 +7,12 @@
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
   - [Summary](#summary)
     - [Famous YOLO](#famous-yolo)
+    - [Extensional Frameworks](#extensional-frameworks)
     - [Awesome List](#awesome-list)
     - [Paper and Code Overview](#paper-and-code-overview)
       - [Paper Review](#paper-review)
       - [Code Review](#code-review)
     - [Learning Resources](#learning-resources)
-  - [Extensional Frameworks](#extensional-frameworks)
   - [Other Versions of YOLO](#other-versions-of-yolo)
     - [PyTorch Implementation](#pytorch-implementation)
     - [C Implementation](#c-implementation)
@@ -163,7 +163,6 @@
 
     - [YOLOv7](https://github.com/WongKinYiu/yolov7) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov7?style=social"/> : "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors". (**[CVPR 2023](https://arxiv.org/abs/2207.02696)**).
 
-
     - [YOLOv8](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
     - [YOLOv9](https://github.com/WongKinYiu/yolov9) <img src="https://img.shields.io/github/stars/WongKinYiu/yolov9?style=social"/> : "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information". (**[arXiv 2024](https://arxiv.org/abs/2402.13616)**)
@@ -174,8 +173,23 @@
 
     - [YOLOv11](https://github.com/ultralytics/ultralytics) <img src="https://img.shields.io/github/stars/ultralytics/ultralytics?style=social"/> : NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite. [Ultralytics](https://www.ultralytics.com/) [YOLOv11](https://github.com/ultralytics/ultralytics) s a cutting-edge, state-of-the-art (SOTA) model that builds upon the success of previous YOLO versions and introduces new features and improvements to further boost performance and flexibility. YOLO11 is designed to be fast, accurate, and easy to use, making it an excellent choice for a wide range of object detection and tracking, instance segmentation, image classification and pose estimation tasks. [docs.ultralytics.com](https://docs.ultralytics.com/)
 
+    - [YOLOv12](https://github.com/sunsmarterjie/yolov12) <img src="https://img.shields.io/github/stars/sunsmarterjie/yolov12?style=social"/> : "YOLOv12: Attention-Centric Real-Time Object Detectors". (**[arXiv 2025](https://arxiv.org/abs/2502.12524)**)
+
+    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
 
+
+  - ### Extensional Frameworks
+
+    - [VLM-R1](https://github.com/om-ai-lab/VLM-R1) <img src="https://img.shields.io/github/stars/om-ai-lab/VLM-R1?style=social"/> : VLM-R1: A stable and generalizable R1-style Large Vision-Language Model. Solve Visual Understanding with Reinforced VLMs.
+
+    - Florence-2 : "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks". (**[CVPR 2024](https://arxiv.org/abs/2311.06242)**).
+
+    - [maestro](https://github.com/roboflow/maestro) <img src="https://img.shields.io/github/stars/roboflow/maestro?style=social"/> : VLM fine-tuning for everyone. maestro is a streamlined tool to accelerate the fine-tuning of multimodal models. By encapsulating best practices from our core modules, maestro handles configuration, data loading, reproducibility, and training loop setup. It currently offers ready-to-use recipes for popular vision-language models such as [Florence-2](https://arxiv.org/abs/2311.06242), PaliGemma 2, and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL). [maestro.roboflow.com](https://maestro.roboflow.com/latest/)
+
+    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
+
+    - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
 
     - [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) <img src="https://img.shields.io/github/stars/Megvii-BaseDetection/YOLOX?style=social"/> : "YOLOX: Exceeding YOLO Series in 2021". (**[arXiv 2021](https://arxiv.org/abs/2107.08430)**)
 
@@ -191,37 +205,32 @@
 
     - [LeYOLO](https://github.com/LilianHollard/LeYOLO) <img src="https://img.shields.io/github/stars/LilianHollard/LeYOLO?style=social"/> : "LeYOLO, New Scalable and Efficient CNN Architecture for Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2406.14239)**)
 
-    - [EdgeYOLO](https://github.com/LSH9832/edgeyolo) <img src="https://img.shields.io/github/stars/LSH9832/edgeyolo?style=social"/> : an edge-real-time anchor-free object detector with decent performance. "Edge YOLO: Real-time intelligent object detection system based on edge-cloud cooperation in autonomous vehicles". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://ieeexplore.ieee.org/abstract/document/9740044)**). "EdgeYOLO: An Edge-Real-Time Object Detector". (**[arXiv 2023](https://arxiv.org/abs/2302.07483)**)
+    - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
 
     - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
 
     - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
 
-    - [RT-DETR|RT-DETRv2](https://github.com/lyuwenyu/RT-DETR) <img src="https://img.shields.io/github/stars/lyuwenyu/RT-DETR?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2304.08069)**). "RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer". (**[arXiv 2024](https://arxiv.org/abs/2407.17140)**).
+    - [RT-DETR | RT-DETRv2](https://github.com/lyuwenyu/RT-DETR) <img src="https://img.shields.io/github/stars/lyuwenyu/RT-DETR?style=social"/> : "DETRs Beat YOLOs on Real-time Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2304.08069)**). "RT-DETRv2: Improved Baseline with Bag-of-Freebies for Real-Time Detection Transformer". (**[arXiv 2024](https://arxiv.org/abs/2407.17140)**).
 
-    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+    - [EasyCV](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : An all-in-one toolkit for computer vision. "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**).
 
-    - Florence-2 : "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks". (**[CVPR 2024](https://arxiv.org/abs/2311.06242)**).
+    - [YOLACT & YOLACT++](https://github.com/dbolya/yolact) <img src="https://img.shields.io/github/stars/dbolya/yolact?style=social"/> : You Only Look At CoefficienTs. (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html), [IEEE TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/9159935)**)
 
-    - [maestro](https://github.com/roboflow/maestro) <img src="https://img.shields.io/github/stars/roboflow/maestro?style=social"/> : VLM fine-tuning for everyone. maestro is a streamlined tool to accelerate the fine-tuning of multimodal models. By encapsulating best practices from our core modules, maestro handles configuration, data loading, reproducibility, and training loop setup. It currently offers ready-to-use recipes for popular vision-language models such as [Florence-2](https://arxiv.org/abs/2311.06242), PaliGemma 2, and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL). [maestro.roboflow.com](https://maestro.roboflow.com/latest/)
+    - [Alpha-IoU](https://github.com/Jacobi93/Alpha-IoU) <img src="https://img.shields.io/github/stars/Jacobi93/Alpha-IoU?style=social"/> : "Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/a8f15eda80c50adb0e71943adc8015cf-Abstract.html)**)
 
-    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
+    - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
 
+    - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
 
-    - [DynamicDet](https://github.com/VDIGPKU/DynamicDet) <img src="https://img.shields.io/github/stars/VDIGPKU/DynamicDet?style=social"/> : "DynamicDet: A Unified Dynamic Architecture for Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2304.05552)**)
-
-
-
-
-
-
+    - [doubleZ0108/Data-Augmentation](https://github.com/doubleZ0108/Data-Augmentation) <img src="https://img.shields.io/github/stars/doubleZ0108/Data-Augmentation?style=social"/> : General Data Augmentation Algorithms for Object Detection(esp. Yolo).
 
 
 
 
   - ### Awesome List
 
-    - [awesome-yolo-object-detection](https://github.com/codingonion/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/codingonion/awesome-yolo-object-detection?style=social"/> : 🚀🚀🚀 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects and the related object detection datasets.
+    - [awesome-yolo-object-detection](https://github.com/coderonion/awesome-yolo-object-detection) <img src="https://img.shields.io/github/stars/coderonion/awesome-yolo-object-detection?style=social"/> : 🚀🚀🚀 A collection of some awesome public YOLO object detection series projects and the related object detection datasets.
 
     - [srebroa/awesome-yolo](https://github.com/srebroa/awesome-yolo) <img src="https://img.shields.io/github/stars/srebroa/awesome-yolo?style=social"/> : 🚀 ⭐ The list of the most popular YOLO algorithms - awesome YOLO.
 
@@ -252,8 +261,7 @@
 
     - [DLLXW/objectDetectionDatasets](https://github.com/DLLXW/objectDetectionDatasets) <img src="https://img.shields.io/github/stars/DLLXW/objectDetectionDatasets?style=social"/> : 目标检测数据集制作:VOC,COCO,YOLO等常用数据集格式的制作和互相转换脚本。
 
-    - [codingonion/awesome-object-detection-and-recognition-datasets](https://github.com/codingonion/awesome-object-detection-and-recognition-datasets) <img src="https://img.shields.io/github/stars/codingonion/awesome-object-detection-and-recognition-datasets?style=social"/> : A collection of some awesome public object detection and recognition datasets.
-
+    - [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : 🕶 A curated list of Tiny Object Detection papers and related resources.
 
 
 
@@ -331,20 +339,6 @@
     - [zyds/yolov5-code](https://github.com/zyds/yolov5-code) <img src="https://img.shields.io/github/stars/zyds/yolov5-code?style=social"/> : 手把手带你实战 YOLOv5。
 
 
-
-## Extensional Frameworks
-
-  - [EasyCV](https://github.com/alibaba/EasyCV) <img src="https://img.shields.io/github/stars/alibaba/EasyCV?style=social"/> : An all-in-one toolkit for computer vision. "YOLOX-PAI: An Improved YOLOX, Stronger and Faster than YOLOv6". (**[arXiv 2022](https://arxiv.org/abs/2208.13040)**). "微信公众号「集智书童」《[YOLOX升级 | 阿里巴巴提出YOLOX-PAI，1ms内精度无敌，超越YOLOv6、PP-YOLOE](https://mp.weixin.qq.com/s/bIu3cYyZ-fVb5iB0bTfyug)》"
-
-  - [YOLACT & YOLACT++](https://github.com/dbolya/yolact) <img src="https://img.shields.io/github/stars/dbolya/yolact?style=social"/> : You Only Look At CoefficienTs. (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Bolya_YOLACT_Real-Time_Instance_Segmentation_ICCV_2019_paper.html), [IEEE TPAMI 2020](https://ieeexplore.ieee.org/abstract/document/9159935)**)
-
-  - [Alpha-IoU](https://github.com/Jacobi93/Alpha-IoU) <img src="https://img.shields.io/github/stars/Jacobi93/Alpha-IoU?style=social"/> : "Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression". (**[NeurIPS 2021](https://proceedings.neurips.cc//paper/2021/hash/a8f15eda80c50adb0e71943adc8015cf-Abstract.html)**)
-
-  - [CIoU](https://github.com/Zzh-tju/CIoU) <img src="https://img.shields.io/github/stars/Zzh-tju/CIoU?style=social"/> : Complete-IoU (CIoU) Loss and Cluster-NMS for Object Detection and Instance Segmentation (YOLACT). (**[AAAI 2020](https://ojs.aaai.org/index.php/AAAI/article/view/6999), [IEEE TCYB 2021](https://ieeexplore.ieee.org/abstract/document/9523600)**)
-
-  - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
-
-  - [doubleZ0108/Data-Augmentation](https://github.com/doubleZ0108/Data-Augmentation) <img src="https://img.shields.io/github/stars/doubleZ0108/Data-Augmentation?style=social"/> : General Data Augmentation Algorithms for Object Detection(esp. Yolo).
 
 
 ## Other Versions of YOLO
@@ -1506,17 +1500,17 @@
 
     - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
 
-    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
-
-    - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
-
-    - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
-
     - Florence-2 : "Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks". (**[CVPR 2024](https://arxiv.org/abs/2311.06242)**).
 
     - [maestro](https://github.com/roboflow/maestro) <img src="https://img.shields.io/github/stars/roboflow/maestro?style=social"/> : VLM fine-tuning for everyone. maestro is a streamlined tool to accelerate the fine-tuning of multimodal models. By encapsulating best practices from our core modules, maestro handles configuration, data loading, reproducibility, and training loop setup. It currently offers ready-to-use recipes for popular vision-language models such as [Florence-2](https://arxiv.org/abs/2311.06242), PaliGemma 2, and [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL). [maestro.roboflow.com](https://maestro.roboflow.com/latest/)
 
     - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
+
+    - [DOSOD](https://github.com/D-Robotics-AI-Lab/DOSOD) <img src="https://img.shields.io/github/stars/D-Robotics-AI-Lab/DOSOD?style=social"/> : "A Light-Weight Framework for Open-Set Object Detection with Decoupled Feature Alignment in Joint Space". (**[arXiv 2024](https://arxiv.org/abs/2412.14680)**).
+
+    - [DINO](https://github.com/IDEA-Research/DINO) <img src="https://img.shields.io/github/stars/IDEA-Research/DINO?style=social"/> : "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection". (**[ICLR 2023](https://arxiv.org/abs/2203.03605)**).
+
+    - [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO) <img src="https://img.shields.io/github/stars/IDEA-Research/GroundingDINO?style=social"/> : "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection". (**[ECCV 2024](https://arxiv.org/abs/2303.05499)**).
 
     - [UniDetector](https://github.com/zhenyuw16/UniDetector) <img src="https://img.shields.io/github/stars/zhenyuw16/UniDetector?style=social"/> : "Detecting Everything in the Open World: Towards Universal Object Detection". (**[CVPR 2023](https://arxiv.org/abs/2303.11749)**).
 
@@ -1525,6 +1519,8 @@
 
   - ### Few-shot Object Detection
     #### 少样本目标检测
+
+    - [Autodistill](https://github.com/autodistill/autodistill) <img src="https://img.shields.io/github/stars/autodistill/autodistill?style=social"/> : Images to inference with no labeling (use foundation models to train supervised models). Autodistill uses big, slower foundation models to train small, faster supervised models. Using autodistill, you can go from unlabeled images to inference on a custom model running at the edge with no human intervention in between. [docs.autodistill.com](https://docs.autodistill.com/)
 
     - [bingykang/Fewshot_Detection](https://github.com/bingykang/Fewshot_Detection) <img src="https://img.shields.io/github/stars/bingykang/Fewshot_Detection?style=social"/> : "Few-shot Object Detection via Feature Reweighting". (**[ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/html/Kang_Few-Shot_Object_Detection_via_Feature_Reweighting_ICCV_2019_paper.html)**).
 
@@ -1535,14 +1531,14 @@
     - [Efficient Teacher](https://github.com/AlibabaResearch/efficientteacher) <img src="https://img.shields.io/github/stars/AlibabaResearch/efficientteacher?style=social"/> : "Efficient Teacher: Semi-Supervised Object Detection for YOLOv5". (**[arXiv 2023](https://arxiv.org/abs/2302.07577)**).
 
 
+
   - ### Small Object Detection
     #### 小目标检测
 
-    - [kuanhungchen/awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) <img src="https://img.shields.io/github/stars/kuanhungchen/awesome-tiny-object-detection?style=social"/> : 🕶 A curated list of Tiny Object Detection papers and related resources.
 
-    - [Koldim2001/YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) <img src="https://img.shields.io/github/stars/Koldim2001/YOLO-Patch-Based-Inference?style=social"/> : Python library for YOLO small object detection and instance segmentation. This Python library simplifies SAHI-like inference for instance segmentation tasks, enabling the detection of small objects in images. It caters to both object detection and instance segmentation tasks, supporting a wide range of Ultralytics models.
+    - [YOLO-Patch-Based-Inference](https://github.com/Koldim2001/YOLO-Patch-Based-Inference) <img src="https://img.shields.io/github/stars/Koldim2001/YOLO-Patch-Based-Inference?style=social"/> : Python library for YOLO small object detection and instance segmentation. This Python library simplifies SAHI-like inference for instance segmentation tasks, enabling the detection of small objects in images. It caters to both object detection and instance segmentation tasks, supporting a wide range of Ultralytics models.
 
-    - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**). A lightweight vision library for performing large scale object detection/ instance segmentation. SAHI currently supports [YOLOv5 models](https://github.com/ultralytics/yolov5/releases), [MMDetection models](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/model_zoo.md), [Detectron2 models](https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md), [HuggingFace models](https://huggingface.co/models?pipeline_tag=object-detection&sort=downloads) and [TorchVision models](https://pytorch.org/docs/stable/torchvision/models.html).
+    - [SAHI](https://github.com/obss/sahi) <img src="https://img.shields.io/github/stars/obss/sahi?style=social"/> : "Slicing Aided Hyper Inference and Fine-tuning for Small Object Detection". (**[arXiv 2022](https://arxiv.org/abs/2202.06934v2), [Zenodo 2021](https://doi.org/10.5281/zenodo.5718950)**).
 
     - [Slim-neck by GSConv](https://github.com/AlanLi1997/slim-neck-by-gsconv) <img src="https://img.shields.io/github/stars/AlanLi1997/slim-neck-by-gsconv?style=social"/> : "Slim-neck by GSConv: A better design paradigm of detector architectures for autonomous vehicles". (**[arXiv 2022](https://arxiv.org/abs/2206.02424)**)
 
@@ -1593,6 +1589,7 @@
     - [quantumxiaol/yolov8-small-target-detection](https://github.com/quantumxiaol/yolov8-small-target-detection) <img src="https://img.shields.io/github/stars/quantumxiaol/yolov8-small-target-detection?style=social"/> : 基于yolov8实现小目标检测，在NWPU VHR-10和DOTA上测试。
 
     - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
+
 
 
 
@@ -2856,6 +2853,7 @@
     - [swordswind/yolo_ocr_api_server](https://github.com/swordswind/yolo_ocr_api_server) <img src="https://img.shields.io/github/stars/swordswind/yolo_ocr_api_server?style=social"/> : YOLOv10&EasyOCR融合图像识别API服务器。
 
 
+
 ## Datasets
 
 - ### Datasets Share Platform
@@ -2873,13 +2871,17 @@
     - [openvinotoolkit/datumaro](https://github.com/openvinotoolkit/datumaro) <img src="https://img.shields.io/github/stars/openvinotoolkit/datumaro?style=social"/> : Dataset Management Framework, a Python library and a CLI tool to build, analyze and manage Computer Vision datasets.
 
 
+
+
 - ### Datasets Tools
 
     - #### Data Annotation
 
         - [Label Studio](https://github.com/HumanSignal/label-studio) <img src="https://img.shields.io/github/stars/HumanSignal/label-studio?style=social"/> : Label Studio is a multi-type data labeling and annotation tool with standardized output format. [labelstud.io](https://labelstud.io/)
 
-        - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless data labeling with AI support from YOLO and Segment Anything! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling.
+        - [X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) <img src="https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social"/> : Effortless data labeling with AI support from Segment Anything and other awesome models.
+
+        - [AnyLabeling](https://github.com/vietanhdev/anylabeling) <img src="https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social"/> : Effortless AI-assisted data labeling with AI support from YOLO, Segment Anything (SAM+SAM2), MobileSAM!! AnyLabeling = LabelImg + Labelme + Improved UI + Auto-labeling. [anylabeling.nrl.ai](https://anylabeling.nrl.ai/)
 
         - [SAMLabelerPro](https://github.com/LSH9832/SAMLabelerPro) <img src="https://img.shields.io/github/stars/LSH9832/SAMLabelerPro?style=social"/> : label your image with Segment Anything Model or MobileSAM, support remote labeling for multiple persons。使用Segment Anything Model或MobileSAM辅助标注的工具，支持多人远程标注。
 
@@ -2938,9 +2940,11 @@
 
     - #### Data Augmentation
 
-      - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**)
+      - [Albumentations](https://github.com/albumentations-team/albumentations) <img src="https://img.shields.io/github/stars/albumentations-team/albumentations?style=social"/> : Albumentations is a Python library for image augmentation. Image augmentation is used in deep learning and computer vision tasks to increase the quality of trained models. The purpose of image augmentation is to create new training samples from the existing data. "Albumentations: Fast and Flexible Image Augmentations". (**[Information 2020](https://www.mdpi.com/2078-2489/11/2/125)**). [albumentations.ai](https://albumentations.ai/)
 
       - [doubleZ0108/Data-Augmentation](https://github.com/doubleZ0108/Data-Augmentation) <img src="https://img.shields.io/github/stars/doubleZ0108/Data-Augmentation?style=social"/> : General Data Augmentation Algorithms for Object Detection(esp. Yolo).
+
+
 
 
     - #### Data Management
