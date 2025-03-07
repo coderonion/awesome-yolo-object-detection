@@ -50,6 +50,7 @@
     - [Open World Object Detection](#open-world-object-detection)
     - [Few-shot Object Detection](#few-shot-object-detection)
     - [Small Object Detection](#small-object-detection)
+    - [Multimodal Image Fusion Detection](#multimodal-image-fusion-detection)
     - [Video Object Detection](#video-object-detection)
     - [Object Tracking](#object-tracking)
       - [Multi-Object Tracking](#multi-object-tracking)
@@ -89,7 +90,6 @@
     - [SLAM Field Detection](#slam-field-detection)
     - [Industrial Defect Detection](#industrial-defect-detection)
     - [SAR Image Detection](#sar-image-detection)
-    - [Multispectral Image Fusion Detection](#multispectral-image-fusion-detection)
     - [Safety Monitoring Field Detection](#safety-monitoring-field-detection)
     - [Anti-UAV Field Detection](#anti-uav-field-detection)
     - [Medical Field Detection](#medical-field-detection)
@@ -1071,6 +1071,8 @@
 
         - [hamdiboukamcha/Yolo-V10-cpp-TensorRT](https://github.com/hamdiboukamcha/Yolo-V10-cpp-TensorRT) <img src="https://img.shields.io/github/stars/hamdiboukamcha/Yolo-V10-cpp-TensorRT?style=social"/> : The YOLOv10 C++ TensorRT Project in C++ and optimized using NVIDIA TensorRT.
 
+        - [DataXujing/YOLOv12-TensorRT](https://github.com/DataXujing/YOLOv12-TensorRT) <img src="https://img.shields.io/github/stars/DataXujing/YOLOv12-TensorRT?style=social"/> : YOLOv12 TensorRT 端到端模型加速推理和INT8量化实现。
+
 
 
     - ##### DeepStream
@@ -1589,6 +1591,35 @@
     - [quantumxiaol/yolov8-small-target-detection](https://github.com/quantumxiaol/yolov8-small-target-detection) <img src="https://img.shields.io/github/stars/quantumxiaol/yolov8-small-target-detection?style=social"/> : 基于yolov8实现小目标检测，在NWPU VHR-10和DOTA上测试。
 
     - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
+
+
+
+  - #### Multimodal Image Fusion Detection
+    #### 多模态图像融合检测
+
+      - [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/Lidar_AI_Solution?style=social"/> : This is a highly optimized solution for self-driving 3D-lidar repository. It does a great job of speeding up sparse convolution/CenterPoint/BEVFusion/OSD/Conversion. A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
+
+      - [SuperYOLO](https://github.com/icey-zhang/SuperYOLO) <img src="https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social"/> : "SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery". (**[arXiv 2022](https://arxiv.org/abs/2209.13351)**)
+
+      - [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) <img src="https://img.shields.io/github/stars/OrangeSodahub/CRLFnet?style=social"/> : Camera-Radar-Lidar Fusion detection net based on ROS, YOLOv3, OpenPCDet integration.
+
+      - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
+
+      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
+
+      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.
+
+      - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。
+
+      - [eralso/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/eralso/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/eralso/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。
+
+      - [Arrowes/CEAM-YOLOv7](https://github.com/Arrowes/CEAM-YOLOv7) <img src="https://img.shields.io/github/stars/Arrowes/CEAM-YOLOv7?style=social"/> : CEAM-YOLOv7: Improved YOLOv7 Based on Channel Expansion and Attention Mechanism for Driver Distraction Behavior Detection.
+
+      - [jere357/yolov5-RGBD](https://github.com/jere357/yolov5-RGBD) <img src="https://img.shields.io/github/stars/jere357/yolov5-RGBD?style=social"/> : "fork" from yolov5 with the possibility of running inferences on RGBD(C) images, work in progress. This repo is not a fork of the original repo bcs i already have 1 fork with a PR pending, this is still messy code and a work in progress.
+
+      - [mcw1217/Triple_YOLOv8](https://github.com/mcw1217/Triple_YOLOv8) <img src="https://img.shields.io/github/stars/mcw1217/Triple_YOLOv8?style=social"/> : This project uses three types of images as inputs RGB, Depth, and thermal images to perform object detection with YOLOv8.
+
+      - [mangoggul/YOLO-MultiModal](https://github.com/mangoggul/YOLO-MultiModal) <img src="https://img.shields.io/github/stars/mangoggul/YOLO-MultiModal?style=social"/> : Multi-Modal-YOLO detection.
 
 
 
@@ -2288,28 +2319,12 @@
     - [humblecoder612/SAR_yolov3](https://github.com/humblecoder612/SAR_yolov3) <img src="https://img.shields.io/github/stars/humblecoder612/SAR_yolov3?style=social"/> : Best Accruacy:speed ratio SAR Ship detection in the world.
 
 
-  - #### Multispectral Image Fusion Detection
-    #### 多光谱图像融合检测
 
-      - [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/Lidar_AI_Solution?style=social"/> : This is a highly optimized solution for self-driving 3D-lidar repository. It does a great job of speeding up sparse convolution/CenterPoint/BEVFusion/OSD/Conversion. A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
 
-      - [SuperYOLO](https://github.com/icey-zhang/SuperYOLO) <img src="https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social"/> : "SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery". (**[arXiv 2022](https://arxiv.org/abs/2209.13351)**)
 
-      - [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) <img src="https://img.shields.io/github/stars/OrangeSodahub/CRLFnet?style=social"/> : Camera-Radar-Lidar Fusion detection net based on ROS, YOLOv3, OpenPCDet integration.
 
-      - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
 
-      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
 
-      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.
-
-      - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。
-
-      - [eralso/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/eralso/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/eralso/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。
-
-      - [Arrowes/CEAM-YOLOv7](https://github.com/Arrowes/CEAM-YOLOv7) <img src="https://img.shields.io/github/stars/Arrowes/CEAM-YOLOv7?style=social"/> : CEAM-YOLOv7: Improved YOLOv7 Based on Channel Expansion and Attention Mechanism for Driver Distraction Behavior Detection.
-
-      - [jere357/yolov5-RGBD](https://github.com/jere357/yolov5-RGBD) <img src="https://img.shields.io/github/stars/jere357/yolov5-RGBD?style=social"/> : "fork" from yolov5 with the possibility of running inferences on RGBD(C) images, work in progress. This repo is not a fork of the original repo bcs i already have 1 fork with a PR pending, this is still messy code and a work in progress.
 
 
   - ### Safety Monitoring Field Detection
@@ -3020,7 +3035,10 @@
 
     ## Anti-UAV Datasets
 
-    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. Anti-UAV300, Anti-UAV410, Anti-UAV600. Please refer to our [Anti-UAV v1](https://ieeexplore.ieee.org/document/9615243) paper and [Anti-UAV v3](https://arxiv.org/pdf/2306.15767.pdf) paper for more details ([WeChat News](https://zhaoj9014.github.io/pub/Anti-UAV.pdf)). "Anti-UAV: A Large-Scale Benchmark for Vision-Based UAV Tracking". (**[IEEE Transactions on Multimedia, 2022](https://ieeexplore.ieee.org/document/9615243)**). "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**).
+
+    - [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) <img src="https://img.shields.io/github/stars/wangdongdut/DUT-Anti-UAV?style=social"/> : DUT Anti-UAV Detection and Tracking. "Vision-based Anti-UAV Detection and Tracking". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://arxiv.org/abs/2205.10851)**).
+
 
 
 
