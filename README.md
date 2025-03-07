@@ -50,7 +50,7 @@
     - [Open World Object Detection](#open-world-object-detection)
     - [Few-shot Object Detection](#few-shot-object-detection)
     - [Small Object Detection](#small-object-detection)
-    - [Multimodal Image Fusion Detection](#multimodal-image-fusion-detection)
+    - [Multimodal Image Detection](#multimodal-image-detection)
     - [Video Object Detection](#video-object-detection)
     - [Object Tracking](#object-tracking)
       - [Multi-Object Tracking](#multi-object-tracking)
@@ -131,7 +131,8 @@
     - [Low-light Image Datasets](#low-light-image-datasets)
     - [Infrared Image Datasets](#infrared-image-datasets)
     - [SAR Image Datasets](#sar-image-datasets)
-    - [Multispectral Image Datasets](#multispectral-image-datasets)
+    - [Sonar Image Datasets](#sonar-image-datasets)
+    - [Multimodal Image Datasets](#multimodal-image-datasets)
     - [3D Object Detection Datasets](#3d-object-detection-datasets)
     - [Vehicle-to-Everything Field Datasets](#vehicle-to-everything-field-datasets)
     - [Super-Resolution Field Datasets](#super-resolution-field-datasets)
@@ -1594,8 +1595,8 @@
 
 
 
-  - #### Multimodal Image Fusion Detection
-    #### 多模态图像融合检测
+  - #### Multimodal Image Detection
+    #### 多模态图像检测
 
       - [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/Lidar_AI_Solution?style=social"/> : This is a highly optimized solution for self-driving 3D-lidar repository. It does a great job of speeding up sparse convolution/CenterPoint/BEVFusion/OSD/Conversion. A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
 
@@ -1620,6 +1621,10 @@
       - [mcw1217/Triple_YOLOv8](https://github.com/mcw1217/Triple_YOLOv8) <img src="https://img.shields.io/github/stars/mcw1217/Triple_YOLOv8?style=social"/> : This project uses three types of images as inputs RGB, Depth, and thermal images to perform object detection with YOLOv8.
 
       - [mangoggul/YOLO-MultiModal](https://github.com/mangoggul/YOLO-MultiModal) <img src="https://img.shields.io/github/stars/mangoggul/YOLO-MultiModal?style=social"/> : Multi-Modal-YOLO detection.
+
+      - [remaro-network/KD-YOLOX-ViT](https://github.com/remaro-network/KD-YOLOX-ViT) <img src="https://img.shields.io/github/stars/remaro-network/KD-YOLOX-ViT?style=social"/> : This repository holds the code for the Python implementation of YOLOX-ViT. Furthermore, it has the implementation of the Knowledge Distillation (KD) method, evaluation metrics of the object detector and the side-scan sonar image dataset for underwater wall detection. "Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2403.09313)**). The Sonar Wall Detection Dataset (SWDD) is publicly accessible at [https://zenodo.org/records/10528135](https://zenodo.org/records/10528135).
+
+
 
 
 
@@ -2376,7 +2381,10 @@
   - ### Anti-UAV Field Detection
     #### 反无人机领域检测
 
-    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**)
+    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. Anti-UAV300, Anti-UAV410, Anti-UAV600. Please refer to our [Anti-UAV v1](https://ieeexplore.ieee.org/document/9615243) paper and [Anti-UAV v3](https://arxiv.org/pdf/2306.15767.pdf) paper for more details ([WeChat News](https://zhaoj9014.github.io/pub/Anti-UAV.pdf)). "Anti-UAV: A Large-Scale Benchmark for Vision-Based UAV Tracking". (**[IEEE Transactions on Multimedia, 2022](https://ieeexplore.ieee.org/document/9615243)**). "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**).
+
+    - [DUT-Anti-UAV](https://github.com/wangdongdut/DUT-Anti-UAV) <img src="https://img.shields.io/github/stars/wangdongdut/DUT-Anti-UAV?style=social"/> : DUT Anti-UAV Detection and Tracking. "Vision-based Anti-UAV Detection and Tracking". (**[IEEE Transactions on Intelligent Transportation Systems, 2022](https://arxiv.org/abs/2205.10851)**).
+
 
 
 
@@ -3138,10 +3146,18 @@
     - [RSDD-SAR](https://radars.ac.cn/web/data/getData?dataType=SDD-SAR) : "RSDD-SAR:SAR舰船斜框检测数据集"。(**[雷达学报 2022](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=LDAX202204006&uniplatform=NZKPT&v=J3WR8KUVzuYM6uPXqbI64hl8oRAk3mvWRv3hrBCH9ZBek54uYq_UkJGY0PGaaxDg)**)
 
 
+- ### Sonar Image Datasets
 
-- ### Multispectral Image Datasets
+    - [SWDD](https://zenodo.org/records/10528135) : SWDD: Sonar Wall Detection Dataset. "Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2403.09313)**). The Sonar Wall Detection Dataset (SWDD) is publicly accessible at [https://zenodo.org/records/10528135](https://zenodo.org/records/10528135).
+
+
+
+
+- ### Multimodal Image Datasets
 
     - [FLIR_ADAS](https://adas-dataset-v2.flirconservator.com/) : Teledyne FLIR Free ADAS Thermal Dataset v2.
+
+    - [Anti-UAV](https://github.com/ZhaoJ9014/Anti-UAV) <img src="https://img.shields.io/github/stars/ZhaoJ9014/Anti-UAV?style=social"/> : 🔥🔥Official Repository for Anti-UAV🔥🔥. Anti-UAV300, Anti-UAV410, Anti-UAV600. Please refer to our [Anti-UAV v1](https://ieeexplore.ieee.org/document/9615243) paper and [Anti-UAV v3](https://arxiv.org/pdf/2306.15767.pdf) paper for more details ([WeChat News](https://zhaoj9014.github.io/pub/Anti-UAV.pdf)). "Anti-UAV: A Large-Scale Benchmark for Vision-Based UAV Tracking". (**[IEEE Transactions on Multimedia, 2022](https://ieeexplore.ieee.org/document/9615243)**). "Evidential Detection and Tracking Collaboration: New Problem, Benchmark and Algorithm for Robust Anti-UAV System". (**[arXiv 2023](https://arxiv.org/abs/2306.15767)**).
 
     - [VEDAI](https://downloads.greyc.fr/vedai/) : "Vehicle Detection in Aerial Imagery: A small target detection benchmark". (**[Journal of Visual Communication and Image Representation 2015](https://hal.archives-ouvertes.fr/hal-01122605v2/document)**)
 
@@ -3158,6 +3174,8 @@
     - [TarDAL](https://github.com/JinyuanLiu-CV/TarDAL) <img src="https://img.shields.io/github/stars/JinyuanLiu-CV/TarDAL?style=social"/> : "Target-Aware Dual Adversarial Learning and a Multi-Scenario Multi-Modality Benchmark To Fuse Infrared and Visible for Object Detection". (**[CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Liu_Target-Aware_Dual_Adversarial_Learning_and_a_Multi-Scenario_Multi-Modality_Benchmark_To_CVPR_2022_paper.html)**). ([M3FD Dataset](https://drive.google.com/drive/folders/1H-oO7bgRuVFYDcMGvxstT1nmy0WF_Y_6?usp=sharing))
 
     - [DroneVehicle](https://github.com/VisDrone/DroneVehicle) <img src="https://img.shields.io/github/stars/VisDrone/DroneVehicle?style=social"/> : "Drone-based RGB-Infrared Cross-Modality Vehicle Detection via Uncertainty-Aware Learning". (**[IEEE TCSVT 2022](https://ieeexplore.ieee.org/abstract/document/9759286/)**)
+
+
 
 
 
