@@ -1,7 +1,7 @@
 # Awesome-YOLO-Object-Detection
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-🚀🚀🚀 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection series projects and the related object detection datasets.
+🚀🚀🚀 YOLO is a great real-time one-stage object detection framework. This repository lists some awesome public YOLO object detection projects and datasets.
 
 ## Contents
 - [Awesome-YOLO-Object-Detection](#awesome-yolo-object-detection)
@@ -46,7 +46,7 @@
       - [Quantization](#quantization)
       - [Knoweldge-Distillation](#knoweldge-distillation)
     - [Lightweight Backbones and FPN](#lightweight-backbones-and-fpn)
-  - [Applications](#applications)
+  - [Object Detection Applications](#object-detection-applications)
     - [Open World Object Detection](#open-world-object-detection)
     - [Few-shot Object Detection](#few-shot-object-detection)
     - [Small Object Detection](#small-object-detection)
@@ -96,6 +96,7 @@
     - [Chemistry Field Detection](#chemistry-field-detection)
     - [Agricultural Field Detection](#agricultural-field-detection)
     - [Sports Field Detection](#sports-field-detection)
+    - [Aerial Imagery Detection](#aerial-imagery-detection)
     - [Adverse Weather Conditions](#adverse-weather-conditions)
     - [Adversarial Attack and Defense](#adversarial-attack-and-defense)
     - [Camouflaged Detection](#camouflaged-detection)
@@ -111,15 +112,15 @@
         - [QT-Related](#qt-related)
         - [PySide-Related](#pyside-related)
     - [Other Applications](#other-applications)
-  - [Datasets](#datasets)
+  - [Object Detection Datasets](#object-detection-datasets)
     - [Datasets Share Platform](#datasets-share-platform)
     - [Datasets Tools](#datasets-tools)
         - [Data Annotation](#data-annotation)
         - [Data Augmentation](#data-augmentation)
         - [Data Management](#data-management)
     - [General Detection and Recognition Datasets](#general-detection-and-recognition-datasets)
-        - [Object Detection Datasets](#object-detection-datasets)
-        - [Objecgt Recognition Datasets](#objecgt-recognition-datasets)
+        - [General Object Detection Datasets](#general-object-detection-datasets)
+        - [General Object Recognition Datasets](#general-object-recognition-datasets)
     - [Autonomous Driving Datasets](#autonomous-driving-datasets)
         - [Diverse Autonomous Driving Datasets](#diverse-autonomous-driving-datasets)
         - [Traffic Sign Detection Datasets](#traffic-sign-detection-datasets)
@@ -1495,7 +1496,7 @@
 
 
 
-## Applications
+## Object Detection Applications
 
 
   - ### Open World Object Detection
@@ -1593,6 +1594,11 @@
 
     - [shaunyuan22/SODA](https://github.com/shaunyuan22/SODA) <img src="https://img.shields.io/github/stars/shaunyuan22/SODA?style=social"/> : Official code library for SODA: A Large-scale Benchmark for Small Object Detection. "Towards Large-Scale Small Object Detection: Survey and Benchmarks". (**[arXiv 2022](https://arxiv.org/abs/2207.14096)**)
 
+    - [qunshansj/Small-Object-Detection-Head-Improved-YOLOv5-Infrared-Sensing-System](https://github.com/qunshansj/Small-Object-Detection-Head-Improved-YOLOv5-Infrared-Sensing-System) <img src="https://img.shields.io/github/stars/qunshansj/Small-Object-Detection-Head-Improved-YOLOv5-Infrared-Sensing-System?style=social"/> : 基于小目标检测头的改进YOLOv5红外遥感图像小目标检测系统。
+
+
+
+
 
 
   - #### Multimodal Image Detection
@@ -1600,29 +1606,44 @@
 
       - [NVIDIA-AI-IOT/Lidar_AI_Solution](https://github.com/NVIDIA-AI-IOT/Lidar_AI_Solution) <img src="https://img.shields.io/github/stars/NVIDIA-AI-IOT/Lidar_AI_Solution?style=social"/> : This is a highly optimized solution for self-driving 3D-lidar repository. It does a great job of speeding up sparse convolution/CenterPoint/BEVFusion/OSD/Conversion. A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).
 
+      - [remaro-network/KD-YOLOX-ViT](https://github.com/remaro-network/KD-YOLOX-ViT) <img src="https://img.shields.io/github/stars/remaro-network/KD-YOLOX-ViT?style=social"/> : This repository holds the code for the Python implementation of YOLOX-ViT. Furthermore, it has the implementation of the Knowledge Distillation (KD) method, evaluation metrics of the object detector and the side-scan sonar image dataset for underwater wall detection. "Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2403.09313)**). The Sonar Wall Detection Dataset (SWDD) is publicly accessible at [https://zenodo.org/records/10528135](https://zenodo.org/records/10528135).
+
+      - [wandahangFY/YOLO-MIF](https://github.com/wandahangFY/YOLO-MIF) <img src="https://img.shields.io/github/stars/wandahangFY/YOLO-MIF?style=social"/> : YOLO-MIF(YOLOv8-RGBT) is an improved version of YOLOv8 for object detection in gray-scale images, incorporating multi-information fusion to enhance detection accuracy. The detection of RGBT mode is also added. YOLO-MIF是在灰度图像中进行目标检测的改进型YOLOv8模型，引入了多信息融合策略，提高了检测准确性。 并添加了RGBT模式的检测,分割以及关节点任务。 "YOLO-MIF: Improved YOLOv8 with Multi-Information fusion for object detection in Gray-Scale images". (**[Advanced Engineering Informatics, 2024](https://www.sciencedirect.com/science/article/abs/pii/S1474034624003574)**).
+
+      - [wandahangFY/YOLOv11-RGBT](https://github.com/wandahangFY/YOLOv11-RGBT) <img src="https://img.shields.io/github/stars/wandahangFY/YOLOv11-RGBT?style=social"/> : YOLOv11-RGBT: Towards a Comprehensive Multispectral Object Detection Framework（Supports RGBT detection for all YOLO series from YOLOv3 to YOLOv12, as well as RTDETR.））
+
+      - [mcw1217/Triple_YOLOv8](https://github.com/mcw1217/Triple_YOLOv8) <img src="https://img.shields.io/github/stars/mcw1217/Triple_YOLOv8?style=social"/> : This project uses three types of images as inputs RGB, Depth, and thermal images to perform object detection with YOLOv8.
+
+      - [ljcuestc/YoloMultispectralFusion-Coarse-to-fine-Registration](https://github.com/ljcuestc/YoloMultispectralFusion-Coarse-to-fine-Registration) <img src="https://img.shields.io/github/stars/ljcuestc/YoloMultispectralFusion-Coarse-to-fine-Registration?style=social"/> : "A Novel Multispectral Fusion Defect Detection Framework With Coarse-to-Fine Multispectral Registration". (**[IEEE Transactions on Instrumentation and Measurement, 2023](https://ieeexplore.ieee.org/document/10365549)**)
+
       - [SuperYOLO](https://github.com/icey-zhang/SuperYOLO) <img src="https://img.shields.io/github/stars/icey-zhang/SuperYOLO?style=social"/> : "SuperYOLO: Super Resolution Assisted Object Detection in Multimodal Remote Sensing Imagery". (**[arXiv 2022](https://arxiv.org/abs/2209.13351)**)
+
+      - [QuincyQAQ/YOLOv8-Multi-Modal-Fusion-Network-RGB-IR](https://github.com/QuincyQAQ/YOLOv8-Multi-Modal-Fusion-Network-RGB-IR) <img src="https://img.shields.io/github/stars/QuincyQAQ/YOLOv8-Multi-Modal-Fusion-Network-RGB-IR?style=social"/> : YOLOv8-Multi-Modal-Fusion-Network-RGB-IR.
+
+      - [mangoggul/YOLO-MultiModal](https://github.com/mangoggul/YOLO-MultiModal) <img src="https://img.shields.io/github/stars/mangoggul/YOLO-MultiModal?style=social"/> : Multi-Modal-YOLO detection.
+
+      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
+
+      - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。
+
+      - [lzhihan/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/lzhihan/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/lzhihan/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。
+
+      - [jere357/yolov5-RGBD](https://github.com/jere357/yolov5-RGBD) <img src="https://img.shields.io/github/stars/jere357/yolov5-RGBD?style=social"/> : "fork" from yolov5 with the possibility of running inferences on RGBD(C) images, work in progress. This repo is not a fork of the original repo bcs i already have 1 fork with a PR pending, this is still messy code and a work in progress.
+
+      - [huashu996/dual_result_fusion_yolov5](https://github.com/huashu996/dual_result_fusion_yolov5) <img src="https://img.shields.io/github/stars/huashu996/dual_result_fusion_yolov5?style=social"/> : result set fusion for visible-light and infrared images. 此双模态检测是通过对可见光和红外图像分别训练，得到两个weight，在运行时会对两种图像分别检测，最后对检测结果求极大似然，并且能够对目标进行测距。
+
+      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.
 
       - [OrangeSodahub/CRLFnet](https://github.com/OrangeSodahub/CRLFnet) <img src="https://img.shields.io/github/stars/OrangeSodahub/CRLFnet?style=social"/> : Camera-Radar-Lidar Fusion detection net based on ROS, YOLOv3, OpenPCDet integration.
 
       - [mjoshi07/Visual-Sensor-Fusion](https://github.com/mjoshi07/Visual-Sensor-Fusion) <img src="https://img.shields.io/github/stars/mjoshi07/Visual-Sensor-Fusion?style=social"/> : LiDAR Fusion with Vision.
 
-      - [DocF/multispectral-object-detection](https://github.com/DocF/multispectral-object-detection) <img src="https://img.shields.io/github/stars/DocF/multispectral-object-detection?style=social"/> : Multispectral Object Detection with Yolov5 and Transformer.
-
-      - [MAli-Farooq/Thermal-YOLO](https://github.com/MAli-Farooq/Thermal-YOLO) <img src="https://img.shields.io/github/stars/sierprinsky/YoloV5_blood_cells?style=social"/> : This study is related to object detection in thermal infrared spectrum using YOLO-V5 framework for ADAS application.
-
-      - [Ye-zixiao/Double-YOLO-Kaist](https://github.com/Ye-zixiao/Double-YOLO-Kaist) <img src="https://img.shields.io/github/stars/Ye-zixiao/Double-YOLO-Kaist?style=social"/> : 一种基于YOLOv3/4的双流混合模态道路行人检测方法🌊💧💦。
-
-      - [eralso/yolov5_Visible_Infrared_Vehicle_Detection](https://github.com/eralso/yolov5_Visible_Infrared_Vehicle_Detection) <img src="https://img.shields.io/github/stars/eralso/yolov5_Visible_Infrared_Vehicle_Detection?style=social"/> : 基于可见光和红外图像的深度学习车辆目标检测。
-
       - [Arrowes/CEAM-YOLOv7](https://github.com/Arrowes/CEAM-YOLOv7) <img src="https://img.shields.io/github/stars/Arrowes/CEAM-YOLOv7?style=social"/> : CEAM-YOLOv7: Improved YOLOv7 Based on Channel Expansion and Attention Mechanism for Driver Distraction Behavior Detection.
 
-      - [jere357/yolov5-RGBD](https://github.com/jere357/yolov5-RGBD) <img src="https://img.shields.io/github/stars/jere357/yolov5-RGBD?style=social"/> : "fork" from yolov5 with the possibility of running inferences on RGBD(C) images, work in progress. This repo is not a fork of the original repo bcs i already have 1 fork with a PR pending, this is still messy code and a work in progress.
 
-      - [mcw1217/Triple_YOLOv8](https://github.com/mcw1217/Triple_YOLOv8) <img src="https://img.shields.io/github/stars/mcw1217/Triple_YOLOv8?style=social"/> : This project uses three types of images as inputs RGB, Depth, and thermal images to perform object detection with YOLOv8.
 
-      - [mangoggul/YOLO-MultiModal](https://github.com/mangoggul/YOLO-MultiModal) <img src="https://img.shields.io/github/stars/mangoggul/YOLO-MultiModal?style=social"/> : Multi-Modal-YOLO detection.
 
-      - [remaro-network/KD-YOLOX-ViT](https://github.com/remaro-network/KD-YOLOX-ViT) <img src="https://img.shields.io/github/stars/remaro-network/KD-YOLOX-ViT?style=social"/> : This repository holds the code for the Python implementation of YOLOX-ViT. Furthermore, it has the implementation of the Knowledge Distillation (KD) method, evaluation metrics of the object detector and the side-scan sonar image dataset for underwater wall detection. "Knowledge Distillation in YOLOX-ViT for Side-Scan Sonar Object Detection". (**[arXiv 2024](https://arxiv.org/abs/2403.09313)**). The Sonar Wall Detection Dataset (SWDD) is publicly accessible at [https://zenodo.org/records/10528135](https://zenodo.org/records/10528135).
+
 
 
 
@@ -2448,12 +2469,20 @@
     - [tomer-erez/pingpong-referee](https://github.com/tomer-erez/pingpong-referee) <img src="https://img.shields.io/github/stars/tomer-erez/pingpong-referee?style=social"/> : using the YOlO algorithm for an automated pingpong referee.
 
 
+
+  - ### Aerial Imagery Detection
+    #### 遥感图像检测
+
+    - [WALDO](https://github.com/stephansturges/WALDO) <img src="https://img.shields.io/github/stars/stephansturges/WALDO?style=social"/> : Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!
+
+
+
+
   - ### Adverse Weather Conditions
     #### 恶劣天气情况
 
-    - [LLVIP](https://github.com/bupt-ai-cz/LLVIP) <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-infrared Paired Dataset for Low-light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
-
     - [Image-Adaptive YOLO](https://github.com/wenyyu/Image-Adaptive-YOLO) <img src="https://img.shields.io/github/stars/wenyyu/Image-Adaptive-YOLO?style=social"/> : "Image-Adaptive YOLO for Object Detection in Adverse Weather Conditions". (**[AAAI 2022](https://arxiv.org/abs/2112.08088)**). "计算机视觉研究院：《[图像自适应YOLO：模糊环境下的目标检测（附源代码）](https://mp.weixin.qq.com/s/QdM6Dx990VhN97MRIP74XA)》"
+
 
 
   - ### Adversarial Attack and Defense
@@ -2877,7 +2906,7 @@
 
 
 
-## Datasets
+## Object Detection Datasets
 
 - ### Datasets Share Platform
 
@@ -2978,7 +3007,7 @@
 
 - ### General Detection and Recognition Datasets
 
-    - #### Object Detection Datasets
+    - #### General Object Detection Datasets
 
         - [COCO](https://cocodataset.org/) : "Microsoft COCO: Common Objects in Context". (**[ECCV 2014](https://link.springer.com/chapter/10.1007/978-3-319-10602-1_48)**)
 
@@ -2990,9 +3019,10 @@
 
 
 
-    - #### Object Recognition Datasets
+    - #### General Object Recognition Datasets
 
         - [ImageNet](https://image-net.org/challenges/LSVRC/) : "ImageNet Large Scale Visual Recognition Challenge". (**[IJCV 2015](https://link.springer.com/article/10.1007/s11263-015-0816-y)**)
+
 
 
 
@@ -3018,6 +3048,8 @@
     - #### License Plate Detection and Recognition Datasets
 
         - [CCPD](https://github.com/detectRecog/CCPD) <img src="https://img.shields.io/github/stars/csust7zhangjm/CCTSDB2021?style=social"/> : "Towards End-to-End License Plate Detection and Recognition: A Large Dataset and Baseline". (**[ECCV 2018](https://openaccess.thecvf.com/content_ECCV_2018/html/Zhenbo_Xu_Towards_End-to-End_License_ECCV_2018_paper.html)**)
+
+
 
 
 
@@ -3163,11 +3195,11 @@
 
     - [KAIST_rgbt](https://github.com/SoonminHwang/rgbt-ped-detection) <img src="https://img.shields.io/github/stars/SoonminHwang/rgbt-ped-detection?style=social"/> : "Multispectral Pedestrian Detection: Benchmark Dataset and Baseline". (**[CVPR 2015](https://openaccess.thecvf.com/content_cvpr_2015/html/Hwang_Multispectral_Pedestrian_Detection_2015_CVPR_paper.html)**)
 
+    - [LLVIP](https://github.com/bupt-ai-cz/LLVIP) <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
+
     - [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029) : "The TNO multiband image data collection". (**[Data in brief, 2017](https://www.data-in-brief.com/article/S2352-3409(17)30469-9/abstract)**)
 
     - [MFNet](https://github.com/haqishen/MFNet-pytorch) <img src="https://img.shields.io/github/stars/haqishen/MFNet-pytorch?style=social"/> : MFNet-pytorch, image semantic segmentation using RGB-Thermal images. "MFNet: Towards real-time semantic segmentation for autonomous vehicles with multi-spectral scenes". (**[IROS 2017](https://ieeexplore.ieee.org/abstract/document/8206396/)**). ([MFNet Dataset](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) : Multi-spectral Object Detection and Semantic Segmentation Datasets)
-
-    - [LLVIP](https://github.com/bupt-ai-cz/LLVIP) <img src="https://img.shields.io/github/stars/bupt-ai-cz/LLVIP?style=social"/> : "LLVIP: A Visible-Infrared Paired Dataset for Low-Light Vision". (**[ICCV 2021](https://openaccess.thecvf.com/content/ICCV2021W/RLQ/html/Jia_LLVIP_A_Visible-Infrared_Paired_Dataset_for_Low-Light_Vision_ICCVW_2021_paper.html)**)
 
     - [MSRS](https://github.com/Linfeng-Tang/MSRS) <img src="https://img.shields.io/github/stars/Linfeng-Tang/MSRS?style=social"/> : MSRS: Multi-Spectral Road Scenarios for Practical Infrared and Visible Image Fusion. "[PIAFusion](https://github.com/Linfeng-Tang/PIAFusion) <img src="https://img.shields.io/github/stars/Linfeng-Tang/PIAFusion?style=social"/>: A progressive infrared and visible image fusion network based on illumination aware". (**[Information Fusion, 2022](https://www.sciencedirect.com/science/article/abs/pii/S156625352200032X)**)
 
