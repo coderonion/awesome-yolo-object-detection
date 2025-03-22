@@ -177,7 +177,9 @@
 
     - [YOLOv12](https://github.com/sunsmarterjie/yolov12) <img src="https://img.shields.io/github/stars/sunsmarterjie/yolov12?style=social"/> : "YOLOv12: Attention-Centric Real-Time Object Detectors". (**[arXiv 2025](https://arxiv.org/abs/2502.12524)**)
 
-    - [YOLO-World](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+    - [YOLO-World | YOLO-World-v2](https://github.com/AILab-CVC/YOLO-World) <img src="https://img.shields.io/github/stars/AILab-CVC/YOLO-World?style=social"/> : "YOLO-World: Real-Time Open-Vocabulary Object Detection". (**[CVPR 2024](https://arxiv.org/abs/2401.17270)**). [www.yoloworld.cc](https://www.yoloworld.cc/)
+
+    - [YOLOE](https://github.com/THU-MIG/yoloe) <img src="https://img.shields.io/github/stars/THU-MIG/yoloe?style=social"/> : "YOLOE: Real-Time Seeing Anything". (**[arXiv 2025](https://arxiv.org/abs/2503.07465)**).
 
 
 
