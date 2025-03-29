@@ -1675,9 +1675,11 @@
     - ####  Multi-Object Tracking
       #####  多目标跟踪
 
+      - [nmhaddad/fast-track](https://github.com/nmhaddad/fast-track) <img src="https://img.shields.io/github/stars/nmhaddad/fast-track?style=social"/> : Object tracking pipelines complete with RF-DETR, YOLOv9, YOLO-NAS, YOLOv8, and YOLOv7 detection and BYTETracker tracking.
+
       - [sujanshresstha/YOLOv10_DeepSORT](https://github.com/sujanshresstha/YOLOv10_DeepSORT) <img src="https://img.shields.io/github/stars/sujanshresstha/YOLOv10_DeepSORT?style=social"/> : This repository contains code for object detection and tracking in videos using the YOLOv10 object detection model and the DeepSORT algorithm.
 
-      - [mikel-brostrom/yolo_tracking](https://github.com/mikel-brostrom/yolo_tracking) <img src="https://img.shields.io/github/stars/mikel-brostrom/yolo_tracking?style=social"/> : BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models.
+      - [BoxMOT](hhttps://github.com/mikel-brostrom/boxmot) <img src="https://img.shields.io/github/stars/mikel-brostrom/boxmot?style=social"/> : BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models.
 
       - [mikel-brostrom/Yolov7_StrongSORT_OSNet](https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet) <img src="https://img.shields.io/github/stars/mikel-brostrom/Yolov7_StrongSORT_OSNet?style=social"/> : Real-time multi-camera multi-object tracker using [YOLOv7](https://github.com/WongKinYiu/yolov7) and [StrongSORT](https://github.com/dyhBUPT/StrongSORT) with [OSNet](https://github.com/KaiyangZhou/deep-person-reid).
 
