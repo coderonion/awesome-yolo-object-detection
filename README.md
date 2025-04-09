@@ -3025,6 +3025,7 @@
 
         - [V3Det](https://v3det.openxlab.org.cn/) : "V3Det: Vast Vocabulary Visual Detection Dataset". (**[arXiv 2023](https://arxiv.org/abs/2304.03752)**)
 
+        - [ODverse33](https://github.com/SkyCol/ODverse33) <img src="https://img.shields.io/github/stars/SkyCol/ODverse33?style=social"/> : "ODverse33: Is the New YOLO Version Always Better? A Multi Domain benchmark from YOLO v5 to v11". (**[arXiv 2025](https://arxiv.org/abs/2502.14314)**)
 
 
     - #### General Object Recognition Datasets
@@ -3263,6 +3264,12 @@
         - [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) : "WIDER FACE: A Face Detection Benchmark". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)**)
 
         - [UFDD](https://ufdd.info/) : Unconstrained Face Detection Dataset(UFDD). "Pushing the Limits of Unconstrained Face Detection: a Challenge Dataset and Baseline Results". (**[IEEE BTAS 2018](https://ieeexplore.ieee.org/abstract/document/8698561l)**)
+
+        - [HCIILAB/SCUT-HEAD-Dataset-Release](https://github.com/HCIILAB/SCUT-HEAD-Dataset-Release) <img src="https://img.shields.io/github/stars/HCIILAB/SCUT-HEAD-Dataset-Release?style=social"/> : SCUT HEAD is a large-scale head detection dataset, including 4405 images labeld with 111251 heads. "Detecting Heads using Feature Refine Net and Cascaded Multi-scale Architecture". (**[arXiv, 2018](https://arxiv.org/abs/1803.09256)**)
+
+
+
+
 
 
     - #### Face Recognition Datasets
