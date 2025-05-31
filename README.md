@@ -3355,6 +3355,9 @@
     - [2024-06-18，Mamba-YOLO开源，超越 YOLO ，创新SSM 技术，提升目标检测性能！（附论文及源码）](https://mp.weixin.qq.com/s/UREcCHvyl7yIEv_si9KOjQ)
     - [2024-07-13，YOLOv5、YOLOv8与YOLOv10，性能分析与边缘部署梳理，YOLO算法进化史！](https://mp.weixin.qq.com/s/wTwjDESVipFg2Tnh9Mgp6A)
     - [2024-09-07，YOLOv8算法模型深度解析：架构创新、性能提升与用户友好性改进！](https://mp.weixin.qq.com/s/aYWq8CDXATrk4KAwWQqvIg)
+    - [2025-04-14，TPAMI 2025，国防科大提出RGBT-Tiny数据集，助力小目标检测发展！](https://mp.weixin.qq.com/s/UQeB-Opy46bMQ1eTg1ZzRg)
+    - [2025-04-16，TPAMI 2025，YOLOv12-BoT-SORT-ReID，无人机检测及追踪算法，问鼎无人机挑战赛（附论文与源码）](https://mp.weixin.qq.com/s/wETR_rxbe5hYiyVLT1Qo8w)
+
 
   - [知乎「迪迦奥特曼」](https://www.zhihu.com/people/nemofeng95)
     - [2022-08-12，从百度飞桨YOLOSeries库看各个YOLO模型](https://zhuanlan.zhihu.com/p/550057480)
