@@ -2914,6 +2914,8 @@
 
     - [swordswind/yolo_ocr_api_server](https://github.com/swordswind/yolo_ocr_api_server) <img src="https://img.shields.io/github/stars/swordswind/yolo_ocr_api_server?style=social"/> : YOLOv10&EasyOCR融合图像识别API服务器。
 
+    - [ColinGPT9/clips-studio](https://github.com/ColinGPT9/clips-studio) <img src="https://img.shields.io/github/stars/ColinGPT9/clips-studio?style=social"/> : Clips Kitty is a desktop app that turns long videos and stream VODs into vertical short-form clips. It combines YOLOv8 detection and pose models with TalkNet active-speaker detection to keep whoever is talking centred in the 9:16 crop, alongside Whisper transcription and FFmpeg rendering, and runs entirely on the local machine. [colingpt9.github.io/clips-studio](https://colingpt9.github.io/clips-studio/)
+
 
 
 ## Object Detection Datasets
