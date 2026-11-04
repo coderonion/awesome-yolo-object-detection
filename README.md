@@ -2554,6 +2554,8 @@
   - ### Game Field Detection
     #### 游戏领域检测
 
+    - [bbshdh56/yoloval-onnx-models](https://github.com/bbshdh56/yoloval-onnx-models) <img src="https://img.shields.io/github/stars/bbshdh56/yoloval-onnx-models?style=social"/> : 游戏目标检测 ONNX 模型展示，包含 32 张检测示例与模型目录（模型付费）。
+
     - [SunOner/sunone_aimbot](https://github.com/SunOner/sunone_aimbot) <img src="https://img.shields.io/github/stars/SunOner/sunone_aimbot?style=social"/> : 🌲Aim-bot based on AI for all FPS games. [boosty.to/sunone](https://boosty.to/sunone)
 
     - [Passer1072/RookieAI_yolov8](https://github.com/Passer1072/RookieAI_yolov8) <img src="https://img.shields.io/github/stars/Passer1072/RookieAI_yolov8?style=social"/> : 基于yolov8实现的AI自瞄项目 AI self-aiming project based on yolov8.
